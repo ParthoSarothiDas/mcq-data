@@ -1,0 +1,371 @@
+id,Subject,Category,Set,Question,Option1,Option2,Option3,Option4,Correct_Option
+1,English,Tense,T1,She ____ flowers in the garden. Choose the correct verb.,planting,plants,planted,plant,plants
+2,English,Tense,T1,I ____ my friends on holidays. Choose the correct verb.,meeting,meets,met,meet,meet
+3,English,Tense,T1,He ____ English very well. Choose the correct verb.,speaking,spoke,speak,speaks,speaks
+4,Bengali,Peom,B1,We ____ the bus every morning. Choose the correct verb.,catch,caught,catches,catching,catch
+5,Bengali,Poem,B1,The baby ____ a lot during the night. Choose the correct verb.,slept,sleeps,sleeping,sleep,sleeps
+6,Bengali,Poem,B1,My mother ____ delicious cakes. Choose the correct verb.,made,make,making,makes,makes
+7,Bengali,Poem,B1,They ____ hard for their exams. Choose the correct verb.,works,work,working,worked,work
+8,Bengali,Poem,B1,The teacher ____ attendance every day. Choose the correct verb.,takes,take,taking,took,takes
+9,Math,Addition,M1,She ____ her face before sleeping. Choose the correct verb.,washes,washing,washed,wash,washes
+10,Math,Addition,M1,We ____ in the park every morning. Choose the correct verb.,walked,walks,walk,walking,walk
+11,Math,Addition,M1,He ____ his bike very fast. Choose the correct verb.,drives,drive,driving,drove,drives
+12,Math,Addition,M1,Fish ____ in water. Choose the correct verb.,living,live,lived,lives,live
+13,Math,Addition,M1,You ____ your parents regularly. Choose the correct verb.,helping,helps,helped,help,help
+14,Flutter,Dart,Level 1,Which keyword declares a variable whose value can change?,final,var,const,late,var
+15,Flutter,Dart,Level 1,Which keyword creates a compile-time constant?,var,late,const,final,const
+16,Flutter,Dart,Level 1,Which data type stores whole numbers?,double,String,int,bool,int
+17,Flutter,Dart,Level 1,Which data type stores decimal numbers?,int,double,String,List,double
+18,Flutter,Dart,Level 1,Which data type stores true or false values?,bool,int,String,double,bool
+19,Flutter,Dart,Level 1,Which function prints output to the console?,echo(),print(),println(),show(),print()
+20,Flutter,Dart,Level 1,Which symbol starts a single-line comment?,#,//,/*,--,//
+21,Flutter,Dart,Level 1,What programming language is used to develop Flutter apps?,Java,Kotlin,Dart,Python,Dart
+22,Flutter,Dart,Level 1,Who developed the Dart programming language?,Microsoft,Google,Apple,Meta,Google
+23,Flutter,Dart,Level 1,Which function is the entry point of every Dart program?,start(),main(),run(),init(),main()
+24,Flutter,Dart,Level 1,Which function displays output in the console?,echo(),println(),print(),display(),print
+25,Flutter,Dart,Level 1,Which keyword is commonly used to declare a variable?,var,make,let,val,var
+26,Flutter,Dart,Level 1,Which keyword declares a variable that cannot be reassigned after initialization?,var,const,final,late,final
+27,Flutter,Dart,Level 1,Which keyword creates a compile-time constant?,var,final,const,late,const
+28,Flutter,Dart,Level 1,Which keyword delays initialization until later?,const,var,late,final,late
+29,Flutter,Dart,Level 1,Which data type stores whole numbers?,double,String,int,bool,int
+30,Flutter,Dart,Level 1,Which data type stores decimal numbers?,int,bool,double,List,double
+31,Flutter,Dart,Level 1,Which data type stores true or false values?,bool,String,int,double,bool
+32,Flutter,Dart,Level 1,Which data type stores text?,char,String,int,double,String
+33,Flutter,Dart,Level 1,Which symbol starts a single-line comment?,#,//,/*,--,//
+34,Flutter,Dart,Level 1,Which symbols are used for multi-line comments?,//...//,<!-- -->,/*...*/,##...##,/*...*/
+35,Flutter,Dart,Level 1,Which variable name is valid in Dart?,2name,user_name,my-name,class,user_name
+36,Flutter,Dart,Level 1,Are Dart variable names case-sensitive?,No,Only numbers,Yes,Only strings,Yes
+37,Flutter,Dart,Level 1,Which symbol is used to declare a nullable variable?,!,?,@,#,?
+38,Flutter,Dart,Level 1,Which quotation marks can be used to define a string in Dart?,Single quotes only,Double quotes only,Both single and double quotes,None,Both single and double quotes
+39,Flutter,Dart,Level 1,Which of the following is a Boolean value?,100,Hello,TRUE,3.14,TRUE
+40,Flutter,Dart,Level 1,Which of the following is a reserved keyword in Dart?,student,class,teacher,school,class
+41,Flutter,Dart,Level 2,Which operator is used for equality comparison?,=,==,===,!=,==
+42,Flutter,Dart,Level 2,Which operator assigns a value to a variable?,==,=,+=,*=,=
+43,Flutter,Dart,Level 2,Which keyword starts a conditional statement?,for,while,if,switch,if
+44,Flutter,Dart,Level 2,Which loop executes while a condition is true?,for,while,switch,if,while
+45,Flutter,Dart,Level 2,Which loop is best when the number of iterations is known?,while,for,do-while,if,for
+46,Flutter,Dart,Level 2,Which operator is used for addition?,+,*,-,/,+
+47,Flutter,Dart,Level 2,Which operator is used for subtraction?,+,*,-,%,-
+48,Flutter,Dart,Level 2,Which operator is used for multiplication?,+,/,*,-,*
+49,Flutter,Dart,Level 2,Which operator is used for division?,*,+,/,% ,/
+50,Flutter,Dart,Level 2,Which operator returns the remainder after division?,/,%,//,+,%
+51,Flutter,Dart,Level 2,Which operator performs integer division?,/,//,%,*,//
+52,Flutter,Dart,Level 2,Which operator assigns a value to a variable?,==,=,+=,:=,=
+53,Flutter,Dart,Level 2,Which operator adds a value and assigns the result?,++,+=,=+,--,+=
+54,Flutter,Dart,Level 2,Which operator subtracts a value and assigns the result?,-=,--,=-,+=,-=
+55,Flutter,Dart,Level 2,Which operator multiplies and assigns the result?,*=,=*,+=,/=,*=
+56,Flutter,Dart,Level 2,Which operator checks if two values are equal?,=,==,===,!=,==
+57,Flutter,Dart,Level 2,Which operator checks if two values are not equal?,<>,!=,==,!,!=
+58,Flutter,Dart,Level 2,Which operator checks if one value is greater than another?,<,>,>=,<=,>
+59,Flutter,Dart,Level 2,Which operator checks if one value is less than another?,<,>,<=,>=,<
+60,Flutter,Dart,Level 2,Which operator checks if a value is greater than or equal to another?,>,>=,<,<=,>=
+61,Flutter,Dart,Level 2,Which operator checks if a value is less than or equal to another?,>,<,<=,>=,<=
+62,Flutter,Dart,Level 2,Which logical operator returns true only if both conditions are true?,||,&&,!,??,&&
+63,Flutter,Dart,Level 2,Which logical operator returns true if at least one condition is true?,&&,||,!,??,||
+64,Flutter,Dart,Level 2,Which logical operator reverses a Boolean value?,&&,!,||,^,!
+65,Flutter,Dart,Level 2,Which operator increases a variable by 1?,++,--,+=2,==,++
+66,Flutter,Dart,Level 2,Which operator decreases a variable by 1?,++,--,-=2,==,--
+67,Flutter,Dart,Level 2,What is the result of 10 % 3?,3,1,0,10,1
+68,Flutter,Dart,Level 2,What is the result of 10 ~/ 3?,3.33,3,1,4,3
+69,Flutter,Dart,Level 2,What is the result of 8 + 4 * 2?,24,16,12,20,16
+70,Flutter,Dart,Level 2,What is the result of 5 > 3?,FALSE,TRUE,null,error,TRUE
+71,Flutter,Dart,Level 2,What is the result of 5 == 6?,TRUE,FALSE,null,error,FALSE
+72,Flutter,Dart,Level 2,What is the result of true && false?,TRUE,FALSE,null,error,FALSE
+73,Flutter,Dart,Level 2,What is the result of true || false?,FALSE,TRUE,null,error,TRUE
+74,Flutter,Dart,Level 2,What is the result of !true?,TRUE,FALSE,null,error,FALSE
+75,Flutter,Dart,Level 2,Which operation is performed first in the expression 5 + 2 * 3?,Addition,Multiplication,Subtraction,Division,Multiplication
+76,Flutter,Dart,Level 2,Which operator is used for equality comparison?,=,==,===,!=,==
+77,Flutter,Dart,Level 2,Which operator assigns a value to a variable?,==,=,+=,*=,=
+78,Flutter,Dart,Level 2,Which keyword starts a conditional statement?,for,while,if,switch,if
+79,Flutter,Dart,Level 2,Which loop executes while a condition is true?,for,while,switch,if,while
+80,Flutter,Dart,Level 2,Which loop is best when the number of iterations is known?,while,for,do-while,if,for
+81,Flutter,Dart,Level 3,Which keyword defines a function that returns no value?,null,void,empty,var,void
+82,Flutter,Dart,Level 3,Which function is the entry point of every Dart program?,run(),main(),start(),init(),main()
+83,Flutter,Dart,Level 3,Which collection stores an ordered group of values?,Map,Set,List,Queue,List
+84,Flutter,Dart,Level 3,Which collection stores key-value pairs?,List,Queue,Map,Set,Map
+85,Flutter,Dart,Level 3,Which method returns the length of a string?,size(),length,count(),len(),length
+86,Flutter,Dart,Level 3,Which keyword is used to start a conditional statement?,for,while,if,switch,if
+87,Flutter,Dart,Level 3,Which statement executes when a condition is false?,else,for,switch,continue,else
+88,Flutter,Dart,Level 3,Which statement checks multiple conditions?,if...else if,for,while,do-while,if...else if
+89,Flutter,Dart,Level 3,Which operator is commonly used inside an if condition?,==,+,=,++,==
+90,Flutter,Dart,Level 3,What type of value must an if condition evaluate to?,String,int,bool,double,bool
+91,Flutter,Dart,Level 3,Which keyword is used to compare one value against multiple cases?,if,switch,while,for,switch
+92,Flutter,Dart,Level 3,Which keyword defines a branch inside a switch statement?,option,case,default,branch,case
+93,Flutter,Dart,Level 3,Which keyword is used when no case matches?,break,continue,default,else,default
+94,Flutter,Dart,Level 3,Which keyword exits a switch case?,stop,exit,break,return,break
+95,Flutter,Dart,Level 3,Can multiple cases exist inside one switch statement?,No,Yes,Only two,Only three,Yes
+96,Flutter,Dart,Level 3,Which loop is best when the number of iterations is known?,while,for,do-while,switch,for
+97,Flutter,Dart,Level 3,Which keyword initializes a for loop?,for,while,loop,repeat,for
+98,Flutter,Dart,Level 3,How many parts does a standard for loop contain?,2,3,4,5,3
+99,Flutter,Dart,Level 3,Which loop checks the condition before each iteration?,for,while,do-while,switch,while
+100,Flutter,Dart,Level 3,Which loop always executes at least once?,for,while,do-while,foreach,do-while
+101,Flutter,Dart,Level 3,Which keyword immediately exits a loop?,continue,break,return,stop,break
+102,Flutter,Dart,Level 3,Which keyword skips the current iteration and moves to the next?,break,continue,return,exit,continue
+103,Flutter,Dart,Level 3,Which loop can run forever if its condition never becomes false?,for,while,Both for and while,None,Both for and while
+104,Flutter,Dart,Level 3,What is a nested loop?,A loop inside another loop,A loop without condition,A loop with break,A loop with switch,A loop inside another loop
+105,Flutter,Dart,Level 3,Which variable is commonly used as a loop counter?,i,x,temp,count,i
+106,Flutter,Dart,Level 3,What is the result of if(true)?,Condition executes,Error,Nothing happens,Program stops,Condition executes
+107,Flutter,Dart,Level 3,What is the result of if(false) without an else block?,Condition executes,Nothing happens,Program crashes,Loop starts,Nothing happens
+108,Flutter,Dart,Level 3,Which comparison operator checks if a value is greater than another?,>,<,==,!=,>
+109,Flutter,Dart,Level 3,Which comparison operator checks if two values are different?,==,!=,>,>=,!=
+110,Flutter,Dart,Level 3,What data type is commonly used in switch expressions?,int,String,Both int and String,None,Both int and String
+111,Flutter,Dart,Level 3,How many times does for(int i=0; i<5; i++) execute?,4,5,6,Infinite,5
+112,Flutter,Dart,Level 3,What happens if the while condition is false initially?,Runs once,Does not execute,Error,Infinite loop,Does not execute
+113,Flutter,Dart,Level 3,What happens if the do-while condition is false initially?,Never runs,Runs once,Error,Runs forever,Runs once
+114,Flutter,Dart,Level 3,What does break do inside a loop?,Restarts the loop,Ends the loop,Skips one iteration,Creates another loop,Ends the loop
+115,Flutter,Dart,Level 3,What does continue do inside a loop?,Ends the loop,Skips the current iteration,Restarts the program,Exits the function,Skips the current iteration
+116,Flutter,Dart,Level 4,Which keyword is used to create a class?,object,class,new,create,class
+117,Flutter,Dart,Level 4,Which keyword creates an object?,class,new,var,const,new
+118,Flutter,Dart,Level 4,Which keyword is used for inheritance?,extends,implements,mixin,super,extends
+119,Flutter,Dart,Level 4,Which constructor is called automatically when an object is created?,Named Constructor,Factory Constructor,Default Constructor,Static Constructor,Default Constructor
+120,Flutter,Dart,Level 4,Which symbol indicates a nullable variable?,!,?,@,#,?
+121,Flutter,Dart,Level 4,Which keyword is used to declare a function that returns no value?,null,void,var,const,void
+122,Flutter,Dart,Level 4,Which function is the entry point of every Dart program?,start(),run(),main(),init(),main()
+123,Flutter,Dart,Level 4,What is the primary purpose of a function?,Store data,Repeat code,Perform a specific task,Create widgets,Perform a specific task
+124,Flutter,Dart,Level 4,Which keyword is used to return a value from a function?,yield,return,break,continue,return
+125,Flutter,Dart,Level 4,Can a Dart function return a value?,No,Only String,Yes,Only int,Yes
+126,Flutter,Dart,Level 4,Which of the following is a valid function declaration?,function add(),void add(),create add(),method add(),void add()
+127,Flutter,Dart,Level 4,What is a parameter?,The returned value,A variable in the function definition,A function call,A keyword,A variable in the function definition
+128,Flutter,Dart,Level 4,What is an argument?,A value passed to a function,A local variable,A return type,A class,A value passed to a function
+129,Flutter,Dart,Level 4,How are multiple parameters separated?,Space,Semicolon,Comma,Colon,Comma
+130,Flutter,Dart,Level 4,Can a function have zero parameters?,No,Only one,Yes,Only if void,Yes
+131,Flutter,Dart,Level 4,Which return type indicates no value is returned?,null,void,dynamic,var,void
+132,Flutter,Dart,Level 4,Which return type should be used for whole numbers?,double,String,int,bool,int
+133,Flutter,Dart,Level 4,Which return type should be used for decimal numbers?,double,int,bool,String,double
+134,Flutter,Dart,Level 4,Which symbol is used for an arrow function?,=>,->,==,<=,=>
+135,Flutter,Dart,Level 4,Arrow functions are best suited for?,Long functions,One-line functions,Loops,Classes,One-line functions
+136,Flutter,Dart,Level 4,Which brackets are used for optional positional parameters?,(),[],{},<>,[]
+137,Flutter,Dart,Level 4,Which brackets are used for named parameters?,(),[],{},<>,{}
+138,Flutter,Dart,Level 4,Which keyword makes a named parameter mandatory?,required,final,const,late,required
+139,Flutter,Dart,Level 4,Can optional parameters have default values?,No,Yes,Only String,Only int,Yes
+140,Flutter,Dart,Level 4,Where is a local variable accessible?,Everywhere,Inside its function,Only in main(),Inside a class,Inside its function
+141,Flutter,Dart,Level 4,What is the scope of a parameter?,Whole program,Inside its function,Inside a class,None,Inside its function
+142,Flutter,Dart,Level 4,What happens when a function is called?,It is ignored,Its code executes,The program ends,A variable is created,Its code executes
+143,Flutter,Dart,Level 4,What is recursion?,A loop,A function calling itself,A class,A variable,A function calling itself
+144,Flutter,Dart,Level 4,Which keyword usually stops recursion by returning a value?,return,break,continue,exit,return
+145,Flutter,Dart,Level 4,What is another name for an anonymous function?,Hidden Function,Lambda Function,Private Function,Loop Function,Lambda Function
+146,Flutter,Dart,Level 4,Does an anonymous function have a name?,Always,Never,Only in classes,Only in main(),Never
+147,Flutter,Dart,Level 4,Can a function be assigned to a variable?,No,Only int,Yes,Only String,Yes
+148,Flutter,Dart,Level 4,Which keyword allows a variable to hold different data types including functions?,int,String,dynamic,bool,dynamic
+149,Flutter,Dart,Level 4,Why should functions be kept small?,To reduce readability,To improve readability and reusability,To increase memory usage,To avoid variables,To improve readability and reusability
+150,Flutter,Dart,Level 4,Which is a good practice when naming functions?,Use random names,Use meaningful verb-based names,Use numbers only,Use uppercase only,Use meaningful verb-based names
+151,Flutter,Dart,Level 5,What is everything in Flutter?,Functions,Widgets,Variables,Objects,Widgets
+152,Flutter,Dart,Level 5,Which widget displays text?,Text,Label,String,Paragraph,Text
+153,Flutter,Dart,Level 5,Which widget arranges children vertically?,Row,Column,Stack,ListView,Column
+154,Flutter,Dart,Level 5,Which widget arranges children horizontally?,Column,Row,Stack,ListView,Row
+155,Flutter,Dart,Level 5,Which widget centers its child?,Align,Center,Padding,Container,Center
+156,Flutter,Dart,Level 5,Which collection stores an ordered sequence of items?,Map,Set,List,Queue,List
+157,Flutter,Dart,Level 5,Which collection stores unique values only?,List,Map,Set,String,Set
+158,Flutter,Dart,Level 5,Which collection stores key-value pairs?,List,Set,Map,Queue,Map
+159,Flutter,Dart,Level 5,Which symbol is used to create a List?,(),{},[],<>,[]
+160,Flutter,Dart,Level 5,Which symbol is commonly used to create a Set?,(),{},[],<>,{}
+161,Flutter,Dart,Level 5,Which symbol is used to create a Map?,(),{},[],<>,{}
+162,Flutter,Dart,Level 5,Which property returns the number of items in a List?,size,count,length,total,length
+163,Flutter,Dart,Level 5,Which method adds an item to the end of a List?,push(),append(),add(),insert(),add()
+164,Flutter,Dart,Level 5,Which method removes an item from a List?,delete(),erase(),remove(),pop(),remove()
+165,Flutter,Dart,Level 5,Which method inserts an item at a specific index?,append(),insert(),add(),push(),insert()
+166,Flutter,Dart,Level 5,Which index refers to the first element in a List?,1,-1,0,2,0
+167,Flutter,Dart,Level 5,Which index refers to the third element in a List?,1,2,3,0,2
+168,Flutter,Dart,Level 5,Can a List contain duplicate values?,No,Yes,Only numbers,Only strings,Yes
+169,Flutter,Dart,Level 5,Can a Set contain duplicate values?,Yes,No,Only strings,Only integers,No
+170,Flutter,Dart,Level 5,What does a Map store?,Only numbers,Only strings,Key-value pairs,Unique values,Key-value pairs
+171,Flutter,Dart,Level 5,How do you access a value in a Map?,map(index),map[key],map.value,map.get(),map[key]
+172,Flutter,Dart,Level 5,Which property returns all keys of a Map?,values,entries,keys,indexes,keys
+173,Flutter,Dart,Level 5,Which property returns all values of a Map?,keys,values,entries,length,values
+174,Flutter,Dart,Level 5,Which method removes a key-value pair from a Map?,delete(),erase(),remove(),pop(),remove()
+175,Flutter,Dart,Level 5,Which method checks whether a List contains a specific value?,find(),contains(),exists(),search(),contains()
+176,Flutter,Dart,Level 5,Which method sorts a List?,order(),sort(),arrange(),sorted(),sort()
+177,Flutter,Dart,Level 5,Which method clears all elements from a List?,removeAll(),deleteAll(),clear(),empty(),clear()
+178,Flutter,Dart,Level 5,Which method adds an element to a Set?,insert(),append(),add(),push(),add()
+179,Flutter,Dart,Level 5,Which method removes an element from a Set?,erase(),delete(),remove(),pop(),remove()
+180,Flutter,Dart,Level 5,Which collection is best for storing student names without duplicates?,List,Map,Set,String,Set
+181,Flutter,Dart,Level 5,Which collection is best for storing a shopping list in order?,Map,Set,List,Queue,List
+182,Flutter,Dart,Level 5,Which collection is best for storing country-capital pairs?,Set,List,Map,String,Map
+183,Flutter,Dart,Level 5,Which property indicates whether a List has no elements?,isBlank,isEmpty,empty,length,isEmpty
+184,Flutter,Dart,Level 5,Which property returns the number of key-value pairs in a Map?,count,size,length,total,length
+185,Flutter,Dart,Level 5,Which collection type is most commonly used for displaying data in Flutter's ListView?,Set,Map,List,String,List
+186,Flutter,Dart,Level 6,Which widget adds empty space around another widget?,Padding,Center,Expanded,Spacer,Padding
+187,Flutter,Dart,Level 6,Which widget allows scrolling of multiple children?,Column,Stack,ListView,Row,ListView
+188,Flutter,Dart,Level 6,Which widget is commonly used to navigate to another page?,Navigator,RouteBuilder,PageLink,Jump,Navigator
+189,Flutter,Dart,Level 6,Which widget creates a Material Design button?,TextButton,LabelButton,NormalButton,PushButton,TextButton
+190,Flutter,Dart,Level 6,Which widget displays an image from assets?,Image.asset(),AssetImage(),Picture.asset(),Image.show(),Image.asset()
+191,Flutter,Dart,Level 6,What does OOP stand for?,Object Oriented Programming,Online Object Programming,Object Operation Program,Only Object Programming,Object Oriented Programming
+192,Flutter,Dart,Level 6,Which keyword is used to create a class in Dart?,object,class,new,create,class
+193,Flutter,Dart,Level 6,What is an object?,A variable,A function,An instance of a class,A package,An instance of a class
+194,Flutter,Dart,Level 6,Which keyword is commonly used to create an object?,new,class,var,const,new
+195,Flutter,Dart,Level 6,What is a class?,A blueprint for creating objects,A function,A package,A loop,A blueprint for creating objects
+196,Flutter,Dart,Level 6,What is a constructor?,A variable,A special method used to initialize objects,A loop,A package,A special method used to initialize objects
+197,Flutter,Dart,Level 6,When is a constructor called?,When a class is defined,When an object is created,When a function ends,When a variable changes,When an object is created
+198,Flutter,Dart,Level 6,What is the default constructor?,A constructor automatically provided if none is defined,A private constructor,A named constructor,A factory constructor,A constructor automatically provided if none is defined
+199,Flutter,Dart,Level 6,Why are named constructors used?,To create multiple ways of initializing objects,To create loops,To store data,To print values,To create multiple ways of initializing objects
+200,Flutter,Dart,Level 6,Which keyword is used to declare a factory constructor?,create,factory,new,static,factory
+201,Flutter,Dart,Level 6,Which keyword is used for inheritance in Dart?,extends,implements,inherits,with,extends
+202,Flutter,Dart,Level 6,What is inheritance?,Creating variables,Reusing code from another class,Declaring functions,Creating widgets,Reusing code from another class
+203,Flutter,Dart,Level 6,Which keyword refers to the parent class?,parent,base,super,this,super
+204,Flutter,Dart,Level 6,Which keyword refers to the current object?,self,super,this,current,this
+205,Flutter,Dart,Level 6,What is a method?,A function inside a class,A variable,A package,A constructor,A function inside a class
+206,Flutter,Dart,Level 6,What is a property?,A class,A variable inside a class,A constructor,A package,A variable inside a class
+207,Flutter,Dart,Level 6,What is encapsulation?,Hiding implementation details,Creating loops,Sorting lists,Printing data,Hiding implementation details
+208,Flutter,Dart,Level 6,Which symbol is used to make a member library-private in Dart?,#,_,@,$,_
+209,Flutter,Dart,Level 6,What is polymorphism?,One method having many forms,Many classes in one file,Multiple variables,None,One method having many forms
+210,Flutter,Dart,Level 6,Which annotation indicates a method overrides a parent method?,@override,@inherit,@super,@replace,@override
+211,Flutter,Dart,Level 6,Can a subclass access public methods of its parent class?,No,Yes,Only static methods,Only constructors,Yes
+212,Flutter,Dart,Level 6,Which keyword creates an abstract class?,abstract,virtual,base,hidden,abstract
+213,Flutter,Dart,Level 6,Can you create an object directly from an abstract class?,Yes,No,Only once,Only with new,No
+214,Flutter,Dart,Level 6,How does Dart support interfaces?,Using interface keyword,Every class implicitly defines an interface,Using implements only,It does not support interfaces,Every class implicitly defines an interface
+215,Flutter,Dart,Level 6,Which keyword is used to implement an interface?,extends,implements,with,super,implements
+216,Flutter,Dart,Level 6,Which keyword is used to apply a mixin?,extends,implements,with,using,with
+217,Flutter,Dart,Level 6,What is the purpose of a mixin?,Code reuse without inheritance,Database connection,Loop creation,Error handling,Code reuse without inheritance
+218,Flutter,Dart,Level 6,Which keyword declares a class-level variable or method?,global,const,static,shared,static
+219,Flutter,Dart,Level 6,Who owns a static member?,Each object,The class,The constructor,The function,The class
+220,Flutter,Dart,Level 6,Which OOP concept helps reduce code duplication?,Inheritance,Comments,Variables,Operators,Inheritance
+221,Flutter,Dart,Level 7,What is the purpose of null safety in Dart?,Increase speed,Prevent null reference errors,Reduce code size,Improve UI,Prevent null reference errors
+222,Flutter,Dart,Level 7,Which symbol is used to declare a nullable variable?,!,?,@,#,?
+223,Flutter,Dart,Level 7,Which symbol is used for the null assertion operator?,!,?,??,&,!
+224,Flutter,Dart,Level 7,Which operator provides a default value if the left side is null?,??,&&,||,==,??
+225,Flutter,Dart,Level 7,Which operator assigns a value only if the variable is null?,=,??=,+=,:=,??=
+226,Flutter,Dart,Level 7,Can an int variable declared as 'int x;' contain null?,Yes,No,Only with late,Only with dynamic,No
+227,Flutter,Dart,Level 7,Which declaration allows an integer variable to store null?,int x,int? x,var x,late int x,int? x
+228,Flutter,Dart,Level 7,Which keyword delays initialization of a non-nullable variable?,const,var,late,final,late
+229,Flutter,Dart,Level 7,What happens if a non-nullable variable is not initialized?,Nothing,Compile-time error,Runtime warning,It becomes null,Compile-time error
+230,Flutter,Dart,Level 7,Which type can hold any value including null?,dynamic,int,String,bool,dynamic
+231,Flutter,Dart,Level 7,What is an exception?,A widget,An unexpected runtime error,A variable,A class,An unexpected runtime error
+232,Flutter,Dart,Level 7,Which keyword is used to handle exceptions?,if,catch,throw,break,catch
+233,Flutter,Dart,Level 7,Which keyword is used to generate an exception?,throw,catch,try,return,throw
+234,Flutter,Dart,Level 7,Which keyword encloses code that might throw an exception?,try,catch,throw,finally,try
+235,Flutter,Dart,Level 7,Which block executes when an exception occurs?,try,catch,finally,throw,catch
+236,Flutter,Dart,Level 7,Which block always executes whether an exception occurs or not?,try,catch,finally,throw,finally
+237,Flutter,Dart,Level 7,Can a try block exist without a catch block?,Yes,if it has finally,No,Never,Only with throw
+238,Flutter,Dart,Level 7,Which keyword rethrows the current exception?,throw,rethrow,return,break,rethrow
+239,Flutter,Dart,Level 7,What is the purpose of finally?,Handle loops,Release resources,Create variables,Stop execution,Release resources
+240,Flutter,Dart,Level 7,Which class is the base type for most Dart exceptions?,Object,Exception,Error,String,Exception
+241,Flutter,Dart,Level 7,Which exception occurs when dividing by zero with integers?,FormatException,IntegerDivisionByZeroException,TypeError,IOException,IntegerDivisionByZeroException
+242,Flutter,Dart,Level 7,Which exception is commonly thrown when parsing invalid numbers?,FormatException,TypeError,ArgumentError,RangeError,FormatException
+243,Flutter,Dart,Level 7,Which exception indicates an invalid function argument?,RangeError,ArgumentError,FormatException,StateError,ArgumentError
+244,Flutter,Dart,Level 7,Which exception occurs when an index is outside the valid range?,FormatException,StateError,RangeError,TimeoutException,RangeError
+245,Flutter,Dart,Level 7,Which keyword is used after catch to access the stack trace?,trace,on,stackTrace,error,stackTrace
+246,Flutter,Dart,Level 7,Which keyword catches only a specific exception type?,on,only,except,type,on
+247,Flutter,Dart,Level 7,Which expression safely accesses a nullable object's property?,obj.name,obj?.name,obj!.name,obj:name,obj?.name
+248,Flutter,Dart,Level 7,What does the expression user?.name return if user is null?,Error,null,Empty String,FALSE,null
+249,Flutter,Dart,Level 7,What is the result of null ?? 'Guest'?,null,Guest,Error,FALSE,Guest
+250,Flutter,Dart,Level 7,What is the recommended way to avoid runtime crashes caused by exceptions?,Ignore exceptions,Use try-catch blocks,Use only dynamic variables,Disable null safety,Use try-catch blocks
+251,Flutter,Dart,Level 8,What is a Future in Dart?,A widget,A value available later,A class,A loop,A value available later
+252,Flutter,Dart,Level 8,Which keyword creates an asynchronous function?,future,async,await,delay,async
+253,Flutter,Dart,Level 8,Which keyword waits for a Future to complete?,wait,hold,await,pause,await
+254,Flutter,Dart,Level 8,Where can the await keyword be used?,Anywhere,Only inside an async function,Inside a class only,Inside constructors,Only inside an async function
+255,Flutter,Dart,Level 8,What does a Future eventually produce?,Another Future,A value or an error,A widget,A loop,A value or an error
+256,Flutter,Dart,Level 8,Which method executes after a Future completes successfully?,catchError(),then(),finally(),when(),then()
+257,Flutter,Dart,Level 8,Which method handles errors from a Future?,onError(),catchError(),try(),error(),catchError()
+258,Flutter,Dart,Level 8,Which method executes regardless of success or failure?,always(),whenComplete(),finally(),done(),whenComplete()
+259,Flutter,Dart,Level 8,Can a Future complete with an error?,No,Yes,Only once,Only in Flutter,Yes
+260,Flutter,Dart,Level 8,What happens when an async function returns a value?,It returns a Future,It returns void,It returns null,It returns immediately,It returns a Future
+261,Flutter,Dart,Level 8,What is a Stream?,A single future value,A sequence of asynchronous events,A widget,A collection,A sequence of asynchronous events
+262,Flutter,Dart,Level 8,How many values can a Stream emit?,One only,Multiple,None,Exactly two,Multiple
+263,Flutter,Dart,Level 8,Which keyword is commonly used to read values from a Stream?,await for,while,listen,switch,await for
+264,Flutter,Dart,Level 8,Which method listens to a Stream?,watch(),listen(),observe(),read(),listen()
+265,Flutter,Dart,Level 8,Which class is used to create and control a Stream?,FutureBuilder,StreamController,StreamBuilder,Future,StreamController
+266,Flutter,Dart,Level 8,Which method adds data to a StreamController?,push(),emit(),add(),insert(),add()
+267,Flutter,Dart,Level 8,Which method closes a StreamController?,dispose(),close(),stop(),finish(),close()
+268,Flutter,Dart,Level 8,Which class is commonly used to delay execution?,Future.delayed(),Timer.wait(),Delay.run(),Pause.execute(),Future.delayed()
+269,Flutter,Dart,Level 8,What does Future.delayed() do?,Runs immediately,Completes after a specified duration,Creates a Stream,Stops execution,Completes after a specified duration
+270,Flutter,Dart,Level 8,Which statement is commonly used with async and await for error handling?,if-else,try-catch,switch,for,try-catch
+271,Flutter,Dart,Level 8,What happens while awaiting a Future?,The UI freezes,Other tasks can continue,The app closes,The program ends,Other tasks can continue
+272,Flutter,Dart,Level 8,Can multiple Futures run simultaneously?,No,Yes,Only two,Only with Streams,Yes
+273,Flutter,Dart,Level 8,What is the main advantage of asynchronous programming?,Larger apps,Better responsiveness,Less memory,More widgets,Better responsiveness
+274,Flutter,Dart,Level 8,Which widget is commonly used in Flutter to display Future results?,FutureBuilder,ListView,StreamBuilder,Scaffold,FutureBuilder
+275,Flutter,Dart,Level 8,Which widget is commonly used in Flutter to display Stream data?,FutureBuilder,StreamBuilder,Container,Column,StreamBuilder
+276,Flutter,Dart,Level 8,What is the difference between Future and Stream?,No difference,Future returns one value while Stream returns multiple values,Future is faster,Stream is synchronous,Future returns one value while Stream returns multiple values
+277,Flutter,Dart,Level 8,Can an async function have a return type of Future<int>?,No,Yes,Only Future<void>,Only int,Yes
+278,Flutter,Dart,Level 8,What happens if await is omitted when calling a Future?,Compilation fails,The Future executes without waiting,The Future is cancelled,Nothing happens,The Future executes without waiting
+279,Flutter,Dart,Level 8,When should Streams be preferred over Futures?,When only one value is needed,When multiple values are expected,Never,Only in web apps,When multiple values are expected
+280,Flutter,Dart,Level 8,Which approach is generally easier to read for asynchronous code?,Nested then() calls,async/await,Goto statements,Recursive loops,async/await
+281,Flutter,Flutter,Level 9,What is Flutter?,A database,A UI toolkit,A programming language,An operating system,A UI toolkit
+282,Flutter,Flutter,Level 9,Who developed Flutter?,Apple,Google,Microsoft,Meta,Google
+283,Flutter,Flutter,Level 9,Which programming language does Flutter use?,Java,Kotlin,Dart,Swift,Dart
+284,Flutter,Flutter,Level 9,What is everything in Flutter?,Function,Widget,Variable,Package,Widget
+285,Flutter,Flutter,Level 9,Which widget is commonly used as the root widget of a Material Design app?,Container,MaterialApp,Scaffold,Column,MaterialApp
+286,Flutter,Flutter,Level 9,Which widget provides the basic visual structure of a screen?,Container,Scaffold,Center,Row,Scaffold
+287,Flutter,Flutter,Level 9,Which widget displays a piece of text?,Label,Paragraph,Text,String,Text
+288,Flutter,Flutter,Level 9,Which widget displays a Material Design app bar?,TopBar,AppBar,Toolbar,Header,AppBar
+289,Flutter,Flutter,Level 9,Which property of Scaffold specifies the main content?,child,body,content,main,body
+290,Flutter,Flutter,Level 9,Which widget is commonly used to display a single child?,Container,Column,ListView,Stack,Container
+291,Flutter,Flutter,Level 9,Which widget should be used when the UI never changes?,StatefulWidget,StatelessWidget,Container,InheritedWidget,StatelessWidget
+292,Flutter,Flutter,Level 9,Which widget should be used when the UI changes over time?,Container,StatefulWidget,StatelessWidget,Column,StatefulWidget
+293,Flutter,Flutter,Level 9,Which method is called to rebuild the UI after state changes?,refresh(),setState(),update(),buildAgain(),setState()
+294,Flutter,Flutter,Level 9,Which method describes the UI of a widget?,render(),show(),build(),display(),build()
+295,Flutter,Flutter,Level 9,What does the build() method return?,String,Widget,int,bool,Widget
+296,Flutter,Flutter,Level 9,What is BuildContext?,A widget,A class that provides location information in the widget tree,A database,A package, A class that provides location information in the widget tree
+297,Flutter,Flutter,Level 9,What is a widget tree?,A database structure,A hierarchical arrangement of widgets,A file system,A network graph,A hierarchical arrangement of widgets
+298,Flutter,Flutter,Level 9,Which package provides Material Design widgets?,flutter/material.dart,dart:ui,flutter/widgets.dart,dart:core,flutter/material.dart
+299,Flutter,Flutter,Level 9,Which widget centers its child?,Align,Center,Padding,Expanded,Center
+300,Flutter,Flutter,Level 9,Which widget can contain only one child?,ListView,Container,Column,Row,Container
+301,Flutter,Flutter,Level 9,Which widget can contain multiple children vertically?,Row,Column,Center,Padding,Column
+302,Flutter,Flutter,Level 9,Which widget arranges children horizontally?,Column,Row,ListView,Stack,Row
+303,Flutter,Flutter,Level 9,Which widget overlays children on top of each other?,Column,Stack,Row,ListView,Stack
+304,Flutter,Flutter,Level 9,Which Flutter feature updates the UI instantly without restarting the app?,Hot Restart,Hot Reload,Refresh,Reload App,Hot Reload
+305,Flutter,Flutter,Level 9,What does Hot Restart do?,Keeps state and updates code,Restarts the app and loses state,Updates only widgets,Refreshes the screen,Restarts the app and loses state
+306,Flutter,Flutter,Level 9,Which widget is used to display an icon?,Symbol,Icon,Image,Logo,Icon
+307,Flutter,Flutter,Level 9,Which widget is commonly used to add empty space around another widget?,Spacer,Padding,Center,Expanded,Padding
+308,Flutter,Flutter,Level 9,Which widget is commonly used to display images from assets?,Image.asset(),AssetImage(),Image.network(),Picture.asset(),Image.asset()
+309,Flutter,Flutter,Level 9,Which file contains the application's entry point?,app.dart,index.dart,main.dart,home.dart,main.dart
+310,Flutter,Flutter,Level 9,Which function is the entry point of every Flutter application?,run(),main(),start(),build(),main()
+311,Flutter,Flutter,Level 10,Which widget arranges its children vertically?,Row,Column,Stack,ListView,Column
+312,Flutter,Flutter,Level 10,Which widget arranges its children horizontally?,Column,Row,Stack,ListView,Row
+313,Flutter,Flutter,Level 10,Which widget places its children on top of each other?,Column,Stack,Row,Wrap,Stack
+314,Flutter,Flutter,Level 10,Which widget centers its child within the available space?,Align,Center,Padding,Expanded,Center
+315,Flutter,Flutter,Level 10,Which widget adds empty space around its child?,Margin,Padding,SizedBox,Spacer,Padding
+316,Flutter,Flutter,Level 10,Which widget is commonly used to add fixed empty space?,Container,SizedBox,Expanded,Flexible,SizedBox
+317,Flutter,Flutter,Level 10,Which widget expands a child to fill available space in a Row or Column?,Flexible,Expanded,Spacer,Container,Expanded
+318,Flutter,Flutter,Level 10,Which widget allows a child to take available space without forcing it to fill all of it?,Expanded,Flexible,Center,Padding,Flexible
+319,Flutter,Flutter,Level 10,Which widget automatically creates empty flexible space in a Row or Column?,Padding,SizedBox,Spacer,Container,Spacer
+320,Flutter,Flutter,Level 10,Which widget wraps children onto multiple lines when space is limited?,Stack,Wrap,Column,ListView,Wrap
+321,Flutter,Flutter,Level 10,Which widget is commonly used to decorate and position a single child?,Container,Padding,Center,Align,Container
+322,Flutter,Flutter,Level 10,Which property sets the background color of a Container?,background,color,fillColor,theme,color
+323,Flutter,Flutter,Level 10,Which property sets the width of a Container?,size,width,height,length,width
+324,Flutter,Flutter,Level 10,Which property sets the height of a Container?,size,height,width,length,height
+325,Flutter,Flutter,Level 10,Which property aligns a child inside a Container?,position,alignment,location,gravity,alignment
+326,Flutter,Flutter,Level 10,Which property adds inner spacing inside a Container?,margin,padding,spacing,gap,padding
+327,Flutter,Flutter,Level 10,Which property adds outer spacing around a Container?,padding,margin,border,alignment,margin
+328,Flutter,Flutter,Level 10,Which class is commonly used to decorate a Container?,BoxDecoration,ContainerStyle,DecorationBox,WidgetStyle,BoxDecoration
+329,Flutter,Flutter,Level 10,Which property adds rounded corners to a Container?,radius,borderRadius,cornerRadius,round,borderRadius
+330,Flutter,Flutter,Level 10,Which property adds a border around a Container?,outline,border,stroke,edge,border
+331,Flutter,Flutter,Level 10,Which property adds a shadow to a Container?,shadow,boxShadow,elevation,blur,boxShadow
+332,Flutter,Flutter,Level 10,Which widget allows positioning a child using Alignment values?,Padding,Align,Center,Expanded,Align
+333,Flutter,Flutter,Level 10,Which alignment places a widget at the top-left corner?,Alignment.center,Alignment.topLeft,Alignment.bottomRight,Alignment.topCenter,Alignment.topLeft
+334,Flutter,Flutter,Level 10,Which widget is best for vertically scrolling many widgets?,Column,ListView,Row,Wrap,ListView
+335,Flutter,Flutter,Level 10,Which widget should be used for a small number of horizontally arranged widgets?,ListView,Row,Wrap,GridView,Row
+336,Flutter,Flutter,Level 10,Which widget should be used for a small number of vertically arranged widgets?,Column,ListView,GridView,Wrap,Column
+337,Flutter,Flutter,Level 10,What happens if a Column has more children than available vertical space?,Nothing,Overflow error,Automatic scrolling,App closes,Overflow error
+338,Flutter,Flutter,Level 10,Which widget should replace a Column when vertical scrolling is required?,Stack,Wrap,ListView,Center,ListView
+339,Flutter,Flutter,Level 10,Which widget is commonly used as the parent for Expanded and Flexible?,Container,Column or Row,Stack,Center,Column or Row
+340,Flutter,Flutter,Level 10,Which layout widget is most suitable for creating responsive horizontal or vertical layouts?,Stack,Row and Column,Container,Padding,Row and Column
+341,Flutter,Flutter,Level 11,Which widget is commonly used to accept text input from the user?,Text,TextField,Label,Container,TextField
+342,Flutter,Flutter,Level 11,Which widget provides built-in form validation?,TextField,TextFormField,Container,FormField,TextFormField
+343,Flutter,Flutter,Level 11,Which widget groups multiple form fields together?,Column,Form,Container,ListView,Form
+344,Flutter,Flutter,Level 11,Which widget creates a filled Material Design button?,TextButton,OutlinedButton,ElevatedButton,IconButton,ElevatedButton
+345,Flutter,Flutter,Level 11,Which widget creates a button containing only an icon?,TextButton,IconButton,FloatingActionButton,OutlinedButton,IconButton
+346,Flutter,Flutter,Level 11,Which widget creates an outlined Material Design button?,ElevatedButton,TextButton,OutlinedButton,IconButton,OutlinedButton
+347,Flutter,Flutter,Level 11,Which property is used to handle button presses?,onTap,onClick,onPressed,onAction,onPressed
+348,Flutter,Flutter,Level 11,Which controller is commonly used to manage text input?,AnimationController,ScrollController,TextEditingController,PageController,TextEditingController
+349,Flutter,Flutter,Level 11,Which property displays hint text inside a TextField?,placeholder,hintText,labelText,helperText,hintText
+350,Flutter,Flutter,Level 11,Which property displays a label above the input field?,hintText,labelText,title,caption,labelText
+351,Flutter,Flutter,Level 11,Which property hides typed characters for passwords?,hidden,obscureText,passwordMode,secureText,obscureText
+352,Flutter,Flutter,Level 11,Which keyboard type is appropriate for entering email addresses?,TextInputType.text,TextInputType.number,TextInputType.emailAddress,TextInputType.phone,TextInputType.emailAddress
+353,Flutter,Flutter,Level 11,Which keyboard type is appropriate for entering numbers?,TextInputType.text,TextInputType.emailAddress,TextInputType.number,TextInputType.url,TextInputType.number
+354,Flutter,Flutter,Level 11,Which property validates user input in TextFormField?,validator,onSaved,controller,onChanged,validator
+355,Flutter,Flutter,Level 11,What should the validator return when input is valid?,TRUE,FALSE,null,empty string,null
+356,Flutter,Flutter,Level 11,Which object is commonly used to validate an entire Form?,FormKey,GlobalKey<FormState>,UniqueKey,ValueKey,GlobalKey<FormState>
+357,Flutter,Flutter,Level 11,Which method checks whether all form fields are valid?,save(),reset(),validate(),submit(),validate()
+358,Flutter,Flutter,Level 11,Which method clears all form fields to their initial values?,clear(),dispose(),reset(),remove(),reset()
+359,Flutter,Flutter,Level 11,Which widget allows users to select one option from multiple choices?,Checkbox,Radio,Switch,Slider,Radio
+360,Flutter,Flutter,Level 11,Which widget allows users to select multiple independent options?,Radio,Checkbox,Switch,DropdownButton,Checkbox
+361,Flutter,Flutter,Level 11,Which widget is commonly used to toggle between ON and OFF states?,Checkbox,Radio,Switch,Slider,Switch
+362,Flutter,Flutter,Level 11,Which widget allows users to choose a value by dragging a thumb?,Slider,Switch,Checkbox,Radio,Slider
+363,Flutter,Flutter,Level 11,Which widget displays a drop-down list of choices?,ListView,DropdownButton,PopupMenuButton,Column,DropdownButton
+364,Flutter,Flutter,Level 11,Which property stores the currently selected value in a DropdownButton?,selected,current,value,index,value
+365,Flutter,Flutter,Level 11,Which callback is triggered when a new dropdown item is selected?,onPressed,onTap,onChanged,onSelected,onChanged
+366,Flutter,Flutter,Level 11,Which method saves all form field values after validation?,validate(),save(),reset(),dispose(),save()
+367,Flutter,Flutter,Level 11,Which callback is triggered whenever the text changes?,onSaved,onChanged,onPressed,onTap,onChanged
+368,Flutter,Flutter,Level 11,Which callback is triggered when the user submits the text field?,onComplete,onSubmitted,onSaved,onEditing,onSubmitted
+369,Flutter,Flutter,Level 11,Which widget should generally be preferred when building forms with validation?,TextField,TextFormField,Container,Text,TextFormField
+370,Flutter,Flutter,Level 11,Why should a TextEditingController be disposed?,To improve layout,To free resources and avoid memory leaks,To reset the form,To rebuild widgets,To free resources and avoid memory leaks

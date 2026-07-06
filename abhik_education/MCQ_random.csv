@@ -1,0 +1,372 @@
+id,Subject,Category,Set,Question,Option1,Option2,Option3,Option4,Correct_Option
+1,English,Part of Speech,Preposition_1,The book is ___ the table.,under,in,between,on,on
+2,English,Part of Speech,Preposition_1,The cat is ___ the chair.,on,into,under,at,under
+3,English,Part of Speech,Preposition_1,We go to school ___ morning.,at,on,in,by,in
+4,English,Part of Speech,Preposition_1,The picture is ___ the wall.,under,in,between,on,on
+5,English,Part of Speech,Preposition_1,I live ___ Dhaka.,on,at,in,by,in
+6,English,Part of Speech,Preposition_1,The ball is ___ the box.,between,in,over,on,in
+7,English,Part of Speech,Preposition_1,We eat dinner ___ night.,in,from,at,on,at
+8,English,Part of Speech,Preposition_1,The dog ran ___ the road.,under,between,across,inside,across
+9,English,Part of Speech,Preposition_1,She is sitting ___ me and Rina.,at,between,on,under,between
+10,English,Part of Speech,Preposition_1,The bird is flying ___ the tree.,at,in,over,under,over
+11,English,Part of Speech,Preposition_1,He came ___ Monday.,at,in,on,by,on
+12,English,Part of Speech,Preposition_1,The pen is ___ the bag.,inside,above,between,on,inside
+13,English,Part of Speech,Preposition_1,The school is ___ the bank.,next to,under,over,in,next to
+14,English,Part of Speech,Preposition_1,We swim ___ the river.,on,over,at,in,in
+15,English,Part of Speech,Preposition_1,The lamp is ___ the table.,under,above,from,in,above
+16,English,Part of Speech,Preposition_1,I was born ___ 2015.,at,by,on,in,in
+17,English,Part of Speech,Preposition_1,The child hid ___ the bed.,at,under,between,on,under
+18,English,Part of Speech,Preposition_1,He stood ___ the door.,under,at,on,in,at
+19,English,Part of Speech,Preposition_1,The train goes ___ the tunnel.,between,over,through,at,through
+20,English,Part of Speech,Preposition_1,The shoes are ___ the bed.,under,on,in,between,under
+21,English,Part of Speech,Verb_1,I _____ the bus because I was late. (Verb),ate,jumped,missed,rushed,missed
+22,English,Part of Speech,Verb_1,She _____ her homework before dinner. (Verb),completed,painted,danced,slept,completed
+23,English,Part of Speech,Verb_1,They _____ football in the field yesterday. (Verb),played,washed,opened,cooked,played
+24,English,Part of Speech,Verb_1,We _____ to the zoo last Sunday. (Verb),drank,sang,walked,repaired,walked
+25,English,Part of Speech,Verb_1,He _____ a glass of water after running. (Verb),kicked,watched,closed,drank,drank
+26,English,Part of Speech,Verb_1,The baby _____ loudly at night. (Verb),fixed,cried,jumped,built,cried
+27,English,Part of Speech,Verb_1,My father _____ a new car last year. (Verb),bought,climbed,threw,painted,bought
+28,English,Part of Speech,Verb_1,The teacher _____ the lesson clearly. (Verb),chased,explained,washed,borrowed,explained
+29,English,Part of Speech,Verb_1,I _____ my friend at the market yesterday. (Verb),met,pushed,cleaned,opened,met
+30,English,Part of Speech,Verb_1,She _____ the flowers every morning. (Verb),breaks,tears,cuts,waters,waters
+31,English,Part of Speech,Verb_1,The dog _____ after the cat. (Verb),smiled,cooked,ran,slept,ran
+32,English,Part of Speech,Verb_1,We _____ a movie together last night. (Verb),repaired,planted,watched,mixed,watched
+33,English,Part of Speech,Verb_1,He _____ the door carefully. (Verb),kicked,opened,climbed,folded,opened
+34,English,Part of Speech,Verb_1,They _____ the classroom before leaving. (Verb),borrowed,chased,cleaned,painted,cleaned
+35,English,Part of Speech,Verb_1,I _____ my keys on the table. (Verb),shouted,drew,climbed,kept,kept
+36,English,Part of Speech,Verb_1,The boys _____ in the river during summer. (Verb),built,fixed,carried,swam,swam
+37,English,Part of Speech,Verb_1,She _____ a beautiful song at the event. (Verb),jumped,washed,sang,pushed,sang
+38,English,Part of Speech,Verb_1,We _____ our grandparents during Eid vacation. (Verb),borrowed,visited,painted,repaired,visited
+39,English,Part of Speech,Verb_1,He _____ the heavy box upstairs. (Verb),slept,smiled,carried,floated,carried
+40,English,Part of Speech,Verb_1,The students _____ quietly in the library. (Verb),studied,climbed,shouted,chased,studied
+41,English,Part of Speech,Verb_1,I _____ an interesting storybook yesterday. (Verb),read,opened,repaired,pushed,read
+42,English,Part of Speech,Verb_1,Mother _____ delicious biryani for lunch. (Verb),cooked,climbed,washed,chased,cooked
+43,English,Part of Speech,Verb_1,The bird _____ high in the sky. (Verb),flew,crawled,folded,repaired,flew
+44,English,Part of Speech,Verb_1,We _____ the match with great excitement. (Verb),enjoyed,mixed,planted,borrowed,enjoyed
+45,English,Part of Speech,Verb_1,He _____ his bicycle very fast. (Verb),rode,slept,smiled,painted,rode
+46,English,Part of Speech,Verb_2,The children _____ happily in the playground. (Verb),painted,laughed,repaired,folded,laughed
+47,English,Part of Speech,Verb_2,I _____ my old teacher at the shopping mall. (Verb),cooked,saw,planted,climbed,saw
+48,English,Part of Speech,Verb_2,She _____ the answer correctly in class. (Verb),answered,washed,floated,borrowed,answered
+49,English,Part of Speech,Verb_2,They _____ trees beside the road last year. (Verb),planted,repaired,pushed,shouted,planted
+50,English,Part of Speech,Verb_2,He _____ his hands before eating. (Verb),carried,mixed,washed,kicked,washed
+51,English,Part of Speech,Verb_2,We _____ tea together in the evening. (Verb),drank,painted,climbed,fixed,drank
+52,English,Part of Speech,Verb_2,The cat _____ under the table quietly. (Verb),borrowed,slept,repaired,opened,slept
+53,English,Part of Speech,Verb_2,She _____ a letter to her cousin yesterday. (Verb),wrote,folded,pushed,climbed,wrote
+54,English,Part of Speech,Verb_2,The boy _____ the ball very hard. (Verb),washed,planted,repaired,kicked,kicked
+55,English,Part of Speech,Verb_2,I _____ my bag near the window. (Verb),mixed,placed,floated,chased,placed
+56,English,Part of Speech,Verb_2,They _____ the problem very quickly. (Verb),climbed,painted,solved,shouted,solved
+57,English,Part of Speech,Verb_2,He _____ his little sister to school. (Verb),borrowed,repaired,accompanied,folded,accompanied
+58,English,Part of Speech,Verb_2,The farmer _____ rice in the field. (Verb),washes,fixes,climbs,grows,grows
+59,English,Part of Speech,Verb_2,We _____ the picnic very much. (Verb),carried,planted,pushed,enjoyed,enjoyed
+60,English,Part of Speech,Verb_2,She _____ the candle with a match. (Verb),borrowed,floated,painted,lit,lit
+61,English,Part of Speech,Verb_2,The students _____ the national anthem together. (Verb),repaired,sang,folded,chased,sang
+62,English,Part of Speech,Verb_2,I _____ the window because it was hot. (Verb),opened,planted,climbed,mixed,opened
+63,English,Part of Speech,Verb_2,He _____ all the questions in the exam. (Verb),floated,attempted,repaired,shouted,attempted
+64,English,Part of Speech,Verb_2,The girls _____ colorful pictures in art class. (Verb),borrowed,climbed,drew,fixed,drew
+65,English,Part of Speech,Verb_2,We _____ our lunch under the big tree. (Verb),ate,painted,folded,repaired,ate
+66,English,Part of Speech,Verb_2,She _____ the baby gently to sleep. (Verb),chased,washed,rocked,planted,rocked
+67,English,Part of Speech,Verb_2,The train _____ at the station on time. (Verb),floated,arrived,repaired,climbed,arrived
+68,English,Part of Speech,Verb_2,I _____ my phone charger from my friend. (Verb),borrowed,painted,kicked,mixed,borrowed
+69,English,Part of Speech,Verb_2,They _____ the floor after the party. (Verb),folded,shouted,climbed,swept,swept
+70,English,Part of Speech,Verb_2,He _____ the truth without fear. (Verb),spoke,floated,repaired,planted,spoke
+71,English,Part of Speech,Verb_3,The doctor treats patients with proper care. Choose the correct verb.,doctor,patients,proper,treats,treats
+72,English,Part of Speech,Verb_3,My brother plays cricket every afternoon. Choose the correct verb.,afternoon,brother,cricket,plays,plays
+73,English,Part of Speech,Verb_3,The teacher explains the lesson clearly. Choose the correct verb.,clearly,teacher,lesson,explains,explains
+74,English,Part of Speech,Verb_3,Birds fly in the blue sky. Choose the correct verb.,fly,sky,blue,birds,fly
+75,English,Part of Speech,Verb_3,The baby cries loudly at night. Choose the correct verb.,cries,night,loudly,baby,cries
+76,English,Part of Speech,Verb_3,Mother cooks delicious food for us. Choose the correct verb.,delicious,food,mother,cooks,cooks
+77,English,Part of Speech,Verb_3,The boy opened the window quickly. Choose the correct verb.,window,boy,quickly,opened,opened
+78,English,Part of Speech,Verb_3,Farmers grow rice in the village. Choose the correct verb.,rice,farmers,grow,village,grow
+79,English,Part of Speech,Verb_3,She writes beautiful stories in her notebook. Choose the correct verb.,notebook,stories,writes,beautiful,writes
+80,English,Part of Speech,Verb_3,The dog chased the cat yesterday. Choose the correct verb.,cat,yesterday,dog,chased,chased
+81,English,Part of Speech,Verb_3,We watched a movie last night. Choose the correct verb.,night,movie,watched,last,watched
+82,English,Part of Speech,Verb_3,The student answered the question correctly. Choose the correct verb.,student,question,correctly,answered,answered
+83,English,Part of Speech,Verb_3,Father drives carefully on busy roads. Choose the correct verb.,father,busy,drives,roads,drives
+84,English,Part of Speech,Verb_3,The children laughed at the funny clown. Choose the correct verb.,children,funny,laughed,clown,laughed
+85,English,Part of Speech,Verb_3,My friend borrowed my pencil yesterday. Choose the correct verb.,pencil,friend,yesterday,borrowed,borrowed
+86,English,Part of Speech,Verb_3,The train arrived at the station late. Choose the correct verb.,arrived,late,station,train,arrived
+87,English,Part of Speech,Verb_3,The girls danced beautifully on the stage. Choose the correct verb.,stage,girls,beautifully,danced,danced
+88,English,Part of Speech,Verb_3,He repaired the broken chair himself. Choose the correct verb.,broken,repaired,himself,chair,repaired
+89,English,Part of Speech,Verb_3,The cat slept under the table quietly. Choose the correct verb.,cat,table,slept,quietly,slept
+90,English,Part of Speech,Verb_3,Students study hard before exams. Choose the correct verb.,exams,students,hard,study,study
+91,English,Part of Speech,Verb_3,The bird built a nest in the tree. Choose the correct verb.,bird,nest,built,tree,built
+92,English,Part of Speech,Verb_3,My uncle bought a new bicycle yesterday. Choose the correct verb.,yesterday,bicycle,uncle,bought,bought
+93,English,Part of Speech,Verb_3,The chef prepared tasty soup for dinner. Choose the correct verb.,chef,tasty,prepared,dinner,prepared
+94,English,Part of Speech,Verb_3,The players practiced regularly before the match. Choose the correct verb.,regularly,players,match,practiced,practiced
+95,English,Part of Speech,Verb_3,She carried the heavy bag upstairs. Choose the correct verb.,bag,carried,upstairs,heavy,carried
+96,English,Part of Speech,Verb_4,The mechanic fixed the car carefully. Choose the correct verb.,car,fixed,mechanic,carefully,fixed
+97,English,Part of Speech,Verb_4,The baby smiled at her mother happily. Choose the correct verb.,smiled,baby,happily,mother,smiled
+98,English,Part of Speech,Verb_4,The boys climbed the tall tree quickly. Choose the correct verb.,tree,climbed,boys,tall,climbed
+99,English,Part of Speech,Verb_4,My sister painted a beautiful picture yesterday. Choose the correct verb.,beautiful,picture,sister,painted,painted
+100,English,Part of Speech,Verb_4,The teacher checked our homework in class. Choose the correct verb.,class,teacher,checked,homework,checked
+101,English,Part of Speech,Verb_4,The lion roared loudly in the jungle. Choose the correct verb.,roared,jungle,loudly,lion,roared
+102,English,Part of Speech,Verb_4,The students listened to the story carefully. Choose the correct verb.,listened,carefully,students,story,listened
+103,English,Part of Speech,Verb_4,Father cleaned the garage on Sunday. Choose the correct verb.,cleaned,father,garage,Sunday,cleaned
+104,English,Part of Speech,Verb_4,The fisherman caught a big fish today. Choose the correct verb.,fish,caught,fisherman,big,caught
+105,English,Part of Speech,Verb_4,My cousin visited us during the holidays. Choose the correct verb. Choose the correct verb.,holidays,visited,cousin,us,visited
+106,English,Part of Speech,Verb_4,The child dropped the glass accidentally. Choose the correct verb.,accidentally,child,glass,dropped,dropped
+107,English,Part of Speech,Verb_4,The birds chirped sweetly in the morning. Choose the correct verb.,birds,morning,sweetly,chirped,chirped
+108,English,Part of Speech,Verb_4,The shopkeeper counted the money twice. Choose the correct verb.,shopkeeper,counted,twice,money,counted
+109,English,Part of Speech,Verb_4,The players celebrated their victory joyfully. Choose the correct verb.,players,joyfully,celebrated,victory,celebrated
+110,English,Part of Speech,Verb_4,My grandfather told interesting stories at night. Choose the correct verb.,grandfather,stories,night,told,told
+111,English,Part of Speech,Verb_4,The girl folded her clothes neatly. Choose the correct verb.,clothes,folded,neatly,girl,folded
+112,English,Part of Speech,Verb_4,The driver stopped the bus near the market. Choose the correct verb.,driver,bus,stopped,market,stopped
+113,English,Part of Speech,Verb_4,The students copied the notes from the board. Choose the correct verb.,notes,copied,board,students,copied
+114,English,Part of Speech,Verb_4,The waiter served food to the guests politely. Choose the correct verb.,guests,politely,served,waiter,served
+115,English,Part of Speech,Verb_4,The boy threw the ball over the fence. Choose the correct verb.,ball,fence,threw,boy,threw
+116,English,Part of Speech,Verb_4,My aunt baked a cake for my birthday. Choose the correct verb.,cake,aunt,birthday,baked,baked
+117,English,Part of Speech,Verb_4,The policeman controlled the traffic efficiently. Choose the correct verb.,controlled,traffic,policeman,efficiently,controlled
+118,English,Part of Speech,Verb_4,The artist sketched the scenery beautifully. Choose the correct verb.,beautifully,scenery,sketched,artist,sketched
+119,English,Part of Speech,Verb_4,The little girl hugged her teddy bear tightly. Choose the correct verb.,girl,teddy bear,tightly,hugged,hugged
+120,English,Part of Speech,Verb_4,The students completed the project before deadline. Choose the correct verb.,completed,project,deadline,students,completed
+121,English,Part of Speech,Adjective_1,She wore a _____ dress to the party. (Adjective),softly,beautiful,quickly,danced,beautiful
+122,English,Part of Speech,Adjective_1,The _____ tiger scared the villagers. (Adjective),jumped,slowly,fierce,loudly,fierce
+123,English,Part of Speech,Adjective_1,We live in a _____ house near the river. (Adjective),ran,happily,small,carefully,small
+124,English,Part of Speech,Adjective_1,The soup was very _____ today. (Adjective),tasty,ate,loudly,quickly,tasty
+125,English,Part of Speech,Adjective_1,He bought a _____ bicycle for his son. (Adjective),shiny,repaired,neatly,shouted,shiny
+126,English,Part of Speech,Adjective_1,The mountain is very _____. (Adjective),high,climbed,silently,played,high
+127,English,Part of Speech,Adjective_1,My grandfather told an _____ story. (Adjective),pushed,interesting,walked,slowly,interesting
+128,English,Part of Speech,Adjective_1,The baby has _____ cheeks. (Adjective),opened,quickly,soft,cried,soft
+129,English,Part of Speech,Adjective_1,We saw a _____ rainbow after the rain. (Adjective),loudly,jumped,danced,colorful,colorful
+130,English,Part of Speech,Adjective_1,The classroom was _____ after cleaning. (Adjective),swept,wrote,clean,carefully,clean
+131,English,Part of Speech,Adjective_1,The _____ puppy followed the boy home. (Adjective),sadly,repaired,cute,climbed,cute
+132,English,Part of Speech,Adjective_1,She gave me a _____ smile. (Adjective),painted,warm,fixed,silently,warm
+133,English,Part of Speech,Adjective_1,The road becomes _____ during winter. (Adjective),folded,slippery,washed,shouted,slippery
+134,English,Part of Speech,Adjective_1,It was a _____ day at the beach. (Adjective),swam,loudly,chased,sunny,sunny
+135,English,Part of Speech,Adjective_1,The _____ flowers filled the garden with beauty. (Adjective),quickly,fragrant,repaired,opened,fragrant
+136,English,Part of Speech,Adjective_1,He carried a _____ bag to school. (Adjective),laughed,floated,softly,heavy,heavy
+137,English,Part of Speech,Adjective_1,The movie was very _____. (Adjective),pushed,carefully,watched,exciting,exciting
+138,English,Part of Speech,Adjective_1,They adopted a _____ kitten from the shelter. (Adjective),climbed,tiny,borrowed,neatly,tiny
+139,English,Part of Speech,Adjective_1,The teacher gave us a _____ task. (Adjective),danced,difficult,silently,explained,difficult
+140,English,Part of Speech,Adjective_1,We enjoyed the _____ weather yesterday. (Adjective),mixed,shouted,pleasant,repaired,pleasant
+141,English,Part of Speech,Adjective_1,The _____ river flows through the village. (Adjective),wide,carried,happily,folded,wide
+142,English,Part of Speech,Adjective_1,She wore a _____ scarf in winter. (Adjective),softly,jumped,woolen,washed,woolen
+143,English,Part of Speech,Adjective_1,The child solved the _____ puzzle quickly. (Adjective),tricky,laughed,repaired,opened,tricky
+144,English,Part of Speech,Adjective_1,The old man lived in a _____ cottage. (Adjective),shouted,climbed,quiet,painted,quiet
+145,English,Part of Speech,Adjective_1,We visited a _____ museum during our trip. (Adjective),borrowed,famous,danced,floated,famous
+146,English,Part of Speech,Adjective_2,The _____ elephant walked through the forest. (Adjective),softly,ran,painted,huge,huge
+147,English,Part of Speech,Adjective_2,She bought a _____ handbag from the market. (Adjective),stylish,loudly,washed,climbed,stylish
+148,English,Part of Speech,Adjective_2,The _____ boy helped the old woman cross the road. (Adjective),repaired,kind,jumped,quickly,kind
+149,English,Part of Speech,Adjective_2,We enjoyed the _____ breeze in the evening. (Adjective),shouted,cool,folded,fixed,cool
+150,English,Part of Speech,Adjective_2,The teacher praised the _____ student. (Adjective),hardworking,carried,slowly,painted,hardworking
+151,English,Part of Speech,Adjective_2,They stayed in a _____ hotel near the beach. (Adjective),opened,luxurious,mixed,laughed,luxurious
+152,English,Part of Speech,Adjective_2,The _____ cake tasted delicious. (Adjective),silently,repaired,danced,chocolate,chocolate
+153,English,Part of Speech,Adjective_2,He wore a _____ jacket during the trip. (Adjective),thick,washed,climbed,floated,thick
+154,English,Part of Speech,Adjective_2,The _____ garden attracted many visitors. (Adjective),borrowed,beautiful,pushed,quickly,beautiful
+155,English,Part of Speech,Adjective_2,We saw a _____ deer in the jungle. (Adjective),shouted,graceful,folded,repaired,graceful
+156,English,Part of Speech,Adjective_2,The child asked a _____ question in class. (Adjective),carried,jumped,clever,washed,clever
+157,English,Part of Speech,Adjective_2,The _____ pillow made me sleep comfortably. (Adjective),laughed,fluffy,climbed,painted,fluffy
+158,English,Part of Speech,Adjective_2,The villagers crossed the _____ bridge carefully. (Adjective),floated,repaired,mixed,narrow,narrow
+159,English,Part of Speech,Adjective_2,It was a _____ performance by the singer. (Adjective),danced,opened,amazing,fixed,amazing
+160,English,Part of Speech,Adjective_2,The _____ room looked bright and cheerful. (Adjective),pushed,borrowed,climbed,spacious,spacious
+161,English,Part of Speech,Adjective_2,The _____ fox disappeared into the woods. (Adjective),folded,washed,shouted,clever,clever
+162,English,Part of Speech,Adjective_2,My aunt prepared a _____ meal for dinner. (Adjective),healthy,floated,jumped,repaired,healthy
+163,English,Part of Speech,Adjective_2,The _____ clouds covered the sky. (Adjective),carried,dark,opened,laughed,dark
+164,English,Part of Speech,Adjective_2,We visited an _____ castle during our vacation. (Adjective),mixed,climbed,ancient,washed,ancient
+165,English,Part of Speech,Adjective_2,The _____ baby slept peacefully in the cradle. (Adjective),sleepy,shouted,repaired,folded,sleepy
+166,English,Part of Speech,Adjective_2,The _____ athlete won the gold medal. (Adjective),painted,borrowed,talented,floated,talented
+167,English,Part of Speech,Adjective_2,The _____ road led to the mountain village. (Adjective),winding,jumped,carried,fixed,winding
+168,English,Part of Speech,Adjective_2,She wore a _____ necklace at the party. (Adjective),sparkling,climbed,repaired,washed,sparkling
+169,English,Part of Speech,Adjective_2,The _____ farmer worked in the field all day. (Adjective),laughed,hardworking,pushed,opened,hardworking
+170,English,Part of Speech,Adjective_2,The _____ library was full of old books. (Adjective),quiet,floated,repaired,mixed,quiet
+171,English,Part of Speech,Adjective_3,The girl wore a beautiful dress to the party. Choose the correct adjective.,girl,wore,beautiful,dress,beautiful
+172,English,Part of Speech,Adjective_3,We visited an ancient temple last summer. Choose the correct adjective.,ancient,summer,temple,visited,ancient
+173,English,Part of Speech,Adjective_3,The hungry child ate the sandwich quickly. Choose the correct adjective.,ate,hungry,sandwich,child,hungry
+174,English,Part of Speech,Adjective_3,He bought a shiny new laptop yesterday. Choose the correct adjective.,bought,shiny,yesterday,laptop,shiny
+175,English,Part of Speech,Adjective_3,The tall building can be seen from far away. Choose the correct adjective.,away,tall,seen,building,tall
+176,English,Part of Speech,Adjective_3,She lives in a quiet neighborhood near the lake. Choose the correct adjective.,lake,lives,quiet,near,quiet
+177,English,Part of Speech,Adjective_3,The brave soldier saved many people. Choose the correct adjective.,people,soldier,brave,saved,brave
+178,English,Part of Speech,Adjective_3,We enjoyed the delicious food at the restaurant. Choose the correct adjective.,delicious,enjoyed,food,restaurant,delicious
+179,English,Part of Speech,Adjective_3,The small kitten slept on the sofa. Choose the correct adjective.,small,slept,kitten,sofa,small
+180,English,Part of Speech,Adjective_3,The clever student answered all the questions. Choose the correct adjective.,student,clever,answered,questions,clever
+181,English,Part of Speech,Adjective_3,My uncle drives a fast car on highways. Choose the correct adjective.,fast,highways,uncle,car,fast
+182,English,Part of Speech,Adjective_3,The old man walked slowly with a stick. Choose the correct adjective.,slowly,walked,stick,old,old
+183,English,Part of Speech,Adjective_3,She wore a colorful scarf in winter. Choose the correct adjective.,wore,colorful,winter,scarf,colorful
+184,English,Part of Speech,Adjective_3,The strong wind damaged several trees. Choose the correct adjective.,wind,trees,damaged,strong,strong
+185,English,Part of Speech,Adjective_3,We saw a beautiful rainbow after the rain. Choose the correct adjective.,rain,beautiful,rainbow,saw,beautiful
+186,English,Part of Speech,Adjective_3,The happy children played in the park. Choose the correct adjective.,happy,park,played,children,happy
+187,English,Part of Speech,Adjective_3,The teacher told an interesting story today. Choose the correct adjective.,teacher,interesting,today,story,interesting
+188,English,Part of Speech,Adjective_3,He carried a heavy bag to school. Choose the correct adjective.,carried,bag,heavy,school,heavy
+189,English,Part of Speech,Adjective_3,The cold weather forced us to stay inside. Choose the correct adjective.,weather,forced,cold,inside,cold
+190,English,Part of Speech,Adjective_3,The young artist painted a wonderful picture. Choose the correct adjective.,artist,painted,picture,wonderful,wonderful
+191,English,Part of Speech,Adjective_3,We stayed in a comfortable hotel during vacation. Choose the correct adjective.,vacation,hotel,comfortable,stayed,comfortable
+192,English,Part of Speech,Adjective_3,The noisy crowd cheered for the team. Choose the correct adjective.,cheered,noisy,crowd,team,noisy
+193,English,Part of Speech,Adjective_3,The smart boy solved the puzzle easily. Choose the correct adjective.,easily,puzzle,solved,smart,smart
+194,English,Part of Speech,Adjective_3,She adopted a cute puppy from the shelter. Choose the correct adjective.,puppy,shelter,adopted,cute,cute
+195,English,Part of Speech,Adjective_3,The rich businessman donated money to charity. Choose the correct adjective.,businessman,rich,donated,charity,rich
+196,English,Part of Speech,Adjective_4,The lazy cat slept near the fireplace. Choose the correct adjective.,cat,lazy,slept,fireplace,lazy
+197,English,Part of Speech,Adjective_4,We crossed a narrow bridge over the river. Choose the correct adjective.,crossed,narrow,bridge,river,narrow
+198,English,Part of Speech,Adjective_4,The honest boy returned the lost wallet. Choose the correct adjective.,honest,boy,wallet,returned,honest
+199,English,Part of Speech,Adjective_4,She bought a soft pillow for her bed. Choose the correct adjective.,bed,bought,pillow,soft,soft
+200,English,Part of Speech,Adjective_4,The bright sun warmed the whole village. Choose the correct adjective.,bright,warmed,village,sun,bright
+201,English,Part of Speech,Adjective_4,The poor farmer worked all day in the field. Choose the correct adjective.,farmer,poor,worked,field,poor
+202,English,Part of Speech,Adjective_4,He wore a clean shirt to school. Choose the correct adjective.,wore,school,clean,shirt,clean
+203,English,Part of Speech,Adjective_4,The friendly dog wagged its tail happily. Choose the correct adjective.,happily,dog,wagged,friendly,friendly
+204,English,Part of Speech,Adjective_4,We enjoyed the fresh air in the countryside. Choose the correct adjective.,air,fresh,enjoyed,countryside,fresh
+205,English,Part of Speech,Adjective_4,The little girl carried a basket of flowers. Choose the correct adjective.,basket,girl,little,carried,little
+206,English,Part of Speech,Adjective_4,The empty classroom looked very quiet. Choose the correct adjective.,classroom,quiet,looked,empty,empty
+207,English,Part of Speech,Adjective_4,The clever fox escaped from the trap. Choose the correct adjective.,fox,clever,escaped,trap,clever
+208,English,Part of Speech,Adjective_4,She lives in a modern apartment in the city. Choose the correct adjective.,apartment,modern,lives,city,modern
+209,English,Part of Speech,Adjective_4,The thirsty traveler drank cold water. Choose the correct adjective.,drank,traveler,thirsty,water,thirsty
+210,English,Part of Speech,Adjective_4,The gentle nurse cared for the patient kindly. Choose the correct adjective.,gentle,nurse,cared,kindly,gentle
+211,English,Part of Speech,Adjective_4,The red balloon floated into the sky. Choose the correct adjective.,balloon,red,sky,floated,red
+212,English,Part of Speech,Adjective_4,We walked along a sandy beach at sunset. Choose the correct adjective.,sunset,walked,beach,sandy,sandy
+213,English,Part of Speech,Adjective_4,The angry teacher scolded the noisy students. Choose the correct adjective.,teacher,angry,scolded,students,angry
+214,English,Part of Speech,Adjective_4,The broken chair was lying outside the room. Choose the correct adjective.,lying,broken,room,chair,broken
+215,English,Part of Speech,Adjective_4,The cheerful singer entertained the audience. Choose the correct adjective.,singer,audience,entertained,cheerful,cheerful
+216,English,Part of Speech,Adjective_4,He climbed the steep hill without stopping. Choose the correct adjective.,climbed,hill,stopping,steep,steep
+217,English,Part of Speech,Adjective_4,The lonely child sat quietly in the corner. Choose the correct adjective.,corner,lonely,sat,child,lonely
+218,English,Part of Speech,Adjective_4,The golden necklace was very expensive. Choose the correct adjective.,golden,necklace,expensive,very,golden
+219,English,Part of Speech,Adjective_4,The famous actor visited our town yesterday. Choose the correct adjective.,actor,famous,visited,yesterday,famous
+220,English,Part of Speech,Adjective_4,The weak patient needed immediate treatment. Choose the correct adjective.,treatment,patient,needed,weak,weak
+221,English,Part of Speech,Adverb_4,"An adverb often answers the question ""_________?""",how,which,who,where,how
+222,English,Capital Letters,Capital_1,Which sentence is written correctly?,My name is Rahim.,My Name Is Rahim.,my name Is rahim.,my name is rahim.,My name is Rahim.
+223,English,Capital Letters,Capital_1,Which word should begin with a capital letter?,pencil,bangladesh,apple,book,bangladesh
+224,English,Capital Letters,Capital_1,Which sentence is correct?,i live in dhaka.,I live in dhaka.,I live in Dhaka.,i Live in Dhaka.,I live in Dhaka.
+225,English,Capital Letters,Capital_1,Which word should start with a capital letter?,monday,bag,chair,table,monday
+226,English,Capital Letters,Capital_1,Which sentence is written correctly?,We visited cox's bazar.,we visited cox's bazar.,We visited Cox's Bazar.,we visited Cox's bazar.,We visited Cox's Bazar.
+227,English,Capital Letters,Capital_1,Which word needs a capital letter?,cat,january,bird,dog,january
+228,English,Capital Letters,Capital_1,Choose the correct sentence.,she Is reading a book.,She Is Reading A Book.,She is reading a book.,she is reading a book.,She is reading a book.
+229,English,Capital Letters,Capital_1,Which name is written correctly?,rINA,RINA,Rina,rina,Rina
+230,English,Capital Letters,Capital_1,Which sentence begins correctly?,The sun is shining.,the sun is shining.,the Sun is shining.,The Sun Is Shining.,The sun is shining.
+231,English,Capital Letters,Capital_1,Which word should be capitalized?,desk,friday,door,pen,friday
+232,English,Capital Letters,Capital_1,Which sentence is correct?,my Teacher is Mr. Ali.,My teacher is Mr. Ali.,My teacher is mr. Ali.,my teacher is mr. ali.,My teacher is Mr. Ali.
+233,English,Capital Letters,Capital_1,Which word should start with a capital letter?,lake,bangladesh,river,mountain,brazil
+234,English,Capital Letters,Capital_1,Which word should begin with a capital letter?,orange,mango,apple,march,march
+235,English,Capital Letters,Capital_1,Choose the correct sentence.,i like english.,i Like English.,I like English.,I Like english.,I like English.
+236,English,Capital Letters,Capital_1,Which word is written correctly?,dHAKA,Dhaka,dhaka,DHAKA,Dhaka
+237,English,Capital Letters,Capital_1,Which sentence is correct?,Rahim And Karim Are Friends.,rahim And Karim are friends.,rahim and karim are friends.,Rahim and Karim are friends.,Rahim and Karim are friends.
+238,English,Capital Letters,Capital_1,Which word should start with a capital letter?,tree,ball,sunday,book,sunday
+239,English,Capital Letters,Capital_1,Choose the correct sentence.,we Went to Chittagong.,we went to chittagong.,We went to Chittagong.,We went to chittagong.,We went to Chittagong.
+240,English,Capital Letters,Capital_1,Which word is a proper name and needs a capital letter?,girl,rahim,city,boy,rahim
+241,English,Capital Letters,Capital_1,Which sentence is correct?,my birthday is in july.,My birthday is in July.,my Birthday is in July.,My Birthday is in july.,My birthday is in July.
+242,English,Capital Letters,Capital_1,Which sentence uses capitals correctly?,i saw the buriganga river.,I Saw the Buriganga river.,I saw the Buriganga River.,i saw the Buriganga River.,I saw the Buriganga River.
+243,English,Capital Letters,Capital_1,Which word should start with a capital letter?,teacher,april,student,class,april
+244,English,Capital Letters,Capital_1,Choose the correct sentence.,My favorite subject is Math.,my favorite subject is math.,my favorite Subject is Math.,My Favorite Subject Is Math.,My favorite subject is Math.
+245,English,Capital Letters,Capital_1,Which sentence is written correctly?,The president Lives in dhaka.,the President lives in Dhaka.,The President lives in Dhaka.,the president lives in dhaka.,The President lives in Dhaka.
+246,English,Capital Letters,Capital_1,What type of letter should begin a sentence?,capital letter,symbol,small letter,number,capital letter
+247,English,Capital Letters,Capital_2,Which sentence is written correctly?,My Friend lives in khulna.,My friend lives in Khulna.,my Friend Lives in Khulna.,my friend lives in khulna.,My friend lives in Khulna.
+248,English,Capital Letters,Capital_2,Which word should begin with a capital letter?,river,august,pencil,chair,august
+249,English,Capital Letters,Capital_2,Choose the correct sentence.,I went to school early.,i went to school early.,I Went To School Early.,i Went to school early.,I went to school early.
+250,English,Capital Letters,Capital_2,Which name is written correctly?,SALIM,salim,sALIM,Salim,Salim
+251,English,Capital Letters,Capital_2,Which sentence is correct?,my Birthday is in December.,my birthday is in december.,My Birthday is in december.,My birthday is in December.,My birthday is in December.
+252,English,Capital Letters,Capital_2,Which word should start with a capital letter?,tuesday,book,door,table,tuesday
+253,English,Capital Letters,Capital_2,Choose the correct sentence.,we Visited sylhet last year.,We visited Sylhet last year.,We Visited Sylhet Last Year.,we visited sylhet last year.,We visited Sylhet last year.
+254,English,Capital Letters,Capital_2,Which country name should begin with a capital letter?,india,pen,bag,tree,india
+255,English,Capital Letters,Capital_2,Which sentence is written correctly?,RAHIM likes cricket.,Rahim likes cricket.,rahim Likes Cricket.,rahim likes cricket.,Rahim likes cricket.
+256,English,Capital Letters,Capital_2,Which month should start with a capital letter?,mango,banana,november,apple,november
+257,English,Capital Letters,Capital_2,Choose the correct sentence.,my Favorite city is Dhaka.,My favorite city is Dhaka.,My Favorite City Is Dhaka.,my favorite city is dhaka.,My favorite city is Dhaka.
+258,English,Capital Letters,Capital_2,Which word is written correctly?,Bangladesh,bangladesh,BANGLADESH,bANGLADESH,Bangladesh
+259,English,Capital Letters,Capital_2,Which sentence is correct?,The meeting is on Friday.,the meeting is on friday.,the Meeting is on friday.,The Meeting Is On Friday.,The meeting is on Friday.
+260,English,Capital Letters,Capital_2,Which word should begin with a capital letter?,friend,teacher,june,student,june
+261,English,Capital Letters,Capital_2,Choose the correct sentence.,i Enjoy reading english books.,i enjoy reading english books.,I Enjoy Reading English Books.,I enjoy reading English books.,I enjoy reading English books.
+262,English,Capital Letters,Capital_2,Which sentence is written correctly?,salma And Rita are sisters.,salma and rita are sisters.,Salma And Rita Are Sisters.,Salma and Rita are sisters.,Salma and Rita are sisters.
+263,English,Capital Letters,Capital_2,Which day of the week should start with a capital letter?,house,dog,wednesday,car,wednesday
+264,English,Capital Letters,Capital_2,Choose the correct sentence.,We went to Rangamati during vacation.,we went to rangamati during vacation.,We Went To Rangamati During Vacation.,we Went to rangamati during vacation.,We went to Rangamati during vacation.
+265,English,Capital Letters,Capital_2,Which word needs a capital letter?,nila,friend,boy,girl,nila
+266,English,Capital Letters,Capital_2,Which sentence is correct?,My Uncle Lives In India.,My uncle lives in India.,my Uncle lives in india.,my uncle lives in india.,My uncle lives in India.
+267,English,Capital Letters,Capital_2,Choose the correct sentence.,the Padma river is very long.,the padma river is very long.,The padma River is very long.,The Padma River is very long.,The Padma River is very long.
+268,English,Capital Letters,Capital_2,Which word should start with a capital letter?,september,class,board,lesson,september
+269,English,Capital Letters,Capital_2,Which sentence is written correctly?,i met mr. hasan yesterday.,i Met mr. Hasan yesterday.,I Met Mr. Hasan Yesterday.,I met Mr. Hasan yesterday.,I met Mr. Hasan yesterday.
+270,English,Capital Letters,Capital_2,Which sentence uses capitals correctly?,My school is in Gazipur.,My School Is In Gazipur.,my school is in gazipur.,my School is in gazipur.,My school is in Gazipur.
+271,English,Capital Letters,Capital_2,"""What type of letter is used for names of people, places, months, and days?""",capital letter,symbol,number,small letter,capital letter
+272,English,Capital Letters,Capital_3,Which sentence is written correctly?,My Brother Studies In Rajshahi.,my Brother studies in rajshahi.,My brother studies in Rajshahi.,my brother studies in rajshahi.,My brother studies in Rajshahi.
+273,English,Capital Letters,Capital_3,Which word should begin with a capital letter?,october,clock,eraser,desk,october
+274,English,Capital Letters,Capital_3,Choose the correct sentence.,I have a new bicycle.,I Have A New Bicycle.,i Have a new bicycle.,i have a new bicycle.,I have a new bicycle.
+275,English,Capital Letters,Capital_3,Which name is written correctly?,kARIM,karim,Karim,KARIM,Karim
+276,English,Capital Letters,Capital_3,Which sentence is correct?,my Favorite month is may.,My Favorite Month Is May.,my favorite month is may.,My favorite month is May.,My favorite month is May.
+277,English,Capital Letters,Capital_3,Which word should start with a capital letter?,saturday,ball,door,book,saturday
+278,English,Capital Letters,Capital_3,Choose the correct sentence.,We Visited Bandarban Last Winter.,we visited bandarban last winter.,We visited Bandarban last winter.,we Visited bandarban last winter.,We visited Bandarban last winter.
+279,English,Capital Letters,Capital_3,Which country name should begin with a capital letter?,pen,nepal,table,chair,nepal
+280,English,Capital Letters,Capital_3,Which sentence is written correctly?,Nila likes drawing pictures.,NILA likes drawing pictures.,nila likes drawing pictures.,nila Likes Drawing Pictures.,Nila likes drawing pictures.
+281,English,Capital Letters,Capital_3,Which month should start with a capital letter?,mango,orange,apple,february,february
+282,English,Capital Letters,Capital_3,Choose the correct sentence.,My cousin lives in Barisal.,my Cousin lives in barisal.,My Cousin Lives In Barisal.,my cousin lives in barisal.,My cousin lives in Barisal.
+283,English,Capital Letters,Capital_3,Which word is written correctly?,China,cHINA,china,CHINA,China
+284,English,Capital Letters,Capital_3,Which sentence is correct?,The exam is on Monday.,the Exam is on monday.,The Exam Is On Monday.,the exam is on monday.,The exam is on Monday.
+285,English,Capital Letters,Capital_3,Which word should begin with a capital letter?,class,april,teacher,friend,april
+286,English,Capital Letters,Capital_3,Choose the correct sentence.,I enjoy learning Mathematics.,i Enjoy learning mathematics.,I Enjoy Learning Mathematics.,i enjoy learning mathematics.,I enjoy learning Mathematics.
+287,English,Capital Letters,Capital_3,Which sentence is written correctly?,Rabeya and Sumaiya are classmates.,rabeya And Sumaiya are classmates.,rabeya and sumaiya are classmates.,Rabeya And Sumaiya Are Classmates.,Rabeya and Sumaiya are classmates.
+288,English,Capital Letters,Capital_3,Which day of the week should start with a capital letter?,car,thursday,house,tree,thursday
+289,English,Capital Letters,Capital_3,Choose the correct sentence.,we traveled to cox's bazar by bus.,We traveled to Cox's Bazar by bus.,We Traveled To Cox's Bazar By Bus.,we Traveled to cox's bazar by bus.,We traveled to Cox's Bazar by bus.
+290,English,Capital Letters,Capital_3,Which word needs a capital letter?,boy,girl,friend,rahima,rahima
+291,English,Capital Letters,Capital_3,Which sentence is correct?,My Aunt Works In Pakistan.,my Aunt works in pakistan.,my aunt works in pakistan.,My aunt works in Pakistan.,My aunt works in Pakistan.
+292,English,Capital Letters,Capital_3,Choose the correct sentence.,The jamuna River flows through Bangladesh.,The Jamuna River flows through Bangladesh.,the Jamuna river flows through bangladesh.,the jamuna river flows through bangladesh.,The Jamuna River flows through Bangladesh.
+293,English,Capital Letters,Capital_3,Which word should start with a capital letter?,student,july,lesson,classroom,july
+294,English,Capital Letters,Capital_3,Which sentence is written correctly?,I spoke to Mrs. Akter today.,i Spoke to mrs. Akter today.,I Spoke To Mrs. Akter Today.,i spoke to mrs. akter today.,I spoke to Mrs. Akter today.
+295,English,Capital Letters,Capital_3,Which sentence uses capitals correctly?,my School is near the padma river.,My School Is Near The Padma River.,my school is near the padma river.,My school is near the Padma River.,My school is near the Padma River.
+296,English,Capital Letters,Capital_3,Which type of word usually begins with a capital letter?,proper noun,common noun,adjective,verb,proper noun
+297,English,Be Verb,Be Verb_1,I _________ a student. (Be Verb),be,am,is,are,am
+298,English,Be Verb,Be Verb_1,She _________ my friend. (Be Verb),are,is,be,am,is
+299,English,Be Verb,Be Verb_1,They _________ playing football. (Be Verb),are,be,is,am,are
+300,English,Be Verb,Be Verb_1,He _________ very tall. (Be Verb),be,are,am,is,is
+301,English,Be Verb,Be Verb_1,We _________ happy today. (Be Verb),be,am,is,are,are
+302,English,Be Verb,Be Verb_1,You _________ a good student. (Be Verb),am,are,be,is,are
+303,English,Be Verb,Be Verb_1,The cat _________ sleeping. (Be Verb),be,is,am,are,is
+304,English,Be Verb,Be Verb_1,Rahim and Karim _________ brothers. (Be Verb),be,is,am,are,are
+305,English,Be Verb,Be Verb_1,The book _________ on the table. (Be Verb),are,be,am,is,is
+306,English,Be Verb,Be Verb_1,My parents _________ at home. (Be Verb),are,is,am,be,are
+307,English,Be Verb,Be Verb_1,Which word is a Be Verb?,is,play,jump,run,is
+308,English,Be Verb,Be Verb_1,Which word is a Be Verb?,sing,are,happy,book,are
+309,English,Be Verb,Be Verb_1,Which word is a Be Verb?,house,cat,tree,am,am
+310,English,Be Verb,Be Verb_1,"Pick out the Be Verb: ""She is reading a book.""",is,She,book,reading,is
+311,English,Be Verb,Be Verb_1,"Pick out the Be Verb: ""They are in the classroom.""",classroom,in,They,are,are
+312,English,Be Verb,Be Verb_1,"Pick out the Be Verb: ""I am hungry.""",am,very,I,hungry,am
+313,English,Be Verb,Be Verb_1,A Be Verb shows a state of _________.,jumping,singing,running,being,being
+314,English,Be Verb,Be Verb_1,The children _________ excited about the trip. (Be Verb),are,be,is,am,are
+315,English,Be Verb,Be Verb_1,My sister _________ a doctor. (Be Verb),is,are,be,am,is
+316,English,Be Verb,Be Verb_1,The flowers _________ beautiful. (Be Verb),am,be,is,are,are
+317,English,Be Verb,Be Verb_1,I _________ ready for the test. (Be Verb),are,be,am,is,am
+318,English,Be Verb,Be Verb_1,You _________ welcome. (Be Verb),am,are,is,be,are
+319,English,Be Verb,Be Verb_1,The bird _________ in the cage. (Be Verb),are,am,is,be,is
+320,English,Be Verb,Be Verb_1,We _________ classmates. (Be Verb),am,is,be,are,are
+321,English,Be Verb,Be Verb_1,Which are Be Verbs?,sing -  play,run -  jump,am -  is -  are,book -  pen,am -  is -  are
+322,English,Be Verb,Be Verb_2,I _________ very happy today. (Be Verb),is,am,be,are,am
+323,English,Be Verb,Be Verb_2,She _________ my elder sister. (Be Verb),be,am,is,are,is
+324,English,Be Verb,Be Verb_2,They _________ in the playground. (Be Verb),are,is,be,am,are
+325,English,Be Verb,Be Verb_2,He _________ a good football player. (Be Verb),are,is,be,am,is
+326,English,Be Verb,Be Verb_2,We _________ ready for the exam. (Be Verb),be,is,am,are,are
+327,English,Be Verb,Be Verb_2,The dog _________ barking loudly. (Be Verb),are,is,am,be,is
+328,English,Be Verb,Be Verb_2,The birds _________ flying in the sky. (Be Verb),are,am,be,is,are
+329,English,Be Verb,Be Verb_2,My father _________ at home now. (Be Verb),am,is,be,are,is
+330,English,Be Verb,Be Verb_2,You _________ my best friend. (Be Verb),are,am,be,is,are
+331,English,Be Verb,Be Verb_2,The books _________ on the shelf. (Be Verb),is,be,are,am,are
+332,English,Be Verb,Be Verb_2,Which word is a Be Verb?,run,are,book,jump,are
+333,English,Be Verb,Be Verb_2,Which word is a Be Verb?,sing,is,blue,pen,is
+334,English,Be Verb,Be Verb_2,Which word is a Be Verb?,am,play,cat,chair,am
+335,English,Be Verb,Be Verb_2,"Pick out the Be Verb: ""He is playing cricket.""",playing,cricket,He,is,is
+336,English,Be Verb,Be Verb_2,"Pick out the Be Verb: ""We are going to school.""",We,are,school,going,are
+337,English,Be Verb,Be Verb_2,"Pick out the Be Verb: ""I am reading a book.""",I,reading,am,book,am
+338,English,Be Verb,Be Verb_2,A Be Verb shows a state of _________.,thinking,playing,reading,being,being
+339,English,Be Verb,Be Verb_2,The baby _________ sleeping in the cradle. (Be Verb),is,am,are,be,is
+340,English,Be Verb,Be Verb_2,The students _________ very smart. (Be Verb),am,is,be,are,are
+341,English,Be Verb,Be Verb_2,My mother _________ cooking food. (Be Verb),is,are,am,be,is
+342,English,Be Verb,Be Verb_2,I _________ excited about the trip. (Be Verb),be,am,are,is,am
+343,English,Be Verb,Be Verb_2,You _________ always kind. (Be Verb),are,be,is,am,are
+344,English,Be Verb,Be Verb_2,The flowers _________ in the garden. (Be Verb),am,are,be,is,are
+345,English,Be Verb,Be Verb_2,Rahim and Karim _________ classmates. (Be Verb),be,am,is,are,are
+346,English,Be Verb,Be Verb_2,Which are Be Verbs?,sing -  dance,book -  pen,run -  go,is -  am -  are,is -  am -  are
+347,English,Be Verb,Be Verb_3,I _________ not afraid of the dark. (Be Verb),am,is,be,are,am
+348,English,Be Verb,Be Verb_3,She _________ interested in drawing pictures. (Be Verb),are,is,be,am,is
+349,English,Be Verb,Be Verb_3,They _________ waiting for the bus outside. (Be Verb),is,am,are,be,are
+350,English,Be Verb,Be Verb_3,The children _________ very excited about the trip tomorrow. (Be Verb),am,is,are,be,are
+351,English,Be Verb,Be Verb_3,He _________ always ready to help others. (Be Verb),be,are,am,is,is
+352,English,Be Verb,Be Verb_3,The weather _________ getting colder day by day. (Be Verb),are,is,be,am,is
+353,English,Be Verb,Be Verb_3,My friends _________ coming to my birthday party. (Be Verb),are,am,be,is,are
+354,English,Be Verb,Be Verb_3,The teacher _________ explaining the lesson clearly. (Be Verb),is,be,am,are,is
+355,English,Be Verb,Be Verb_3,The books _________ arranged neatly on the shelf. (Be Verb),am,are,is,be,are
+356,English,Be Verb,Be Verb_3,I _________ not happy with my result. (Be Verb),is,are,am,be,am
+357,English,Be Verb,Be Verb_3,Which sentence is correct?,He are a doctor.,He is a doctor.,He am a doctor.,He be a doctor.,He is a doctor.
+358,English,Be Verb,Be Verb_3,Which sentence is correct?,They are playing football.,They am playing football.,They is playing football.,They be playing football.,They are playing football.
+359,English,Be Verb,Be Verb_3,Which sentence is correct?,I be very tired.,I is very tired.,I are very tired.,I am very tired.,I am very tired.
+360,English,Be Verb,Be Verb_3,Which word is a Be Verb?,run,play,is run quickly,is,is
+361,English,Be Verb,Be Verb_3,Which word is a Be Verb?,going school,am,jump,book,am
+362,English,Be Verb,Be Verb_3,"Pick out the Be Verb: ""The cake is delicious.""",delicious,cake,is,The,is
+363,English,Be Verb,Be Verb_3,"Pick out the Be Verb: ""We are late for school.""",We,are,for,late,are
+364,English,Be Verb,Be Verb_3,"Pick out the Be Verb: ""I am feeling sick today.""",am,I,feeling,sick,am
+365,English,Be Verb,Be Verb_3,A Be Verb shows a state of _________.,action,place,being,time,being
+366,English,Be Verb,Be Verb_3,The sun _________ very bright today. (Be Verb),am,is,are,be,is
+367,English,Be Verb,Be Verb_3,The apples _________ fresh and red. (Be Verb),are,am,be,is,are
+368,English,Be Verb,Be Verb_3,You _________ not allowed to enter here. (Be Verb),is,be,am,are,are
+369,English,Be Verb,Be Verb_3,My brother and I _________ in the same school. (Be Verb),is,am,be,are,are
+370,English,Be Verb,Be Verb_3,The room _________ very clean after cleaning. (Be Verb),be,am,are,is,is
+371,English,Be Verb,Be Verb_3,She and her sister _________ very talented. (Be Verb),is,are,am,be,are

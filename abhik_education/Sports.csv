@@ -1,0 +1,76 @@
+﻿Id,Category,Set,Question,Option1,Option2,Option3,Option4,Correct_Option
+SPT1,Football,Level 1,How many players does a football team usually have on the field?,12,9,11,10,11
+SPT2,Football,Level 1,Which part of the body is generally not allowed to touch the ball during play?,Chest,Foot,Hand,Head,Hand
+SPT3,Football,Level 1,What is it called when a player scores a goal?,Run,Goal,Touchdown,Point,Goal
+SPT4,Football,Level 1,Who is allowed to use their hands inside their own penalty area?,Goalkeeper,Striker,Defender,Midfielder,Goalkeeper
+SPT5,Football,Level 1,How many halves are there in a standard football match?,1,2,4,3,2
+SPT6,Football,Level 1,What color card is shown for a serious foul that sends a player off the field?,Red,Yellow,Blue,Green,Red
+SPT7,Football,Level 1,What color card is usually a warning to a player?,White,Black,Yellow,Red,Yellow
+SPT8,Football,Level 1,What is the main objective of football?,Hold the ball,Make passes,Score goals,Run fastest,Score goals
+SPT9,Football,Level 1,Where does the match begin?,Goal area,Penalty area,Corner flag,Center circle,Center circle
+SPT10,Football,Level 1,What is awarded when the ball completely crosses the goal line after touching a defender last?,Throw-in,Corner kick,Free kick,Penalty kick,Corner kick
+SPT11,Football,Level 1,What is awarded when the ball goes out over the sideline?,Corner kick,Goal kick,Penalty,Throw-in,Throw-in
+SPT12,Football,Level 1,Which player usually protects the goal?,Midfielder,Striker,Goalkeeper,Winger,Goalkeeper
+SPT13,Football,Level 1,How many points is a goal worth in football?,1,5,3,2,1
+SPT14,Football,Level 1,What happens if a player commits a foul?,Match ends,Goal awarded,Play stops,Team wins,Play stops
+SPT15,Football,Level 1,What is a penalty kick?,A corner kick,A goal kick,A kick from the center,A kick from the penalty spot,A kick from the penalty spot
+SPT16,Football,Level 1,What is the shape of a football?,Round,Oval,Triangle,Square,Round
+SPT17,Football,Level 1,Which foot skill helps move the ball toward the goal?,Throwing,Dribbling,Catching,Blocking,Dribbling
+SPT18,Football,Level 1,What is the area in front of the goal called?,Penalty area,Sideline,Corner area,Center circle,Penalty area
+SPT19,Football,Level 1,What is the person who enforces the rules called?,Captain,Coach,Referee,Manager,Referee
+SPT20,Football,Level 1,What does a referee use to stop play?,Bell,Flag,Horn,Whistle,Whistle
+SPT21,Football,Level 1,What is a match called when neither team scores?,Win,Loss,Penalty,Draw 0-0,Draw 0-0
+SPT22,Football,Level 1,What is awarded after a foul outside the penalty area?,Free kick,Throw-in,Corner kick,Goal kick,Free kick
+SPT23,Football,Level 1,What is the curved kick from the corner area called?,Penalty kick,Corner kick,Free kick,Goal kick,Corner kick
+SPT24,Football,Level 1,Which player often scores most of the goals?,Goalkeeper,Defender,Referee,Striker,Striker
+SPT25,Football,Level 1,How long is a standard football match excluding extra time?,90 minutes,60 minutes,70 minutes,80 minutes,90 minutes
+SPT26,Football,Level 2,How many minutes are played in each half of a standard football match?,50,45,30,40,45
+SPT27,Football,Level 2,What is the name of the line that runs around the edge of the football field?,Touchline,Penalty line,Center line,Goal line,Touchline
+SPT28,Football,Level 2,Which player usually starts the match with the coin toss?,Captain,Coach,Referee,Goalkeeper,Captain
+SPT29,Football,Level 2,What is it called when a player kicks the ball to a teammate?,Passing,Tackling,Dribbling,Shooting,Passing
+SPT30,Football,Level 2,What is it called when a player moves with the ball while keeping control of it?,Marking,Heading,Passing,Dribbling,Dribbling
+SPT31,Football,Level 2,Which body part is commonly used to direct the ball without using the hands?,Head,Knee,Shoulder,Elbow,Head
+SPT32,Football,Level 2,What is awarded when the defending team kicks the ball over its own goal line?,Penalty,Corner kick,Goal kick,Throw-in,Corner kick
+SPT33,Football,Level 2,What is awarded when the attacking team kicks the ball over the opponent's goal line without scoring?,Throw-in,Penalty kick,Goal kick,Corner kick,Goal kick
+SPT34,Football,Level 2,What is the area at the center of the field called?,Penalty area,Center circle,Goal area,Corner area,Center circle
+SPT35,Football,Level 2,Which official helps the referee by signaling offsides and throw-ins?,Goalkeeper,Assistant referee,Coach,Captain,Assistant referee
+SPT36,Football,Level 2,What is the term for stopping an opponent from advancing with the ball?,Tackling,Heading,Passing,Shooting,Tackling
+SPT37,Football,Level 2,What is a team called that prevents goals and protects its own goal?,Defense,Officials,Fans,Attack,Defense
+SPT38,Football,Level 2,What is the term for kicking the ball toward the goal to score?,Tackling,Marking,Passing,Shooting,Shooting
+SPT39,Football,Level 2,Which player often plays closest to the opponent's goal?,Referee,Striker,Defender,Goalkeeper,Striker
+SPT40,Football,Level 2,What happens if the score is tied at the end of many league matches?,Draw,Automatic win,Penalty shootout,Replay,Draw
+SPT41,Football,Level 2,How many corner flags are there on a football field?,2,8,6,4,4
+SPT42,Football,Level 2,What is worn by the goalkeeper that is different from other players?,Boots,Helmet,Socks,Gloves,Gloves
+SPT43,Football,Level 2,What is the main job of a defender?,Coach the team,Score goals,Referee the game,Protect the goal,Protect the goal
+SPT44,Football,Level 2,What is the main job of a midfielder?,Keep score,Link defense and attack,Only defend,Only score,Link defense and attack
+SPT45,Football,Level 2,What is a football field usually covered with?,Grass or turf,Sand,Water,Concrete,Grass or turf
+SPT46,Football,Level 2,Which team wins the match?,Team with more goals,Team with more players,Team with more fans,Team with more passes,Team with more goals
+SPT47,Football,Level 2,What is a substitution in football?,Changing the field,Changing the referee,Changing the ball,Changing a player,Changing a player
+SPT48,Football,Level 2,What is the name of the area where substitutes sit?,Classroom,Bench area,Goal area,Penalty area,Bench area
+SPT49,Football,Level 2,What is the first action to start a match called?,Throw-in,Goal kick,Kick-off,Corner kick,Kick-off
+SPT50,Football,Level 2,What is shown when a player behaves badly or repeatedly breaks rules?,A trophy,A whistle,A card,A flag,A card
+SPT51,Football,Level 3,What is the maximum number of players a team usually has on the field during play?,12,11,10,9,11
+SPT52,Football,Level 3,What is the name of the person who trains and manages the team?,Goalkeeper,Coach,Captain,Referee,Coach
+SPT53,Football,Level 3,What is awarded if a player commits a foul inside their own penalty area?,Corner kick,Throw-in,Penalty kick,Goal kick,Penalty kick
+SPT54,Football,Level 3,Where is a penalty kick taken from?,Center circle,Penalty spot,Touchline,Corner area,Penalty spot
+SPT55,Football,Level 3,What is the term for a player scoring three goals in one match?,Treble,Hat-trick,Double,Triple pass,Hat-trick
+SPT56,Football,Level 3,What is the term for kicking the ball with the head?,Passing,Heading,Tackling,Dribbling,Heading
+SPT57,Football,Level 3,What does the referee do when a goal is scored?,Ends the match,Signals the goal,Shows a card,Changes the ball,Signals the goal
+SPT58,Football,Level 3,What is the name of the competition held every four years for national teams?,FA Cup,World Cup,Premier League,Champions League,World Cup
+SPT59,Football,Level 3,Which country won the first FIFA World Cup in 1930?,Germany,Uruguay,Brazil,Argentina,Uruguay
+SPT60,Football,Level 3,What is the shape of the penalty area?,Rectangle,Triangle,Circle,Oval,Rectangle
+SPT61,Football,Level 3,What is the name of the line in the middle of the field?,Halfway line,Goal line,Penalty line,Touchline,Halfway line
+SPT62,Football,Level 3,How many goalposts does each goal have?,3,1,2,4,2
+SPT63,Football,Level 3,What connects the two goalposts at the top?,Rope,Flag,Net,Crossbar,Crossbar
+SPT64,Football,Level 3,What is the main purpose of the net behind the goal?,Decoration,Mark the field,Hold flags,Stop the ball,Stop the ball
+SPT65,Football,Level 3,Which player wears the captain's armband?,Coach,Goalkeeper,Captain,Referee,Captain
+SPT66,Football,Level 3,What is the term for a match played between two teams?,Practice,Tournament,Fixture,League,Fixture
+SPT67,Football,Level 3,What is added at the end of a half to make up for lost time?,Added time,Extra time,Penalty time,Rest time,Added time
+SPT68,Football,Level 3,What is the name of the competition between club teams from Europe?,Copa America,Euro Cup,Champions League,World Cup,Champions League
+SPT69,Football,Level 3,What is a clean sheet in football?,No goals conceded,No yellow cards,No substitutions,No fouls committed,No goals conceded
+SPT70,Football,Level 3,What is the name of the protective gear worn on the lower legs?,Elbow pads,Helmet,Gloves,Shin guards,Shin guards
+SPT71,Football,Level 3,What happens when the ball completely crosses the sideline?,Corner kick,Goal kick,Throw-in,Penalty kick,Throw-in
+SPT72,Football,Level 3,Which player is the only one allowed to handle the ball during play in their penalty area?,Midfielder,Goalkeeper,Captain,Defender,Goalkeeper
+SPT73,Football,Level 3,What is the name of the large international football organization?,ICC,IOC,NBA,FIFA,FIFA
+SPT74,Football,Level 3,Which card results in a player being sent off immediately?,Yellow card,Red card,Blue card,Green card,Red card
+SPT75,Football,Level 3,What is the objective of a football team during a match?,Score more goals than the opponent,Make the most passes,Avoid all fouls,Keep possession forever,Score more goals than the opponent

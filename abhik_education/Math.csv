@@ -1,6 +1,7 @@
 id,Category,Set,Question,Option1,Option2,Option3,Option4,Correct_Option
-MAT1,Addition,Level 1,What is 2 + 3 ?,4,5,6,7,Option2
-MAT2,Addition,Level 1,What is 1 + 4 ?,3,4,5,6,Option3
-MAT3,Addition,Level 1,What is 5 + 2 ?,6,7,8,9,Option2
-MAT4,Addition,Level 1,What is 3 + 6 ?,8,9,10,11,Option2
-MAT5,Addition,Level 1,What is 4 + 4 ?,6,7,8,9,Option3
+MAT1,Addition,Level 1,What is 2 + 3 ?,4,5,6,7,5
+MAT2,Addition,Level 1,What is 1 + 4 ?,3,4,5,6,5
+MAT3,Addition,Level 1,What is 5 + 2 ?,6,7,8,9,7
+MAT4,Addition,Level 1,What is 3 + 6 ?,8,9,10,11,9
+MAT5,Addition,Level 1,What is 4 + 4 ?,6,7,8,9,8
+MAT6,Addition,Level 2,What is 9 + 9 ?,16,17,18,19,18

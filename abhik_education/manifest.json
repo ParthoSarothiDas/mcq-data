@@ -1,10 +1,12 @@
 {
-  "version": 5,
+  "version": 6,
   "subjects": [
+    "Bengali",
     "English",
+    "Flutter",
     "Math",
     "Science",
     "History",
-    "Flutter"
+    
   ]
 }

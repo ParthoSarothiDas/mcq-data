@@ -1,0 +1,773 @@
+﻿id,Category,Set,Question,Option1,Option2,Option3,Option4,Correct_Option
+SCI1,Astronomy,Earth & Moon,What shape is Earth?,Round,Square,Flat,Triangle,Round
+SCI2,Astronomy,Earth & Moon,What is Earth's natural satellite?,Venus,Sun,Moon,Mars,Moon
+SCI3,Astronomy,Earth & Moon,How long does Earth take to rotate once?,24 hrs,48 hrs,12 hrs,365 days,24 hrs
+SCI4,Astronomy,Earth & Moon,"Which planet is called the ""Blue Planet""?",Neptune,Mars,Earth,Venus,Earth
+SCI5,Astronomy,Earth & Moon,What causes day and night?,Moon's orbit,Sun's movement,Clouds,Earth's rotation,Earth's rotation
+SCI6,Astronomy,Earth & Moon,How many continents are on Earth?,5,7,6,8,7
+SCI7,Astronomy,Earth & Moon,What is the largest ocean on Earth?,Atlantic,Pacific,Arctic,Indian,Pacific
+SCI8,Astronomy,Earth & Moon,Which layer do we live on?,Inner core,Core,Mantle,Crust,Crust
+SCI9,Astronomy,Earth & Moon,What causes ocean tides?,Rain,Moon's gravity,Earth's spin,Wind,Moon's gravity
+SCI10,Astronomy,Earth & Moon,Which is Earth's closest star?,Moon,Sirius,Polaris,Sun,Sun
+SCI11,Astronomy,Earth & Moon,How long does the Moon take to orbit Earth?,7 days,27 days,14 days,365 days,27 days
+SCI12,Astronomy,Earth & Moon,What causes lunar phases?,Earth's shadow,Clouds,Sun's rotation,Moon's orbit,Moon's orbit
+SCI13,Astronomy,Earth & Moon,What is a solar eclipse?,Earth blocks Sun,Stars block Sun,Sun blocks Moon,Moon blocks Sun,Moon blocks Sun
+SCI14,Astronomy,Earth & Moon,What is a lunar eclipse?,Moon blocks Sun,Moon blocks Earth,Sun blocks Moon,Earth blocks Moon,Earth blocks Moon
+SCI15,Astronomy,Earth & Moon,Which gas is most in Earth's atmosphere?,Carbon dioxide,Oxygen,Nitrogen,Hydrogen,Nitrogen
+SCI16,Astronomy,Earth & Moon,What is the Moon's surface covered with?,Rocks & dust,Grass,Water,Ice,Rocks & dust
+SCI17,Astronomy,Earth & Moon,Which side of the Moon always faces Earth?,Far side,Near side,Changes,Both sides,Near side
+SCI18,Astronomy,Earth & Moon,What is Earth's axis tilt?,90°,0°,45°,23.5°,23.5°
+SCI19,Astronomy,Earth & Moon,Why do seasons occur?,Sun's movement,Earth's rotation,Earth's tilt,Moon's orbit,Earth's tilt
+SCI20,Astronomy,Earth & Moon,What is the Moon's gravity compared to Earth?,Very Stronger,Stronger,Weaker,Same,Weaker
+SCI21,Astronomy,Earth & Moon,What is the diameter of Earth?,~1000 km,~100000 km,~40000 km,~12700 km,~12700 km
+SCI22,Astronomy,Earth & Moon,What is the diameter of the Moon?,~1000 km,~40000 km,~3500 km,~12700 km,~3500 km
+SCI23,Astronomy,Earth & Moon,Which mission first landed humans on the Moon?,Apollo 11,Apollo 17,Apollo 13,Apollo 1,Apollo 11
+SCI24,Astronomy,Earth & Moon,Who was the first person to walk on the Moon?,Michael Collins,Buzz Aldrin,Neil Armstrong,Yuri Gagarin,Neil Armstrong
+SCI25,Astronomy,Galaxies,What is a galaxy?,Moon,Star cluster,Planet,Large star system,Large star system
+SCI26,Astronomy,Galaxies,Which galaxy contains Earth?,Triangulum,Whirlpool,Andromeda,Milky Way,Milky Way
+SCI27,Astronomy,Galaxies,What shape is the Milky Way?,Spiral,Ring,Irregular,Elliptical,Spiral
+SCI28,Astronomy,Galaxies,What is the closest galaxy to the Milky Way?,Triangulum,Andromeda,Sombrero,Whirlpool,Andromeda
+SCI29,Astronomy,Galaxies,What do galaxies contain?,Planets,All of these,Stars,Gas & dust,All of these
+SCI30,Astronomy,Galaxies,Which galaxy is visible as a band of light?,Triangulum,Milky Way,Whirlpool,Andromeda,Milky Way
+SCI31,Astronomy,Galaxies,What type of galaxy is Andromeda?,Elliptical,Irregular,Spiral,Ring,Spiral
+SCI32,Astronomy,Galaxies,What is the center of most galaxies?,Black hole,Planet,Nebula,Star,Black hole
+SCI33,Astronomy,Galaxies,Which galaxy is nearest to us after Andromeda?,Triangulum,Whirlpool,Sombrero,Cartwheel,Triangulum
+SCI34,Astronomy,Galaxies,What is the Local Group?,Moon system,Star cluster,Galaxy cluster,Planet group,Galaxy cluster
+SCI35,Astronomy,Galaxies,How many stars are in the Milky Way?,Thousands,Trillions,Millions,Billions,Billions
+SCI36,Astronomy,Galaxies,What is an elliptical galaxy?,Spiral galaxy,Round galaxy,Irregular galaxy,Ring galaxy,Round galaxy
+SCI37,Astronomy,Galaxies,What is an irregular galaxy?,Ring shape,Round shape,Spiral shape,No clear shape,No clear shape
+SCI38,Astronomy,Galaxies,Which galaxy is colliding with the Milky Way?,Whirlpool,Sombrero,Triangulum,Andromeda,Andromeda
+SCI39,Astronomy,Galaxies,What is a galaxy cluster?,Group of stars,Group of moons,Group of galaxies,Group of planets,Group of galaxies
+SCI40,Astronomy,Galaxies,What is the Virgo Cluster?,Galaxy cluster,Star cluster,Moon group,Planet system,Galaxy cluster
+SCI41,Astronomy,Galaxies,What is the largest galaxy in the Local Group?,Milky Way,Triangulum,Andromeda,Sombrero,Andromeda
+SCI42,Astronomy,Galaxies,What is the Sombrero Galaxy known for?,Collisions,Ring shape,Spiral arms,Bright nucleus,Bright nucleus
+SCI43,Astronomy,Galaxies,What is the Cartwheel Galaxy known for?,Spiral arms,Ring shape,Elliptical form,Small size,Ring shape
+SCI44,Astronomy,Galaxies,What is the Magellanic Clouds?,Planets,Nebulae,Star clusters,Dwarf galaxies,Dwarf galaxies
+SCI45,Astronomy,Galaxies,What is dark matter in galaxies?,Gas clouds,Invisible mass,Planets,Visible stars,Invisible mass
+SCI46,Astronomy,Galaxies,What is a supermassive black hole?,Galaxy center black hole,Huge star,Nebula,Planet,Galaxy center black hole
+SCI47,Astronomy,Galaxies,What is the Great Attractor?,Gravitational anomaly,Galaxy,Star cluster,Planet,Gravitational anomaly
+SCI48,Astronomy,Galaxies,What is the largest known galaxy?,Triangulum,Milky Way,Andromeda,IC 1101,IC 1101
+SCI49,Astronomy,Galaxies,What is the fate of Milky Way and Andromeda?,Collision,Disappearance,Shrinking,Separation,Collision
+SCI50,Astronomy,Random,What is the center of our Solar System?,Sun,Moon,Earth,Mars,Sun
+SCI51,Astronomy,Random,How many planets are there in our Solar System?,7,9,10,8,8
+SCI52,Astronomy,Random,Which planet is known as the Red Planet?,Mars,Saturn,Jupiter,Venus,Mars
+SCI53,Astronomy,Random,Which is the largest planet in our Solar System?,Neptune,Jupiter,Saturn,Earth,Jupiter
+SCI54,Astronomy,Random,What is the name of our galaxy?,Black Eye,Andromeda,Whirlpool,Milky Way,Milky Way
+SCI55,Astronomy,Random,Which planet is closest to the Sun?,Venus,Earth,Mercury,Mars,Mercury
+SCI56,Astronomy,Random,Which planet is known for its beautiful rings?,Neptune,Saturn,Uranus,Jupiter,Saturn
+SCI57,Astronomy,Random,What is the natural satellite of Earth called?,Moon,Sun,Mars,Star,Moon
+SCI58,Astronomy,Random,What do we call a group of stars forming a pattern?,Meteor,Asteroid,Comet,Constellation,Constellation
+SCI59,Astronomy,Random,Which planet is known as the Blue Planet?,Neptune,Earth,Uranus,Venus,Earth
+SCI60,Astronomy,Random,What is the Sun mainly made of?,Rock,Ice,Metal,Gas,Gas
+SCI61,Astronomy,Random,Which planet is the hottest in our Solar System?,Mars,Jupiter,Mercury,Venus,Venus
+SCI62,Astronomy,Random,What do we call a rock that enters Earth's atmosphere and burns up?,Meteor,Asteroid,Star,Comet,Meteor
+SCI63,Astronomy,Random,What is the name of the first man to walk on the Moon?,Neil Armstrong,Michael Collins,Buzz Aldrin,Yuri Gagarin,Neil Armstrong
+SCI64,Astronomy,Random,Which planet is farthest from the Sun?,Saturn,Uranus,Pluto,Neptune,Neptune
+SCI65,Astronomy,Random,What does NASA stand for?,National Aeronautics and Space Administration,North American Science Association,National Air and Space Agency,National Aerospace System Agency,National Aeronautics and Space Administration
+SCI66,Astronomy,Random,What is a comet made of?,Rock only,Metal,Gas and fire,Ice and dust,Ice and dust
+SCI67,Astronomy,Random,What do astronauts wear in space?,Diving suit,Space suit,Heat jacket,Rocket coat,Space suit
+SCI68,Astronomy,Random,What is the name of the first artificial satellite launched into space?,Hubble,Voyager 1,Apollo 11,Sputnik 1,Sputnik 1
+SCI69,Astronomy,Random,What do we call a huge explosion of a star?,Galaxy,Supernova,Meteor shower,Nebula,Supernova
+SCI70,Astronomy,Random,What is the largest planet in our solar system?,Mars,Earth,Jupiter,Venus,Jupiter
+SCI71,Astronomy,Solar System,What is at the center of our Solar System?,Moon,Mars,Sun,Earth,Sun
+SCI72,Astronomy,Solar System,How many planets are in the Solar System?,9,8,7,10,8
+SCI73,Astronomy,Solar System,Which planet is closest to the Sun?,Earth,Mercury,Mars,Venus,Mercury
+SCI74,Astronomy,Solar System,Which planet do we live on?,Jupiter,Venus,Earth,Mars,Earth
+SCI75,Astronomy,Solar System,Which planet is known as the Red Planet?,Mars,Saturn,Neptune,Venus,Mars
+SCI76,Astronomy,Solar System,Which is the largest planet in the Solar System?,Venus,Jupiter,Mars,Earth,Jupiter
+SCI77,Astronomy,Solar System,Which planet has beautiful rings?,Mars,Mercury,Earth,Saturn,Saturn
+SCI78,Astronomy,Solar System,Which planet is famous for being very hot?,Neptune,Uranus,Mars,Venus,Venus
+SCI79,Astronomy,Solar System,Which planet is farthest from the Sun?,Jupiter,Saturn,Neptune,Earth,Neptune
+SCI80,Astronomy,Solar System,What does the Sun provide to planets?,Only sound,Only wind,Only water,Light and heat,Light and heat
+SCI81,Astronomy,Solar System,Which four planets are rocky inner planets?,Mars Jupiter Saturn Neptune,Mercury Venus Earth Mars,Earth Moon Mars Venus,Jupiter Saturn Uranus Neptune,Mercury Venus Earth Mars
+SCI82,Astronomy,Solar System,Which planets are called gas giants?,Uranus Neptune,Mercury Venus,Earth Mars,Jupiter Saturn,Jupiter Saturn
+SCI83,Astronomy,Solar System,Which planets are called ice giants?,Jupiter Saturn,Mercury Venus,Earth Mars,Uranus Neptune,Uranus Neptune
+SCI84,Astronomy,Solar System,What path do planets follow around the Sun?,Orbits,Straight lines,Zigzags,Spirals always,Orbits
+SCI85,Astronomy,Solar System,What force keeps planets orbiting the Sun?,Gravity,Friction,Magnetism,Wind,Gravity
+SCI86,Astronomy,Solar System,Which object is a dwarf planet?,Venus,Pluto,Mars,Earth,Pluto
+SCI87,Astronomy,Solar System,What is the asteroid belt located between?,Mars and Jupiter,Venus and Earth,Earth and Mars,Jupiter and Saturn,Mars and Jupiter
+SCI88,Astronomy,Solar System,Which planet rotates on its side?,Mars,Venus,Uranus,Earth,Uranus
+SCI89,Astronomy,Solar System,Which planet has the shortest year?,Neptune,Mercury,Saturn,Earth,Mercury
+SCI90,Astronomy,Solar System,Which planet has the longest year?,Mercury,Earth,Neptune,Mars,Neptune
+SCI91,Astronomy,Solar System,Why does Mercury have a short year?,It has moons,It spins backward,It is closest to Sun and orbits fastest,It is small,It is closest to Sun and orbits fastest
+SCI92,Astronomy,Solar System,Which planet has the strongest storms known in Solar System?,Mercury,Neptune,Venus,Earth,Neptune
+SCI93,Astronomy,Solar System,Why is Venus hotter than Mercury?,No rotation,Strong greenhouse atmosphere,Made of fire,Closer than Mercury only,Strong greenhouse atmosphere
+SCI94,Astronomy,Solar System,Which planet has the Great Red Spot storm?,Mars,Jupiter,Saturn,Uranus,Jupiter
+SCI95,Astronomy,Solar System,Why are outer planets colder than inner planets?,They are farther from the Sun,They spin slower,They have rings,They are darker,They are farther from the Sun
+SCI96,Astronomy,Space Exploration,Who was the first human in space?,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,John Glenn,Yuri Gagarin
+SCI97,Astronomy,Space Exploration,Which country launched the first satellite?,China,USSR,USA,India,USSR
+SCI98,Astronomy,Space Exploration,What was the first satellite called?,Apollo,Sputnik 1,Hubble,Voyager,Sputnik 1
+SCI99,Astronomy,Space Exploration,Who was the first person to walk on the Moon?,Michael Collins,Buzz Aldrin,Yuri Gagarin,Neil Armstrong,Neil Armstrong
+SCI100,Astronomy,Space Exploration,Which mission landed humans on the Moon?,Apollo 17,Apollo 11,Apollo 1,Apollo 13,Apollo 11
+SCI101,Astronomy,Space Exploration,What is NASA's space telescope called?,Cassini,Hubble,Galileo,Voyager,Hubble
+SCI102,Astronomy,Space Exploration,Which planet did the rover Curiosity explore?,Jupiter,Saturn,Venus,Mars,Mars
+SCI103,Astronomy,Space Exploration,What is the International Space Station (ISS)?,Satellite,Rocket,Telescope,Space habitat,Space habitat
+SCI104,Astronomy,Space Exploration,Which shuttle carried Hubble into orbit?,Atlantis,Discovery,Columbia,Challenger,Discovery
+SCI105,Astronomy,Space Exploration,Which country launched the Chang'e lunar missions?,Japan,China,USA,Russia,China
+SCI106,Astronomy,Space Exploration,What is the purpose of space probes?,Build rockets,Carry humans,Study planets,Make fuel,Study planets
+SCI107,Astronomy,Space Exploration,Which spacecraft explored Jupiter's moons?,Cassini,Galileo,Hubble,Voyager,Galileo
+SCI108,Astronomy,Space Exploration,What is the name of SpaceX's rocket?,Saturn V,Soyuz,Atlas V,Falcon 9,Falcon 9
+SCI109,Astronomy,Space Exploration,Which rover first explored Mars?,Sojourner,Perseverance,Curiosity,Spirit,Sojourner
+SCI110,Astronomy,Space Exploration,What is the main goal of the James Webb Telescope?,Study galaxies,Study early universe,Study stars,Study planets,Study early universe
+SCI111,Astronomy,Space Exploration,Which astronaut stayed longest in space?,Neil Armstrong,Buzz Aldrin,Valeri Polyakov,John Glenn,Valeri Polyakov
+SCI112,Astronomy,Space Exploration,What is the name of India's Mars mission?,Mangalyaan,Apollo,Shenzhou,Chandrayaan,Mangalyaan
+SCI113,Astronomy,Space Exploration,Which spacecraft studied Saturn's rings?,Voyager,Galileo,Cassini,Hubble,Cassini
+SCI114,Astronomy,Space Exploration,What is the purpose of the Artemis program?,Explore Mars,Build ISS,Return humans to Moon,Study asteroids,Return humans to Moon
+SCI115,Astronomy,Space Exploration,Which company built Starship?,NASA,Roscosmos,SpaceX,Blue Origin,SpaceX
+SCI116,Astronomy,Space Exploration,What is a space shuttle?,Probe,Rocket,Satellite,Reusable spacecraft,Reusable spacecraft
+SCI117,Astronomy,Space Exploration,Which spacecraft left the solar system?,Voyager 1,Cassini,Hubble,Apollo 11,Voyager 1
+SCI118,Astronomy,Space Exploration,What is the purpose of the Mars Perseverance rover?,Orbit Earth,Build rockets,Study asteroids,Search for life,Search for life
+SCI119,Astronomy,Space Exploration,Which rocket launched Apollo missions?,Saturn V,Soyuz,Atlas V,Falcon 9,Saturn V
+SCI120,Astronomy,Space Exploration,What is the future goal of Mars missions?,Launch satellites,Study Moon,Human settlement,Build ISS,Human settlement
+SCI121,Astronomy,Stars,What is the closest star to Earth?,Polaris,Vega,Sirius,Sun,Sun
+SCI122,Astronomy,Stars,What do stars produce?,Water,Rocks,Soil,Light,Light
+SCI123,Astronomy,Stars,What color is the Sun?,Green,Blue,Yellow,Red,Yellow
+SCI124,Astronomy,Stars,Which star is called the North Star?,Vega,Betelgeuse,Polaris,Sirius,Polaris
+SCI125,Astronomy,Stars,What are stars mostly made of?,Iron,Hydrogen,Carbon,Oxygen,Hydrogen
+SCI126,Astronomy,Stars,Which is the brightest star in the night sky?,Sirius,Rigel,Vega,Polaris,Sirius
+SCI127,Astronomy,Stars,What galaxy contains our Sun?,Andromeda,Triangulum,Milky Way,Whirlpool,Milky Way
+SCI128,Astronomy,Stars,What is a group of stars forming a pattern called?,Constellation,Nebula,Cluster,Galaxy,Constellation
+SCI129,Astronomy,Stars,What is the Sun classified as?,Asteroid,Star,Comet,Planet,Star
+SCI130,Astronomy,Stars,Which star is at the center of our solar system?,Vega,Sirius,Sun,Polaris,Sun
+SCI131,Astronomy,Stars,What is the life cycle stage of most stars?,Red giant,Main sequence,White dwarf,Supernova,Main sequence
+SCI132,Astronomy,Stars,What happens when a massive star dies?,Asteroid,Black hole,Planet,Moon,Black hole
+SCI133,Astronomy,Stars,Which element is formed in stars by fusion?,Uranium,Helium,Gold,Silver,Helium
+SCI134,Astronomy,Stars,What is a supernova?,Star birth,Star explosion,Star cooling,Star shrinking,Star explosion
+SCI135,Astronomy,Stars,What is a neutron star?,Asteroid,Galaxy,Small planet,Collapsed massive star,Collapsed massive star
+SCI136,Astronomy,Stars,Which star is known as Betelgeuse?,Blue giant,Neutron star,White dwarf,Red supergiant,Red supergiant
+SCI137,Astronomy,Stars,What is the temperature of the Sun's surface?,~1000°C,~100000°C,~5500°C,~10000°C,~5500°C
+SCI138,Astronomy,Stars,Which star is part of Orion's Belt?,Rigel,Polaris,Alnitak,Vega,Alnitak
+SCI139,Astronomy,Stars,What is a binary star system?,Star + planet,Star + moon,One star,Two stars orbiting,Two stars orbiting
+SCI140,Astronomy,Stars,Which star is the largest known?,Polaris,Sun,VY Canis Majoris,Sirius,VY Canis Majoris
+SCI141,Astronomy,Stars,What is a white dwarf?,Planet,Dead star remnant,New star,Comet,Dead star remnant
+SCI142,Astronomy,Stars,What is a pulsar?,Galaxy,Planet,Asteroid,Rotating neutron star,Rotating neutron star
+SCI143,Astronomy,Stars,What is stellar nucleosynthesis?,Star cooling,Star rotation,Star explosion,Formation of elements,Formation of elements
+SCI144,Astronomy,Stars,Which star is used for navigation in the Northern Hemisphere?,Sirius,Vega,Polaris,Rigel,Polaris
+SCI145,Astronomy,Stars,What is the Chandrasekhar limit?,Star temperature,Max mass of white dwarf,Star brightness,Galaxy size,Max mass of white dwarf
+SCI146,Chemistry,Acids & Bases,Which of these tastes sour usually?,Salt only,Acid,Metal,Base,Acid
+SCI147,Chemistry,Acids & Bases,Which of these is a common acid in lemons?,Calcium oxide,Citric acid,Ammonia,Sodium hydroxide,Citric acid
+SCI148,Chemistry,Acids & Bases,Which of these is a common base in soap?,Alkali acid,Metal,Gas,Base,Base
+SCI149,Chemistry,Acids & Bases,What color does blue litmus turn in acid?,Blue,Green,Red,Yellow,Red
+SCI150,Chemistry,Acids & Bases,What color does red litmus turn in base?,Red,Blue,Orange,White,Blue
+SCI151,Chemistry,Acids & Bases,What is the pH of a neutral solution?,7,0,1,14,7
+SCI152,Chemistry,Acids & Bases,Which substance is acidic?,Detergent,Vinegar,Soap solution,Baking soda,Vinegar
+SCI153,Chemistry,Acids & Bases,Which substance is basic?,Soap water,Orange juice,Vinegar,Lemon juice,Soap water
+SCI154,Chemistry,Acids & Bases,What do acids release in water?,Iron atoms,Hydrogen ions,Oxygen stones,Light waves,Hydrogen ions
+SCI155,Chemistry,Acids & Bases,What do bases release in water?,Hydroxide ions,Helium atoms,Carbon rocks,Salt dust,Hydroxide ions
+SCI156,Chemistry,Acids & Bases,What is an indicator?,Filter paper only,Substance showing acid/base change,Heat source,Metal rod,Substance showing acid/base change
+SCI157,Chemistry,Acids & Bases,Which indicator is made from turmeric commonly?,Turmeric indicator,Limewater,Steam test,Ink test,Turmeric indicator
+SCI158,Chemistry,Acids & Bases,What happens when acid reacts with base?,Magnetism,Freezing,Explosion always,Neutralization,Neutralization
+SCI159,Chemistry,Acids & Bases,Products of neutralization are usually ____,acid and base,salt and water,metal and gas,oil and water,salt and water
+SCI160,Chemistry,Acids & Bases,Which acid is found in stomach naturally?,Hydrochloric acid,Sulfuric acid,Nitric acid,Acetic acid,Hydrochloric acid
+SCI161,Chemistry,Acids & Bases,Why are antacids used?,Create rust,Reduce excess stomach acid,Increase acidity,Add sugar,Reduce excess stomach acid
+SCI162,Chemistry,Acids & Bases,Which has pH less than 7?,Base,Salt always,Neutral metal,Acid,Acid
+SCI163,Chemistry,Acids & Bases,Which has pH more than 7?,Neutral water,Acid,Base,Steam,Base
+SCI164,Chemistry,Acids & Bases,What gas may form when acid reacts with carbonate?,Carbon dioxide,Nitrogen,Helium,Hydrogen only,Carbon dioxide
+SCI165,Chemistry,Acids & Bases,Why should strong acids be handled carefully?,They can be corrosive,They are edible,They float,They are cold,They can be corrosive
+SCI166,Chemistry,Acids & Bases,Universal indicator shows ____,color range for pH,mass,sound,magnetism,color range for pH
+SCI167,Chemistry,Acids & Bases,Which acid is present in vinegar?,Acetic acid,Carbonic acid,Hydrochloric acid,Nitric acid,Acetic acid
+SCI168,Chemistry,Acids & Bases,Ammonia solution is usually ____,metallic,acidic,basic,neutral,basic
+SCI169,Chemistry,Acids & Bases,What is caustic soda?,Sodium hydroxide,Hydrogen peroxide,Copper sulfate,Calcium carbonate,Sodium hydroxide
+SCI170,Chemistry,Acids & Bases,Why does acid rain harm buildings?,It neutralizes stone,It reacts with materials,It adds gold,It freezes walls,It reacts with materials
+SCI171,Chemistry,Air,Which gas do humans need to breathe?,Carbon dioxide,Oxygen,Nitrogen,Helium,Oxygen
+SCI172,Chemistry,Air,Which gas is most abundant in air?,Hydrogen,Nitrogen,Oxygen,Carbon dioxide,Nitrogen
+SCI173,Chemistry,Air,Air takes up ____,space,only sound,nothing,only color,space
+SCI174,Chemistry,Air,Can air be seen directly?,Only at night,No,Only indoors,Yes always,No
+SCI175,Chemistry,Air,Moving air is called ____,wind,fog,steam,rain,wind
+SCI176,Chemistry,Air,Which gas do plants use for photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Argon,Carbon dioxide
+SCI177,Chemistry,Air,Which gas do plants release during photosynthesis?,Smoke,Oxygen,Helium,Carbon dioxide,Oxygen
+SCI178,Chemistry,Air,Which layer of air surrounds Earth?,Hydrosphere,Atmosphere,Lithosphere,Core,Atmosphere
+SCI179,Chemistry,Air,What fills an inflated balloon?,Stone,Sand,Wood,Air,Air
+SCI180,Chemistry,Air,Which air condition can be harmful to health?,Polluted air,Clean air,Dry air,Cool air,Polluted air
+SCI181,Chemistry,Air,What gas do we exhale more than inhale?,Nitrogen,Carbon dioxide,Neon,Oxygen,Carbon dioxide
+SCI182,Chemistry,Air,Why does warm air rise?,It is magnetic,It is less dense,It is heavier,It is blue,It is less dense
+SCI183,Chemistry,Air,What device measures air pressure?,Barometer,Scale,Thermometer,Compass,Barometer
+SCI184,Chemistry,Air,Which gas helps protect Earth from UV rays as ozone?,Oxygen form,Steam,CO2 only,Nitrogen,Oxygen form
+SCI185,Chemistry,Air,What causes smog mainly?,Snowfall,Clean rain,Air pollution,Fresh wind,Air pollution
+SCI186,Chemistry,Air,Humidity means amount of ____ in air.,water vapor,sand,iron,salt,water vapor
+SCI187,Chemistry,Air,Why do birds fly easier in moving air sometimes?,Less space,Gravity stops,Air currents help,No oxygen,Air currents help
+SCI188,Chemistry,Air,Which gas is used in balloons to float safely?,Nitrogen,CO2,Chlorine,Helium,Helium
+SCI189,Chemistry,Air,Acid rain is linked with polluted air containing ____,dust only,sugar,sulfur/nitrogen oxides,oxygen only,sulfur/nitrogen oxides
+SCI190,Chemistry,Air,What is respiration?,Making rain,Using oxygen to release energy,Boiling air,Freezing gas,Using oxygen to release energy
+SCI191,Chemistry,Air,Approximate oxygen in air is ____,1%,50%,78%,21%,21%
+SCI192,Chemistry,Air,Why is nitrogen useful in air?,Reduces over-reactivity,Creates gravity,Supports burning strongly,Makes magnets,Reduces over-reactivity
+SCI193,Chemistry,Air,Greenhouse gases can cause ____,no shadows,freezing stars,no water,global warming,global warming
+SCI194,Chemistry,Air,What is aerosol pollution?,Sea salt only,Large rocks,Tiny particles/droplets in air,Fresh oxygen,Tiny particles/droplets in air
+SCI195,Chemistry,Air,Which gas turns limewater milky?,Carbon dioxide,Oxygen,Hydrogen,Nitrogen,Carbon dioxide
+SCI196,Chemistry,Matter 1,What is anything that has mass and takes up space called?,Energy,Light,Force,Matter,Matter
+SCI197,Chemistry,Matter 1,Which state of matter has a fixed shape?,Gas,Liquid,Plasma,Solid,Solid
+SCI198,Chemistry,Matter 1,Which state of matter takes the shape of its container but has fixed volume?,Gas,Solid,Liquid,Ice,Liquid
+SCI199,Chemistry,Matter 1,Which state of matter spreads out to fill all available space?,Liquid,Metal,Gas,Solid,Gas
+SCI200,Chemistry,Matter 1,What happens when ice is heated?,It evaporates,It rusts,It melts,It freezes,It melts
+SCI201,Chemistry,Matter 1,What do we call liquid water changing to gas?,Evaporation,Condensation,Melting,Freezing,Evaporation
+SCI202,Chemistry,Matter 1,What do we call gas changing into liquid?,Condensation,Melting,Freezing,Boiling,Condensation
+SCI203,Chemistry,Matter 1,Which of these is a solid?,Air,Juice,Stone,Milk,Stone
+SCI204,Chemistry,Matter 1,Which of these is a liquid?,Wood,Water,Iron,Smoke,Water
+SCI205,Chemistry,Matter 1,Which of these is a gas?,Steam,Sand,Paper,Glass,Steam
+SCI206,Chemistry,Matter 1,What are tiny particles of matter called?,Particles,Rays,Clouds,Planets,Particles
+SCI207,Chemistry,Matter 1,When a solid melts;  particles usually move ____,faster,slower,not at all,backward,faster
+SCI208,Chemistry,Matter 1,What happens to most matter when heated?,Disappears,Expands,Shrinks,Hardens always,Expands
+SCI209,Chemistry,Matter 1,Which change is physical?,Melting wax,Cooking egg,Rusting iron,Burning paper,Melting wax
+SCI210,Chemistry,Matter 1,Which process changes liquid to solid?,Boiling,Freezing,Evaporation,Condensation,Freezing
+SCI211,Chemistry,Matter 1,Which state has particles farthest apart?,Liquid,Gas,Solid,Ice,Gas
+SCI212,Chemistry,Matter 2,Why can gases be compressed easily?,Cold particles,Large spaces between particles,Heavy particles,No particles,Large spaces between particles
+SCI213,Chemistry,Matter 2,What is sublimation?,Gas to liquid,Liquid to gas,Solid to liquid,Solid to gas directly,Solid to gas directly
+SCI214,Chemistry,Matter 2,Which has definite volume but no fixed shape?,Smoke,Liquid,Gas,Solid,Liquid
+SCI215,Chemistry,Matter 2,What is deposition?,Liquid to solid,Liquid to gas,Gas to solid directly,Solid to gas,Gas to solid directly
+SCI216,Chemistry,Matter 2,What determines the state of matter most?,Weight only,Particle motion and arrangement,Smell only,Color,Particle motion and arrangement
+SCI217,Chemistry,Matter 2,Which state has strongest particle attraction usually?,Liquid,Solid,Gas,Steam,Solid
+SCI218,Chemistry,Matter 2,Boiling occurs when vapor forms throughout the ____,liquid,air,solid,surface only,liquid
+SCI219,Chemistry,Matter 2,Why does perfume spread in a room?,Friction,Reflection,Magnetism,Diffusion,Diffusion
+SCI220,Chemistry,Matter 2,Mass is measured commonly in ____,liters,meters,seconds,grams or kilograms,grams or kilograms
+SCI221,Chemistry,Matter 2,Which of these is a metal?,Rubber,Iron,Wood,Plastic,Iron
+SCI222,Chemistry,Matter 2,Which metal is used in electrical wires commonly?,Copper,Glass,Coal,Sulfur,Copper
+SCI223,Chemistry,Matter 2,Which property do most metals have?,Brittleness only,Shiny surface,Soft like gas,Dullness,Shiny surface
+SCI224,Chemistry,Matter 2,Can metals conduct electricity well?,Only wet metals,Only gold,Yes,No,Yes
+SCI225,Chemistry,Matter 2,Which metal is liquid near room temperature?,Iron,Aluminum,Mercury,Copper,Mercury
+SCI226,Chemistry,Matter 2,Which metal is attracted strongly by magnets?,Iron,Gold,Aluminum,Silver,Iron
+SCI227,Chemistry,Matter 2,Which metal is used for cans and foil?,Aluminum,Mercury,Lead,Tin only,Aluminum
+SCI228,Chemistry,Metals,What happens when iron reacts with water and oxygen over time?,Rusts,Boils,Freezes,Melts,Rusts
+SCI229,Chemistry,Metals,Which metal is precious and used in jewelry?,Zinc,Nickel,Iron,Gold,Gold
+SCI230,Chemistry,Metals,Which metal is used in coins often?,Plastic,Copper alloys,Glass,Wood,Copper alloys
+SCI231,Chemistry,Metals,What does malleable mean?,Can be hammered into sheets,Can dissolve in water,Can burn easily,Can float,Can be hammered into sheets
+SCI232,Chemistry,Metals,What does ductile mean?,Can absorb sound,Can explode,Can freeze fast,Can become wire,Can become wire
+SCI233,Chemistry,Metals,Why are cooking pots often metal?,Transparent,Good heat conductor,Poor conductor,Magnetic only,Good heat conductor
+SCI234,Chemistry,Metals,Which metal is used to galvanize iron?,Zinc,Gold,Silver,Lead,Zinc
+SCI235,Chemistry,Metals,What is an alloy?,Gas compound,Mixture containing metals,Pure element only,Acid solution,Mixture containing metals
+SCI236,Chemistry,Metals,Steel is mainly iron mixed with ____,carbon,plastic,oxygen,sulfur,carbon
+SCI237,Chemistry,Metals,Why is stainless steel resistant to rust?,No iron inside,Contains chromium,Contains sugar,Made of wood,Contains chromium
+SCI238,Chemistry,Metals,Which metal is lightweight and used in aircraft?,Iron,Aluminum,Mercury,Lead,Aluminum
+SCI239,Chemistry,Metals,Why are copper wires coated with plastic?,Add weight,Make magnetic,Provide insulation,Increase rust,Provide insulation
+SCI240,Chemistry,Metals,Which metal reacts vigorously with water among these?,Copper,Sodium,Silver,Gold,Sodium
+SCI241,Chemistry,Metals,Reactivity series compares metals by ____,price,color,weight only,how easily they react,how easily they react
+SCI242,Chemistry,Metals,Which metal is less reactive and used in jewelry?,Sodium,Calcium,Gold,Potassium,Gold
+SCI243,Chemistry,Metals,What gas is often released when some metals react with acid?,Hydrogen,Nitrogen,Carbon dioxide,Oxygen,Hydrogen
+SCI244,Chemistry,Metals,Why is iron extracted using carbon in blast furnaces?,Carbon is acid,Carbon reduces ore,Carbon cools ore,Carbon paints iron,Carbon reduces ore
+SCI245,Chemistry,Metals,Why are sacrificial zinc coatings useful on steel?,Protect steel from corrosion,Make it soft,Increase weight,Reduce shine,Protect steel from corrosion
+SCI246,Chemistry,Mixtures,What is formed when two or more substances are mixed physically?,Element,Compound,Atom,Mixture,Mixture
+SCI247,Chemistry,Mixtures,Which of these is a mixture?,Air,Distilled water,Pure gold,Oxygen,Air
+SCI248,Chemistry,Mixtures,Which of these is a homogeneous mixture?,Salad,Oil and water,Sand and stones,Salt water,Salt water
+SCI249,Chemistry,Mixtures,Which of these is a heterogeneous mixture?,Fruit salad,Vinegar,Sugar solution,Air,Fruit salad
+SCI250,Chemistry,Mixtures,What happens to substances in a mixture?,They keep own properties,They lose identity,They vanish,They become atoms,They keep own properties
+SCI251,Chemistry,Mixtures,Which method separates sand from water?,Filtration,Melting,Magnetism,Burning,Filtration
+SCI252,Chemistry,Mixtures,Which method separates iron filings from sand?,Sieving,Evaporation,Magnet,Freezing,Magnet
+SCI253,Chemistry,Mixtures,Which method separates rice from flour particles?,Condensation,Dissolving,Boiling,Sieving,Sieving
+SCI254,Chemistry,Mixtures,Which liquid pair does not mix well?,Water and juice,Milk and water,Vinegar and water,Oil and water,Oil and water
+SCI255,Chemistry,Mixtures,What is a solution?,Uniform mixture,Pure metal,Gas only,Solid only,Uniform mixture
+SCI256,Chemistry,Mixtures,In salt water  salt is the ____,solvent,solute,filter,residue,solute
+SCI257,Chemistry,Mixtures,In salt water  water is the ____,solute,residue,solvent,crystal,solvent
+SCI258,Chemistry,Mixtures,What process can recover salt from seawater?,Sieving,Evaporation,Freezing,Magnetism,Evaporation
+SCI259,Chemistry,Mixtures,What is sedimentation?,Water freezes,Solid settles at bottom,Gas rises fast,Salt melts,Solid settles at bottom
+SCI260,Chemistry,Mixtures,What is decantation?,Pouring off clear liquid,Adding acid,Grinding powder,Heating metal,Pouring off clear liquid
+SCI261,Chemistry,Mixtures,Why is air a mixture?,Many gases combined chemically,Many gases mixed physically,No particles,Only oxygen present,Many gases mixed physically
+SCI262,Chemistry,Mixtures,Which method best separates colored ink components?,Filtration,Chromatography,Sieving,Magnetism,Chromatography
+SCI263,Chemistry,Mixtures,What affects how fast sugar dissolves in water?,Only smell,Only color,Stirring and temperature,Nothing,Stirring and temperature
+SCI264,Chemistry,Mixtures,Saturated solution means ____,all frozen,no solute present,maximum solute dissolved,only water remains,maximum solute dissolved
+SCI265,Chemistry,Mixtures,What is suspension?,Solution with no particles,Metal alloy only,Mixture with particles that settle,Pure gas,Mixture with particles that settle
+SCI266,Chemistry,Mixtures,An alloy is a mixture mainly of ____,metals,plastics,wood and water,acids only,metals
+SCI267,Chemistry,Mixtures,Brass is mainly a mixture of copper and ____,iron,silver,zinc,lead,zinc
+SCI268,Chemistry,Mixtures,Why is distillation useful?,Separates by boiling points,Adds color,Uses magnetism only,Creates compounds,Separates by boiling points
+SCI269,Chemistry,Mixtures,What is residue after filtration?,New metal,Liquid passed through,Solid left on filter,Gas formed,Solid left on filter
+SCI270,Chemistry,Mixtures,What is filtrate?,Solid on filter,Liquid collected after filtering,Smoke from mixture,Salt crystal,Liquid collected after filtering
+SCI271,Chemistry,Random 1,What is everything around us made of?,Water,Air,Fire,Atoms,Atoms
+SCI272,Chemistry,Random 1,What is the smallest unit of matter?,Molecule,Atom,Element,Cell,Atom
+SCI273,Chemistry,Random 1,Which gas do humans breathe in to stay alive?,Hydrogen,Oxygen,Carbon dioxide,Nitrogen,Oxygen
+SCI274,Chemistry,Random 1,What is the chemical symbol for gold?,Au,G,Ag,Go,Au
+SCI275,Chemistry,Random 1,What do we call a substance made of only one kind of atom?,Mixture,Element,Solution,Compound,Element
+SCI276,Chemistry,Random 1,What is the common name for sodium chloride?,Sugar,Baking soda,Salt,Vinegar,Salt
+SCI277,Chemistry,Random 1,Which state of matter has a definite shape and volume?,Gas,Plasma,Liquid,Solid,Solid
+SCI278,Chemistry,Random 1,What happens to water when it boils?,It becomes ice,It disappears,It becomes salt,It becomes steam,It becomes steam
+SCI279,Chemistry,Random 1,What kind of change occurs when ice melts?,Permanent change,Physical change,Chemical change,Energy change,Physical change
+SCI280,Chemistry,Random 1,What is the process of a solid turning into a liquid called?,Evaporation,Melting,Condensation,Freezing,Melting
+SCI281,Chemistry,Random 1,Which part of an atom has a positive charge?,Proton,Electron,Neutron,Molecule,Proton
+SCI282,Chemistry,Random 1,Which part of an atom moves around the nucleus?,Electrons,Neutrons,Molecules,Protons,Electrons
+SCI283,Chemistry,Random 1,Which gas is used in balloons because it is lighter than air?,Helium,Hydrogen,Carbon dioxide,Oxygen,Helium
+SCI284,Chemistry,Random 1,What happens when you mix vinegar and baking soda?,A chemical reaction with bubbles,It turns blue,Nothing,It freezes,A chemical reaction with bubbles
+SCI285,Chemistry,Random 1,What do we call the air around us?,Mixture,Compound,Solution,Element,Mixture
+SCI286,Chemistry,Random 1,What is the pH of pure water?,0,10,7,14,7
+SCI287,Chemistry,Random 1,What is the main gas found in the air we breathe?,Oxygen,Carbon dioxide,Hydrogen,Nitrogen,Nitrogen
+SCI288,Chemistry,Random 2,What is an element?,A liquid metal,A combination of two or more substances,A mixture of gases,A substance made of only one kind of atom,A substance made of only one kind of atom
+SCI289,Chemistry,Random 2,Which of the following is an element?,Sugar,Salt,Water,Oxygen,Oxygen
+SCI290,Chemistry,Random 2,What is a compound?,A solid element,A single type of atom,A mixture of metals,A substance made when two or more elements join together,A substance made when two or more elements join together
+SCI291,Chemistry,Random 2,Which of these is a compound?,Carbon,Oxygen,Hydrogen,Water,Water
+SCI292,Chemistry,Random 2,What is the chemical symbol for Hydrogen?,H,Hg,Hy,He,H
+SCI293,Chemistry,Random 2,What is the chemical symbol for Sodium?,S,Sd,Na,So,Na
+SCI294,Chemistry,Random 2,What is the chemical symbol for Iron?,In,I,Ir,Fe,Fe
+SCI295,Chemistry,Random 2,What is the chemical symbol for Gold?,Go,G,Au,Ag,Au
+SCI296,Chemistry,Random 2,What happens when hydrogen combines with oxygen?,Air is formed,Fire is formed,Carbon dioxide is formed,Water is formed,Water is formed
+SCI297,Chemistry,Random 2,What is air made up of?,Only oxygen,A single gas,A mixture of several gases,One element,A mixture of several gases
+SCI298,Chemistry,Random 2,Which of the following is a metal?,Carbon,Oxygen,Iron,Chlorine,Iron
+SCI299,Chemistry,Random 2,Which of the following is a non-metal?,Silver,Gold,Copper,Sulfur,Sulfur
+SCI300,Chemistry,Random 2,What is the chemical symbol for Carbon?,C,Ca,Cr,Co,C
+SCI301,Chemistry,Random 2,What is formed when two or more elements chemically react together?,A compound,An element,A gas,A mixture,A compound
+SCI302,Chemistry,Random 2,Which of the following is not a compound?,Iron (Fe),Water,Salt (NaCl),Carbon dioxide (COÃƒ¢Ã¢‚¬Å¡Ã¢‚¬Å¡),Iron (Fe)
+SCI303,Chemistry,Random 2,What tool do scientists use to organize elements?,Microscope,Calculator,Chemistry book,Periodic Table,Periodic Table
+SCI304,Chemistry,Water,What is the chemical formula of water?,CO2,NaCl,O2,H2O,H2O
+SCI305,Chemistry,Water,What color is pure water usually?,Black,Green,Red,Colorless,Colorless
+SCI306,Chemistry,Water,At what temperature does water freeze?,50°C,100°C,25°C,0°C,0°C
+SCI307,Chemistry,Water,At what temperature does water boil at normal pressure?,100°C,0°C,10°C,200°C,100°C
+SCI308,Chemistry,Water,Which state is water in rivers?,Solid,Not Applicable,Liquid,Gas,Liquid
+SCI309,Chemistry,Water,Which state is water as ice?,Gas,Plasma,Solid,Liquid,Solid
+SCI310,Chemistry,Water,Which state is water as steam?,Gas,Liquid,Metal,Solid,Gas
+SCI311,Chemistry,Water,Which of these needs water to live?,Rock,Glass,Plastic,Plant,Plant
+SCI312,Chemistry,Water,Rain is part of the ____,rock cycle,air pressure,water cycle,food chain,water cycle
+SCI313,Chemistry,Water,Which water source is salty?,River,Sea,Pond,Lake,Sea
+SCI314,Chemistry,Water,What process turns liquid water into vapor?,Melting,Filtration,Evaporation,Freezing,Evaporation
+SCI315,Chemistry,Water,What process forms clouds from water vapor?,Burning,Freezing only,Boiling,Condensation,Condensation
+SCI316,Chemistry,Water,What removes large dirt particles from water using cloth?,Filtering,Boiling,Freezing,Magnetism,Filtering
+SCI317,Chemistry,Water,Why should drinking water be purified?,To freeze faster,To color it,To remove harmful germs/impurities,To make sound,To remove harmful germs/impurities
+SCI318,Chemistry,Water,Which substance dissolves easily in water?,Wood,Salt,Sand,Stone,Salt
+SCI319,Chemistry,Water,Which substance is insoluble in water?,Vinegar,Oil,Salt,Sugar,Oil
+SCI320,Chemistry,Water,Groundwater is found ____,below the ground,in clouds,in fire,on the Moon,below the ground
+SCI321,Chemistry,Water,What is precipitation?,Only fog,Any falling water from clouds,Only snow,Only steam,Any falling water from clouds
+SCI322,Chemistry,Water,Why do we conserve water?,To stop gravity,Water is metal,It is unlimited,Fresh water is limited,Fresh water is limited
+SCI323,Chemistry,Water,What is dew formed by?,Freezing rain,Boiling grass,Condensation on cool surfaces,Melting ice,Condensation on cool surfaces
+SCI324,Chemistry,Water,Hard water often contains dissolved ____,paper gases,plastic dust,ink,minerals,minerals
+SCI325,Chemistry,Water,Distillation can purify water by using ____,friction only,magnetism,boiling and condensation,freezing only,boiling and condensation
+SCI326,Chemistry,Water,Why does oil float on water often?,Magnetic,Heavier than water,Hotter always,Less dense than water,Less dense than water
+SCI327,Chemistry,Water,What pH is pure water approximately?,0,7,12,1,7
+SCI328,Chemistry,Water,Water is called a universal solvent because it dissolves ____,many substances,everything,many substances only metals,nothing,Water
+SCI329,Disease,Level 1,What kind of disease is caused by germs?,Injury,Allergy,Communicable disease,Non-communicable disease,Communicable disease
+SCI330,Disease,Level 1,Which of these spreads from one person to another?,Cold,Toothache,Asthma,Diabetes,Cold
+SCI331,Disease,Level 1,What tiny organisms cause diseases like flu and cold?,Rocks,Muscles,Germs,Bones,Germs
+SCI332,Disease,Level 1,Which disease is spread by mosquitoes?,Chickenpox,Tooth decay,Measles,Malaria,Malaria
+SCI333,Disease,Level 1,Which organ is affected by asthma?,Brain,Liver,Heart,Lungs,Lungs
+SCI334,Disease,Level 1,Which disease is caused by eating too much sugar?,Allergy,Fever,Cold,Diabetes,Diabetes
+SCI335,Disease,Level 1,Which vitamin helps prevent night blindness?,Vitamin C,Vitamin B,Vitamin D,Vitamin A,Vitamin A
+SCI336,Disease,Level 1,Which disease is prevented by drinking clean water?,Fracture,Cancer,Diarrhea,Asthma,Diarrhea
+SCI337,Disease,Level 1,Measles is caused by a:,Bacteria,Fungus,Worm,Virus,Virus
+SCI338,Disease,Level 1,Which disease affects the teeth?,Dengue,Asthma,Tooth decay,Flu,Tooth decay
+SCI339,Disease,Level 1,A disease that stays for a long time is called:,Chronic,Temporary,Quick,Acute,Chronic
+SCI340,Disease,Level 1,Which disease is prevented by vaccines?,Injury,Measles,Cold,Allergy,Measles
+SCI341,Disease,Level 1,What spreads diseases like cholera?,Dirty water,Running,Sunlight,Clean water,Dirty water
+SCI342,Disease,Level 1,Which disease causes itchy red spots on the body?,Chickenpox,Asthma,Diabetes,Cancer,Chickenpox
+SCI343,Disease,Level 1,A fever usually means:,Heart stops,Body is cold,Body temperature is high,The bones are broken,Body temperature is high
+SCI344,Disease,Level 2,What should you wash to prevent diseases?,Hands,Books,Hair,Shoes,Hands
+SCI345,Disease,Level 2,Which disease is spread by mosquitoes carrying dengue virus?,Dengue,Cold,Fever,Asthma,Dengue
+SCI346,Disease,Level 2,Which organ is affected in jaundice?,Kidneys,Heart,Liver,Brain,Liver
+SCI347,Disease,Level 2,Which disease is caused by lack of Vitamin C?,Rickets,Goiter,Scurvy,Anemia,Scurvy
+SCI348,Disease,Level 2,What can protect us from many germs?,Salt,Paper,Soap,Shoes,Soap
+SCI349,Disease,Level 2,Which disease makes it hard to breathe?,Dengue,Asthma,Fever,Diabetes,Asthma
+SCI350,Disease,Level 2,What spreads when someone coughs without covering their mouth?,Toys,Germs,Food,Clothes,Germs
+SCI351,Disease,Level 2,Which is NOT a communicable disease?,Malaria,Measles,Toothache,Cold,Toothache
+SCI352,Disease,Level 2,What insect spreads dengue fever?,Housefly,Ant,Aedes mosquito,Bee,Aedes mosquito
+SCI353,Disease,Level 2,Which healthy habit helps prevent diseases?,Not sleeping,Eating fruits and vegetables,Eating junk food,Skipping breakfast,Eating fruits and vegetables
+SCI354,Disease,Level 2,Which of these is a non-communicable disease?,Flu,Measles,Chickenpox,Asthma,Asthma
+SCI355,Disease,Level 2,Which disease is caused by lack of Vitamin D?,Typhoid,Scurvy,Rickets,Malaria,Rickets
+SCI356,Disease,Level 2,What type of organism causes athlete's foot?,Bacteria,Insect,Fungus,Virus,Fungus
+SCI357,Disease,Level 2,Which disease affects the brain?,Meningitis,Diarrhea,Jaundice,Tooth decay,Meningitis
+SCI358,Disease,Level 2,Which disease is caused by mosquitoes that spread malaria?,Aedes mosquito,Housefly,Wasp,Anopheles mosquito,Anopheles mosquito
+SCI359,Disease,Level 3,Which disease affects the throat and causes difficulty swallowing?,Malaria,Typhoid,Fever,Mumps,Mumps
+SCI360,Disease,Level 3,Which disease causes swelling of the neck?,Asthma,Goiter,Dengue,Flu,Goiter
+SCI361,Disease,Level 3,Which disease affects the heart and blood vessels?,Chickenpox,Measles,Malaria,Heart disease,Heart disease
+SCI362,Disease,Level 3,Which disease is caused by bacteria in dirty food or water?,Tuberculosis,Asthma,Diabetes,Typhoid,Typhoid
+SCI363,Disease,Level 3,What type of disease is cancer?,Communicable,Parasitic,Fungal,Non-communicable,Non-communicable
+SCI364,Disease,Level 3,What causes tooth decay?,Too much sugary food,Too much fruit,Too much milk,Not drinking water,Too much sugary food
+SCI365,Disease,Level 3,Which disease causes tiredness because the blood has low iron?,Jaundice,Flu,Anemia,Dengue,Anemia
+SCI366,Disease,Level 3,Which disease often causes red rashes that spread over the body?,Diabetes,Fever,Asthma,Measles,Measles
+SCI367,Disease,Level 3,Which disease can be prevented by wearing a mask?,Leukemia,Cold,Diabetes,Asthma,Cold
+SCI368,Disease,Level 3,Which disease is caused by a virus that affects the liver?,Asthma,Goiter,Hepatitis,Rickets,Hepatitis
+SCI369,Disease,Level 3,Which disease is spread by contaminated food?,Asthma,Food poisoning,Diabetes,Toothache,Food poisoning
+SCI370,Disease,Level 3,What symptom is common in almost all infectious diseases?,Dry skin,Long nails,Hair fall,Fever,Fever
+SCI371,Disease,Level 3,Which disease affects the lungs and causes coughing?,Malaria,Diabetes,Tuberculosis,Rickets,Tuberculosis
+SCI372,Disease,Level 3,Which disease is caused by lack of Vitamin B?,Malaria,Beriberi,Rickets,Scurvy,Beriberi
+SCI373,Disease,Level 3,What do we call a disease that spreads very quickly?,Rush disease,Normal disease,Epidemic,Slow disease,Epidemic
+SCI374,Disease,Level 3,Which disease damages nerves and causes muscle weakness?,Typhoid,Polio,Scurvy,Dengue,Polio
+SCI375,Disease,Level 3,Which disease spreads when people don't wash their hands?,Asthma,Toothache,Cholera,Flu,Cholera
+SCI376,Disease,Level 3,Which disease is caused by drinking unclean water?,Asthma,Migraine,Cholera,Cancer,Cholera
+SCI377,Disease,Level 3,Which disease is prevented by the BCG vaccine?,Malaria,Flu,Tuberculosis (TB),Dengue,Tuberculosis (TB)
+SCI378,Disease,Level 3,Which disease is caused by lack of iodine?,Diabetes,Fever,Malaria,Goiter,Goiter
+SCI379,Geography,Deserts & Climate Zones,What is the largest desert in the world?,Antarctic,Gobi,Sahara,Kalahari,Antarctic
+SCI380,Geography,Deserts & Climate Zones,Which is the largest hot desert?,Atacama,Sahara,Gobi,Kalahari,Sahara
+SCI381,Geography,Deserts & Climate Zones,Which desert is in China and Mongolia?,Sahara,Kalahari,Atacama,Gobi,Gobi
+SCI382,Geography,Deserts & Climate Zones,Which desert is in southern Africa?,Sahara,Gobi,Kalahari,Atacama,Kalahari
+SCI383,Geography,Deserts & Climate Zones,Which desert is in South America?,Sahara,Gobi,Kalahari,Atacama,Atacama
+SCI384,Geography,Deserts & Climate Zones,Which desert is in Australia?,Atacama,Sahara,Gobi,Great Victoria,Great Victoria
+SCI385,Geography,Deserts & Climate Zones,Which desert covers most of northern Africa?,Kalahari,Sahara,Gobi,Atacama,Sahara
+SCI386,Geography,Deserts & Climate Zones,Which desert is the coldest?,Antarctic,Atacama,Gobi,Sahara,Antarctic
+SCI387,Geography,Deserts & Climate Zones,Which desert is the driest?,Sahara,Kalahari,Gobi,Atacama,Atacama
+SCI388,Geography,Deserts & Climate Zones,Which desert is in the USA?,Gobi,Atacama,Mojave,Sahara,Mojave
+SCI389,Geography,Deserts & Climate Zones,What is a desert?,Rainy area,Mountain,Dry area,Forest,Dry area
+SCI390,Geography,Deserts & Climate Zones,What is the main cause of deserts?,Earthquakes,Volcanoes,Too much rain,Lack of rainfall,Lack of rainfall
+SCI391,Geography,Deserts & Climate Zones,What is the climate zone near the equator?,Desert,Temperate,Tropical,Polar,Tropical
+SCI392,Geography,Deserts & Climate Zones,What is the climate zone near the poles?,Tropical,Temperate,Desert,Polar,Polar
+SCI393,Geography,Deserts & Climate Zones,What is the climate zone between tropics and poles?,Tropical,Temperate,Desert,Polar,Temperate
+SCI394,Geography,Deserts & Climate Zones,What is the tundra climate?,Warm & rainy,Hot & wet,Cold & dry,Desert,Cold & dry
+SCI395,Geography,Deserts & Climate Zones,What is the savanna climate?,Desert,Forest,Polar,Grassland,Grassland
+SCI396,Geography,Deserts & Climate Zones,What is the Mediterranean climate?,Desert,Cold wet winters,Both,Hot dry summers,Both
+SCI397,Geography,Deserts & Climate Zones,What is the monsoon climate?,Seasonal rains,Desert,Cold,Dry all year,Seasonal rains
+SCI398,Geography,Deserts & Climate Zones,What is the rainforest climate?,Polar,Hot & wet,Cold & dry,Desert,Hot & wet
+SCI399,Geography,Deserts & Climate Zones,Which desert has the highest sand dunes?,Namib,Atacama,Gobi,Sahara,Namib
+SCI400,Geography,Deserts & Climate Zones,Which desert is expanding due to climate change?,Sahara,Mojave,Gobi,Atacama,Sahara
+SCI401,Geography,Deserts & Climate Zones,Which desert is known as the Ãƒ¢Ã¢€š¬Ã…€œRoof of the WorldÃƒ¢Ã¢€š¬Ã‚?,Tibetan Plateau,Atacama,Gobi,Sahara,Tibetan Plateau
+SCI402,Geography,Deserts & Climate Zones,Which desert is famous for its salt flats?,Atacama,Gobi,Sahara,Mojave,Atacama
+SCI403,Geography,Deserts & Climate Zones,Which desert is home to camels?,Sahara,Kalahari,All of these,Gobi,All of these
+SCI404,Geography,Landmarks,Which landmark is in Paris?,Statue of Liberty,Eiffel Tower,Colosseum,Big Ben,Eiffel Tower
+SCI405,Geography,Landmarks,Which landmark is in New York?,Sydney Opera House,Eiffel Tower,Taj Mahal,Statue of Liberty,Statue of Liberty
+SCI406,Geography,Landmarks,Which landmark is in India?,Colosseum,Eiffel Tower,Taj Mahal,Big Ben,Taj Mahal
+SCI407,Geography,Landmarks,Which landmark is in Rome?,Colosseum,Statue of Liberty,Sydney Opera House,Eiffel Tower,Colosseum
+SCI408,Geography,Landmarks,Which landmark is in London?,Eiffel Tower,Taj Mahal,Colosseum,Big Ben,Big Ben
+SCI409,Geography,Landmarks,Which landmark is in Sydney?,Eiffel Tower,Opera House,Statue of Liberty,Colosseum,Opera House
+SCI410,Geography,Landmarks,Which landmark is in Egypt?,Big Ben,Pyramids of Giza,Eiffel Tower,Taj Mahal,Pyramids of Giza
+SCI411,Geography,Landmarks,Which landmark is in China?,Great Wall,Statue of Liberty,Colosseum,Eiffel Tower,Great Wall
+SCI412,Geography,Landmarks,Which landmark is in Brazil?,Christ the Redeemer,Eiffel Tower,Big Ben,Taj Mahal,Christ the Redeemer
+SCI413,Geography,Landmarks,Which landmark is in Moscow?,Colosseum,Eiffel Tower,Statue of Liberty,Kremlin,Kremlin
+SCI414,Geography,Landmarks,Which landmark is in Washington D.C.?,Taj Mahal,Eiffel Tower,White House,Colosseum,White House
+SCI415,Geography,Landmarks,Which landmark is in Istanbul?,Colosseum,Statue of Liberty,Eiffel Tower,Hagia Sophia,Hagia Sophia
+SCI416,Geography,Landmarks,Which landmark is in Athens?,Taj Mahal,Big Ben,Parthenon,Eiffel Tower,Parthenon
+SCI417,Geography,Landmarks,Which landmark is in Cambodia?,Colosseum,Angkor Wat,Eiffel Tower,Statue of Liberty,Angkor Wat
+SCI418,Geography,Landmarks,Which landmark is in Peru?,Big Ben,Eiffel Tower,Taj Mahal,Machu Picchu,Machu Picchu
+SCI419,Geography,Landmarks,Which landmark is in Jordan?,Statue of Liberty,Eiffel Tower,Colosseum,Petra,Petra
+SCI420,Geography,Landmarks,Which landmark is in San Francisco?,Golden Gate Bridge,Colosseum,Eiffel Tower,Taj Mahal,Golden Gate Bridge
+SCI421,Geography,Landmarks,Which landmark is in Dubai?,Statue of Liberty,Colosseum,Burj Khalifa,Eiffel Tower,Burj Khalifa
+SCI422,Geography,Landmarks,Which landmark is in Berlin?,Eiffel Tower,Taj Mahal,Brandenburg Gate,Big Ben,Brandenburg Gate
+SCI423,Geography,Landmarks,Which landmark is in Mexico?,Eiffel Tower,Colosseum,Statue of Liberty,Chichen Itza,Chichen Itza
+SCI424,Geography,Landmarks,Which landmark is in Japan?,Mount Fuji,Big Ben,Eiffel Tower,Taj Mahal,Mount Fuji
+SCI425,Geography,Landmarks,Which landmark is in Canada?,Eiffel Tower,CN Tower,Colosseum,Statue of Liberty,CN Tower
+SCI426,Geography,Landmarks,Which landmark is in Singapore?,Big Ben,Eiffel Tower,Marina Bay Sands,Taj Mahal,Marina Bay Sands
+SCI427,Geography,Landmarks,Which landmark is in South Africa?,Table Mountain,Eiffel Tower,Statue of Liberty,Colosseum,Table Mountain
+SCI428,Geography,Landmarks,Which landmark is in Iceland?,Big Ben,Blue Lagoon,Taj Mahal,Eiffel Tower,Blue Lagoon
+SCI429,Geography,Mountains & Volcanoes,What is the tallest mountain in the world?,Everest,K2,Denali,Kilimanjaro,Everest
+SCI430,Geography,Mountains & Volcanoes,Where is Mount Everest located?,China,India,Bhutan,Nepal,Nepal
+SCI431,Geography,Mountains & Volcanoes,Which mountain range is Everest part of?,Himalayas,Alps,Rockies,Andes,Himalayas
+SCI432,Geography,Mountains & Volcanoes,What is the highest mountain in Africa?,Elbrus,Everest,Denali,Kilimanjaro,Kilimanjaro
+SCI433,Geography,Mountains & Volcanoes,Which mountain range is in South America?,Alps,Andes,Rockies,Himalayas,Andes
+SCI434,Geography,Mountains & Volcanoes,What is the highest mountain in North America?,Everest,Denali,Elbrus,Kilimanjaro,Denali
+SCI435,Geography,Mountains & Volcanoes,Which mountain range is in Europe?,Himalayas,Andes,Rockies,Alps,Alps
+SCI436,Geography,Mountains & Volcanoes,What is the highest mountain in Japan?,Denali,Kilimanjaro,Everest,Fuji,Fuji
+SCI437,Geography,Mountains & Volcanoes,Which mountain range runs through the USA?,Andes,Himalayas,Rockies,Alps,Rockies
+SCI438,Geography,Mountains & Volcanoes,What is the highest mountain in Australia?,Everest,Kosciuszko,Kilimanjaro,Denali,Kosciuszko
+SCI439,Geography,Mountains & Volcanoes,What causes volcanoes to erupt?,Earth's tilt,Rain,Magma pressure,Wind,Magma pressure
+SCI440,Geography,Mountains & Volcanoes,What is molten rock inside Earth called?,Ash,Lava,Dust,Magma,Magma
+SCI441,Geography,Mountains & Volcanoes,What is molten rock outside Earth called?,Dust,Magma,Lava,Ash,Lava
+SCI442,Geography,Mountains & Volcanoes,Which volcano destroyed Pompeii?,Etna,Fuji,Krakatoa,Vesuvius,Vesuvius
+SCI443,Geography,Mountains & Volcanoes,Which is the largest volcano on Earth?,Fuji,Vesuvius,Etna,Mauna Loa,Mauna Loa
+SCI444,Geography,Mountains & Volcanoes,Which volcano is in Japan?,Vesuvius,Mauna Loa,Fuji,Etna,Fuji
+SCI445,Geography,Mountains & Volcanoes,Which volcano erupted in 1883?,Vesuvius,Krakatoa,Etna,Fuji,Krakatoa
+SCI446,Geography,Mountains & Volcanoes,What is a dormant volcano?,Sleeping,Erupting,Active,Extinct,Sleeping
+SCI447,Geography,Mountains & Volcanoes,What is an extinct volcano?,Sleeping,Active,Erupting,Dead,Dead
+SCI448,Geography,Mountains & Volcanoes,What is the Ring of Fire?,Desert,Mountain range,Ocean,Volcano zone,Volcano zone
+SCI449,Geography,Mountains & Volcanoes,Which tectonic plates form the Himalayas?,Pacific & North American,Indian & Eurasian,African & Eurasian,South American & Nazca,Indian & Eurasian
+SCI450,Geography,Mountains & Volcanoes,What is the second highest mountain in the world?,Everest,Kilimanjaro,K2,Denali,K2
+SCI451,Geography,Mountains & Volcanoes,Which mountain range is the longest?,Himalayas,Alps,Rockies,Andes,Andes
+SCI452,Geography,Mountains & Volcanoes,Which volcano is the most active in Europe?,Fuji,Etna,Vesuvius,Krakatoa,Etna
+SCI453,Geography,Mountains & Volcanoes,What is tectonics?,Rain,Plate movement,Wind,Star movement,Plate movement
+SCI454,Geography,Natural Resources & Landforms,What is coal classified as?,Non-renewable,Wind,Solar,Renewable,Non-renewable
+SCI455,Geography,Natural Resources & Landforms,Which resource is used to make electricity?,Oil,All of these,Gas,Coal,All of these
+SCI456,Geography,Natural Resources & Landforms,Which is a renewable resource?,Gas,Sunlight,Coal,Oil,Sunlight
+SCI457,Geography,Natural Resources & Landforms,Which is the hardest natural mineral?,Diamond,Gold,Iron,Silver,Diamond
+SCI458,Geography,Natural Resources & Landforms,Which is the largest source of freshwater?,Rain,Lakes,Glaciers,Rivers,Glaciers
+SCI459,Geography,Natural Resources & Landforms,Which landform is the highest?,Plateau,Mountain,Valley,Plain,Mountain
+SCI460,Geography,Natural Resources & Landforms,Which landform is flat and wide?,Plain,Mountain,Plateau,Valley,Plain
+SCI461,Geography,Natural Resources & Landforms,Which landform is raised flat land?,Plain,Valley,Mountain,Plateau,Plateau
+SCI462,Geography,Natural Resources & Landforms,Which landform is low between hills?,Plain,Valley,Plateau,Mountain,Valley
+SCI463,Geography,Natural Resources & Landforms,Which landform is surrounded by water?,Island,Mountain,Plateau,Plain,Island
+SCI464,Geography,Natural Resources & Landforms,Which country has the largest oil reserves?,USA,Russia,China,Saudi Arabia,Saudi Arabia
+SCI465,Geography,Natural Resources & Landforms,Which country is the largest coal producer?,China,Russia,USA,India,China
+SCI466,Geography,Natural Resources & Landforms,Which country is the largest gold producer?,South Africa,USA,India,Russia,South Africa
+SCI467,Geography,Natural Resources & Landforms,Which country is the largest diamond producer?,USA,Russia,Botswana,India,Botswana
+SCI468,Geography,Natural Resources & Landforms,Which country is the largest natural gas producer?,Russia,Iran,Qatar,USA,USA
+SCI469,Geography,Natural Resources & Landforms,What is deforestation?,Planting trees,Mining,Growing crops,Cutting trees,Cutting trees
+SCI470,Geography,Natural Resources & Landforms,What is afforestation?,Farming,Cutting trees,Mining,Planting trees,Planting trees
+SCI471,Geography,Natural Resources & Landforms,What is soil erosion?,Loss of soil,Planting,Gain of soil,Mining,Loss of soil
+SCI472,Geography,Natural Resources & Landforms,What is a glacier?,River,Mountain,Ice mass,Valley,Ice mass
+SCI473,Geography,Natural Resources & Landforms,What is a canyon?,Deep valley,Plain,Mountain,Plateau,Deep valley
+SCI474,Geography,Natural Resources & Landforms,Which landform is formed by rivers?,Mountain,Delta,Plateau,Plain,Delta
+SCI475,Geography,Natural Resources & Landforms,Which landform is formed by wind erosion?,Mountain,Valley,Plateau,Desert,Desert
+SCI476,Geography,Natural Resources & Landforms,Which landform is formed by volcanic activity?,Valley,Plateau,Mountain,Plain,Mountain
+SCI477,Geography,Natural Resources & Landforms,Which landform is formed by glaciers?,Plateau,Plain,Fjord,Valley,Fjord
+SCI478,Geography,Natural Resources & Landforms,Which landform is formed by tectonic activity?,Plains,Mountain ranges,Islands,Valleys,Mountain ranges
+SCI479,Geography,Random,Which is the largest ocean on Earth?,Atlantic Ocean,Arctic Ocean,Indian Ocean,Pacific Ocean,Pacific Ocean
+SCI480,Geography,Random,Which is the longest river in the world?,Amazon,Mississippi,Ganges,Nile,Nile
+SCI481,Geography,Random,What do we call a large body of land surrounded by water on all sides?,Valley,Plateau,Island,Mountain,Island
+SCI482,Geography,Random,Which continent is the hottest?,Asia,Africa,Europe,Australia,Africa
+SCI483,Geography,Random,How many continents are there on Earth?,5,7,6,8,7
+SCI484,Geography,Random,Which continent is the largest?,Europe,Africa,North America,Asia,Asia
+SCI485,Geography,Random,What is the capital of India?,New Delhi,Chennai,Mumbai,Kolkata,New Delhi
+SCI486,Geography,Random,Which country has the largest population?,USA,China,Indonesia,India,China
+SCI487,Geography,Random,What is the tallest mountain in the world?,K2,Kilimanjaro,Kanchenjunga,Mount Everest,Mount Everest
+SCI488,Geography,Random,Which direction does the sun rise from?,North,South,West,East,East
+SCI489,Geography,Random,What is the capital city of Bangladesh?,Rajshahi,Chittagong,Sylhet,Dhaka,Dhaka
+SCI490,Geography,Random,Which layer of Earth do we live on?,Crust,Core,Inner core,Mantle,Crust
+SCI491,Geography,Random,Which of these is a desert?,Ganges,Sahara,Alps,Amazon,Sahara
+SCI492,Geography,Random,What is the name of the imaginary line that divides Earth into Northern and Southern Hemispheres?,Prime Meridian,Tropic of Cancer,Latitude,Equator,Equator
+SCI493,Geography,Random,Which of these is a natural resource?,Glass,Plastic,Mobile phone,Gold,Gold
+SCI494,Geography,Random,Which continent is also a country?,Asia,Australia,Europe,Africa,Australia
+SCI495,Geography,Random,What do we call a large area of saltwater?,River,Meadow,Sea,Lake,Sea
+SCI496,Geography,Random,What is the smallest continent in the world?,Australia,Europe,South America,Africa,Australia
+SCI497,Geography,Random,Which river flows through Egypt?,Amazon,Volga,Ganges,Nile,Nile
+SCI498,Geography,Random,Which is the coldest place on Earth?,Greenland,Iceland,Antarctica,Alaska,Antarctica
+SCI499,Geography,Random,Which country is famous for kangaroos?,Brazil,India,Australia,South Africa,Australia
+SCI500,Geography,Random,What do we call land surrounded by water on three sides?,Valley,Bay,Peninsula,Island,Peninsula
+SCI501,Geography,Rivers & Lakes,What is the longest river in the world?,Mississippi,Amazon,Nile,Yangtze,Nile
+SCI502,Geography,Rivers & Lakes,Which river flows through Egypt?,Ganges,Yangtze,Amazon,Nile,Nile
+SCI503,Geography,Rivers & Lakes,What is the largest river in South America?,Nile,Mississippi,Amazon,Danube,Amazon
+SCI504,Geography,Rivers & Lakes,Which river flows through India and Bangladesh?,Amazon,Yangtze,Nile,Ganges,Ganges
+SCI505,Geography,Rivers & Lakes,What is the longest river in China?,Ganges,Yangtze,Yellow,Mekong,Yangtze
+SCI506,Geography,Rivers & Lakes,What is the largest river in Europe?,Rhine,Danube,Volga,Thames,Volga
+SCI507,Geography,Rivers & Lakes,Which river flows through London?,Rhine,Danube,Seine,Thames,Thames
+SCI508,Geography,Rivers & Lakes,Which river flows through Paris?,Seine,Rhine,Danube,Thames,Seine
+SCI509,Geography,Rivers & Lakes,Which river is sacred in India?,Ganges,Yangtze,Amazon,Nile,Ganges
+SCI510,Geography,Rivers & Lakes,What is the largest freshwater lake in the world?,Baikal,Tanganyika,Victoria,Superior,Superior
+SCI511,Geography,Rivers & Lakes,Which lake is the deepest in the world?,Victoria,Tanganyika,Baikal,Superior,Baikal
+SCI512,Geography,Rivers & Lakes,Which lake is in East Africa?,Baikal,Superior,Victoria,Tanganyika,Victoria
+SCI513,Geography,Rivers & Lakes,Which lake borders USA and Canada?,Baikal,Superior,Victoria,Tanganyika,Superior
+SCI514,Geography,Rivers & Lakes,Which river is the longest in Africa?,Niger,Zambezi,Congo,Nile,Nile
+SCI515,Geography,Rivers & Lakes,Which river is the second longest in Africa?,Zambezi,Niger,Congo,Nile,Congo
+SCI516,Geography,Rivers & Lakes,Which river flows through Brazil?,Nile,Yangtze,Amazon,Ganges,Amazon
+SCI517,Geography,Rivers & Lakes,Which river is the longest in North America?,Missouri,Mississippi,Colorado,Hudson,Missouri
+SCI518,Geography,Rivers & Lakes,Which river forms the boundary between USA and Mexico?,Rio Grande,Colorado,Missouri,Mississippi,Rio Grande
+SCI519,Geography,Rivers & Lakes,What is a delta?,Lake,River mouth landform,Desert,Mountain,River mouth landform
+SCI520,Geography,Rivers & Lakes,Which delta is the largest in the world?,Amazon,Nile,Mississippi,Ganges-Brahmaputra,Ganges-Brahmaputra
+SCI521,Geography,Rivers & Lakes,Which river is the lifeline of Pakistan?,Nile,Ganges,Amazon,Indus,Indus
+SCI522,Geography,Rivers & Lakes,Which river flows through Rome?,Rhine,Seine,Tiber,Thames,Tiber
+SCI523,Geography,Rivers & Lakes,Which river is famous for Victoria Falls?,Nile,Niger,Congo,Zambezi,Zambezi
+SCI524,Human Body,Level 1,Which organ pumps blood throughout the body?,Stomach,Lungs,Brain,Heart,Heart
+SCI525,Human Body,Level 1,Which part of the body helps you breathe?,Skin,Bones,Lungs,Heart,Lungs
+SCI526,Human Body,Level 1,Which organ controls the whole body?,Heart,Brain,Stomach,Liver,Brain
+SCI527,Human Body,Level 1,How many senses do humans have?,6,5,3,4,5
+SCI528,Human Body,Level 1,Which organ helps you smell things?,Eyes,Tongue,Nose,Ears,Nose
+SCI529,Human Body,Level 1,Which organ helps you taste food?,Ears,Skin,Nose,Tongue,Tongue
+SCI530,Human Body,Level 1,How many bones does an adult have (approximately)?,206,100,300,50,206
+SCI531,Human Body,Level 1,What is the largest organ of the human body?,Liver,Skin,Brain,Heart,Skin
+SCI532,Human Body,Level 1,Which body part helps you stand and move?,Nails,Bones,Hair,Teeth,Bones
+SCI533,Human Body,Level 1,Where is food digested?,Lungs,Stomach,Brain,Heart,Stomach
+SCI534,Human Body,Level 1,How many chambers does the heart have?,2,4,1,3,4
+SCI535,Human Body,Level 1,What protects the brain?,Skin,Skull,Spine,Ribs,Skull
+SCI536,Human Body,Level 1,What carries messages between the brain and the body?,Nerves,Bones,Muscles,Blood,Nerves
+SCI537,Human Body,Level 1,Which organ cleans the blood?,Lungs,Heart,Kidney,Liver,Kidney
+SCI538,Human Body,Level 1,What covers and protects the body?,Hair,Nails,Bones,Skin,Skin
+SCI539,Human Body,Level 1,What helps you hear sounds?,Ears,Eyes,Skin,Nose,Ears
+SCI540,Human Body,Level 1,Where is oxygen absorbed into the blood?,Stomach,Heart,Lungs,Brain,Lungs
+SCI541,Human Body,Level 1,What body part helps you chew food?,Tongue,Lips,Nose,Teeth,Teeth
+SCI542,Human Body,Level 1,What helps muscles move the bones?,Joints,Hair,Oxygen,Blood,Joints
+SCI543,Human Body,Level 1,Which organ helps break down food and remove waste?,Heart,Kidneys,Liver,Brain,Liver
+SCI544,Human Body,Level 1,What do red blood cells carry?,Oxygen,Water,Sugar,Fat,Oxygen
+SCI545,Human Body,Level 1,What helps protect the heart and lungs?,Spine,Skull,Ribs,Muscles,Ribs
+SCI546,Human Body,Level 1,What connects bones to each other?,Veins,Muscles,Skin,Ligaments,Ligaments
+SCI547,Human Body,Level 1,What part of the eye controls how much light enters?,Eyebrow,Eyelid,Ear,Pupil,Pupil
+SCI548,Human Body,Level 1,What covers the ends of bones so they don't rub together?,Cartilage,Hair,Blood,Muscle,Cartilage
+SCI549,Human Body,Level 2,Which part of the body helps you see?,Ears,Tongue,Eyes,Nose,Eyes
+SCI550,Human Body,Level 2,What is the hardest substance in the human body?,Nail,Tooth enamel,Skin,Bone,Tooth enamel
+SCI551,Human Body,Level 2,Which organ helps you filter waste from blood?,Heart,Kidney,Lungs,Brain,Kidney
+SCI552,Human Body,Level 2,What is the main job of the lungs?,Help in breathing,Pump blood,Send messages,Make food,Help in breathing
+SCI553,Human Body,Level 2,Which body part keeps your balance?,Fingers,Inner ear,Nose,Tongue,Inner ear
+SCI554,Human Body,Level 2,What is the smallest bone in the body?,Femur,Stapes (in ear),Rib,Skull,Stapes (in ear)
+SCI555,Human Body,Level 2,How many teeth does an adult usually have?,24,32,28,20,32
+SCI556,Human Body,Level 2,What carries blood away from the heart?,Veins,Arteries,Nerves,Muscles,Arteries
+SCI557,Human Body,Level 2,What carries blood back to the heart?,Bones,Skin,Arteries,Veins,Veins
+SCI558,Human Body,Level 2,What is the main function of the skeleton?,To help breathing,To give shape and support,To make food,To clean blood,To give shape and support
+SCI559,Human Body,Level 2,Which organ produces insulin?,Pancreas,Heart,Brain,Lungs,Pancreas
+SCI560,Human Body,Level 2,What is the long tube that carries food from the mouth to the stomach?,Esophagus,Vein,Trachea,Windpipe,Esophagus
+SCI561,Human Body,Level 2,Which body part helps you feel things when you touch them?,Hair,Teeth,Skin,Brain,Skin
+SCI562,Human Body,Level 2,Which part of the body helps you speak?,Vocal cords,Lungs,Brain,Tongue,Vocal cords
+SCI563,Human Body,Level 2,What is the thick fluid inside the skull called?,Water,Cerebrospinal fluid,Brain juice,Blood,Cerebrospinal fluid
+SCI564,Human Body,Level 2,Which organ helps break down fats?,Heart,Brain,Lungs,Liver,Liver
+SCI565,Human Body,Level 2,What helps your body fight diseases?,White blood cells,Hair,Red blood cells,Platelets,White blood cells
+SCI566,Human Body,Level 2,What connects muscles to bones?,Joints,Ligaments,Tendons,Skin,Tendons
+SCI567,Human Body,Level 2,Which muscle works all the time even when you sleep?,Heart,Leg muscle,Neck muscle,Arm muscle,Heart
+SCI568,Human Body,Level 2,What helps protect the spinal cord?,Skull,Skin,Ribs,Spine,Spine
+SCI569,Human Body,Level 2,What is the flap that prevents food from entering the windpipe?,Teeth,Tongue,Larynx,Epiglottis,Epiglottis
+SCI570,Human Body,Level 2,What is the body's natural cooling system?,Breathing,Sweating,Sneezing,Crying,Sweating
+SCI571,Human Body,Level 2,Which organ stores urine?,Bladder,Kidney,Lungs,Liver,Bladder
+SCI572,Human Body,Level 2,Where are red blood cells made?,Bone marrow,Brain,Heart,Skin,Bone marrow
+SCI573,Human Body,Level 2,Which of these is NOT a sense?,Smell,Hearing,Balance,Thinking,Thinking
+SCI574,Physics,Force,What is a push or pull called?,Force,Heat,Light,Shadow,Force
+SCI575,Physics,Force,Which force pulls a cart when you drag it?,Magnetism,Sound,Pulling force,Heat,Pulling force
+SCI576,Physics,Force,What can a force do to an object?,Make sound only,Change motion,Nothing,Change color only,Change motion
+SCI577,Physics,Force,Which force starts a football moving?,Light,Cold,Push,Gravity from Moon,Push
+SCI578,Physics,Force,What happens when you kick a ball harder?,It glows,It moves faster,It shrinks,It melts,It moves faster
+SCI579,Physics,Force,Which force stops a moving bicycle when brakes are used?,Heat,Light,Friction,Magnetism,Friction
+SCI580,Physics,Force,What do we use to lift a bucket from a well?,Shadow,Mirror,Pulling force,Rain,Pulling force
+SCI581,Physics,Force,If two people push opposite equally  what happens?,Stays still,Flies up,Breaks,Moves fast,Stays still
+SCI582,Physics,Force,Which can change an object's shape?,Color only,Force only,Music only,Smell only,Force only
+SCI583,Physics,Force,Which is an example of a push?,Reading book,Opening drawer,Closing door by hand,Watching TV,Closing door by hand
+SCI584,Physics,Force,What unit is used to measure force?,Watt,Celsius,Joule,Newton,Newton
+SCI585,Physics,Force,What is balanced force?,Forces equal and opposite,Only upward force,No motion ever,Only one force,Forces equal and opposite
+SCI586,Physics,Force,What happens under unbalanced forces?,Mass doubles,No change,Motion changes,Object vanishes,Motion changes
+SCI587,Physics,Force,Which scientist is linked with laws of motion?,Edison,Darwin,Newton,Curie,Newton
+SCI588,Physics,Force,What is needed to change direction of a moving object?,Color,Force,Water,Heat,Force
+SCI589,Physics,Force,Seat belts help because they apply force to ____,make noise,add mass,stop your motion safely,increase speed,stop your motion safely
+SCI590,Physics,Force,What is the downward force on an object called?,Density,Volume,Weightless,Weight,Weight
+SCI591,Physics,Force,Which machine changes direction of force with a rope?,Lens,Battery,Pulley,Thermometer,Pulley
+SCI592,Physics,Force,What happens when net force is zero?,Object explodes,Object stays at rest or constant speed,Acceleration occurs,Temperature rises,Object stays at rest or constant speed
+SCI593,Physics,Force,Greater force on same mass gives more ____,acceleration,color,silence,reflection,acceleration
+SCI594,Physics,Force,What is inertia?,Measure of heat,Resistance to change in motion,Type of magnet,Kind of light,Resistance to change in motion
+SCI595,Physics,Force,What formula links force mass and acceleration?,P=mv,F=ma,V=IR,E=mc²,F=ma
+SCI596,Physics,Force,If mass increases with same force  acceleration usually ____,becomes light,stays infinite,increases,decreases,decreases
+SCI597,Physics,Force,Action and reaction forces are always ____,same direction,hot,equal and opposite,missing,equal and opposite
+SCI598,Physics,Force,Why does a rocket move upward?,Magnet pulls it,Light lifts it,Heat disappears,Gases pushed downward create reaction force,Gases pushed downward create reaction force
+SCI599,Physics,Friction,Which force resists motion between surfaces?,Light,Magnetism,Gravity,Friction,Friction
+SCI600,Physics,Friction,Why do shoes have rough soles?,More light,Decoration,Less weight,More friction,More friction
+SCI601,Physics,Friction,What helps a car stop on road?,Friction,Shadow,Heat,Sound,Friction
+SCI602,Physics,Friction,Which surface has more friction?,Rough road,Ice,Oil,Glass,Rough road
+SCI603,Physics,Friction,Why is oil used in machines?,To add heat,To reduce friction,To add friction,To add weight,To reduce friction
+SCI604,Physics,Friction,What happens if friction is too low on road?,Better grip,More noise only,Slipping,No motion,Slipping
+SCI605,Physics,Friction,Which is easier to slide?,Ice block,Carpet,Rough wood,Sandpaper,Ice block
+SCI606,Physics,Friction,Friction can produce ____,heat,plants,water,light only,heat
+SCI607,Physics,Friction,What helps us write with pencil on paper?,Magnetism,Gravity,Friction,Reflection,Friction
+SCI608,Physics,Friction,Which object uses friction to erase pencil marks?,Scale,Bell,Eraser,Cup,Eraser
+SCI609,Physics,Friction,What type of friction acts on moving wheels?,Rolling friction,Sound friction,Static friction,Gravity friction,Rolling friction
+SCI610,Physics,Friction,What type of friction acts when surfaces slide?,Magnetic friction,Fluid friction,Nuclear friction,Sliding friction,Sliding friction
+SCI611,Physics,Friction,Air resistance is a type of ____,mass,friction,light,heat,friction
+SCI612,Physics,Friction,Why do parachutes open wide?,Increase friction with air,Add mass,Reduce gravity,Create magnets,Increase friction with air
+SCI613,Physics,Friction,What happens when surfaces are polished?,Mass doubles,Friction decreases,Friction increases,Heat stops,Friction decreases
+SCI614,Physics,Friction,Why are ball bearings used in machines?,Increase rust,Reduce friction,Increase noise,Add color,Reduce friction
+SCI615,Physics,Friction,Which causes more wear in machine parts?,Low friction,Cold air,High friction,No motion,High friction
+SCI616,Physics,Friction,Why can you walk forward?,Gravity stops you,No friction,Light pulls you,Friction pushes via ground,Friction pushes via ground
+SCI617,Physics,Friction,Static friction acts when object is ____,melting,not sliding relative to surface,glowing,already flying,not sliding relative to surface
+SCI618,Physics,Friction,Which fluid friction acts in water?,Reflection,Weight,Drag,Charge,Drag
+SCI619,Physics,Friction,Coefficient of friction tells how ____ surfaces are.,bright,heavy,silent,grippy,grippy
+SCI620,Physics,Friction,Why do tires have tread patterns?,Reduce mass,Improve friction and grip,Reflect light,Make sound,Improve friction and grip
+SCI621,Physics,Friction,Friction always acts ____ motion.,above,against,with,inside,against
+SCI622,Physics,Friction,Too much friction wastes energy as ____,air,heat,plants,glass,heat
+SCI623,Physics,Friction,Which sport needs friction for players to stop quickly?,Football on grass,Ice skating on oil,Spacewalk,Swimming in air,Football on grass
+SCI624,Physics,Gravity,What pulls objects toward Earth?,Heat,Wind,Gravity,Friction,Gravity
+SCI625,Physics,Gravity,If you drop a ball -  why does it fall?,Push,Magnetism,Sound,Gravity,Gravity
+SCI626,Physics,Gravity,Which object falls due to gravity?,A and B,Stone,Leaf,Both,Both
+SCI627,Physics,Gravity,What keeps us on the ground?,Light,Air only,Gravity,Heat,Gravity
+SCI628,Physics,Gravity,Gravity pulls objects toward the ____.,sky,Earth,cloud,Sunflower,Earth
+SCI629,Physics,Gravity,Jumping up returns you down because of ____,wind,gravity,light,sound,gravity
+SCI630,Physics,Gravity,Which planet has gravity too?,Only Earth,All planets,Not Applicable,Only Mars,All planets
+SCI631,Physics,Gravity,What is your weight caused by?,Gravity,Sound,Shape,Color,Gravity
+SCI632,Physics,Gravity,What happens to a thrown ball after rising?,Keeps rising,Stops in air,Falls back,Melts,Falls back
+SCI633,Physics,Gravity,Moon stays near Earth because of ____,gravity,fog,noise,paint,gravity
+SCI634,Physics,Gravity,Who explained gravity after seeing a falling apple story?,Faraday,Newton,Galileo,Bell,Newton
+SCI635,Physics,Gravity,What happens to weight on the Moon compared to Earth?,More,Zero always,Same,Less,Less
+SCI636,Physics,Gravity,Mass and weight are ____,same always,both colors,both sounds,different quantities,different quantities
+SCI637,Physics,Gravity,Which has stronger gravity: Earth or Moon?,Same,Earth,Not Applicable,Moon,Earth
+SCI638,Physics,Gravity,What is free fall?,Falling under gravity only,Floating in water,Standing still,Rolling uphill,Falling under gravity only
+SCI639,Physics,Gravity,Gravity gives objects downward ____,temperature,acceleration,speed limit,color,acceleration
+SCI640,Physics,Gravity,Why do planets orbit the Sun?,Sound waves,Sun's gravity,Friction only,Magnetism only,Sun's gravity
+SCI641,Physics,Gravity,If you carry a bag upstairs;  your gravitational potential energy ____,decreases,disappears,increases,freezes,increases
+SCI642,Physics,Gravity,What happens to weight if gravity increases?,Decreases,Increases,Becomes mass,Stays zero,Increases
+SCI643,Physics,Gravity,What unit is used for weight?,Meter,Liter,Newton,Second,Newton
+SCI644,Physics,Gravity,Acceleration due to gravity on Earth is about ____,1 m/s²,0 m/s²,100 m/s²,9.8 m/s²,9.8 m/s²
+SCI645,Physics,Gravity,Why do astronauts float in orbit?,No air only,Continuous free fall,No gravity at all,No mass,Continuous free fall
+SCI646,Physics,Gravity,Escape velocity means speed needed to ____,make sound,stop light,boil water,leave a planet's gravity,leave a planet's gravity
+SCI647,Physics,Gravity,What happens to gravitational force with more distance?,Stays same,Turns magnetic,Increases,Decreases,Decreases
+SCI648,Physics,Gravity,Black holes have extremely strong ____,color,heat,friction,gravity,gravity
+SCI649,Physics,Heat,What do we feel when something is hot?,Heat,Cold,Wind,Light,Heat
+SCI650,Physics,Heat,Which object gives us natural heat and light?,Sun,Cloud,Stone,Moon,Sun
+SCI651,Physics,Heat,What happens to ice when heat is added?,It hardens,It melts,It glows,It grows,It melts
+SCI652,Physics,Heat,Which tool measures temperature?,Compass,Scale,Thermometer,Ruler,Thermometer
+SCI653,Physics,Heat,Which is a good source of heat for cooking?,Pillow,Fan,Book,Stove,Stove
+SCI654,Physics,Heat,What happens to water when it is heated enough?,It sinks,It boils,It freezes,It hardens,It boils
+SCI655,Physics,Heat,Which material keeps heat in best?,Stone floor,Metal spoon,Wool blanket,Glass plate,Wool blanket
+SCI656,Physics,Heat,Why do we wear light clothes in summer?,To get heavier,To block sound,To trap heat,To stay cooler,To stay cooler
+SCI657,Physics,Heat,Heat usually moves from a ____ object to a ____ object.,small big,wet dry,hot cold,cold hot,hot cold
+SCI658,Physics,Heat,Which metal object becomes hot quickly in sunlight?,Paper cup,Cotton cloth,Steel spoon,Wood stick,Steel spoon
+SCI659,Physics,Heat,What is transfer of heat through touching called?,Radiation,Conduction,Reflection,Refraction,Conduction
+SCI660,Physics,Heat,What is heat transfer through moving liquids or gases called?,Conduction,Friction,Convection,Magnetism,Convection
+SCI661,Physics,Heat,How does the Sun's heat reach Earth?,Radiation only,By rope,Conduction only,Convection only,Radiation only
+SCI662,Physics,Heat,Why does a black shirt feel hotter in sunlight?,It absorbs more heat,It blocks gravity,It creates ice,It reflects more heat,It absorbs more heat
+SCI663,Physics,Heat,What happens to most solids when heated?,They shrink,They float,They vanish,They expand,They expand
+SCI664,Physics,Heat,Why are handles of cooking pots often plastic or wood?,They attract magnets,They are shiny,They are poor conductors,They melt fast,They are poor conductors
+SCI665,Physics,Heat,Which state change happens when vapor cools into liquid?,Melting,Condensation,Freezing,Sublimation,Condensation
+SCI666,Physics,Heat,Sea breeze during daytime happens because of movement of ____,water only,rocks only,heat and air,light only,heat and air
+SCI667,Physics,Heat,Which container keeps drinks hot longest?,Thermos flask,Paper plate,Metal tray,Open cup,Thermos flask
+SCI668,Physics,Heat,Why are railway tracks given gaps?,To attract magnets,To reduce sound,For expansion in heat,For decoration,For expansion in heat
+SCI669,Physics,Heat,What scale is commonly used to measure temperature in science?,Liter,Celsius,Newton,Meter,Celsius
+SCI670,Physics,Heat,What is the boiling point of pure water at normal pressure?,0°C,50°C,200°C,100°C,100°C
+SCI671,Physics,Heat,Why does metal feel colder than wood in the same room?,It has no heat,It makes wind,It is colder,It conducts heat faster,It conducts heat faster
+SCI672,Physics,Heat,What type of energy increases when particles move faster?,Magnetic energy,Sound energy,Heat energy,Light energy,Heat energy
+SCI673,Physics,Heat,Why does sweating cool the body?,It blocks air,It adds heat,It changes gravity,Evaporation removes heat,Evaporation removes heat
+SCI674,Physics,Light,What is the main natural source of light for Earth?,Moon,Sun,Starfish,Cloud,Sun
+SCI675,Physics,Light,Which of these objects gives off its own light?,Mirror,Chair,Book,Sun,Sun
+SCI676,Physics,Light,What happens when light enters a dark room?,It stops moving,It makes the room brighter,It makes sound,It becomes cold,It makes the room brighter
+SCI677,Physics,Light,Which object can reflect light clearly?,Cloth,Mirror,Sponge,Wood,Mirror
+SCI678,Physics,Light,What do we call the bouncing back of light?,Reflection,Evaporation,Vibration,Refraction,Reflection
+SCI679,Physics,Light,Why can we see objects around us?,Light reaches our eyes,They make noise,They are heavy,Air pushes them,Light reaches our eyes
+SCI680,Physics,Light,Which of these is transparent?,Brick,Metal,Wood,Glass,Glass
+SCI681,Physics,Light,Which of these is translucent?,Frosted glass,Steel,Stone,Clear glass,Frosted glass
+SCI682,Physics,Light,Which of these is opaque?,Wood,Water,Clear plastic,Air,Wood
+SCI683,Physics,Light,What happens when light is blocked by an object?,The object melts,The air stops,A rainbow forms,A shadow forms,A shadow forms
+SCI684,Physics,Light,When is your shadow usually shortest?,Noon,Evening,Morning,Night,Noon
+SCI685,Physics,Light,What color light is made when all rainbow colors mix?,White,Brown,Green,Black,White
+SCI686,Physics,Light,What do we call the band of colors seen after rain?,Rainbow,Shadow,Sunline,Cloudbeam,Rainbow
+SCI687,Physics,Light,Which color is usually at the top of a rainbow?,Red,Purple,Blue,Green,Red
+SCI688,Physics,Light,What happens when light passes through a prism?,It bends into colors,It turns to sound,It disappears,It becomes heavier,It bends into colors
+SCI689,Physics,Light,What do we call the bending of light?,Condensation,Reflection,Rotation,Refraction,Refraction
+SCI690,Physics,Light,Which lens is commonly used in a magnifying glass?,Flat mirror,Convex lens,Metal lens,Concave lens,Convex lens
+SCI691,Physics,Light,Which mirror shows an upright image of yourself?,Stone slab,Paper screen,Rough wall,Plane mirror,Plane mirror
+SCI692,Physics,Light,Which object helps us see tiny things larger?,Compass,Speaker,Binoculars,Microscope,Microscope
+SCI693,Physics,Light,Which object helps us see faraway stars?,Torch,Periscope,Telescope,Clock,Telescope
+SCI694,Physics,Light,Why should we not look directly at the Sun?,It causes wind,It is too small,It makes noise,It can harm our eyes,It can harm our eyes
+SCI695,Physics,Light,Which travels faster?,Sound,Neither moves,Light,Both same speed,Light
+SCI696,Physics,Light,What color object is most likely to absorb more sunlight?,Mirror,Black shirt,Clear glass,White shirt,Black shirt
+SCI697,Physics,Light,Which object is a man-made source of light?,Tree,Rock,Lamp,Table,Lamp
+SCI698,Physics,Light,What happens to light in a straight line path?,It zigzags randomly,It stops quickly,It travels straight,It sinks down,It travels straight
+SCI699,Physics,Magnet,Which object can attract iron nails?,Magnet,Paper,Wood,Glass,Magnet
+SCI700,Physics,Magnet,A magnet has two ____,colors,wheels,poles,shapes,poles
+SCI701,Physics,Magnet,What are the two poles of a magnet?,North South,Hot Cold,East West,Up Down,North South
+SCI702,Physics,Magnet,What happens when unlike poles meet?,Disappear,Melt,Attract,Repel,Attract
+SCI703,Physics,Magnet,What happens when like poles meet?,Repel,Attract,Glow,Freeze,Repel
+SCI704,Physics,Magnet,Which metal is strongly attracted to magnets?,Rubber,Iron,Plastic,Wood,Iron
+SCI705,Physics,Magnet,Which tool uses a magnet to show direction?,Thermometer,Scale,Ruler,Compass,Compass
+SCI706,Physics,Magnet,Can a magnet attract paper clips made of steel?,Yes,Only at night,No,Only if wet,Yes
+SCI707,Physics,Magnet,Where is magnetism strongest on a bar magnet?,Painted side,Bottom only,Ends,Middle,Ends
+SCI708,Physics,Magnet,Which is a natural magnet?,Coal,Sponge,Chalk,Lodestone,Lodestone
+SCI709,Physics,Magnet,What is the area around a magnet where force acts called?,Circuit,Field,Wave,Shadow,Field
+SCI710,Physics,Magnet,What do we call a temporary magnet made by electricity?,Electromagnet,Lens,Battery,Fuse,Electromagnet
+SCI711,Physics,Magnet,Which device commonly uses electromagnets?,Both crane and doorbell,Candle,Plate only,Doorbell only,Both crane and doorbell
+SCI712,Physics,Magnet,Why are scrapyard cranes magnetic?,To paint cars,To cool metal,To lift iron objects,To make light,To lift iron objects
+SCI713,Physics,Magnet,What happens if current stops in an electromagnet?,Explodes,Turns wooden,Loses magnetism greatly,Gets stronger,Loses magnetism greatly
+SCI714,Physics,Magnet,Magnetic field lines are strongest where lines are ____,close together,colorful,far apart,broken,close together
+SCI715,Physics,Magnet,Which material can block magnets best here?,Iron nail,Paper,Thick steel sheet,Air,Thick steel sheet
+SCI716,Physics,Magnet,Earth behaves like a giant ____,magnet,heater,battery,lens,magnet
+SCI717,Physics,Magnet,Why does a compass needle move?,Wind pushes it,Water pulls it,Heat bends it,Earth's magnetic field,Earth's magnetic field
+SCI718,Physics,Magnet,If a bar magnet is cut in half  each piece gets ____,liquid,two poles,one pole only,no poles,two poles
+SCI719,Physics,Magnet,What is magnetic induction?,Melting magnets,Stopping gravity,Painting magnets,Making material magnetic nearby,Making material magnetic nearby
+SCI720,Physics,Magnet,Which pole of a compass points northward?,South-seeking end,Neither,Middle,North-seeking end,North-seeking end
+SCI721,Physics,Magnet,Why are fridge magnets useful?,They stick notes to metal door,They make food hot,They create ice,They stop light,They stick notes to metal door
+SCI722,Physics,Magnet,Which material is non-magnetic?,Copper coin,Nickel,Steel,Iron,Copper coin
+SCI723,Physics,Magnet,Stronger electromagnets can be made by increasing ____,color,current,shadow,silence,current
+SCI724,Physics,Random,What force pulls objects towards the Earth?,Friction,Magnetism,Gravity,Push,Gravity
+SCI725,Physics,Random,What is the speed of moving air called?,Cloud,Wind,Rain,Thunder,Wind
+SCI726,Physics,Random,Which of these is a source of light?,Wall,Moon,Sun,Mirror,Sun
+SCI727,Physics,Random,What happens when light hits a mirror?,It disappears,It slows down,It reflects,It breaks,It reflects
+SCI728,Physics,Random,What do we call the energy of moving objects?,Light energy,Heat energy,Sound energy,Kinetic energy,Kinetic energy
+SCI729,Physics,Random,Which simple machine is a see-saw?,Lever,Wheel,Pulley,Screw,Lever
+SCI730,Physics,Random,What do magnets attract?,Plastic,Paper,Wood,Iron,Iron
+SCI731,Physics,Random,What is the positive end of a magnet called?,North Pole,West Pole,South Pole,Top Pole,North Pole
+SCI732,Physics,Random,What does friction do to a moving object?,Turns it invisible,Slows it down,Speeds it up,Stops it,Slows it down
+SCI733,Physics,Random,Which of these is a good conductor of electricity?,Copper,Wood,Rubber,Plastic,Copper
+SCI734,Physics,Random,Sound travels fastest through:,Gas,Water,Air,Solid,Solid
+SCI735,Physics,Random,Which part of a bulb gives light?,Filament,Glass,Wire,Base,Filament
+SCI736,Physics,Random,What is needed to make an electric circuit work?,Break,Switch off,Complete path,Paint,Complete path
+SCI737,Physics,Random,What form of energy do we get from the Sun?,Light and heat energy,Magnetic energy,Sound energy,Electrical energy,Light and heat energy
+SCI738,Physics,Random,What happens to a shadow when the light source moves closer?,Shadow becomes bigger,Shadow becomes smaller,Shadow disappears,Shadow becomes blue,Shadow becomes bigger
+SCI739,Physics,Random,A push or a pull is called:,Force,Motion,Energy,Weight,Force
+SCI740,Physics,Random,What is the unit of measuring force?,Newton,Liter,Kilometer,Meter,Newton
+SCI741,Physics,Random,What kind of energy is stored in a battery?,Chemical energy,Heat energy,Sound energy,Light energy,Chemical energy
+SCI742,Physics,Random,Which of these objects floats on water?,Stone,Iron ball,Coin,Plastic bottle,Plastic bottle
+SCI743,Physics,Random,What does a thermometer measure?,Speed,Weight,Temperature,Length,Temperature
+SCI744,Physics,Random,Which simple machine helps you lift water from a well?,Pulley,Wedge,Screw,Lever,Pulley
+SCI745,Physics,Random,What kind of energy comes from moving water or wind?,Sound energy,Magnetic energy,Heat energy,Mechanical energy,Mechanical energy
+SCI746,Physics,Random,When you stretch a rubber band which energy is stored?,Light energy,Sound energy,Heat energy,Elastic potential energy,Elastic potential energy
+SCI747,Physics,Random,Which color of light has the highest energy?,Green,Violet,Yellow,Red,Violet
+SCI748,Physics,Sound,What do we call something we hear with our ears?,Sound,Light,Heat,Force,Sound
+SCI749,Physics,Sound,What is the speed of sound measured in?,Liters,Centimeters,Meters per second,Kilograms,Meters per second
+SCI750,Physics,Sound,Which part of the body helps us hear sound?,Hands,Nose,Ears,Eyes,Ears
+SCI751,Physics,Sound,What causes sound to be made?,Still objects,Shadows,Colors,Vibrations,Vibrations
+SCI752,Physics,Sound,Which of these can travel through air as sound?,Leaves,Roots,Waves,Stones,Waves
+SCI753,Physics,Sound,Which musical instrument makes sound when strings vibrate?,Drum,Bell,Guitar,Flute,Guitar
+SCI754,Physics,Sound,What happens to sound when you move farther away from it?,Gets louder,Stops moving,Changes color,Gets softer,Gets softer
+SCI755,Physics,Sound,What do we call a very loud unwanted sound?,Noise,Whisper,Silence,Music,Noise
+SCI756,Physics,Sound,Which of these objects can make sound by vibrating?,Book,Pillow,Bell,Tablecloth,Bell
+SCI757,Physics,Sound,What is a soft and quiet way of speaking called?,Singing,Whispering,Shouting,Laughing,Whispering
+SCI758,Physics,Sound,What happens when you hit a drum?,It melts,It freezes,It disappears,It vibrates,It vibrates
+SCI759,Physics,Sound,Which material helps sound travel best?,Water,Vacuum,Air,Steel,Steel
+SCI760,Physics,Sound,What do we call sound that bounces back?,Shadow,Flash,Echo,Steam,Echo
+SCI761,Physics,Sound,Where are echoes often heard clearly?,Cave,Sand,Forest,Open field,Cave
+SCI762,Physics,Sound,Which of these sounds has the highest pitch?,Thunder,Whistle,Drum beat,Lion roar,Whistle
+SCI763,Physics,Sound,Which of these sounds has the lowest pitch?,Thunder,Flute,Whistle,Bird chirp,Thunder
+SCI764,Physics,Sound,What do we call how high or low a sound is?,Weight,Color,Length,Pitch,Pitch
+SCI765,Physics,Sound,What do we call how loud or soft a sound is?,Shape,Mass,Volume,Speed,Volume
+SCI766,Physics,Sound,Which of these usually makes the loudest sound?,Ticking clock,Jet engine,Whisper,Falling leaf,Jet engine
+SCI767,Physics,Sound,Can sound travel through water?,No,Yes,Only at night,Only in winter,Yes
+SCI768,Physics,Sound,Can sound travel in outer space where there is no air?,Only once,Only slowly,Yes,No,No
+SCI769,Physics,Sound,Which device is used to listen to sounds better from far away?,Microscope,Stethoscope,Telescope,Thermometer,Stethoscope
+SCI770,Physics,Sound,What happens when you pluck a rubber band?,It turns cold,It breaks into dust,It vibrates,It glows,It vibrates
+SCI771,Physics,Sound,Which sound is most likely a natural sound?,Doorbell,Car horn,Alarm clock,Birdsong,Birdsong
+SCI772,Physics,Sound,Why do we cover our ears during very loud sounds?,To hear better,To sleep faster,To stop wind,To protect ears,To protect ears

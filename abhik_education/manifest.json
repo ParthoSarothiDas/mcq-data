@@ -1,7 +1,6 @@
 {
-  "version": 7,
+  "version": 11,
   "subjects": [
-    "Bengali",
     "English",
     "Flutter",
     "Math",

@@ -1,0 +1,11 @@
+{
+  "version": 10,
+  "subjects": [
+    "English",
+    "Math",
+    "Science",
+    "Sports",
+    "History",
+    "Flutter"
+  ]
+}

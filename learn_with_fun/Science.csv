@@ -1,0 +1,61 @@
+﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option
+SCI1,1,Astronomy,What shape is Earth?,Round,Square,Flat,Triangle,Round
+SCI2,1,Astronomy,What is Earth's natural satellite?,Venus,Sun,Moon,Mars,Moon
+SCI3,1,Astronomy,How long does Earth take to rotate once?,24 hrs,48 hrs,12 hrs,365 days,24 hrs
+SCI4,1,Astronomy,"Which planet is called the ""Blue Planet""?",Neptune,Mars,Earth,Venus,Earth
+SCI5,1,Astronomy,What causes day and night?,Moon's orbit,Sun's movement,Clouds,Earth's rotation,Earth's rotation
+SCI6,1,Astronomy,How many continents are on Earth?,5,7,6,8,7
+SCI7,2,Astronomy,What is the largest ocean on Earth?,Atlantic,Pacific,Arctic,Indian,Pacific
+SCI8,2,Astronomy,Which layer do we live on?,Inner core,Core,Mantle,Crust,Crust
+SCI9,2,Astronomy,What causes ocean tides?,Rain,Moon's gravity,Earth's spin,Wind,Moon's gravity
+SCI10,2,Astronomy,Which is Earth's closest star?,Moon,Sirius,Polaris,Sun,Sun
+SCI11,2,Astronomy,How long does the Moon take to orbit Earth?,7 days,27 days,14 days,365 days,27 days
+SCI12,3,Astronomy,What causes lunar phases?,Earth's shadow,Clouds,Sun's rotation,Moon's orbit,Moon's orbit
+SCI13,3,Astronomy,What is a solar eclipse?,Earth blocks Sun,Stars block Sun,Sun blocks Moon,Moon blocks Sun,Moon blocks Sun
+SCI14,3,Astronomy,What is a lunar eclipse?,Moon blocks Sun,Moon blocks Earth,Sun blocks Moon,Earth blocks Moon,Earth blocks Moon
+SCI15,3,Astronomy,Which gas is most in Earth's atmosphere?,Carbon dioxide,Oxygen,Nitrogen,Hydrogen,Nitrogen
+SCI16,3,Astronomy,What is the Moon's surface covered with?,Rocks & dust,Grass,Water,Ice,Rocks & dust
+SCI17,3,Astronomy,Which side of the Moon always faces Earth?,Far side,Near side,Changes,Both sides,Near side
+SCI18,1,Chemistry,Which of these tastes sour usually?,Salt only,Acid,Metal,Base,Acid
+SCI19,1,Chemistry,Which of these is a common acid in lemons?,Calcium oxide,Citric acid,Ammonia,Sodium hydroxide,Citric acid
+SCI20,1,Chemistry,Which of these is a common base in soap?,Alkali acid,Metal,Gas,Base,Base
+SCI21,1,Chemistry,What color does blue litmus turn in acid?,Blue,Green,Red,Yellow,Red
+SCI22,1,Chemistry,What color does red litmus turn in base?,Red,Blue,Orange,White,Blue
+SCI23,1,Chemistry,What is the pH of a neutral solution?,7,0,1,14,7
+SCI24,2,Chemistry,Which substance is acidic?,Detergent,Vinegar,Soap solution,Baking soda,Vinegar
+SCI25,2,Chemistry,Which substance is basic?,Soap water,Orange juice,Vinegar,Lemon juice,Soap water
+SCI26,2,Chemistry,What do acids release in water?,Iron atoms,Hydrogen ions,Oxygen stones,Light waves,Hydrogen ions
+SCI27,2,Chemistry,What do bases release in water?,Hydroxide ions,Helium atoms,Carbon rocks,Salt dust,Hydroxide ions
+SCI28,2,Chemistry,What is an indicator?,Filter paper only,Substance showing acid/base change,Heat source,Metal rod,Substance showing acid/base change
+SCI29,2,Chemistry,Which indicator is made from turmeric commonly?,Turmeric indicator,Limewater,Steam test,Ink test,Turmeric indicator
+SCI30,2,Chemistry,What happens when acid reacts with base?,Magnetism,Freezing,Explosion always,Neutralization,Neutralization
+SCI31,3,Chemistry,Products of neutralization are usually ____,acid and base,salt and water,metal and gas,oil and water,salt and water
+SCI32,3,Chemistry,Which acid is found in stomach naturally?,Hydrochloric acid,Sulfuric acid,Nitric acid,Acetic acid,Hydrochloric acid
+SCI33,3,Chemistry,Why are antacids used?,Create rust,Reduce excess stomach acid,Increase acidity,Add sugar,Reduce excess stomach acid
+SCI34,3,Chemistry,Which has pH less than 7?,Base,Salt always,Neutral metal,Acid,Acid
+SCI35,3,Chemistry,Which has pH more than 7?,Neutral water,Acid,Base,Steam,Base
+SCI36,4,Chemistry,What gas may form when acid reacts with carbonate?,Carbon dioxide,Nitrogen,Helium,Hydrogen only,Carbon dioxide
+SCI37,4,Chemistry,Why should strong acids be handled carefully?,They can be corrosive,They are edible,They float,They are cold,They can be corrosive
+SCI38,4,Chemistry,Universal indicator shows ____,color range for pH,mass,sound,magnetism,color range for pH
+SCI39,4,Chemistry,Which acid is present in vinegar?,Acetic acid,Carbonic acid,Hydrochloric acid,Nitric acid,Acetic acid
+SCI40,4,Chemistry,Ammonia solution is usually ____,metallic,acidic,basic,neutral,basic
+SCI41,4,Chemistry,What is caustic soda?,Sodium hydroxide,Hydrogen peroxide,Copper sulfate,Calcium carbonate,Sodium hydroxide
+SCI42,4,Chemistry,Why does acid rain harm buildings?,It neutralizes stone,It reacts with materials,It adds gold,It freezes walls,It reacts with materials
+SCI43,5,Chemistry,Which gas do humans need to breathe?,Carbon dioxide,Oxygen,Nitrogen,Helium,Oxygen
+SCI44,5,Chemistry,Which gas is most abundant in air?,Hydrogen,Nitrogen,Oxygen,Carbon dioxide,Nitrogen
+SCI45,5,Chemistry,Air takes up ____,space,only sound,nothing,only color,space
+SCI46,5,Chemistry,Can air be seen directly?,Only at night,No,Only indoors,Yes always,No
+SCI47,5,Chemistry,Moving air is called ____,wind,fog,steam,rain,wind
+SCI48,5,Chemistry,Which gas do plants use for photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Argon,Carbon dioxide
+SCI49,5,Chemistry,Which gas do plants release during photosynthesis?,Smoke,Oxygen,Helium,Carbon dioxide,Oxygen
+SCI50,6,Chemistry,Which layer of air surrounds Earth?,Hydrosphere,Atmosphere,Lithosphere,Core,Atmosphere
+SCI51,6,Chemistry,What fills an inflated balloon?,Stone,Sand,Wood,Air,Air
+SCI52,6,Chemistry,Which air condition can be harmful to health?,Polluted air,Clean air,Dry air,Cool air,Polluted air
+SCI53,6,Chemistry,What gas do we exhale more than inhale?,Nitrogen,Carbon dioxide,Neon,Oxygen,Carbon dioxide
+SCI54,6,Chemistry,Why does warm air rise?,It is magnetic,It is less dense,It is heavier,It is blue,It is less dense
+SCI55,7,Chemistry,What device measures air pressure?,Barometer,Scale,Thermometer,Compass,Barometer
+SCI56,7,Chemistry,Which gas helps protect Earth from UV rays as ozone?,Oxygen form,Steam,CO2 only,Nitrogen,Oxygen form
+SCI57,7,Chemistry,What causes smog mainly?,Snowfall,Clean rain,Air pollution,Fresh wind,Air pollution
+SCI58,7,Chemistry,Humidity means amount of ____ in air.,water vapor,sand,iron,salt,water vapor
+SCI59,7,Chemistry,Why do birds fly easier in moving air sometimes?,Less space,Gravity stops,Air currents help,No oxygen,Air currents help
+SCI60,7,Chemistry,Which gas is used in balloons to float safely?,Nitrogen,CO2,Chlorine,Helium,Helium

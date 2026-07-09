@@ -1,0 +1,335 @@
+﻿Subject,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
+Math1,1,Addition,"Rina has 2 apples. Her mother gives her 3 more. How many apples does she have?
+She has _____ apples.",,,,,5,FillBlank
+Math2,1,Addition,1 + 4 = _____,3,4,5,6,5,MCQ
+Math3,1,Addition,5 + 2 = _____,,,,,7,FillBlank
+Math4,1,Addition,3 + 6 ?,8,9,10,11,9,MCQ
+Math5,1,Addition,4 + 4 ?,6,7,8,9,8,MCQ
+Math6,1,Addition,2 + 2 ?,3,4,5,6,4,MCQ
+Math7,1,Addition,3 + 3 ?,5,6,7,8,6,MCQ
+Math8,1,Addition,4 + 4 ?,6,7,8,9,8,MCQ
+Math9,1,Addition,5 + 5 ?,8,9,10,11,10,MCQ
+Math10,1,Addition,6 + 6 ?,10,11,12,13,12,MCQ
+Math11,1,Addition,7 + 7 ?,12,13,14,15,14,MCQ
+Math12,1,Addition,8 + 8 ?,14,15,16,17,16,MCQ
+Math13,1,Addition,9 + 9 ?,16,17,18,19,18,MCQ
+Math14,2,Addition,2 + 3 ?,4,5,6,7,5,MCQ
+Math15,2,Addition,3 + 4 ?,6,7,8,9,7,MCQ
+Math16,2,Addition,4 + 5 ?,8,9,10,11,9,MCQ
+Math17,2,Addition,5 + 6 ?,10,11,12,13,11,MCQ
+Math18,2,Addition,6 + 7 ?,12,13,14,15,13,MCQ
+Math19,2,Addition,7 + 8 ?,14,15,16,17,15,MCQ
+Math20,2,Addition,8 + 9 ?,16,17,18,19,17,MCQ
+Math21,2,Addition,2 + 4 ?,5,6,7,8,6,MCQ
+Math22,2,Addition,3 + 5 ?,7,8,9,10,8,MCQ
+Math23,2,Addition,4 + 6 ?,9,10,11,12,10,MCQ
+Math24,3,Addition,8 + 4 ?,11,12,13,14,12,MCQ
+Math25,3,Addition,2 + 7 ?,8,9,10,11,9,MCQ
+Math26,3,Addition,9 + 5 ?,13,14,15,16,14,MCQ
+Math27,3,Addition,6 + 3 ?,8,9,10,11,9,MCQ
+Math28,3,Addition,7 + 9 ?,15,16,17,18,16,MCQ
+Math29,3,Addition,5 + 8 ?,12,13,14,15,13,MCQ
+Math30,3,Addition,4 + 7 ?,10,11,12,13,11,MCQ
+Math31,3,Addition,2 + 8 ?,9,10,11,12,10,MCQ
+Math32,3,Addition,6 + 9 ?,14,15,16,17,15,MCQ
+Math33,3,Addition,3 + 8 ?,10,11,12,13,11,MCQ
+Math34,3,Addition,5 + 7 ?,11,12,13,14,12,MCQ
+Math35,3,Addition,4 + 9 ?,12,13,14,15,13,MCQ
+Math36,3,Addition,2 + 6 ?,7,8,9,10,8,MCQ
+Math37,3,Addition,8 + 8 ?,15,16,17,18,16,MCQ
+Math38,3,Addition,3 + 9 ?,11,12,13,14,12,MCQ
+Math39,4,Addition,Rina has 2 apples. Her mother gives her 3 more. How many apples does she have?\n\nShe have _____ apples,4,5,6,7,5,MCQ
+Math40,4,Addition,A boy has 4 balloons. He gets 5 more balloons. How many balloons does he have?,8,9,10,11,9,MCQ
+Math41,4,Addition,There are 6 birds on a tree. 2 more birds come. How many birds are there now?,7,8,9,10,8,MCQ
+Math42,4,Addition,A basket has 7 oranges. 3 more oranges are added. How many oranges are there?,9,10,11,12,10,MCQ
+Math43,4,Addition,A classroom has 5 girls and 6 boys. How many students are there?,10,11,12,13,11,MCQ
+Math44,4,Addition,Ali has 8 marbles. His friend gives him 4 more. How many marbles does Ali have?,11,12,13,14,12,MCQ
+Math45,4,Addition,A farmer has 9 cows and buys 5 more cows. How many cows does he have?,13,14,15,16,14,MCQ
+Math46,4,Addition,A shelf has 3 books. You put 8 more books on it. How many books are on the shelf now?,10,11,12,13,11,MCQ
+Math47,4,Addition,A box contains 2 toys. Another box contains 9 toys. How many toys are there altogether?,10,11,12,13,11,MCQ
+Math48,4,Addition,There are 7 flowers in one vase and 8 flowers in another vase. How many flowers are there in total?,14,15,16,17,15,MCQ
+Math49,5,Addition,? + 2 = 5,2,3,4,5,3,MCQ
+Math50,5,Addition,? + 3 = 7,2,3,4,5,4,MCQ
+Math51,5,Addition,? + 4 = 9,3,4,5,6,5,MCQ
+Math52,5,Addition,? + 5 = 11,4,5,6,7,6,MCQ
+Math53,5,Addition,? + 6 = 13,5,6,7,8,7,MCQ
+Math54,5,Addition,? + 7 = 15,6,7,8,9,8,MCQ
+Math55,5,Addition,? + 8 = 17,7,8,9,10,9,MCQ
+Math56,5,Addition,? + 9 = 18,8,9,10,11,9,MCQ
+Math57,5,Addition,2 + ? = 8,4,5,6,7,6,MCQ
+Math58,5,Addition,3 + ? = 10,5,6,7,8,7,MCQ
+Math59,5,Addition,4 + ? = 12,6,7,8,9,8,MCQ
+Math60,5,Addition,5 + ? = 14,7,8,9,10,9,MCQ
+Math61,5,Addition,6 + ? = 15,7,8,9,10,9,MCQ
+Math62,5,Addition,7 + ? = 16,7,8,9,10,9,MCQ
+Math63,5,Addition,8 + ? = 18,8,9,10,11,10,MCQ
+Math64,6,Multiplication (2x),What is 2 × 1 ?,1,2,3,4,2,MCQ
+Math65,6,Multiplication (2x),What is 2 × 2 ?,2,3,4,5,4,MCQ
+Math66,6,Multiplication (2x),What is 2 × 3 ?,4,5,6,7,6,MCQ
+Math67,6,Multiplication (2x),What is 2 × 4 ?,6,7,8,9,8,MCQ
+Math68,6,Multiplication (2x),What is 2 × 5 ?,8,9,10,11,10,MCQ
+Math69,6,Multiplication (2x),What is 2 × 6 ?,10,11,12,13,12,MCQ
+Math70,6,Multiplication (2x),What is 2 × 7 ?,12,13,14,15,14,MCQ
+Math71,6,Multiplication (2x),What is 2 × 8 ?,14,15,16,17,16,MCQ
+Math72,6,Multiplication (2x),What is 2 × 9 ?,16,17,18,19,18,MCQ
+Math73,6,Multiplication (2x),What is 2 × 10 ?,18,19,20,21,20,MCQ
+Math74,7,Multiplication (2x),What is 8 × 2 ?,14,15,16,17,16,MCQ
+Math75,7,Multiplication (2x),What is 1 × 2 ?,1,2,3,4,2,MCQ
+Math76,7,Multiplication (2x),What is 2 × 2 ?,2,3,4,5,4,MCQ
+Math77,7,Multiplication (2x),What is 5 × 2 ?,8,9,10,11,10,MCQ
+Math78,7,Multiplication (2x),What is 3 × 2 ?,4,5,6,7,6,MCQ
+Math79,7,Multiplication (2x),What is 4 × 2 ?,6,7,8,9,8,MCQ
+Math80,7,Multiplication (2x),What is 7 × 2 ?,12,13,14,15,14,MCQ
+Math81,7,Multiplication (2x),What is 9 × 2 ?,16,17,18,19,18,MCQ
+Math82,7,Multiplication (2x),What is 6 × 2 ?,10,11,12,13,12,MCQ
+Math83,7,Multiplication (2x),What is 10 × 2 ?,18,19,20,21,20,MCQ
+Math84,8,Multiplication (2x),There are 2 flowers in each vase. How many flowers are in 7 vases?,12,13,14,15,14,MCQ
+Math85,8,Multiplication (2x),There are 2 apples in each basket. How many apples are in 3 baskets?,4,5,6,7,6,MCQ
+Math86,8,Multiplication (2x),Each shelf holds 2 books. How many books are on 9 shelves?,16,17,18,19,18,MCQ
+Math87,8,Multiplication (2x),Each box has 2 chocolates. How many chocolates are in 5 boxes?,8,9,10,11,10,MCQ
+Math88,8,Multiplication (2x),A teacher gives 2 pencils to each of 4 students. How many pencils are given?,6,7,8,9,8,MCQ
+Math89,8,Multiplication (2x),A pair has 2 socks. How many socks are in 8 pairs?,14,15,16,17,16,MCQ
+Math90,8,Multiplication (2x),A bicycle has 2 wheels. How many wheels do 6 bicycles have?,10,11,12,13,12,MCQ
+Math91,8,Multiplication (2x),A shop sells 2 balloons every hour. How many balloons are sold in 10 hours?,18,19,20,21,20,MCQ
+Math92,8,Multiplication (2x),Each bag has 2 oranges. How many oranges are in 2 bags?,2,3,4,5,4,MCQ
+Math93,8,Multiplication (2x),There are 2 stars on each card. How many stars are on 1 card?,1,2,3,4,2,MCQ
+Math94,9,Multiplication (3x),What is 3 × 1 ?,2,3,4,5,3,MCQ
+Math95,9,Multiplication (3x),What is 3 × 2 ?,5,6,7,8,6,MCQ
+Math96,9,Multiplication (3x),What is 3 × 3 ?,8,9,10,11,9,MCQ
+Math97,9,Multiplication (3x),What is 3 × 4 ?,11,12,13,14,12,MCQ
+Math98,9,Multiplication (3x),What is 3 × 5 ?,14,15,16,17,15,MCQ
+Math99,9,Multiplication (3x),What is 3 × 6 ?,17,18,19,20,18,MCQ
+Math100,9,Multiplication (3x),What is 3 × 7 ?,20,21,22,23,21,MCQ
+Math101,9,Multiplication (3x),What is 3 × 8 ?,23,24,25,26,24,MCQ
+Math102,9,Multiplication (3x),What is 3 × 9 ?,26,27,28,29,27,MCQ
+Math103,9,Multiplication (3x),What is 3 × 10 ?,29,30,31,32,30,MCQ
+Math104,10,Multiplication (3x),What is 5 × 3 ?,14,15,16,17,15,MCQ
+Math105,10,Multiplication (3x),What is 1 × 3 ?,2,3,4,5,3,MCQ
+Math106,10,Multiplication (3x),What is 2 × 3 ?,5,6,7,8,6,MCQ
+Math107,10,Multiplication (3x),What is 4 × 3 ?,11,12,13,14,12,MCQ
+Math108,10,Multiplication (3x),What is 6 × 3 ?,17,18,19,20,18,MCQ
+Math109,10,Multiplication (3x),What is 9 × 3 ?,26,27,28,29,27,MCQ
+Math110,10,Multiplication (3x),What is 7 × 3 ?,20,21,22,23,21,MCQ
+Math111,10,Multiplication (3x),What is 3 × 3 ?,8,9,10,11,9,MCQ
+Math112,10,Multiplication (3x),What is 8 × 3 ?,23,24,25,26,24,MCQ
+Math113,10,Multiplication (3x),What is 10 × 3 ?,29,30,31,32,30,MCQ
+Math114,11,Multiplication (3x),There are 3 apples in each basket. How many apples are in 2 baskets?,5,6,7,8,6,MCQ
+Math115,11,Multiplication (3x),A tricycle has 3 wheels. How many wheels do 5 tricycles have?,14,15,16,17,15,MCQ
+Math116,11,Multiplication (3x),A teacher gives 3 pencils to each of 3 students. How many pencils are given?,8,9,10,11,9,MCQ
+Math117,11,Multiplication (3x),Each box has 3 chocolates. How many chocolates are in 4 boxes?,11,12,13,14,12,MCQ
+Math118,11,Multiplication (3x),There are 3 flowers in each vase. How many flowers are in 6 vases?,17,18,19,20,18,MCQ
+Math119,11,Multiplication (3x),A child gets 3 stickers. How many stickers does 1 child get?,2,3,4,5,3,MCQ
+Math120,11,Multiplication (3x),Each packet has 3 biscuits. How many biscuits are in 7 packets?,20,21,22,23,21,MCQ
+Math121,11,Multiplication (3x),There are 3 birds on each tree. How many birds are on 9 trees?,26,27,28,29,27,MCQ
+Math122,11,Multiplication (3x),Each bag has 3 oranges. How many oranges are in 10 bags?,29,30,31,32,30,MCQ
+Math123,11,Multiplication (3x),Each shelf holds 3 books. How many books are on 8 shelves?,23,24,25,26,24,MCQ
+Math124,12,Multiplication (4x),What is 4 × 1 ?,3,4,5,6,4,MCQ
+Math125,12,Multiplication (4x),What is 4 × 2 ?,6,7,8,9,8,MCQ
+Math126,12,Multiplication (4x),What is 4 × 3 ?,10,11,12,13,12,MCQ
+Math127,12,Multiplication (4x),What is 4 × 4 ?,14,15,16,17,16,MCQ
+Math128,12,Multiplication (4x),What is 4 × 5 ?,18,19,20,21,20,MCQ
+Math129,12,Multiplication (4x),What is 4 × 6 ?,22,23,24,25,24,MCQ
+Math130,12,Multiplication (4x),What is 4 × 7 ?,26,27,28,29,28,MCQ
+Math131,12,Multiplication (4x),What is 4 × 8 ?,30,31,32,33,32,MCQ
+Math132,12,Multiplication (4x),What is 4 × 9 ?,34,35,36,37,36,MCQ
+Math133,12,Multiplication (4x),What is 4 × 10 ?,38,39,40,41,40,MCQ
+Math134,13,Multiplication (4x),What is 5 × 4 ?,18,19,20,21,20,MCQ
+Math135,13,Multiplication (4x),What is 1 × 4 ?,3,4,5,6,4,MCQ
+Math136,13,Multiplication (4x),What is 9 × 4 ?,34,35,36,37,36,MCQ
+Math137,13,Multiplication (4x),What is 2 × 4 ?,6,7,8,9,8,MCQ
+Math138,13,Multiplication (4x),What is 7 × 4 ?,26,27,28,29,28,MCQ
+Math139,13,Multiplication (4x),What is 3 × 4 ?,10,11,12,13,12,MCQ
+Math140,13,Multiplication (4x),What is 4 × 4 ?,14,15,16,17,16,MCQ
+Math141,13,Multiplication (4x),What is 10 × 4 ?,38,39,40,41,40,MCQ
+Math142,13,Multiplication (4x),What is 6 × 4 ?,22,23,24,25,24,MCQ
+Math143,13,Multiplication (4x),What is 8 × 4 ?,30,31,32,33,32,MCQ
+Math144,14,Multiplication (4x),There are 4 apples in each basket. How many apples are in 2 baskets?,6,7,8,9,8,MCQ
+Math145,14,Multiplication (4x),Each packet has 4 biscuits. How many biscuits are in 7 packets?,26,27,28,29,28,MCQ
+Math146,14,Multiplication (4x),A teacher gives 4 pencils to each of 3 students. How many pencils are given?,10,11,12,13,12,MCQ
+Math147,14,Multiplication (4x),Each box has 4 chocolates. How many chocolates are in 4 boxes?,14,15,16,17,16,MCQ
+Math148,14,Multiplication (4x),A child gets 4 stickers. How many stickers does 1 child get?,3,4,5,6,4,MCQ
+Math149,14,Multiplication (4x),A car has 4 wheels. How many wheels do 5 cars have?,18,19,20,21,20,MCQ
+Math150,14,Multiplication (4x),Each shelf holds 4 books. How many books are on 8 shelves?,30,31,32,33,32,MCQ
+Math151,14,Multiplication (4x),There are 4 birds on each tree. How many birds are on 9 trees?,34,35,36,37,36,MCQ
+Math152,14,Multiplication (4x),There are 4 flowers in each vase. How many flowers are in 6 vases?,22,23,24,25,24,MCQ
+Math153,14,Multiplication (4x),Each bag has 4 oranges. How many oranges are in 10 bags?,38,39,40,41,40,MCQ
+Math154,15,Multiplication (5x),What is 5 × 1 ?,4,5,6,7,5,MCQ
+Math155,15,Multiplication (5x),What is 5 × 2 ?,8,9,10,11,10,MCQ
+Math156,15,Multiplication (5x),What is 5 × 3 ?,13,14,15,16,15,MCQ
+Math157,15,Multiplication (5x),What is 5 × 4 ?,18,19,20,21,20,MCQ
+Math158,15,Multiplication (5x),What is 5 × 5 ?,23,24,25,26,25,MCQ
+Math159,15,Multiplication (5x),What is 5 × 6 ?,28,29,30,31,30,MCQ
+Math160,15,Multiplication (5x),What is 5 × 7 ?,33,34,35,36,35,MCQ
+Math161,15,Multiplication (5x),What is 5 × 8 ?,38,39,40,41,40,MCQ
+Math162,15,Multiplication (5x),What is 5 × 9 ?,43,44,45,46,45,MCQ
+Math163,15,Multiplication (5x),What is 5 × 10 ?,48,49,50,51,50,MCQ
+Math164,16,Multiplication (5x),What is 5 × 5 ?,23,24,25,26,25,MCQ
+Math165,16,Multiplication (5x),What is 1 × 5 ?,4,5,6,7,5,MCQ
+Math166,16,Multiplication (5x),What is 3 × 5 ?,13,14,15,16,15,MCQ
+Math167,16,Multiplication (5x),What is 4 × 5 ?,18,19,20,21,20,MCQ
+Math168,16,Multiplication (5x),What is 2 × 5 ?,8,9,10,11,10,MCQ
+Math169,16,Multiplication (5x),What is 6 × 5 ?,28,29,30,31,30,MCQ
+Math170,16,Multiplication (5x),What is 10 × 5 ?,48,49,50,51,50,MCQ
+Math171,16,Multiplication (5x),What is 7 × 5 ?,33,34,35,36,35,MCQ
+Math172,16,Multiplication (5x),What is 8 × 5 ?,38,39,40,41,40,MCQ
+Math173,16,Multiplication (5x),What is 9 × 5 ?,43,44,45,46,45,MCQ
+Math174,17,Multiplication (5x),There are 5 apples in each basket. How many apples are in 2 baskets?,8,9,10,11,10,MCQ
+Math175,17,Multiplication (5x),A hand has 5 fingers. How many fingers do 5 hands have?,23,24,25,26,25,MCQ
+Math176,17,Multiplication (5x),A teacher gives 5 pencils to each of 3 students. How many pencils are given?,13,14,15,16,15,MCQ
+Math177,17,Multiplication (5x),Each packet has 5 biscuits. How many biscuits are in 7 packets?,33,34,35,36,35,MCQ
+Math178,17,Multiplication (5x),Each box has 5 chocolates. How many chocolates are in 4 boxes?,18,19,20,21,20,MCQ
+Math179,17,Multiplication (5x),There are 5 flowers in each vase. How many flowers are in 6 vases?,28,29,30,31,30,MCQ
+Math180,17,Multiplication (5x),Each bag has 5 oranges. How many oranges are in 10 bags?,48,49,50,51,50,MCQ
+Math181,17,Multiplication (5x),There are 5 birds on each tree. How many birds are on 9 trees?,43,44,45,46,45,MCQ
+Math182,17,Multiplication (5x),A child gets 5 stickers. How many stickers does 1 child get?,4,5,6,7,5,MCQ
+Math183,17,Multiplication (5x),Each shelf holds 5 books. How many books are on 8 shelves?,38,39,40,41,40,MCQ
+Math184,18,Multiplication (6x),What is 6 × 1 ?,5,6,7,8,6,MCQ
+Math185,18,Multiplication (6x),What is 6 × 2 ?,10,12,14,16,12,MCQ
+Math186,18,Multiplication (6x),What is 6 × 3 ?,16,18,20,22,18,MCQ
+Math187,18,Multiplication (6x),What is 6 × 4 ?,22,24,26,28,24,MCQ
+Math188,18,Multiplication (6x),What is 6 × 5 ?,28,30,32,34,30,MCQ
+Math189,18,Multiplication (6x),What is 6 × 6 ?,34,36,38,40,36,MCQ
+Math190,18,Multiplication (6x),What is 6 × 7 ?,40,42,44,46,42,MCQ
+Math191,18,Multiplication (6x),What is 6 × 8 ?,46,48,50,52,48,MCQ
+Math192,18,Multiplication (6x),What is 6 × 9 ?,52,54,56,58,54,MCQ
+Math193,18,Multiplication (6x),What is 6 × 10 ?,58,60,62,64,60,MCQ
+Math194,19,Multiplication (6x),What is 4 × 6 ?,22,24,26,28,24,MCQ
+Math195,19,Multiplication (6x),What is 1 × 6 ?,5,6,7,8,6,MCQ
+Math196,19,Multiplication (6x),What is 2 × 6 ?,10,12,14,16,12,MCQ
+Math197,19,Multiplication (6x),What is 8 × 6 ?,46,48,50,52,48,MCQ
+Math198,19,Multiplication (6x),What is 3 × 6 ?,16,18,20,22,18,MCQ
+Math199,19,Multiplication (6x),What is 5 × 6 ?,28,30,32,34,30,MCQ
+Math200,19,Multiplication (6x),What is 7 × 6 ?,40,42,44,46,42,MCQ
+Math201,19,Multiplication (6x),What is 9 × 6 ?,52,54,56,58,54,MCQ
+Math202,19,Multiplication (6x),What is 10 × 6 ?,58,60,62,64,60,MCQ
+Math203,19,Multiplication (6x),What is 6 × 6 ?,34,36,38,40,36,MCQ
+Math204,20,Multiplication (6x),A teacher gives 6 pencils to each of 3 students. How many pencils are given?,16,18,20,22,18,MCQ
+Math205,20,Multiplication (6x),A packet has 6 biscuits. How many biscuits are in 8 packets?,46,48,50,52,48,MCQ
+Math206,20,Multiplication (6x),Each box has 6 chocolates. How many chocolates are in 4 boxes?,22,24,26,28,24,MCQ
+Math207,20,Multiplication (6x),A spider has 6 legs. How many legs do 5 spiders have?,24,28,30,32,30,MCQ
+Math208,20,Multiplication (6x),Each shelf holds 6 books. How many books are on 10 shelves?,58,60,62,64,60,MCQ
+Math209,20,Multiplication (6x),There are 6 flowers in each vase. How many flowers are in 6 vases?,34,35,36,37,36,MCQ
+Math210,20,Multiplication (6x),Each week has 6 school days. How many school days are there in 7 weeks?,40,41,42,43,42,MCQ
+Math211,20,Multiplication (6x),There are 6 birds on each tree. How many birds are on 9 trees?,52,54,56,58,54,MCQ
+Math212,20,Multiplication (6x),There are 6 apples in each basket. How many apples are in 2 baskets?,10,12,14,16,12,MCQ
+Math213,20,Multiplication (6x),A shop sells 6 balloons every hour. How many balloons are sold in 1 hour?,5,6,7,8,6,MCQ
+Math214,21,Multiplication (7x ),What is 7 × 1 ?,6,7,8,9,7,MCQ
+Math215,21,Multiplication (7x ),What is 7 × 2 ?,12,13,14,15,14,MCQ
+Math216,21,Multiplication (7x ),What is 7 × 3 ?,19,20,21,22,21,MCQ
+Math217,21,Multiplication (7x ),What is 7 × 4 ?,26,27,28,29,28,MCQ
+Math218,21,Multiplication (7x ),What is 7 × 5 ?,33,34,35,36,35,MCQ
+Math219,21,Multiplication (7x ),What is 7 × 6 ?,40,41,42,43,42,MCQ
+Math220,21,Multiplication (7x ),What is 7 × 7 ?,47,48,49,50,49,MCQ
+Math221,21,Multiplication (7x ),What is 7 × 8 ?,54,55,56,57,56,MCQ
+Math222,21,Multiplication (7x ),What is 7 × 9 ?,61,62,63,64,63,MCQ
+Math223,21,Multiplication (7x ),What is 7 × 10 ?,68,69,70,71,70,MCQ
+Math224,22,Multiplication (7x ),What is 1 × 7 ?,6,7,8,9,7,MCQ
+Math225,22,Multiplication (7x ),What is 6 × 7 ?,40,41,42,43,42,MCQ
+Math226,22,Multiplication (7x ),What is 2 × 7 ?,12,13,14,15,14,MCQ
+Math227,22,Multiplication (7x ),What is 4 × 7 ?,26,27,28,29,28,MCQ
+Math228,22,Multiplication (7x ),What is 5 × 7 ?,33,34,35,36,35,MCQ
+Math229,22,Multiplication (7x ),What is 10 × 7 ?,68,69,70,71,70,MCQ
+Math230,22,Multiplication (7x ),What is 8 × 7 ?,54,55,56,57,56,MCQ
+Math231,22,Multiplication (7x ),What is 9 × 7 ?,61,62,63,64,63,MCQ
+Math232,22,Multiplication (7x ),What is 7 × 7 ?,47,48,49,50,49,MCQ
+Math233,22,Multiplication (7x ),What is 3 × 7 ?,19,20,21,22,21,MCQ
+Math234,23,Multiplication (7x ),There are 7 apples in each basket. How many apples are in 2 baskets?,12,14,16,18,14,MCQ
+Math235,23,Multiplication (7x ),A teacher gives 7 pencils to each of 3 students. How many pencils are given?,20,21,22,23,21,MCQ
+Math236,23,Multiplication (7x ),There are 7 birds on each tree. How many birds are on 9 trees?,61,62,63,64,63,MCQ
+Math237,23,Multiplication (7x ),Each box has 7 chocolates. How many chocolates are in 4 boxes?,26,27,28,29,28,MCQ
+Math238,23,Multiplication (7x ),There are 7 flowers in each vase. How many flowers are in 6 vases?,40,41,42,43,42,MCQ
+Math239,23,Multiplication (7x ),A spider has 7 toy stickers on each page. How many stickers are on 7 pages?,47,48,49,50,49,MCQ
+Math240,23,Multiplication (7x ),Each packet has 7 biscuits. How many biscuits are in 8 packets?,54,55,56,57,56,MCQ
+Math241,23,Multiplication (7x ),Each shelf holds 7 books. How many books are on 10 shelves?,68,69,70,71,70,MCQ
+Math242,23,Multiplication (7x ),A week has 7 days. How many days are there in 5 weeks?,33,34,35,36,35,MCQ
+Math243,23,Multiplication (7x ),A shop sells 7 balloons every hour. How many balloons are sold in 1 hour?,6,7,8,9,7,MCQ
+Math244,24,Multiplication (8x ),What is 8 × 1 ?,7,8,9,10,8,MCQ
+Math245,24,Multiplication (8x ),What is 8 × 2 ?,14,15,16,17,16,MCQ
+Math246,24,Multiplication (8x ),What is 8 × 3 ?,22,23,24,25,24,MCQ
+Math247,24,Multiplication (8x ),What is 8 × 4 ?,30,31,32,33,32,MCQ
+Math248,24,Multiplication (8x ),What is 8 × 5 ?,38,39,40,41,40,MCQ
+Math249,24,Multiplication (8x ),What is 8 × 6 ?,46,47,48,49,48,MCQ
+Math250,24,Multiplication (8x ),What is 8 × 7 ?,54,55,56,57,56,MCQ
+Math251,24,Multiplication (8x ),What is 8 × 8 ?,62,63,64,65,64,MCQ
+Math252,24,Multiplication (8x ),What is 8 × 9 ?,70,71,72,73,72,MCQ
+Math253,24,Multiplication (8x ),What is 8 × 10 ?,78,79,80,81,80,MCQ
+Math254,25,Multiplication (8x ),What is 8 × 6 ?,46,47,48,49,48,MCQ
+Math255,25,Multiplication (8x ),What is 3 × 8 ?,22,23,24,25,24,MCQ
+Math256,25,Multiplication (8x ),What is 10 × 8 ?,78,79,80,81,80,MCQ
+Math257,25,Multiplication (8x ),What is 1 × 8 ?,7,8,9,10,8,MCQ
+Math258,25,Multiplication (8x ),What is 7 × 8 ?,54,55,56,57,56,MCQ
+Math259,25,Multiplication (8x ),What is 5 × 8 ?,38,39,40,41,40,MCQ
+Math260,25,Multiplication (8x ),What is 8 × 8 ?,62,63,64,65,64,MCQ
+Math261,25,Multiplication (8x ),What is 2 × 8 ?,14,15,16,17,16,MCQ
+Math262,25,Multiplication (8x ),What is 9 × 8 ?,70,71,72,73,72,MCQ
+Math263,25,Multiplication (8x ),What is 4 × 8 ?,30,31,32,33,32,MCQ
+Math264,26,Multiplication (8x ),Each packet has 8 biscuits. How many biscuits are in 7 packets?,54,55,56,57,56,MCQ
+Math265,26,Multiplication (8x ),There are 8 apples in each basket. How many apples are in 2 baskets?,14,15,16,17,16,MCQ
+Math266,26,Multiplication (8x ),Each shelf holds 8 books. How many books are on 10 shelves?,78,79,80,81,80,MCQ
+Math267,26,Multiplication (8x ),A spider has 8 legs. How many legs do 4 spiders have?,30,31,32,33,32,MCQ
+Math268,26,Multiplication (8x ),There are 8 flowers in each vase. How many flowers are in 6 vases?,46,47,48,49,48,MCQ
+Math269,26,Multiplication (8x ),Each box has 8 chocolates. How many chocolates are in 8 boxes?,62,63,64,65,64,MCQ
+Math270,26,Multiplication (8x ),A teacher gives 8 pencils to each of 3 students. How many pencils are given?,22,23,24,25,24,MCQ
+Math271,26,Multiplication (8x ),Each bag has 8 oranges. How many oranges are in 5 bags?,38,39,40,41,40,MCQ
+Math272,26,Multiplication (8x ),There are 8 birds on each tree. How many birds are on 9 trees?,70,71,72,73,72,MCQ
+Math273,26,Multiplication (8x ),A shop sells 8 balloons every hour. How many balloons are sold in 1 hour?,7,8,9,10,8,MCQ
+Math274,27,Multiplication (9x ),What is 9 × 1 ?,8,9,10,11,9,MCQ
+Math275,27,Multiplication (9x ),What is 9 × 2 ?,16,17,18,19,18,MCQ
+Math276,27,Multiplication (9x ),What is 9 × 3 ?,25,26,27,28,27,MCQ
+Math277,27,Multiplication (9x ),What is 9 × 4 ?,34,35,36,37,36,MCQ
+Math278,27,Multiplication (9x ),What is 9 × 5 ?,43,44,45,46,45,MCQ
+Math279,27,Multiplication (9x ),What is 9 × 6 ?,52,53,54,55,54,MCQ
+Math280,27,Multiplication (9x ),What is 9 × 7 ?,61,62,63,64,63,MCQ
+Math281,27,Multiplication (9x ),What is 9 × 8 ?,70,71,72,73,72,MCQ
+Math282,27,Multiplication (9x ),What is 9 × 9 ?,79,80,81,82,81,MCQ
+Math283,27,Multiplication (9x ),What is 9 × 10 ?,88,89,90,91,90,MCQ
+Math284,28,Multiplication (9x ),What is 7 × 9 ?,61,62,63,64,63,MCQ
+Math285,28,Multiplication (9x ),What is 2 × 9 ?,16,17,18,19,18,MCQ
+Math286,28,Multiplication (9x ),What is 10 × 9 ?,88,89,90,91,90,MCQ
+Math287,28,Multiplication (9x ),What is 4 × 9 ?,34,35,36,37,36,MCQ
+Math288,28,Multiplication (9x ),What is 1 × 9 ?,8,9,10,11,9,MCQ
+Math289,28,Multiplication (9x ),What is 8 × 9 ?,70,71,72,73,72,MCQ
+Math290,28,Multiplication (9x ),What is 5 × 9 ?,43,44,45,46,45,MCQ
+Math291,28,Multiplication (9x ),What is 9 × 9 ?,79,80,81,82,81,MCQ
+Math292,28,Multiplication (9x ),What is 3 × 9 ?,25,26,27,28,27,MCQ
+Math293,28,Multiplication (9x ),What is 6 × 9 ?,52,53,54,55,54,MCQ
+Math294,29,Multiplication (9x ),Each packet has 9 biscuits. How many biscuits are in 8 packets?,70,71,72,73,72,MCQ
+Math295,29,Multiplication (9x ),There are 9 apples in each basket. How many apples are in 3 baskets?,25,26,27,28,27,MCQ
+Math296,29,Multiplication (9x ),Each shelf holds 9 books. How many books are on 10 shelves?,88,89,90,91,90,MCQ
+Math297,29,Multiplication (9x ),A cat has 9 toy balls. How many toy balls do 5 cats have?,43,44,45,46,45,MCQ
+Math298,29,Multiplication (9x ),There are 9 flowers in each vase. How many flowers are in 6 vases?,52,53,54,55,54,MCQ
+Math299,29,Multiplication (9x ),Each box has 9 chocolates. How many chocolates are in 9 boxes?,79,80,81,82,81,MCQ
+Math300,29,Multiplication (9x ),A teacher gives 9 pencils to each of 2 students. How many pencils are given?,16,17,18,19,18,MCQ
+Math301,29,Multiplication (9x ),Each bag has 9 oranges. How many oranges are in 7 bags?,61,62,63,64,63,MCQ
+Math302,29,Multiplication (9x ),There are 9 birds on each tree. How many birds are on 4 trees?,34,35,36,37,36,MCQ
+Math303,29,Multiplication (9x ),A shop sells 9 balloons every hour. How many balloons are sold in 1 hour?,8,9,10,11,9,MCQ
+Math304,30,Multiplication (10x ),What is 10 × 1 ?,9,10,11,12,10,MCQ
+Math305,30,Multiplication (10x ),What is 10 × 2 ?,18,19,20,21,20,MCQ
+Math306,30,Multiplication (10x ),What is 10 × 3 ?,28,29,30,31,30,MCQ
+Math307,30,Multiplication (10x ),What is 10 × 4 ?,38,39,40,41,40,MCQ
+Math308,30,Multiplication (10x ),What is 10 × 5 ?,48,49,50,51,50,MCQ
+Math309,30,Multiplication (10x ),What is 10 × 6 ?,58,59,60,61,60,MCQ
+Math310,30,Multiplication (10x ),What is 10 × 7 ?,68,69,70,71,70,MCQ
+Math311,30,Multiplication (10x ),What is 10 × 8 ?,78,79,80,81,80,MCQ
+Math312,30,Multiplication (10x ),What is 10 × 9 ?,88,89,90,91,90,MCQ
+Math313,30,Multiplication (10x ),What is 10 × 10 ?,98,99,100,101,100,MCQ
+Math314,31,Multiplication (10x ),What is 8 × 10 ?,78,79,80,81,80,MCQ
+Math315,31,Multiplication (10x ),What is 2 × 10 ?,18,19,20,21,20,MCQ
+Math316,31,Multiplication (10x ),What is 10 × 10 ?,98,99,100,101,100,MCQ
+Math317,31,Multiplication (10x ),What is 5 × 10 ?,48,49,50,51,50,MCQ
+Math318,31,Multiplication (10x ),What is 1 × 10 ?,9,10,11,12,10,MCQ
+Math319,31,Multiplication (10x ),What is 7 × 10 ?,68,69,70,71,70,MCQ
+Math320,31,Multiplication (10x ),What is 3 × 10 ?,28,29,30,31,30,MCQ
+Math321,31,Multiplication (10x ),What is 9 × 10 ?,88,89,90,91,90,MCQ
+Math322,31,Multiplication (10x ),What is 6 × 10 ?,58,59,60,61,60,MCQ
+Math323,31,Multiplication (10x ),What is 4 × 10 ?,38,39,40,41,40,MCQ
+Math324,32,Multiplication (10x ),Each packet has 10 biscuits. How many biscuits are in 8 packets?,78,79,80,81,80,MCQ
+Math325,32,Multiplication (10x ),There are 10 apples in each basket. How many apples are in 3 baskets?,28,29,30,31,30,MCQ
+Math326,32,Multiplication (10x ),Each shelf holds 10 books. How many books are on 10 shelves?,98,99,100,101,100,MCQ
+Math327,32,Multiplication (10x ),A box contains 10 crayons. How many crayons are in 5 boxes?,48,49,50,51,50,MCQ
+Math328,32,Multiplication (10x ),There are 10 flowers in each vase. How many flowers are in 6 vases?,58,59,60,61,60,MCQ
+Math329,32,Multiplication (10x ),Each bag has 10 oranges. How many oranges are in 9 bags?,88,89,90,91,90,MCQ
+Math330,32,Multiplication (10x ),A teacher gives 10 pencils to each of 2 students. How many pencils are given?,18,19,20,21,20,MCQ
+Math331,32,Multiplication (10x ),Each toy costs 10 dollars. What is the cost of 7 toys?,68,69,70,71,70,MCQ
+Math332,32,Multiplication (10x ),A shop sells 10 balloons every hour. How many balloons are sold in 4 hours?,38,39,40,41,40,MCQ
+Math333,32,Multiplication (10x ),A child gets 10 stickers. How many stickers does 1 child get?,9,10,11,12,10,MCQ

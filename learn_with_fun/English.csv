@@ -1,0 +1,676 @@
+Id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option
+ENG1,1,Vocabulary,Choose the synonym of happy.,Glad,Tired,Angry,Sad,Glad
+ENG2,1,Vocabulary,Choose the synonym of big.,Short,Tiny,Large,Little,Large
+ENG3,1,Vocabulary,Choose the synonym of quick.,Late,Fast,Heavy,Slow,Fast
+ENG4,1,Vocabulary,Choose the synonym of begin.,Start,Close,Stop,End,Start
+ENG5,1,Vocabulary,Choose the synonym of smart.,Lazy,Weak,Clever,Dull,Clever
+ENG6,1,Vocabulary,Choose the antonym of hot.,Warm,Cold,Soft,Bright,Cold
+ENG7,1,Vocabulary,Choose the antonym of tall.,High,Long,Wide,Short,Short
+ENG8,1,Vocabulary,Choose the antonym of clean.,Clear,Dirty,White,Fresh,Dirty
+ENG9,1,Vocabulary,Choose the antonym of open.,Wide,Loose,Close,Start,Close
+ENG10,1,Vocabulary,Choose the antonym of early.,Late,Quick,Fast,Soon,Late
+ENG11,1,Vocabulary,Which word means a young dog?,Kitten,Calf,Foal,Puppy,Puppy
+ENG12,1,Vocabulary,Which word means a house for birds?,Nest,Hole,Cage,Hut,Nest
+ENG13,1,Vocabulary,Which word means a place to learn?,Station,Hospital,School,Market,School
+ENG14,1,Vocabulary,Which word means a person who teaches?,Driver,Doctor,Farmer,Teacher,Teacher
+ENG15,1,Vocabulary,Which word means a person who writes books?,Author,Pilot,Chef,Nurse,Author
+ENG16,2,Vocabulary,Which word means food eaten in the morning?,Dinner,Lunch,Supper,Breakfast,Breakfast
+ENG17,2,Vocabulary,Which word means water falling from clouds?,Snow,Dust,Rain,Wind,Rain
+ENG18,2,Vocabulary,Which word means a baby cat?,Lamb,Chick,Kitten,Puppy,Kitten
+ENG19,2,Vocabulary,Which word means the color of grass?,Blue,Green,Red,Black,Green
+ENG20,2,Vocabulary,Which word means the opposite of noisy?,Sharp,Quiet,Bright,Loud,Quiet
+ENG21,2,Vocabulary,Choose the correct meaning of brave.,Courageous,Weak,Scared,Lazy,Courageous
+ENG22,2,Vocabulary,Choose the correct meaning of tiny.,Tall,Huge,Long,Small,Small
+ENG23,2,Vocabulary,Choose the correct meaning of empty.,Heavy,Sweet,Vacant,Full,Vacant
+ENG24,2,Vocabulary,Choose the word related to reading.,Book,Shoe,Plate,Spoon,Book
+ENG25,2,Vocabulary,Choose the word related to writing.,Bottle,Window,Pillow,Pencil,Pencil
+ENG26,2,Vocabulary,Choose the synonym of happy.,Glad,Angry,Sad,Tired,Glad
+ENG27,2,Vocabulary,Choose the synonym of big.,Large,Little,Tiny,Short,Large
+ENG28,2,Vocabulary,Choose the synonym of begin.,Close,End,Stop,Start,Start
+ENG29,2,Vocabulary,Choose the synonym of smart.,Dull,Weak,Lazy,Clever,Clever
+ENG30,2,Vocabulary,Choose the synonym of quick.,Slow,Heavy,Late,Fast,Fast
+ENG31,3,Vocabulary,Choose the antonym of hot.,Bright,Cold,Sharp,Warm,Cold
+ENG32,3,Vocabulary,Choose the antonym of tall.,Long,Short,High,Wide,Short
+ENG33,3,Vocabulary,Choose the antonym of clean.,Fresh,Dirty,White,Clear,Dirty
+ENG34,3,Vocabulary,Choose the antonym of open.,Close,Wide,Start,Loose,Close
+ENG35,3,Vocabulary,Choose the antonym of early.,Fast,Quick,Soon,Late,Late
+ENG36,3,Vocabulary,Choose the synonym of brave.,Sad,Courageous,Weak,Cowardly,Courageous
+ENG37,3,Vocabulary,Choose the antonym of noisy.,Loud,Quiet,Bright,Busy,Quiet
+ENG38,3,Vocabulary,Choose the synonym of tiny.,Small,Tall,Long,Huge,Small
+ENG39,3,Vocabulary,Choose the antonym of rich.,Poor,Happy,Wealthy,Strong,Poor
+ENG40,3,Vocabulary,Choose the synonym of angry.,Soft,Mad,Glad,Kind,Mad
+ENG41,3,Vocabulary,Choose the antonym of fast.,Sharp,Early,Slow,Quick,Slow
+ENG42,3,Vocabulary,Choose the synonym of beautiful.,Ugly,Plain,Pretty,Dirty,Pretty
+ENG43,3,Vocabulary,Choose the antonym of full.,Tall,Wide,Heavy,Empty,Empty
+ENG44,3,Vocabulary,Choose the synonym of silent.,Busy,Loud,Quiet,Rough,Quiet
+ENG45,3,Vocabulary,Choose the antonym of strong.,Weak,Tough,Brave,Hard,Weak
+ENG46,3,Vocabulary,Choose the synonym of old.,Fresh,New,Ancient,Young,Ancient
+ENG47,3,Vocabulary,Choose the antonym of near.,Close,Far,By,At,Far
+ENG48,3,Vocabulary,Choose the synonym of help.,Push,Assist,Hurt,Stop,Assist
+ENG49,3,Vocabulary,Choose the antonym of light.,Bright,Dark,Clear,Shiny,Dark
+ENG50,3,Vocabulary,Choose the synonym of laugh.,Cry,Smile,Sleep,Giggle,Giggle
+ENG51,4,Part of Speech,Which word is a Noun (Naming Word)?,apple,quickly,happy,run,apple
+ENG52,4,Part of Speech,Which word is a Noun (Naming Word)?,jump,blue,school,sing,school
+ENG53,4,Part of Speech,Which word is a Noun (Naming Word)?,cat,fast,swim,beautiful,cat
+ENG54,4,Part of Speech,Which word is a Noun (Naming Word)?,teacher,kind,read,slowly,teacher
+ENG55,4,Part of Speech,Which word is a Noun (Naming Word)?,dance,loudly,strong,book,book
+ENG56,4,Part of Speech,The _________ is barking loudly. (Noun),quickly,dog,run,happy,dog
+ENG57,4,Part of Speech,I read a _________ before bedtime. (Noun),book,sing,blue,jump,book
+ENG58,4,Part of Speech,We visited the _________ on Sunday. (Noun),play,nice,park,fast,park
+ENG59,4,Part of Speech,The _________ shines at night. (Noun),swim,run,moon,brightly,moon
+ENG60,4,Part of Speech,My sister has a pet _________. (Noun),kind,quickly,rabbit,jump,rabbit
+ENG61,4,Part of Speech,"Pick out the Naming Word: ""The boy kicked the ball.""",fast,ran,kicked,boy,boy
+ENG62,4,Part of Speech,"Pick out the Naming Word: ""The bird flew over the tree.""",flew,quickly,over,bird,bird
+ENG63,4,Part of Speech,"Pick out the Naming Word: ""The teacher wrote on the board.""",wrote,teacher,neatly,on,teacher
+ENG64,4,Part of Speech,"Pick out the Naming Word: ""The baby is sleeping.""",baby,quietly,sleeping,is,baby
+ENG65,4,Part of Speech,"Pick out the Naming Word: ""The farmer works in the field.""",hard,farmer,works,in,farmer
+ENG66,5,Part of Speech,Which word names a place?,run,jump,Dhaka,happy,Dhaka
+ENG67,5,Part of Speech,Which word names a person?,blue,teacher,write,swim,teacher
+ENG68,5,Part of Speech,Which word names an animal?,jump,fast,kind,tiger,tiger
+ENG69,5,Part of Speech,Which word names a thing?,run,play,loudly,pencil,pencil
+ENG70,5,Part of Speech,A noun is a _________ word.,doing,describing,joining,naming,naming
+ENG71,5,Part of Speech,Which word is NOT a Noun?,teacher,school,run,book,run
+ENG72,5,Part of Speech,Which word is NOT a Noun?,happy,cat,tree,boy,happy
+ENG73,5,Part of Speech,Which word is a Naming Word?,car,sing,beautiful,quickly,car
+ENG74,5,Part of Speech,Which word is a Naming Word?,elephant,kind,slowly,jump,elephant
+ENG75,5,Part of Speech,Which word is a Naming Word?,hospital,run,blue,write,hospital
+ENG76,5,Part of Speech,Which word is a Noun (Naming Word)?,hospital,sing,happy,quickly,hospital
+ENG77,5,Part of Speech,Which word is a Noun (Naming Word)?,jump,run,elephant,blue,elephant
+ENG78,5,Part of Speech,Which word is a Noun (Naming Word)?,bicycle,swim,slowly,kind,bicycle
+ENG79,5,Part of Speech,Which word is a Noun (Naming Word)?,write,garden,loudly,fast,garden
+ENG80,5,Part of Speech,Which word is a Noun (Naming Word)?,computer,beautiful,dance,quickly,computer
+ENG81,5,Part of Speech,The _________ rang loudly at the end of class. (Noun),bell,happy,run,jump,bell
+ENG82,5,Part of Speech,We crossed the _________ to reach the village. (Noun),sing,kind,bridge,slowly,bridge
+ENG83,5,Part of Speech,The _________ carried our books to school. (Noun),fast,bag,blue,play,bag
+ENG84,5,Part of Speech,I saw a _________ in the zoo. (Noun),happy,quickly,giraffe,run,giraffe
+ENG85,5,Part of Speech,The _________ stopped at the station. (Noun),kind,train,jump,loudly,train
+ENG86,6,Part of Speech,"Pick out the Naming Word: ""The girl drew a picture.""",beautifully,drew,girl,a,girl
+ENG87,6,Part of Speech,"Pick out the Naming Word: ""The lion slept under a tree.""",slept,quietly,lion,under,lion
+ENG88,6,Part of Speech,"Pick out the Naming Word: ""The doctor helped the patient.""",doctor,helped,carefully,the,doctor
+ENG89,6,Part of Speech,"Pick out the Naming Word: ""The children played in the playground.""",children,in,happily,played,children
+ENG90,6,Part of Speech,"Pick out the Naming Word: ""The ship sailed across the sea.""",ship,sailed,safely,across,ship
+ENG91,6,Part of Speech,Which word names a place?,run,jump,city,kind,city
+ENG92,6,Part of Speech,Which word names a person?,blue,nurse,write,quickly,nurse
+ENG93,6,Part of Speech,Which word names an animal?,slowly,zebra,play,happy,zebra
+ENG94,6,Part of Speech,Which word names a thing?,sing,clock,beautifully,run,clock
+ENG95,6,Part of Speech,"A noun can name a person, place, animal, or _________.",describe,doing,thing,action,thing
+ENG96,6,Part of Speech,Which word is NOT a Noun?,school,run,teacher,book,run
+ENG97,6,Part of Speech,Which word is NOT a Noun?,elephant,car,garden,happy,happy
+ENG98,6,Part of Speech,Which word is a Naming Word?,quickly,kind,mountain,jump,mountain
+ENG99,6,Part of Speech,Which word is a Naming Word?,play,beautiful,loudly,river,river
+ENG100,6,Part of Speech,Which word is a Naming Word?,run,airport,slowly,sing,airport
+ENG101,6,Part of Speech,Which word is a Noun (Naming Word)?,market,quickly,run,happy,market
+ENG102,6,Part of Speech,Which word is a Noun (Naming Word)?,jump,slowly,beautiful,teacher,teacher
+ENG103,6,Part of Speech,Which word is a Noun (Naming Word)?,loudly,castle,play,kind,castle
+ENG104,6,Part of Speech,Which word is a Noun (Naming Word)?,blue,pilot,fast,swim,pilot
+ENG105,6,Part of Speech,Which word is a Noun (Naming Word)?,island,quickly,sing,happy,island
+ENG106,7,Part of Speech,The _________ flew high in the sky. (Noun),jump,slowly,run,kite,kite
+ENG107,7,Part of Speech,We visited the _________ to borrow books. (Noun),library,play,quickly,kind,library
+ENG108,7,Part of Speech,The _________ cooked a delicious meal. (Noun),fast,sing,chef,loudly,chef
+ENG109,7,Part of Speech,I wrote with a _________. (Noun),jump,happy,crayon,run,crayon
+ENG110,7,Part of Speech,The _________ carried passengers across the river. (Noun),kind,boat,swim,slowly,boat
+ENG111,7,Part of Speech,"Pick out the Naming Word: ""The monkey climbed the tree.""",the,quickly,monkey,climbed,monkey
+ENG112,7,Part of Speech,"Pick out the Naming Word: ""The baker sold fresh bread.""",quickly,baker,fresh,sold,baker
+ENG113,7,Part of Speech,"Pick out the Naming Word: ""The rabbit hid in the bush.""",hid,quietly,rabbit,in,rabbit
+ENG114,7,Part of Speech,"Pick out the Naming Word: ""The artist painted a picture.""",painted,carefully,a,artist,artist
+ENG115,7,Part of Speech,"Pick out the Naming Word: ""The bus stopped near the school.""",near,safely,stopped,bus,bus
+ENG116,7,Part of Speech,Which word names a place?,beach,run,happy,jump,beach
+ENG117,7,Part of Speech,Which word names a person?,quickly,blue,firefighter,swim,firefighter
+ENG118,7,Part of Speech,Which word names an animal?,play,loudly,penguin,kind,penguin
+ENG119,7,Part of Speech,Which word names a thing?,helmet,run,happily,sing,helmet
+ENG120,7,Part of Speech,A Naming Word is another name for a _________.,conjunction,verb,noun,adjective,noun
+ENG121,7,Part of Speech,Which word is NOT a Noun?,carrot,school,tiger,run,run
+ENG122,7,Part of Speech,Which word is NOT a Noun?,airport,teacher,book,happy,happy
+ENG123,7,Part of Speech,Which word is a Naming Word?,jump,quickly,kind,crown,crown
+ENG124,7,Part of Speech,Which word is a Naming Word?,loudly,play,forest,beautiful,forest
+ENG125,7,Part of Speech,Which word is a Naming Word?,slowly,run,sing,astronaut,astronaut
+ENG126,8,Part of Speech,Rina is my friend. _________ is very kind. (Pronoun),It,They,He,She,She
+ENG127,8,Part of Speech,Karim has a bicycle. _________ rides it every day. (Pronoun),It,They,She,He,He
+ENG128,8,Part of Speech,My cat is sleeping. _________ is under the table. (Pronoun),It,She,He,We,It
+ENG129,8,Part of Speech,Ali and I are classmates. _________ study together. (Pronoun),They,It,We,You,We
+ENG130,8,Part of Speech,Rupa and Sima are sisters. _________ play together. (Pronoun),They,We,She,It,They
+ENG131,8,Part of Speech,_________ am going to school now. (Pronoun),You,I,He,They,I
+ENG132,8,Part of Speech,Can _________ help me carry this bag? (Pronoun),He,I,You,She,You
+ENG133,8,Part of Speech,The dog is barking because _________ is hungry. (Pronoun),It,You,We,They,It
+ENG134,8,Part of Speech,My parents are at home. _________ are watching TV. (Pronoun),They,She,He,We,They
+ENG135,8,Part of Speech,Sara is reading a book. _________ likes reading. (Pronoun),She,They,He,It,She
+ENG136,8,Part of Speech,"Replace the Naming Word: ""Tom is playing football."" (Pronoun)",They,He,It,She,He
+ENG137,8,Part of Speech,"Replace the Naming Word: ""The bird is flying."" (Pronoun)",They,He,It,We,It
+ENG138,8,Part of Speech,"Replace the Naming Words: ""Rina and Mina are singing."" (Pronoun)",She,We,They,It,They
+ENG139,8,Part of Speech,Which word is a Pronoun?,happy,run,he,cat,he
+ENG140,8,Part of Speech,Which word is a Pronoun?,red,jump,book,they,they
+ENG141,9,Part of Speech,_________ are my best friends. (Pronoun),It,She,He,They,They
+ENG142,9,Part of Speech,My brother is tall. _________ plays basketball. (Pronoun),We,They,He,She,He
+ENG143,9,Part of Speech,The flower is beautiful. _________ smells nice. (Pronoun),He,It,You,They,It
+ENG144,9,Part of Speech,Nila and I went to the zoo. _________ saw many animals. (Pronoun),She,We,They,It,We
+ENG145,9,Part of Speech,_________ are a good student. (Pronoun),I,You,She,He,You
+ENG146,9,Part of Speech,"Pick out the Pronoun: ""She is drawing a picture.""",She,picture,is,drawing,She
+ENG147,9,Part of Speech,"Pick out the Pronoun: ""They are playing in the field.""",They,playing,are,field,They
+ENG148,9,Part of Speech,"Pick out the Pronoun: ""We love our school.""",We,love,school,our,We
+ENG149,9,Part of Speech,A pronoun is used instead of a _________ Word.,Doing,Naming,Joining,Describing,Naming
+ENG150,9,Part of Speech,"Replace the Naming Word: ""The children are laughing."" (Pronoun)",She,It,They,He,They
+ENG151,9,Part of Speech,The boys are playing cricket. _________ are having fun. (Pronoun),She,It,They,He,They
+ENG152,9,Part of Speech,My mother is a teacher. _________ teaches English. (Pronoun),She,He,We,They,She
+ENG153,9,Part of Speech,I have a pet fish. _________ swims in a bowl. (Pronoun),She,It,He,They,It
+ENG154,9,Part of Speech,Rahim and I went shopping. _________ bought some fruit. (Pronoun),They,He,She,We,We
+ENG155,9,Part of Speech,_________ am reading a storybook. (Pronoun),I,They,She,You,I
+ENG156,9,Part of Speech,"The teacher asked, Can _________ answer this question?"" (Pronoun)""",he,you,they,she,you
+ENG157,9,Part of Speech,My sisters are singing. _________ sound wonderful. (Pronoun),It,She,He,They,They
+ENG158,9,Part of Speech,The rabbit is eating a carrot. _________ looks happy. (Pronoun),It,We,You,They,It
+ENG159,9,Part of Speech,Fatema is my cousin. _________ lives in Dhaka. (Pronoun),He,It,They,She,She
+ENG160,9,Part of Speech,The students are studying. _________ have an exam tomorrow. (Pronoun),They,She,He,We,They
+ENG161,10,Part of Speech,"Replace the Naming Word: ""Mina is drawing a flower."" (Pronoun)",It,He,They,She,She
+ENG162,10,Part of Speech,"Replace the Naming Word: ""The tiger is sleeping."" (Pronoun)",They,He,It,We,It
+ENG163,10,Part of Speech,"Replace the Naming Words: ""Tom and Jerry are friends."" (Pronoun)",It,He,She,They,They
+ENG164,10,Part of Speech,Which word is a Pronoun?,book,run,they,beautiful,they
+ENG165,10,Part of Speech,Which word is a Pronoun?,jump,green,we,school,we
+ENG166,10,Part of Speech,_________ are going to the playground after school. (Pronoun),She,He,They,It,They
+ENG167,10,Part of Speech,My father drives a car. _________ goes to work every day. (Pronoun),They,We,He,She,He
+ENG168,10,Part of Speech,The computer is new. _________ works very fast. (Pronoun),They,He,It,You,It
+ENG169,10,Part of Speech,Ali and I cleaned the room. _________ finished quickly. (Pronoun),She,We,They,He,We
+ENG170,10,Part of Speech,_________ are my best teacher. (Pronoun),He,She,You,It,You
+ENG171,10,Part of Speech,"Pick out the Pronoun: ""He is riding a bicycle.""",is,riding,He,bicycle,He
+ENG172,10,Part of Speech,"Pick out the Pronoun: ""It is raining outside.""",outside,is,It,raining,It
+ENG173,10,Part of Speech,"Pick out the Pronoun: ""You are very helpful.""",very,are,You,helpful,You
+ENG174,10,Part of Speech,A pronoun can replace a _________. (Pronoun),Noun,Verb,Conjunction,Adjective,Noun
+ENG175,10,Part of Speech,"Replace the Naming Word: ""The girls are dancing."" (Pronoun)",They,She,It,He,They
+ENG176,10,Part of Speech,Arif is my brother. _________ likes football. (Pronoun),She,It,They,He,He
+ENG177,10,Part of Speech,The birds are flying in the sky. _________ are very high. (Pronoun),They,It,She,He,They
+ENG178,10,Part of Speech,I have a new pencil. _________ is blue. (Pronoun),It,She,He,They,It
+ENG179,10,Part of Speech,Salma and I are in the same class. _________ sit together. (Pronoun),She,They,He,We,We
+ENG180,10,Part of Speech,_________ are my best friends. (Pronoun),It,They,She,He,They
+ENG181,11,Part of Speech,My uncle is a doctor. _________ works at a hospital. (Pronoun),They,She,We,He,He
+ENG182,11,Part of Speech,The baby is sleeping. _________ is very quiet. (Pronoun),They,It,He,We,It
+ENG183,11,Part of Speech,Can _________ tell me the time? (Pronoun),She,I,He,You,You
+ENG184,11,Part of Speech,The children are in the library. _________ are reading books. (Pronoun),He,They,It,She,They
+ENG185,11,Part of Speech,_________ am learning English. (Pronoun),You,He,They,I,I
+ENG186,11,Part of Speech,"Replace the Naming Word: ""Rahim is eating an apple."" (Pronoun)",They,He,It,She,He
+ENG187,11,Part of Speech,"Replace the Naming Word: ""The horse is running fast."" (Pronoun)",They,We,It,He,It
+ENG188,11,Part of Speech,"Replace the Naming Words: ""Rita and Tina are watching TV."" (Pronoun)",It,He,She,They,They
+ENG189,11,Part of Speech,Which word is a Pronoun?,happy,car,they,run,they
+ENG190,11,Part of Speech,Which word is a Pronoun?,green,jump,you,tree,you
+ENG191,11,Part of Speech,_________ are going to visit our grandparents tomorrow. (Pronoun),He,She,They,It,They
+ENG192,11,Part of Speech,My aunt is cooking dinner. _________ is in the kitchen. (Pronoun),It,They,He,She,She
+ENG193,11,Part of Speech,The clock stopped working. _________ needs a new battery. (Pronoun),It,He,They,She,It
+ENG194,11,Part of Speech,Mina and I planted flowers. _________ watered them every day. (Pronoun),We,He,They,She,We
+ENG195,11,Part of Speech,_________ are a very kind person. (Pronoun),He,I,She,You,You
+ENG196,11,Part of Speech,"Pick out the Pronoun: ""They went to the market.""",market,They,went,to,They
+ENG197,11,Part of Speech,"Pick out the Pronoun: ""She sings beautifully.""",beautifully,sings,She,very,She
+ENG198,11,Part of Speech,"Pick out the Pronoun: ""It is on the table.""",on,table,It,is,It
+ENG199,11,Part of Speech,A pronoun takes the place of a _________. (Pronoun),Conjunction,Adjective,Verb,Noun,Noun
+ENG200,11,Part of Speech,"Replace the Naming Words: ""The boys are playing football."" (Pronoun)",It,She,He,They,They
+ENG201,12,Part of Speech,She wore a _____ dress to the party. (Adjective),softly,beautiful,quickly,danced,beautiful
+ENG202,12,Part of Speech,The _____ tiger scared the villagers. (Adjective),jumped,slowly,fierce,loudly,fierce
+ENG203,12,Part of Speech,We live in a _____ house near the river. (Adjective),ran,happily,small,carefully,small
+ENG204,12,Part of Speech,The soup was very _____ today. (Adjective),tasty,ate,loudly,quickly,tasty
+ENG205,12,Part of Speech,He bought a _____ bicycle for his son. (Adjective),shiny,repaired,neatly,shouted,shiny
+ENG206,12,Part of Speech,The mountain is very _____. (Adjective),high,climbed,silently,played,high
+ENG207,12,Part of Speech,My grandfather told an _____ story. (Adjective),pushed,interesting,walked,slowly,interesting
+ENG208,12,Part of Speech,The baby has _____ cheeks. (Adjective),opened,quickly,soft,cried,soft
+ENG209,12,Part of Speech,We saw a _____ rainbow after the rain. (Adjective),loudly,jumped,danced,colorful,colorful
+ENG210,12,Part of Speech,The classroom was _____ after cleaning. (Adjective),swept,wrote,clean,carefully,clean
+ENG211,12,Part of Speech,The _____ puppy followed the boy home. (Adjective),sadly,repaired,cute,climbed,cute
+ENG212,12,Part of Speech,She gave me a _____ smile. (Adjective),painted,warm,fixed,silently,warm
+ENG213,12,Part of Speech,The road becomes _____ during winter. (Adjective),folded,slippery,washed,shouted,slippery
+ENG214,12,Part of Speech,It was a _____ day at the beach. (Adjective),swam,loudly,chased,sunny,sunny
+ENG215,12,Part of Speech,The _____ flowers filled the garden with beauty. (Adjective),quickly,fragrant,repaired,opened,fragrant
+ENG216,13,Part of Speech,He carried a _____ bag to school. (Adjective),laughed,floated,softly,heavy,heavy
+ENG217,13,Part of Speech,The movie was very _____. (Adjective),pushed,carefully,watched,exciting,exciting
+ENG218,13,Part of Speech,They adopted a _____ kitten from the shelter. (Adjective),climbed,tiny,borrowed,neatly,tiny
+ENG219,13,Part of Speech,The teacher gave us a _____ task. (Adjective),danced,difficult,silently,explained,difficult
+ENG220,13,Part of Speech,We enjoyed the _____ weather yesterday. (Adjective),mixed,shouted,pleasant,repaired,pleasant
+ENG221,13,Part of Speech,The _____ river flows through the village. (Adjective),wide,carried,happily,folded,wide
+ENG222,13,Part of Speech,She wore a _____ scarf in winter. (Adjective),softly,jumped,woolen,washed,woolen
+ENG223,13,Part of Speech,The child solved the _____ puzzle quickly. (Adjective),tricky,laughed,repaired,opened,tricky
+ENG224,13,Part of Speech,The old man lived in a _____ cottage. (Adjective),shouted,climbed,quiet,painted,quiet
+ENG225,13,Part of Speech,We visited a _____ museum during our trip. (Adjective),borrowed,famous,danced,floated,famous
+ENG226,13,Part of Speech,The _____ elephant walked through the forest. (Adjective),softly,ran,painted,huge,huge
+ENG227,13,Part of Speech,She bought a _____ handbag from the market. (Adjective),stylish,loudly,washed,climbed,stylish
+ENG228,13,Part of Speech,The _____ boy helped the old woman cross the road. (Adjective),repaired,kind,jumped,quickly,kind
+ENG229,13,Part of Speech,We enjoyed the _____ breeze in the evening. (Adjective),shouted,cool,folded,fixed,cool
+ENG230,13,Part of Speech,The teacher praised the _____ student. (Adjective),hardworking,carried,slowly,painted,hardworking
+ENG231,13,Part of Speech,They stayed in a _____ hotel near the beach. (Adjective),opened,luxurious,mixed,laughed,luxurious
+ENG232,13,Part of Speech,The _____ cake tasted delicious. (Adjective),silently,repaired,danced,chocolate,chocolate
+ENG233,13,Part of Speech,He wore a _____ jacket during the trip. (Adjective),thick,washed,climbed,floated,thick
+ENG234,13,Part of Speech,The _____ garden attracted many visitors. (Adjective),borrowed,beautiful,pushed,quickly,beautiful
+ENG235,13,Part of Speech,We saw a _____ deer in the jungle. (Adjective),shouted,graceful,folded,repaired,graceful
+ENG236,14,Part of Speech,The child asked a _____ question in class. (Adjective),carried,jumped,clever,washed,clever
+ENG237,14,Part of Speech,The _____ pillow made me sleep comfortably. (Adjective),laughed,fluffy,climbed,painted,fluffy
+ENG238,14,Part of Speech,The villagers crossed the _____ bridge carefully. (Adjective),floated,repaired,mixed,narrow,narrow
+ENG239,14,Part of Speech,It was a _____ performance by the singer. (Adjective),danced,opened,amazing,fixed,amazing
+ENG240,14,Part of Speech,The _____ room looked bright and cheerful. (Adjective),pushed,borrowed,climbed,spacious,spacious
+ENG241,14,Part of Speech,The _____ fox disappeared into the woods. (Adjective),folded,washed,shouted,clever,clever
+ENG242,14,Part of Speech,My aunt prepared a _____ meal for dinner. (Adjective),healthy,floated,jumped,repaired,healthy
+ENG243,14,Part of Speech,The _____ clouds covered the sky. (Adjective),carried,dark,opened,laughed,dark
+ENG244,14,Part of Speech,We visited an _____ castle during our vacation. (Adjective),mixed,climbed,ancient,washed,ancient
+ENG245,14,Part of Speech,The _____ baby slept peacefully in the cradle. (Adjective),sleepy,shouted,repaired,folded,sleepy
+ENG246,14,Part of Speech,The _____ athlete won the gold medal. (Adjective),painted,borrowed,talented,floated,talented
+ENG247,14,Part of Speech,The _____ road led to the mountain village. (Adjective),winding,jumped,carried,fixed,winding
+ENG248,14,Part of Speech,She wore a _____ necklace at the party. (Adjective),sparkling,climbed,repaired,washed,sparkling
+ENG249,14,Part of Speech,The _____ farmer worked in the field all day. (Adjective),laughed,hardworking,pushed,opened,hardworking
+ENG250,14,Part of Speech,The _____ library was full of old books. (Adjective),quiet,floated,repaired,mixed,quiet
+ENG251,14,Part of Speech,The girl wore a beautiful dress to the party. Choose the correct adjective.,girl,wore,beautiful,dress,beautiful
+ENG252,14,Part of Speech,We visited an ancient temple last summer. Choose the correct adjective.,ancient,summer,temple,visited,ancient
+ENG253,14,Part of Speech,The hungry child ate the sandwich quickly. Choose the correct adjective.,ate,hungry,sandwich,child,hungry
+ENG254,14,Part of Speech,He bought a shiny new laptop yesterday. Choose the correct adjective.,bought,shiny,yesterday,laptop,shiny
+ENG255,14,Part of Speech,The tall building can be seen from far away. Choose the correct adjective.,away,tall,seen,building,tall
+ENG256,15,Part of Speech,She lives in a quiet neighborhood near the lake. Choose the correct adjective.,lake,lives,quiet,near,quiet
+ENG257,15,Part of Speech,The brave soldier saved many people. Choose the correct adjective.,people,soldier,brave,saved,brave
+ENG258,15,Part of Speech,We enjoyed the delicious food at the restaurant. Choose the correct adjective.,delicious,enjoyed,food,restaurant,delicious
+ENG259,15,Part of Speech,The small kitten slept on the sofa. Choose the correct adjective.,small,slept,kitten,sofa,small
+ENG260,15,Part of Speech,The clever student answered all the questions. Choose the correct adjective.,student,clever,answered,questions,clever
+ENG261,15,Part of Speech,My uncle drives a fast car on highways. Choose the correct adjective.,fast,highways,uncle,car,fast
+ENG262,15,Part of Speech,The old man walked slowly with a stick. Choose the correct adjective.,slowly,walked,stick,old,old
+ENG263,15,Part of Speech,She wore a colorful scarf in winter. Choose the correct adjective.,wore,colorful,winter,scarf,colorful
+ENG264,15,Part of Speech,The strong wind damaged several trees. Choose the correct adjective.,wind,trees,damaged,strong,strong
+ENG265,15,Part of Speech,We saw a beautiful rainbow after the rain. Choose the correct adjective.,rain,beautiful,rainbow,saw,beautiful
+ENG266,15,Part of Speech,The happy children played in the park. Choose the correct adjective.,happy,park,played,children,happy
+ENG267,15,Part of Speech,The teacher told an interesting story today. Choose the correct adjective.,teacher,interesting,today,story,interesting
+ENG268,15,Part of Speech,He carried a heavy bag to school. Choose the correct adjective.,carried,bag,heavy,school,heavy
+ENG269,15,Part of Speech,The cold weather forced us to stay inside. Choose the correct adjective.,weather,forced,cold,inside,cold
+ENG270,15,Part of Speech,The young artist painted a wonderful picture. Choose the correct adjective.,artist,painted,picture,wonderful,wonderful
+ENG271,15,Part of Speech,We stayed in a comfortable hotel during vacation. Choose the correct adjective.,vacation,hotel,comfortable,stayed,comfortable
+ENG272,15,Part of Speech,The noisy crowd cheered for the team. Choose the correct adjective.,cheered,noisy,crowd,team,noisy
+ENG273,15,Part of Speech,The smart boy solved the puzzle easily. Choose the correct adjective.,easily,puzzle,solved,smart,smart
+ENG274,15,Part of Speech,She adopted a cute puppy from the shelter. Choose the correct adjective.,puppy,shelter,adopted,cute,cute
+ENG275,15,Part of Speech,The rich businessman donated money to charity. Choose the correct adjective.,businessman,rich,donated,charity,rich
+ENG276,16,Part of Speech,The lazy cat slept near the fireplace. Choose the correct adjective.,cat,lazy,slept,fireplace,lazy
+ENG277,16,Part of Speech,We crossed a narrow bridge over the river. Choose the correct adjective.,crossed,narrow,bridge,river,narrow
+ENG278,16,Part of Speech,The honest boy returned the lost wallet. Choose the correct adjective.,honest,boy,wallet,returned,honest
+ENG279,16,Part of Speech,She bought a soft pillow for her bed. Choose the correct adjective.,bed,bought,pillow,soft,soft
+ENG280,16,Part of Speech,The bright sun warmed the whole village. Choose the correct adjective.,bright,warmed,village,sun,bright
+ENG281,16,Part of Speech,The poor farmer worked all day in the field. Choose the correct adjective.,farmer,poor,worked,field,poor
+ENG282,16,Part of Speech,He wore a clean shirt to school. Choose the correct adjective.,wore,school,clean,shirt,clean
+ENG283,16,Part of Speech,The friendly dog wagged its tail happily. Choose the correct adjective.,happily,dog,wagged,friendly,friendly
+ENG284,16,Part of Speech,We enjoyed the fresh air in the countryside. Choose the correct adjective.,air,fresh,enjoyed,countryside,fresh
+ENG285,16,Part of Speech,The little girl carried a basket of flowers. Choose the correct adjective.,basket,girl,little,carried,little
+ENG286,16,Part of Speech,The empty classroom looked very quiet. Choose the correct adjective.,classroom,quiet,looked,empty,empty
+ENG287,16,Part of Speech,The clever fox escaped from the trap. Choose the correct adjective.,fox,clever,escaped,trap,clever
+ENG288,16,Part of Speech,She lives in a modern apartment in the city. Choose the correct adjective.,apartment,modern,lives,city,modern
+ENG289,16,Part of Speech,The thirsty traveler drank cold water. Choose the correct adjective.,drank,traveler,thirsty,water,thirsty
+ENG290,16,Part of Speech,The gentle nurse cared for the patient kindly. Choose the correct adjective.,gentle,nurse,cared,kindly,gentle
+ENG291,16,Part of Speech,The red balloon floated into the sky. Choose the correct adjective.,balloon,red,sky,floated,red
+ENG292,16,Part of Speech,We walked along a sandy beach at sunset. Choose the correct adjective.,sunset,walked,beach,sandy,sandy
+ENG293,16,Part of Speech,The angry teacher scolded the noisy students. Choose the correct adjective.,teacher,angry,scolded,students,angry
+ENG294,16,Part of Speech,The broken chair was lying outside the room. Choose the correct adjective.,lying,broken,room,chair,broken
+ENG295,16,Part of Speech,The cheerful singer entertained the audience. Choose the correct adjective.,singer,audience,entertained,cheerful,cheerful
+ENG296,16,Part of Speech,He climbed the steep hill without stopping. Choose the correct adjective.,climbed,hill,stopping,steep,steep
+ENG297,16,Part of Speech,The lonely child sat quietly in the corner. Choose the correct adjective.,corner,lonely,sat,child,lonely
+ENG298,16,Part of Speech,The golden necklace was very expensive. Choose the correct adjective.,golden,necklace,expensive,very,golden
+ENG299,16,Part of Speech,The famous actor visited our town yesterday. Choose the correct adjective.,actor,famous,visited,yesterday,famous
+ENG300,16,Part of Speech,The weak patient needed immediate treatment. Choose the correct adjective.,treatment,patient,needed,weak,weak
+ENG301,17,Part of Speech,I _____ the bus because I was late. (Verb),ate,jumped,missed,rushed,missed
+ENG302,17,Part of Speech,She _____ her homework before dinner. (Verb),completed,painted,danced,slept,completed
+ENG303,17,Part of Speech,They _____ football in the field yesterday. (Verb),played,washed,opened,cooked,played
+ENG304,17,Part of Speech,We _____ to the zoo last Sunday. (Verb),drank,sang,walked,repaired,walked
+ENG305,17,Part of Speech,He _____ a glass of water after running. (Verb),kicked,watched,closed,drank,drank
+ENG306,17,Part of Speech,The baby _____ loudly at night. (Verb),fixed,cried,jumped,built,cried
+ENG307,17,Part of Speech,My father _____ a new car last year. (Verb),bought,climbed,threw,painted,bought
+ENG308,17,Part of Speech,The teacher _____ the lesson clearly. (Verb),chased,explained,washed,borrowed,explained
+ENG309,17,Part of Speech,I _____ my friend at the market yesterday. (Verb),met,pushed,cleaned,opened,met
+ENG310,17,Part of Speech,She _____ the flowers every morning. (Verb),breaks,tears,cuts,waters,waters
+ENG311,17,Part of Speech,The dog _____ after the cat. (Verb),smiled,cooked,ran,slept,ran
+ENG312,17,Part of Speech,We _____ a movie together last night. (Verb),repaired,planted,watched,mixed,watched
+ENG313,17,Part of Speech,He _____ the door carefully. (Verb),kicked,opened,climbed,folded,opened
+ENG314,17,Part of Speech,They _____ the classroom before leaving. (Verb),borrowed,chased,cleaned,painted,cleaned
+ENG315,17,Part of Speech,I _____ my keys on the table. (Verb),shouted,drew,climbed,kept,kept
+ENG316,17,Part of Speech,The boys _____ in the river during summer. (Verb),built,fixed,carried,swam,swam
+ENG317,17,Part of Speech,She _____ a beautiful song at the event. (Verb),jumped,washed,sang,pushed,sang
+ENG318,17,Part of Speech,We _____ our grandparents during Eid vacation. (Verb),borrowed,visited,painted,repaired,visited
+ENG319,17,Part of Speech,He _____ the heavy box upstairs. (Verb),slept,smiled,carried,floated,carried
+ENG320,17,Part of Speech,The students _____ quietly in the library. (Verb),studied,climbed,shouted,chased,studied
+ENG321,18,Part of Speech,I _____ an interesting storybook yesterday. (Verb),read,opened,repaired,pushed,read
+ENG322,18,Part of Speech,Mother _____ delicious biryani for lunch. (Verb),cooked,climbed,washed,chased,cooked
+ENG323,18,Part of Speech,The bird _____ high in the sky. (Verb),flew,crawled,folded,repaired,flew
+ENG324,18,Part of Speech,We _____ the match with great excitement. (Verb),enjoyed,mixed,planted,borrowed,enjoyed
+ENG325,18,Part of Speech,He _____ his bicycle very fast. (Verb),rode,slept,smiled,painted,rode
+ENG326,18,Part of Speech,The children _____ happily in the playground. (Verb),painted,laughed,repaired,folded,laughed
+ENG327,18,Part of Speech,I _____ my old teacher at the shopping mall. (Verb),cooked,saw,planted,climbed,saw
+ENG328,18,Part of Speech,She _____ the answer correctly in class. (Verb),answered,washed,floated,borrowed,answered
+ENG329,18,Part of Speech,They _____ trees beside the road last year. (Verb),planted,repaired,pushed,shouted,planted
+ENG330,18,Part of Speech,He _____ his hands before eating. (Verb),carried,mixed,washed,kicked,washed
+ENG331,18,Part of Speech,We _____ tea together in the evening. (Verb),drank,painted,climbed,fixed,drank
+ENG332,18,Part of Speech,The cat _____ under the table quietly. (Verb),borrowed,slept,repaired,opened,slept
+ENG333,18,Part of Speech,She _____ a letter to her cousin yesterday. (Verb),wrote,folded,pushed,climbed,wrote
+ENG334,18,Part of Speech,The boy _____ the ball very hard. (Verb),washed,planted,repaired,kicked,kicked
+ENG335,18,Part of Speech,I _____ my bag near the window. (Verb),mixed,placed,floated,chased,placed
+ENG336,18,Part of Speech,They _____ the problem very quickly. (Verb),climbed,painted,solved,shouted,solved
+ENG337,18,Part of Speech,He _____ his little sister to school. (Verb),borrowed,repaired,accompanied,folded,accompanied
+ENG338,18,Part of Speech,The farmer _____ rice in the field. (Verb),washes,fixes,climbs,grows,grows
+ENG339,18,Part of Speech,We _____ the picnic very much. (Verb),carried,planted,pushed,enjoyed,enjoyed
+ENG340,18,Part of Speech,She _____ the candle with a match. (Verb),borrowed,floated,painted,lit,lit
+ENG341,19,Part of Speech,The students _____ the national anthem together. (Verb),repaired,sang,folded,chased,sang
+ENG342,19,Part of Speech,I _____ the window because it was hot. (Verb),opened,planted,climbed,mixed,opened
+ENG343,19,Part of Speech,He _____ all the questions in the exam. (Verb),floated,attempted,repaired,shouted,attempted
+ENG344,19,Part of Speech,The girls _____ colorful pictures in art class. (Verb),borrowed,climbed,drew,fixed,drew
+ENG345,19,Part of Speech,We _____ our lunch under the big tree. (Verb),ate,painted,folded,repaired,ate
+ENG346,19,Part of Speech,She _____ the baby gently to sleep. (Verb),chased,washed,rocked,planted,rocked
+ENG347,19,Part of Speech,The train _____ at the station on time. (Verb),floated,arrived,repaired,climbed,arrived
+ENG348,19,Part of Speech,I _____ my phone charger from my friend. (Verb),borrowed,painted,kicked,mixed,borrowed
+ENG349,19,Part of Speech,They _____ the floor after the party. (Verb),folded,shouted,climbed,swept,swept
+ENG350,19,Part of Speech,He _____ the truth without fear. (Verb),spoke,floated,repaired,planted,spoke
+ENG351,19,Part of Speech,The doctor treats patients with proper care. Choose the correct verb.,doctor,patients,proper,treats,treats
+ENG352,19,Part of Speech,My brother plays cricket every afternoon. Choose the correct verb.,afternoon,brother,cricket,plays,plays
+ENG353,19,Part of Speech,The teacher explains the lesson clearly. Choose the correct verb.,clearly,teacher,lesson,explains,explains
+ENG354,19,Part of Speech,Birds fly in the blue sky. Choose the correct verb.,fly,sky,blue,birds,fly
+ENG355,19,Part of Speech,The baby cries loudly at night. Choose the correct verb.,cries,night,loudly,baby,cries
+ENG356,19,Part of Speech,Mother cooks delicious food for us. Choose the correct verb.,delicious,food,mother,cooks,cooks
+ENG357,19,Part of Speech,The boy opened the window quickly. Choose the correct verb.,window,boy,quickly,opened,opened
+ENG358,19,Part of Speech,Farmers grow rice in the village. Choose the correct verb.,rice,farmers,grow,village,grow
+ENG359,19,Part of Speech,She writes beautiful stories in her notebook. Choose the correct verb.,notebook,stories,writes,beautiful,writes
+ENG360,19,Part of Speech,The dog chased the cat yesterday. Choose the correct verb.,cat,yesterday,dog,chased,chased
+ENG361,20,Part of Speech,We watched a movie last night. Choose the correct verb.,night,movie,watched,last,watched
+ENG362,20,Part of Speech,The student answered the question correctly. Choose the correct verb.,student,question,correctly,answered,answered
+ENG363,20,Part of Speech,Father drives carefully on busy roads. Choose the correct verb.,father,busy,drives,roads,drives
+ENG364,20,Part of Speech,The children laughed at the funny clown. Choose the correct verb.,children,funny,laughed,clown,laughed
+ENG365,20,Part of Speech,My friend borrowed my pencil yesterday. Choose the correct verb.,pencil,friend,yesterday,borrowed,borrowed
+ENG366,20,Part of Speech,The train arrived at the station late. Choose the correct verb.,arrived,late,station,train,arrived
+ENG367,20,Part of Speech,The girls danced beautifully on the stage. Choose the correct verb.,stage,girls,beautifully,danced,danced
+ENG368,20,Part of Speech,He repaired the broken chair himself. Choose the correct verb.,broken,repaired,himself,chair,repaired
+ENG369,20,Part of Speech,The cat slept under the table quietly. Choose the correct verb.,cat,table,slept,quietly,slept
+ENG370,20,Part of Speech,Students study hard before exams. Choose the correct verb.,exams,students,hard,study,study
+ENG371,20,Part of Speech,The bird built a nest in the tree. Choose the correct verb.,bird,nest,built,tree,built
+ENG372,20,Part of Speech,My uncle bought a new bicycle yesterday. Choose the correct verb.,yesterday,bicycle,uncle,bought,bought
+ENG373,20,Part of Speech,The chef prepared tasty soup for dinner. Choose the correct verb.,chef,tasty,prepared,dinner,prepared
+ENG374,20,Part of Speech,The players practiced regularly before the match. Choose the correct verb.,regularly,players,match,practiced,practiced
+ENG375,20,Part of Speech,She carried the heavy bag upstairs. Choose the correct verb.,bag,carried,upstairs,heavy,carried
+ENG376,20,Part of Speech,The mechanic fixed the car carefully. Choose the correct verb.,car,fixed,mechanic,carefully,fixed
+ENG377,20,Part of Speech,The baby smiled at her mother happily. Choose the correct verb.,smiled,baby,happily,mother,smiled
+ENG378,20,Part of Speech,The boys climbed the tall tree quickly. Choose the correct verb.,tree,climbed,boys,tall,climbed
+ENG379,20,Part of Speech,My sister painted a beautiful picture yesterday. Choose the correct verb.,beautiful,picture,sister,painted,painted
+ENG380,20,Part of Speech,The teacher checked our homework in class. Choose the correct verb.,class,teacher,checked,homework,checked
+ENG381,21,Part of Speech,The lion roared loudly in the jungle. Choose the correct verb.,roared,jungle,loudly,lion,roared
+ENG382,21,Part of Speech,The students listened to the story carefully. Choose the correct verb.,listened,carefully,students,story,listened
+ENG383,21,Part of Speech,Father cleaned the garage on Sunday. Choose the correct verb.,cleaned,father,garage,Sunday,cleaned
+ENG384,21,Part of Speech,The fisherman caught a big fish today. Choose the correct verb.,fish,caught,fisherman,big,caught
+ENG385,21,Part of Speech,My cousin visited us during the holidays. Choose the correct verb. Choose the correct verb.,holidays,visited,cousin,us,visited
+ENG386,21,Part of Speech,The child dropped the glass accidentally. Choose the correct verb.,accidentally,child,glass,dropped,dropped
+ENG387,21,Part of Speech,The birds chirped sweetly in the morning. Choose the correct verb.,birds,morning,sweetly,chirped,chirped
+ENG388,21,Part of Speech,The shopkeeper counted the money twice. Choose the correct verb.,shopkeeper,counted,twice,money,counted
+ENG389,21,Part of Speech,The players celebrated their victory joyfully. Choose the correct verb.,players,joyfully,celebrated,victory,celebrated
+ENG390,21,Part of Speech,My grandfather told interesting stories at night. Choose the correct verb.,grandfather,stories,night,told,told
+ENG391,21,Part of Speech,The girl folded her clothes neatly. Choose the correct verb.,clothes,folded,neatly,girl,folded
+ENG392,21,Part of Speech,The driver stopped the bus near the market. Choose the correct verb.,driver,bus,stopped,market,stopped
+ENG393,21,Part of Speech,The students copied the notes from the board. Choose the correct verb.,notes,copied,board,students,copied
+ENG394,21,Part of Speech,The waiter served food to the guests politely. Choose the correct verb.,guests,politely,served,waiter,served
+ENG395,21,Part of Speech,The boy threw the ball over the fence. Choose the correct verb.,ball,fence,threw,boy,threw
+ENG396,21,Part of Speech,My aunt baked a cake for my birthday. Choose the correct verb.,cake,aunt,birthday,baked,baked
+ENG397,21,Part of Speech,The policeman controlled the traffic efficiently. Choose the correct verb.,controlled,traffic,policeman,efficiently,controlled
+ENG398,21,Part of Speech,The artist sketched the scenery beautifully. Choose the correct verb.,beautifully,scenery,sketched,artist,sketched
+ENG399,21,Part of Speech,The little girl hugged her teddy bear tightly. Choose the correct verb.,girl,teddy bear,tightly,hugged,hugged
+ENG400,21,Part of Speech,The students completed the project before deadline. Choose the correct verb.,completed,project,deadline,students,completed
+ENG401,22,Part of Speech,Which word is an Adverb?,quickly,beautiful,cat,run,quickly
+ENG402,22,Part of Speech,Which word is an Adverb?,blue,jump,school,slowly,slowly
+ENG403,22,Part of Speech,Which word is an Adverb?,loudly,happy,book,sing,loudly
+ENG404,22,Part of Speech,Which word is an Adverb?,kindly,carefully,teacher,write,carefully
+ENG405,22,Part of Speech,Which word is an Adverb?,play,car,neatly,green,neatly
+ENG406,22,Part of Speech,The boy ran _________. (Adverb),happy,cat,quickly,quick,quickly
+ENG407,22,Part of Speech,She spoke _________ in the library. (Adverb),carefully,loud,slowly,book,carefully
+ENG408,22,Part of Speech,The students listened _________ to the teacher. (Adverb),kind,careful,carefully,teacher,carefully
+ENG409,22,Part of Speech,The baby slept _________. (Adverb),sleep,peacefully,bed,peaceful,peacefully
+ENG410,22,Part of Speech,He wrote his homework _________. (Adverb),school,neat,neatly,book,neatly
+ENG411,22,Part of Speech,"Pick out the Adverb: ""The bird flew quickly.""",the,flew,quickly,bird,quickly
+ENG412,22,Part of Speech,"Pick out the Adverb: ""She sang beautifully.""",she,sang,beautifully,song,beautifully
+ENG413,22,Part of Speech,"Pick out the Adverb: ""The dog barked loudly.""",barked,loudly,the,dog,loudly
+ENG414,22,Part of Speech,"Pick out the Adverb: ""They worked happily.""",worked,happily,work,they,happily
+ENG415,22,Part of Speech,"Pick out the Adverb: ""He answered politely.""",politely,answer,he,answered,politely
+ENG416,22,Part of Speech,An adverb tells us _________ an action happens.,when,what,where,how,how
+ENG417,22,Part of Speech,Which word tells how the action is done?,teacher,cat,quickly,run,quickly
+ENG418,22,Part of Speech,The rabbit hopped _________. (Adverb),quick,car,quickly,happy,quickly
+ENG419,22,Part of Speech,The children played _________ in the park. (Adverb),happy,happily,park,game,happily
+ENG420,23,Part of Speech,She completed the puzzle _________. (Adverb),easily,puzzle,easy,book,easily
+ENG421,24,Part of Speech,Which word is NOT an Adverb?,neatly,carefully,slowly,beautiful,beautiful
+ENG422,24,Part of Speech,Which word is NOT an Adverb?,happily,run,quickly,loudly,run
+ENG423,24,Part of Speech,The turtle walked _________. (Adverb),slow,slowly,turtle,green,slowly
+ENG424,24,Part of Speech,The girl smiled _________. (Adverb),sweet,sweetly,kind,girl,sweetly
+ENG425,24,Part of Speech,An adverb often describes a _________. (Adverb),noun,pronoun,verb,conjunction,verb
+ENG426,24,Part of Speech,Which word is an Adverb?,quietly,happy,book,run,quietly
+ENG427,24,Part of Speech,Which word is an Adverb?,blue,school,jump,bravely,bravely
+ENG428,24,Part of Speech,Which word is an Adverb?,green,play,safely,cat,safely
+ENG429,24,Part of Speech,Which word is an Adverb?,write,eagerly,teacher,kind,eagerly
+ENG430,24,Part of Speech,Which word is an Adverb?,car,red,gently,sing,gently
+ENG431,24,Part of Speech,The baby cried _________. (Adverb),loud,baby,loudly,sleep,loudly
+ENG432,24,Part of Speech,The girl crossed the road _________. (Adverb),safe,girl,road,safely,safely
+ENG433,24,Part of Speech,He waited _________ for his turn. (Adverb),boy,patiently,game,patient,patiently
+ENG434,24,Part of Speech,The students worked _________ during the test. (Adverb),quiet,quietly,test,school,quietly
+ENG435,24,Part of Speech,She opened the gift _________. (Adverb),eagerly,eager,gift,box,eagerly
+ENG436,24,Part of Speech,"Pick out the Adverb: ""The boy answered politely.""",the,answered,boy,politely,politely
+ENG437,24,Part of Speech,"Pick out the Adverb: ""The horse ran swiftly.""",swiftly,ran,horse,the,swiftly
+ENG438,24,Part of Speech,"Pick out the Adverb: ""She listened carefully.""",listened,she,carefully,book,carefully
+ENG439,24,Part of Speech,"Pick out the Adverb: ""The baby slept soundly.""",soundly,slept,baby,the,soundly
+ENG440,24,Part of Speech,"Pick out the Adverb: ""They cheered loudly.""",they,match,loudly,cheered,loudly
+ENG441,25,Part of Speech,An adverb describes a _________.,verb,noun,pronoun,conjunction,verb
+ENG442,25,Part of Speech,Which word tells how the action is done?,car,gently,run,teacher,gently
+ENG443,25,Part of Speech,The bird landed _________ on the branch. (Adverb),gentle,gently,branch,tree,gently
+ENG444,25,Part of Speech,The firefighters worked _________ to save the people. (Adverb),bravely,brave,firefighters,truck,bravely
+ENG445,25,Part of Speech,She completed her drawing _________. (Adverb),neat,drawing,pencil,neatly,neatly
+ENG446,25,Part of Speech,Which word is NOT an Adverb?,slowly,table,happily,quickly,table
+ENG447,25,Part of Speech,Which word is NOT an Adverb?,carefully,quietly,book,safely,book
+ENG448,25,Part of Speech,The puppy followed its owner _________. (Adverb),faithfully,puppy,faithful,dog,faithfully
+ENG449,25,Part of Speech,The children laughed _________. (Adverb),joyful,game,joyfully,children,joyfully
+ENG450,25,Part of Speech,"An adverb often answers the question ""_________ was it done?""",what,when,where,how,how
+ENG451,25,Part of Speech,Which word is an Adverb?,apple,book,teacher,slowly,slowly
+ENG452,25,Part of Speech,Which word is an Adverb?,green,jump,cat,carefully,carefully
+ENG453,25,Part of Speech,Which word is an Adverb?,run,school,quietly,blue,quietly
+ENG454,25,Part of Speech,Which word is an Adverb?,play,kind,happily,dog,happily
+ENG455,25,Part of Speech,Which word is an Adverb?,write,car,softly,red,softly
+ENG456,25,Part of Speech,The teacher spoke _________ to the class. (Adverb),clearly,teacher,class,clear,clearly
+ENG457,25,Part of Speech,The boy climbed the ladder _________. (Adverb),ladder,carefully,boy,careful,carefully
+ENG458,25,Part of Speech,She finished her homework _________. (Adverb),book,quick,quickly,homework,quickly
+ENG459,25,Part of Speech,The cat moved _________ through the room. (Adverb),cat,room,silent,silently,silently
+ENG460,25,Part of Speech,The team played _________ and won the match. (Adverb),match,good,team,well,well
+ENG461,26,Part of Speech,"Pick out the Adverb: ""The girl danced gracefully.""",girl,danced,stage,gracefully,gracefully
+ENG462,26,Part of Speech,"Pick out the Adverb: ""The boy spoke politely.""",boy,friend,spoke,politely,politely
+ENG463,26,Part of Speech,"Pick out the Adverb: ""The dog waited patiently.""",dog,waited,owner,patiently,patiently
+ENG464,26,Part of Speech,"Pick out the Adverb: ""The bird sang sweetly.""",bird,sang,tree,sweetly,sweetly
+ENG465,26,Part of Speech,"Pick out the Adverb: ""The baby smiled happily.""",smiled,baby,happily,mother,happily
+ENG466,26,Part of Speech,An adverb usually describes a _________.,verb,conjunction,noun,pronoun,verb
+ENG467,26,Part of Speech,Which word tells how an action is done?,car,teacher,apple,softly,softly
+ENG468,26,Part of Speech,The rabbit escaped _________ from the cage. (Adverb),quickly,rabbit,quick,cage,quickly
+ENG469,26,Part of Speech,The students listened _________ during the lesson. (Adverb),lesson,attentive,students,attentively,attentively
+ENG470,26,Part of Speech,He carried the glass _________ so it would not break. (Adverb),careful,table,glass,carefully,carefully
+ENG471,26,Part of Speech,Which word is NOT an Adverb?,slowly,quietly,happily,table,table
+ENG472,26,Part of Speech,Which word is NOT an Adverb?,book,softly,quickly,carefully,book
+ENG473,26,Part of Speech,The children walked _________ into the classroom. (Adverb),orderly,book,orderly,orderly manner,orderly
+ENG474,26,Part of Speech,The audience clapped _________ after the performance. (Adverb),loudly,audience,stage,loud,loudly
+ENG475,26,Part of Speech,An adverb often answers the question _________?,how,which,who,when,how
+ENG476,26,Part of Speech,Which word is an Adverb?,carefully,book,apple,teacher,carefully
+ENG477,26,Part of Speech,Which word is an Adverb?,green,quickly,cat,jump,quickly
+ENG478,26,Part of Speech,Which word is an Adverb?,run,school,quietly,blue,quietly
+ENG479,26,Part of Speech,Which word is an Adverb?,kind,bravely,play,dog,bravely
+ENG480,26,Part of Speech,Which word is an Adverb?,red,write,car,honestly,honestly
+ENG481,27,Part of Speech,The girl answered the question _________. (Adverb),girl,question,correctly,correct,correctly
+ENG482,27,Part of Speech,The athlete ran _________ to win the race. (Adverb),track,faster,fast,runner,fast
+ENG483,27,Part of Speech,The children waited _________ for the show to begin. (Adverb),children,show,patiently,patient,patiently
+ENG484,27,Part of Speech,The bird landed _________ on the fence. (Adverb),fence,safely,safe,bird,safely
+ENG485,27,Part of Speech,She packed her books _________ into the bag. (Adverb),neatly,bag,books,neat,neatly
+ENG486,27,Part of Speech,"Pick out the Adverb: ""The horse galloped swiftly across the field.""",galloped,horse,swiftly,field,swiftly
+ENG487,27,Part of Speech,"Pick out the Adverb: ""The teacher explained the lesson clearly.""",lesson,clearly,explained,teacher,clearly
+ENG488,27,Part of Speech,"Pick out the Adverb: ""The baby slept peacefully.""",slept,peacefully,baby,bed,peacefully
+ENG489,27,Part of Speech,"Pick out the Adverb: ""The dog barked loudly at the stranger.""",stranger,barked,dog,loudly,loudly
+ENG490,27,Part of Speech,"Pick out the Adverb: ""The children cheered excitedly.""",cheered,game,excitedly,children,excitedly
+ENG491,27,Part of Speech,An adverb describes a _________.,adjective,verb,noun,pronoun,verb
+ENG492,27,Part of Speech,Which word tells how an action is done?,tree,safely,book,teacher,safely
+ENG493,27,Part of Speech,The firefighter acted _________ during the rescue. (Adverb),rescue,firefighter,bravely,brave,bravely
+ENG494,27,Part of Speech,The turtle moved _________ across the road. (Adverb),road,slow,turtle,slowly,slowly
+ENG495,27,Part of Speech,The singer performed _________ on stage. (Adverb),stage,singer,beautifully,beautiful,beautifully
+ENG496,27,Part of Speech,Which word is NOT an Adverb?,carefully,table,happily,slowly,table
+ENG497,27,Part of Speech,Which word is NOT an Adverb?,neatly,quickly,quietly,book,book
+ENG498,27,Part of Speech,The students entered the classroom _________. (Adverb),quietly,quiet,students,classroom,quietly
+ENG499,27,Part of Speech,The rabbit jumped _________ over the log. (Adverb),log,easy,easily,rabbit,easily
+ENG500,27,Part of Speech,"An adverb often answers the question ""_________?""",how,which,who,where,how
+ENG501,28,Part of Speech,The book is ___ the table.,under,in,between,on,on
+ENG502,28,Part of Speech,The cat is ___ the chair.,on,into,under,at,under
+ENG503,28,Part of Speech,We go to school ___ morning.,at,on,in,by,in
+ENG504,28,Part of Speech,The picture is ___ the wall.,under,in,between,on,on
+ENG505,28,Part of Speech,I live ___ Dhaka.,on,at,in,by,in
+ENG506,28,Part of Speech,The ball is ___ the box.,between,in,over,on,in
+ENG507,28,Part of Speech,We eat dinner ___ night.,in,from,at,on,at
+ENG508,28,Part of Speech,The dog ran ___ the road.,under,between,across,inside,across
+ENG509,28,Part of Speech,She is sitting ___ me and Rina.,at,between,on,under,between
+ENG510,28,Part of Speech,The bird is flying ___ the tree.,at,in,over,under,over
+ENG511,28,Part of Speech,He came ___ Monday.,at,in,on,by,on
+ENG512,28,Part of Speech,The pen is ___ the bag.,inside,above,between,on,inside
+ENG513,28,Part of Speech,The school is ___ the bank.,next to,under,over,in,next to
+ENG514,28,Part of Speech,We swim ___ the river.,on,over,at,in,in
+ENG515,28,Part of Speech,The lamp is ___ the table.,under,above,from,in,above
+ENG516,29,Part of Speech,I was born ___ 2015.,at,by,on,in,in
+ENG517,29,Part of Speech,The child hid ___ the bed.,at,under,between,on,under
+ENG518,29,Part of Speech,He stood ___ the door.,under,at,on,in,at
+ENG519,29,Part of Speech,The train goes ___ the tunnel.,between,over,through,at,through
+ENG520,29,Part of Speech,The shoes are ___ the bed.,under,on,in,between,under
+ENG521,29,Part of Speech,The children are working ___ the classroom.,on,under,in,over,in
+ENG522,29,Part of Speech,____ the fishbowl he has two fish.,inside,on,over,above,inside
+ENG523,29,Part of Speech,____ the desk they have a plant.,over,inside,on,beside,on
+ENG524,29,Part of Speech,The boy is sitting ____  the girl.,over,below,on,near,near
+ENG525,29,Part of Speech,____ the table is a backpack.,among,on,inside,under,under
+ENG526,29,Part of Speech,The globe is ___ the fish tank.,beside,on,under,over,over
+ENG527,29,Part of Speech,The drawing of a butterfly is ____ the calendar.,over,below,under,beside,below
+ENG528,29,Part of Speech,The calendar is ____ a picture of a butterfly.,under,below,above,over,above
+ENG529,29,Part of Speech,Children are studying _____ the backpack.,on,above,around,below,around
+ENG530,29,Part of Speech,You can see a house _____ the window.,between,above,through,under,through
+ENG531,29,Part of Speech,"A window is ____ the boy.""",in front of,behind,under,over,behind
+ENG532,29,Part of Speech,A girl is sitting ____ the boy.,over,under,in front of,behind,in front of
+ENG533,29,Part of Speech,The pen is ____ the scissors.,behind,on,over,next to,next to
+ENG534,29,Part of Speech,There's a bat ____ the bed.,beside,on,over,in,on
+ENG535,29,Part of Speech,There's a doll ___ the coffee table.,under,in,on,over,under
+ENG536,30,Part of Speech,There's a ball __ the box.,beside,on,in,under,in
+ENG537,30,Part of Speech,The bookcase is ___ the desk and the bed.,beside,below,between,behind,between
+ENG538,30,Part of Speech,There's a desk ___ the chair.,behind,below,beside,between,behind
+ENG539,30,Part of Speech,There's a bed ____ the bookcase.,below,beside,between,behind,beside
+ENG540,30,Part of Speech,There are books ___ the bookcase.,over,in,beside,on,in
+ENG541,30,Part of Speech,The green book is ___ the table lamp.,between,beside,behind,below,bellow
+ENG542,30,Part of Speech,The watch is ___ the chair.,under,among,inside,on,under
+ENG543,30,Part of Speech,The cap is ___ the bat.,beside,below,behind,between,beside
+ENG544,30,Part of Speech,The lamp is ___ the sofa.,beside,under,in front of,on ,beside
+ENG545,30,Part of Speech,The pen is ____ the table.,in front of,on,under,beside,on
+ENG546,30,Part of Speech,The rug is ____ the table.,on,under,in,beside,under
+ENG547,30,Part of Speech,The newspaper is ___ the table.,beside,over,in,on,on
+ENG548,30,Part of Speech,The CD player is ____ the table.,in,on,among,between,on
+ENG549,30,Part of Speech,The window is ____  the curtain.,among,behind,on,between,behind
+ENG550,30,Part of Speech,The curtain is ____ the window.,among,behind,in,in front of,in front of
+ENG551,31,Part of Speech,This is a small _________ beautiful city. (Conjunction),but,or,so,for,but
+ENG552,31,Part of Speech,"I wanted to play, _________ it started raining. (Conjunction)",but,and,because,so,but
+ENG553,31,Part of Speech,"She studied hard, _________ she passed the exam. (Conjunction)",so,but,or,yet,so
+ENG554,31,Part of Speech,Would you like tea _________ coffee? (Conjunction),but,so,or,because,or
+ENG555,31,Part of Speech,"He was tired, _________ he continued working. (Conjunction)",and,because,but,or,but
+ENG556,31,Part of Speech,The boy is poor _________ honest. (Conjunction),so,or,but,because,but
+ENG557,31,Part of Speech,I stayed home _________ I was feeling sick. (Conjunction),but,because,and,or,because
+ENG558,31,Part of Speech,We went to the park _________ played football. (Conjunction),and,but,or,so,and
+ENG559,31,Part of Speech,"Hurry up, _________ you will miss the train. (Conjunction)",because,or,and,but,or
+ENG560,31,Part of Speech,She is smart _________ hardworking. (Conjunction),because,but,or,and,and
+ENG561,31,Part of Speech,"He did not call, _________ he sent a message. (Conjunction)",so,and,because,but,but
+ENG562,31,Part of Speech,"The weather was cold, _________ we stayed indoors. (Conjunction)",but,so,or,yet,so
+ENG563,31,Part of Speech,You can take a bus _________ a taxi. (Conjunction),or,and,because,but,or
+ENG564,31,Part of Speech,The baby cried _________ it was hungry. (Conjunction),because,but,and,so,because
+ENG565,31,Part of Speech,She opened the window _________ let in fresh air. (Conjunction),but,and,because,or,and
+ENG566,32,Part of Speech,"I wanted to buy the book, _________ I had no money. (Conjunction)",because,so,or,but,but
+ENG567,32,Part of Speech,He woke up early _________ went for a walk. (Conjunction),because,or,but,and,and
+ENG568,32,Part of Speech,"Study well, _________ you may fail the test. (Conjunction)",and,because,or,but,or
+ENG569,32,Part of Speech,The food was tasty _________ expensive. (Conjunction),because,but,and,so,but
+ENG570,32,Part of Speech,We stayed inside _________ the storm was strong. (Conjunction),or,and,because,but,because
+ENG571,32,Part of Speech,My sister likes music _________ dancing. (Conjunction),or,because,and,but,and
+ENG572,32,Part of Speech,"He practiced daily, _________ he became a better player. (Conjunction)",or,but,so,because,so
+ENG573,32,Part of Speech,Do you want apples _________ bananas? (Conjunction),or,and,but,because,or
+ENG574,32,Part of Speech,The room was small _________ comfortable. (Conjunction),and,so,because,but,but
+ENG575,32,Part of Speech,She smiled _________ waved at her friend. (Conjunction),and,because,but,or,and
+ENG576,32,Part of Speech,"The boy was hungry, _________ he ate a sandwich. (Conjunction)",because,but,or,so,so
+ENG577,32,Part of Speech,She can sing _________ dance very well. (Conjunction),or,but,because,and,and
+ENG578,32,Part of Speech,We stayed at home _________ it was raining heavily. (Conjunction),or,and,but,because,because
+ENG579,32,Part of Speech,"Take an umbrella, _________ you may get wet. (Conjunction)",or,and,because,but,or
+ENG580,32,Part of Speech,He is poor _________ very happy. (Conjunction),or,because,but,so,but
+ENG581,33,Part of Speech,I finished my homework _________ went to bed. (Conjunction),because,and,or,but,and
+ENG582,33,Part of Speech,"The road was slippery, _________ we drove carefully. (Conjunction)",so,but,and,because,so
+ENG583,33,Part of Speech,Would you like juice _________ milk? (Conjunction),because,but,and,or,or
+ENG584,33,Part of Speech,"She did not study, _________ she failed the test. (Conjunction)",because,but,and,so,so
+ENG585,33,Part of Speech,The movie was long _________ interesting. (Conjunction),because,or,but,so,but
+ENG586,33,Part of Speech,He opened the box _________ found a gift inside. (Conjunction),or,but,because,and,and
+ENG587,33,Part of Speech,I could not attend class _________ I was sick. (Conjunction),and,or,but,because,because
+ENG588,33,Part of Speech,"Walk faster, _________ you will be late. (Conjunction)",and,or,but,because,or
+ENG589,33,Part of Speech,The cat jumped onto the chair _________ slept there. (Conjunction),because,or,and,but,and
+ENG590,33,Part of Speech,She is intelligent _________ humble. (Conjunction),and,so,or,but,and
+ENG591,33,Part of Speech,"The shop was closed, _________ we returned home. (Conjunction)",so,because,but,or,so
+ENG592,33,Part of Speech,"He tried hard, _________ he could not win. (Conjunction)",and,because,but,or,but
+ENG593,33,Part of Speech,"You must hurry, _________ the bus will leave soon. (Conjunction)",or,because,but,and,or
+ENG594,33,Part of Speech,The child cried _________ he lost his toy. (Conjunction),because,so,and,but,because
+ENG595,33,Part of Speech,We bought fruits _________ vegetables from the market. (Conjunction),or,and,but,because,and
+ENG596,33,Part of Speech,"The room was dark, _________ I switched on the light. (Conjunction)",or,because,so,but,so
+ENG597,33,Part of Speech,"She wanted to travel, _________ she saved money. (Conjunction)",and,because,but,so,so
+ENG598,33,Part of Speech,Do you prefer tea _________ coffee in the morning? (Conjunction),or,and,but,because,or
+ENG599,33,Part of Speech,"He was sleepy, _________ he finished the work first. (Conjunction)",so,because,or,but,but
+ENG600,33,Part of Speech,The children laughed _________ clapped their hands happily. (Conjunction),because,and,but,or,and
+ENG601,34,Part of Speech,___! That was an amazing goal.,Quickly,Run,Beautiful,Wow,Wow
+ENG602,34,Part of Speech,___! I forgot my homework.,Jump,Oops,Table,Blue,Oops
+ENG603,34,Part of Speech,___! We won the match.,Slowly,Chair,Hooray,School,Hooray
+ENG604,34,Part of Speech,___! That hurt my finger.,Under,Ouch,Happy,Walk,Ouch
+ENG605,34,Part of Speech,___! The food tastes great.,Book,Yummy,Write,Tall,Yummy
+ENG606,34,Part of Speech,___! I didn't expect to see you here.,Oh,Green,Window,Run,Oh
+ENG607,34,Part of Speech,___! Be careful with that glass.,Watch out,Dog,Pencil,Quickly,Watch out
+ENG608,34,Part of Speech,___! We are going on vacation tomorrow.,Orange,Yay,School,Dance,Yay
+ENG609,34,Part of Speech,___! The baby is so cute.,Fast,Aww,Table,Jump,Aww
+ENG610,34,Part of Speech,___! I stepped in a puddle.,Sing,Oops,Cloud,Loud,Oops
+ENG611,34,Part of Speech,___! The magician disappeared.,Wow,Small,Desk,Read,Wow
+ENG612,34,Part of Speech,___! I can't believe I lost my keys.,Oh no,Swim,Bag,Pretty,Oh no
+ENG613,34,Part of Speech,___! You scared me.,House,Yellow,Slowly,Ah,Ah
+ENG614,34,Part of Speech,___! What a beautiful rainbow.,Quiet,Wow,Play,Tree,Wow
+ENG615,34,Part of Speech,___! We finished the project on time.,Tiny,Hooray,Apple,Talk,Hooray
+ENG616,35,Part of Speech,___! The soup is very hot.,Book,Strong,Yikes,Walk,Yikes
+ENG617,35,Part of Speech,___! I dropped my ice cream.,Oh no,Smile,Chair,Blue,Oh no
+ENG618,35,Part of Speech,___! That joke was funny.,Round,Dance,Ha ha,School,Ha ha
+ENG619,35,Part of Speech,___! The fireworks are beautiful.,Run,Large,Pen,Wow,Wow
+ENG620,35,Part of Speech,___! We got full marks in the test.,Red,Hooray,Sing,Window,Hooray
+ENG621,35,Part of Speech,___! I touched something sharp.,Jump,Happy,Ouch,Bottle,Ouch
+ENG622,35,Part of Speech,___! Look at that giant elephant.,Desk,Short,Wow,Write,Wow
+ENG623,35,Part of Speech,___! I nearly fell off my bike.,Read,Door,Bright,Yikes,Yikes
+ENG624,35,Part of Speech,___! It's snowing outside.,Wow,Young,Table,Walk,Wow
+ENG625,35,Part of Speech,___! We are the champions.,Book,Kind,Draw,Hooray,Hooray
+ENG626,35,Part of Speech,___! I just found a hundred-dollar bill.,Chair,Blue,Run,Wow,Wow
+ENG627,35,Part of Speech,___! The movie was fantastic.,Wow,Table,Happy,Sing,Wow
+ENG628,35,Part of Speech,___! I accidentally broke the vase.,Walk,Book,Green,Oops,Oops
+ENG629,35,Part of Speech,___! We are going to the amusement park.,Jump,Yellow,School,Yay,Yay
+ENG630,35,Part of Speech,___! I bumped my head on the door.,Ouch,Tall,Pencil,Read,Ouch
+ENG631,35,Part of Speech,___! The puppy is adorable.,Aww,Strong,Desk,Dance,Aww
+ENG632,35,Part of Speech,___! You nearly hit the wall.,Watch out,Tree,Bright,Swim,Watch out
+ENG633,35,Part of Speech,___! I forgot my friend's birthday.,House,Oh no,Write,Fast,Oh no
+ENG634,35,Part of Speech,___! That's a huge cake.,Kind,Door,Wow,Run,Wow
+ENG635,35,Part of Speech,___! We finished first in the race.,Apple,Quiet,Hooray,Draw,Hooray
+ENG636,36,Part of Speech,___! The roller coaster is moving fast.,Small,Read,Chair,Yikes,Yikes
+ENG637,36,Part of Speech,___! I didn't know you were here.,Table,Blue,Walk,Oh,Oh
+ENG638,36,Part of Speech,___! The clown made everyone laugh.,Pretty,Ha ha,Book,Jump,Ha ha
+ENG639,36,Part of Speech,___! I spilled juice on my shirt.,Round,Sing,Oops,Window,Oops
+ENG640,36,Part of Speech,___! That lightning was very bright.,Young,Wow,Desk,Swim,Wow
+ENG641,36,Part of Speech,___! We passed the exam.,Hooray,Door,Tiny,Talk,Hooray
+ENG642,36,Part of Speech,___! I touched a hot pan.,School,Run,Large,Ouch,Ouch
+ENG643,36,Part of Speech,___! The kitten fell asleep in my lap.,Write,Cold,Book,Aww,Aww
+ENG644,36,Part of Speech,___! The bus is coming quickly.,Read,Tree,Look out,Sharp,Look out
+ENG645,36,Part of Speech,___! I can't find my backpack.,Oh no,Soft,Table,Draw,Oh no
+ENG646,36,Part of Speech,___! We get an extra holiday tomorrow.,Walk,Heavy,Chair,Yay,Yay
+ENG647,36,Part of Speech,___! That magic trick was unbelievable.,Wow,Warm,Run,Window,Wow
+ENG648,36,Part of Speech,___! The bee almost stung me.,Slow,Desk,Jump,Yikes,Yikes
+ENG649,36,Part of Speech,___! You solved the puzzle perfectly.,Green,Bravo,Door,Sing,Bravo
+ENG650,36,Part of Speech,___! The concert was amazing.,Read,Book,Happy,Wow,Wow
+ENG651,36,Part of Speech,___! You answered every question correctly.,Blue,Jump,Bravo,Chair,Bravo
+ENG652,36,Part of Speech,___! The glass is about to fall.,Happy,Book,Write,Look out,Look out
+ENG653,36,Part of Speech,___! We are finally at the beach.,Green,Yay,Run,Table,Yay
+ENG654,36,Part of Speech,___! That spider is huge.,Tall,Sing,Yikes,School,Yikes
+ENG655,36,Part of Speech,___! I accidentally deleted my homework.,Oops,Yellow,Desk,Walk,Oops
+ENG656,37,Part of Speech,___! The baby just smiled at me.,Aww,Strong,Tree,Read,Aww
+ENG657,37,Part of Speech,___! What a beautiful painting.,Bright,Jump,Wow,Apple,Wow
+ENG658,37,Part of Speech,___! I hurt my knee while running.,Ouch,Kind,Door,Swim,Ouch
+ENG659,37,Part of Speech,___! We won the science competition.,Hooray,Quiet,Book,Draw,Hooray
+ENG660,37,Part of Speech,___! I didn't expect such a surprise.,Talk,Window,Oh,Small,Oh
+ENG661,37,Part of Speech,___! I forgot to bring my lunch.,Pretty,Oh no,Chair,Write,Oh no
+ENG662,37,Part of Speech,___! That joke was hilarious.,Ha ha,Round,Table,Run,Ha ha
+ENG663,37,Part of Speech,___! The puppy learned a new trick.,School,Sing,Bravo,Young,Bravo
+ENG664,37,Part of Speech,___! The soup smells delicious.,Desk,Read,Tiny,Yummy,Yummy
+ENG665,37,Part of Speech,___! A car is coming your way.,Watch out,Large,Tree,Walk,Watch out
+ENG666,37,Part of Speech,___! We are going on a picnic today.,Jump,Apple,Cold,Yay,Yay
+ENG667,37,Part of Speech,___! The fireworks were spectacular.,Draw,Door,Soft,Wow,Wow
+ENG668,37,Part of Speech,___! I stepped on a toy.,Book,Sing,Ouch,Warm,Ouch
+ENG669,37,Part of Speech,___! The little ducklings are adorable.,Window,Sharp,Aww,Read,Aww
+ENG670,37,Part of Speech,___! You nearly dropped the cake.,Chair,Slow,Careful,Write,Careful
+ENG671,37,Part of Speech,___! I got a perfect score in math.,Hooray,Table,Talk,Heavy,Hooray
+ENG672,37,Part of Speech,___! I left my ticket at home.,Green,Run,Oh no,School,Oh no
+ENG673,37,Part of Speech,___! That roller coaster was scary.,Jump,Yikes,Desk,Blue,Yikes
+ENG674,37,Part of Speech,___! The magician pulled a rabbit from a hat.,Happy,Swim,Wow,Tree,Wow
+ENG675,37,Part of Speech,___! You performed very well on stage.,Apple,Walk,Tall,Bravo,Bravo

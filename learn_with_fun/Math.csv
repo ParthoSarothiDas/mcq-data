@@ -1,5 +1,5 @@
 ﻿Subject,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
-Math1,1,Addition,2 + 3  = _____,,,,,5,FillBlank
+Math1,1,Addition,Rina has 2 apples. Her mother gives her 3 more. How many apples does she have?\n\nShe have _____ apples.,,,,,5,FillBlank
 Math2,1,Addition,I have _____ Apple,,,,,an,FillBlank
 Math3,1,Addition,5 + 2 = _____,,,,,7,FillBlank
 Math4,1,Addition,3 + 6 ?,8,9,10,11,9,MCQ

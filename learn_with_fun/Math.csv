@@ -1,7 +1,7 @@
 ﻿Subject,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
-Math1,1,Addition,2 + 3  = ?,,,,,5,FillBlank
+Math1,1,Addition,2 + 3  = _____,,,,,5,FillBlank
 Math2,1,Addition,1 + 4 = ?,3,4,5,6,5,MCQ
-Math3,1,Addition,5 + 2 = ?,,,,,7,FillBlank
+Math3,1,Addition,5 + 2 = _____,,,,,7,FillBlank
 Math4,1,Addition,3 + 6 ?,8,9,10,11,9,MCQ
 Math5,1,Addition,4 + 4 ?,6,7,8,9,8,MCQ
 Math6,1,Addition,2 + 2 ?,3,4,5,6,4,MCQ

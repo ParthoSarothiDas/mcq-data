@@ -37,7 +37,7 @@ Math35,3,Addition,4 + 9 = _____,,,,,13,FillBlank
 Math36,3,Addition,2 + 6 = _____,,,,,8,FillBlank
 Math37,3,Addition,8 + 8 = _____,,,,,16,FillBlank
 Math38,3,Addition,3 + 9 = _____,,,,,12,FillBlank
-Math39,4,Addition,Rina has 2 apples. Her mother gives her 3 more. How many apples does she have?\n\nShe have _____ apples,4,5,6,7,5,MCQ
+Math39,4,Addition,Rina has 2 apples. Her mother gives her 3 more. How many apples does she have? She have _____ apples,4,5,6,7,5,MCQ
 Math40,4,Addition,A boy has 4 balloons. He gets 5 more balloons. How many balloons does he have?,8,9,10,11,9,MCQ
 Math41,4,Addition,There are 6 birds on a tree. 2 more birds come. How many birds are there now?,7,8,9,10,8,MCQ
 Math42,4,Addition,A basket has 7 oranges. 3 more oranges are added. How many oranges are there?,9,10,11,12,10,MCQ

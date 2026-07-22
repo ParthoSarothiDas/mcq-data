@@ -1,0 +1,361 @@
+﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,Topic
+BD1,1,National Symbols,What is the national flag of Bangladesh known for?,Green with red circle,Blue with white star,White with green stripe,Red with yellow moon,Green with red circle,MCQ,National Symbols
+BD2,1,National Symbols,What color is the background of the Bangladesh flag?,White,Blue,Green,Yellow,Green,MCQ,National Symbols
+BD3,1,National Symbols,What color is the circle on the Bangladesh flag?,Red,Black,White,Blue,Red,MCQ,National Symbols
+BD4,1,National Symbols,What does the red circle on the flag represent?,Book only,Sun and sacrifice,Mountain only,River only,Sun and sacrifice,MCQ,National Symbols
+BD5,1,National Symbols,What is the national anthem of Bangladesh?,God Save the King,Jana Gana Mana,Amar Sonar Bangla,Auld Lang Syne,Amar Sonar Bangla,MCQ,National Symbols
+BD6,1,National Symbols,Who wrote the national anthem of Bangladesh?,Begum Rokeya,Jasimuddin,Kazi Nazrul Islam,Rabindranath Tagore,Rabindranath Tagore,MCQ,National Symbols
+BD7,1,National Symbols,What is the national flower of Bangladesh?,Water Lily,Rose,Tulip,Sunflower,Water Lily,MCQ,National Symbols
+BD8,1,National Symbols,What is the national animal of Bangladesh?,Elephant,Royal Bengal Tiger,Deer,Lion,Royal Bengal Tiger,MCQ,National Symbols
+BD9,1,National Symbols,What is the national bird of Bangladesh?,Eagle,Parrot,Crow,Magpie Robin,Magpie Robin,MCQ,National Symbols
+BD10,1,National Symbols,What is the national fruit of Bangladesh?,Lychee,Jackfruit,Banana,Mango,Jackfruit,MCQ,National Symbols
+BD11,2,National Symbols,What is the national tree of Bangladesh?,Neem Tree,Banyan Tree,Mango Tree,Coconut Tree,Banyan Tree,MCQ,National Symbols
+BD12,2,National Symbols,What is the national fish of Bangladesh?,Tuna,Katla,Rui,Hilsa,Hilsa,MCQ,National Symbols
+BD13,2,National Symbols,What is the national game of Bangladesh?,Hockey,Cricket,Football,Kabaddi,Kabaddi,MCQ,National Symbols
+BD14,2,National Symbols,What is the national mosque of Bangladesh?,Shahi Mosque,Baitul Mukarram,Star Mosque,Sixty Dome Mosque,Baitul Mukarram,MCQ,National Symbols
+BD15,2,National Symbols,What is the national memorial of Bangladesh?,National Martyrs Memorial,Curzon Hall,Lalbagh Fort,Ahsan Manzil,National Martyrs Memorial,MCQ,National Symbols
+BD16,2,National Symbols,Where is the National Martyrs Memorial located?,Savar,Rajshahi,Khulna,Sylhet,Savar,MCQ,National Symbols
+BD17,2,National Symbols,What bird is Magpie Robin also called in Bangladesh?,Doel,Shalik,Kokil,Moyna,Doel,MCQ,National Symbols
+BD18,2,National Symbols,Which flower grows in water and is national flower?,Jasmine,Marigold,Rose,Water Lily,Water Lily,MCQ,National Symbols
+BD19,2,National Symbols,Which tiger is the national animal of Bangladesh?,African Tiger,White Tiger,Royal Bengal Tiger,Siberian Tiger,Royal Bengal Tiger,MCQ,National Symbols
+BD20,2,National Symbols,Which fruit is large and grows on trees?,Cherry,Orange,Grape,Jackfruit,Jackfruit,MCQ,National Symbols
+BD21,3,National Symbols,Which color on the flag stands for greenery?,Green,Black,Blue,Purple,Green,MCQ,National Symbols
+BD22,3,National Symbols,Which song begins with Amar Sonar Bangla?,National Anthem,Folk Song,Lullaby,March Song,National Anthem,MCQ,National Symbols
+BD23,3,National Symbols,Which fish is famous and national fish of Bangladesh?,Shark,Hilsa,Tilapia,Salmon,Hilsa,MCQ,National Symbols
+BD24,3,National Symbols,Which sport is played by two teams and is national game?,Kabaddi,Rugby,Tennis,Golf,Kabaddi,MCQ,National Symbols
+BD25,3,National Symbols,Which symbol reminds people of freedom fighters?,National Martyrs Memorial,Market,Bridge,Stadium,National Martyrs Memorial,MCQ,National Symbols
+BD26,3,National Symbols,Which country does the national flag belong to?,India,Bangladesh,Nepal,Pakistan,Bangladesh,MCQ,National Symbols
+BD27,3,National Symbols,How many colors are on the Bangladesh flag?,One,Two,Three,Four,Two,MCQ,National Symbols
+BD28,3,National Symbols,What shape is the red part of the Bangladesh flag?,Square,Triangle,Circle,Star,Circle,MCQ,National Symbols
+BD29,3,National Symbols,Which national symbol is a song?,National Animal,National Anthem,National Flower,National Tree,National Anthem,MCQ,National Symbols
+BD30,3,National Symbols,Which national symbol is a bird?,Doel,Tiger,Hilsa,Banyan Tree,Doel,MCQ,National Symbols
+BD31,4,National Symbols,Which national symbol is found in rivers?,Royal Bengal Tiger,Water Lily,Hilsa,Jackfruit,Hilsa,MCQ,National Symbols
+BD32,4,National Symbols,Which national symbol provides shade with its large branches?,Banyan Tree,Rose,Coconut,Bamboo,Banyan Tree,MCQ,National Symbols
+BD33,4,National Symbols,Which national symbol blooms in ponds and lakes?,Rose,Water Lily,Sunflower,Orchid,Water Lily,MCQ,National Symbols
+BD34,4,National Symbols,Which national symbol is famous for its sweet taste?,Jackfruit,Stone,Cotton,Bamboo,Jackfruit,MCQ,National Symbols
+BD35,4,National Symbols,Which national symbol lives in the Sundarbans?,Royal Bengal Tiger,Deer,Elephant,Fox,Royal Bengal Tiger,MCQ,National Symbols
+BD36,4,National Symbols,Which national symbol is sung on special national occasions?,National Anthem,National Tree,National Fish,National Flower,National Anthem,MCQ,National Symbols
+BD37,4,National Symbols,Which national symbol has green as its main color?,National Flag,National Fruit,National Bird,National Fish,National Flag,MCQ,National Symbols
+BD38,4,National Symbols,Which national symbol is known as the king of fruits in Bangladesh?,Jackfruit,Mango,Banana,Apple,Jackfruit,MCQ,National Symbols
+BD39,4,National Symbols,Which national symbol is commonly called Doel?,Magpie Robin,Eagle,Dove,Sparrow,Magpie Robin,MCQ,National Symbols
+BD40,4,National Symbols,Which national symbol is an important freshwater flower?,Water Lily,Rose,Tulip,Daisy,Water Lily,MCQ,National Symbols
+BD41,5,National Symbols,Which national symbol is a place to honor the martyrs?,National Martyrs Memorial,Parliament,Museum,Library,National Martyrs Memorial,MCQ,National Symbols
+BD42,5,National Symbols,Which national symbol is a place of worship?,Baitul Mukarram,Lalbagh Fort,Ahsan Manzil,Curzon Hall,Baitul Mukarram,MCQ,National Symbols
+BD43,5,National Symbols,Which national symbol is a freshwater fish?,Hilsa,Tuna,Shark,Salmon,Hilsa,MCQ,National Symbols
+BD44,5,National Symbols,Which national symbol has a red circle?,National Flag,National Flower,National Bird,National Game,National Flag,MCQ,National Symbols
+BD45,5,National Symbols,Which national symbol is played as a team sport?,Kabaddi,Chess,Tennis,Golf,Kabaddi,MCQ,National Symbols
+BD46,5,National Symbols,Which national symbol represents courage and strength?,Royal Bengal Tiger,Water Lily,Hilsa,Jackfruit,Royal Bengal Tiger,MCQ,National Symbols
+BD47,5,National Symbols,Which national symbol reminds people of Bangladesh's natural beauty?,Water Lily,Clock,Train,Airplane,Water Lily,MCQ,National Symbols
+BD48,5,National Symbols,Which national symbol is displayed on national celebrations?,National Flag,School Bag,Bicycle,Football,National Flag,MCQ,National Symbols
+BD49,5,National Symbols,Which national symbol was written by Rabindranath Tagore?,National Anthem,National Game,National Bird,National Tree,National Anthem,MCQ,National Symbols
+BD50,5,National Symbols,Which national symbol is the largest fruit grown in Bangladesh?,Jackfruit,Lychee,Orange,Guava,Jackfruit,MCQ,National Symbols
+BAN141,6,Culture,What is the Bengali New Year called?,Pohela Boishakh,Victory Day,Eid Fair,Winter Day,Pohela Boishakh,MCQ,Culture
+BAN142,6,Culture,Which month usually has Pohela Boishakh?,July,October,December,April,April,MCQ,Culture
+BAN143,6,Culture,What traditional dress do many women wear?,Helmet,Kimono,Saree,Coat,Saree,MCQ,Culture
+BAN144,6,Culture,What traditional dress do many men wear on festivals?,Panjabi,Spacesuit,Armor,Kimono,Panjabi,MCQ,Culture
+BAN145,6,Culture,Which sweet food is popular in Bangladesh?,Nachos,Roshogolla,Pizza,Taco,Roshogolla,MCQ,Culture
+BAN146,6,Culture,What is a common greeting during Eid?,Happy Snow,Good Rocket,Eid Mubarak,Red Moon,Eid Mubarak,MCQ,Culture
+BAN147,6,Culture,Which musical instrument is common in folk music?,Engine,Laptop,Drill,Dotara,Dotara,MCQ,Culture
+BAN148,6,Culture,What do people fly during some festivals?,Kites,Cars,Trains,Boats,Kites,MCQ,Culture
+BAN149,6,Culture,Which meal is common with rice?,Bread only,Ice only,Chocolate only,Curry,Curry,MCQ,Culture
+BAN150,6,Culture,What art is made on Pohela Boishakh processions?,Masks,Rockets,Helmets,Tires,Masks,MCQ,Culture
+BAN151,7,Culture,Which language do most people speak in Bangladesh?,Bengali,French,Russian,Japanese,Bengali,MCQ,Culture
+BAN152,7,Culture,Which flower is national flower of Bangladesh?,Rose,Lily of valley,Water Lily,Tulip,Water Lily,MCQ,Culture
+BAN153,7,Culture,Which bird is national bird of Bangladesh?,Owl,Magpie Robin,Eagle,Penguin,Magpie Robin,MCQ,Culture
+BAN154,7,Culture,What do children often wear on festivals?,Raincoats only,New clothes,Armor,School uniform only,New clothes,MCQ,Culture
+BAN155,7,Culture,Which food is popular at breakfast?,Sandwich only,Pitha,Steak only,Sushi only,Pitha,MCQ,Culture
+BAN156,7,Culture,What is pitha?,A car,Traditional cake,A game,A river,Traditional cake,MCQ,Culture
+BAN157,7,Culture,Which season often has many village fairs?,Monsoon only,Summer only,Winter,Rainy Season,Winter,MCQ,Culture
+BAN158,7,Culture,What do people decorate hands with at weddings?,Ink only,Paint mud,Glue,Mehendi,Mehendi,MCQ,Culture
+BAN159,7,Culture,Which festival comes after Ramadan?,Buddha Purnima,Pohela Boishakh,Christmas,Eid-ul-Fitr,Eid-ul-Fitr,MCQ,Culture
+BAN160,7,Culture,Which festival honors sacrifice in Islam?,River Day,Eid-ul-Adha,Tree Day,Book Day,Eid-ul-Adha,MCQ,Culture
+BAN161,8,Culture,What do people often share with guests?,Hospitality,Stones,Dust,Thunder,Hospitality,MCQ,Culture
+BAN162,8,Culture,Which craft uses bamboo and cane?,Basket making,Robot mining,Ship flying,Ice carving,Basket making,MCQ,Culture
+BAN163,8,Culture,Which city is famous for jamdani saree nearby?,Nepal City,Snow Town,Desert Port,Dhaka,Dhaka,MCQ,Culture
+BAN164,8,Culture,What do people enjoy at cultural programs?,Only homework,Only silence,Songs and dance,Only sleep,Songs and dance,MCQ,Culture
+BAN165,8,Culture,Which value is important in Bangladeshi culture?,Noise,Respect for elders,Greed,Rudeness,Respect for elders,MCQ,Culture
+BAN1,8,Culture,What is the Bengali New Year called?,Pohela Boishakh,Victory Day,Eid Fair,Winter Day,Pohela Boishakh,MCQ,Culture
+BAN2,8,Culture,Which month usually has Pohela Boishakh?,July,October,December,April,April,MCQ,Culture
+BAN3,8,Culture,What traditional dress do many women wear?,Helmet,Kimono,Saree,Coat,Saree,MCQ,Culture
+BAN4,8,Culture,What traditional dress do many men wear on festivals?,Panjabi,Spacesuit,Armor,Kimono,Panjabi,MCQ,Culture
+BAN5,8,Culture,Which sweet food is popular in Bangladesh?,Nachos,Roshogolla,Pizza,Taco,Roshogolla,MCQ,Culture
+BAN6,9,Culture,What is a common greeting during Eid?,Happy Snow,Good Rocket,Eid Mubarak,Red Moon,Eid Mubarak,MCQ,Culture
+BAN7,9,Culture,Which musical instrument is common in folk music?,Engine,Laptop,Drill,Dotara,Dotara,MCQ,Culture
+BAN8,9,Culture,What do people fly during some festivals?,Kites,Cars,Trains,Boats,Kites,MCQ,Culture
+BAN9,9,Culture,Which meal is common with rice?,Bread only,Ice only,Chocolate only,Curry,Curry,MCQ,Culture
+BAN10,9,Culture,What art is made on Pohela Boishakh processions?,Masks,Rockets,Helmets,Tires,Masks,MCQ,Culture
+BAN11,9,Culture,Which language do most people speak in Bangladesh?,Bengali,French,Russian,Japanese,Bengali,MCQ,Culture
+BAN12,9,Culture,Which flower is national flower of Bangladesh?,Rose,Lily of valley,Water Lily,Tulip,Water Lily,MCQ,Culture
+BAN13,9,Culture,Which bird is national bird of Bangladesh?,Owl,Magpie Robin,Eagle,Penguin,Magpie Robin,MCQ,Culture
+BAN14,9,Culture,What do children often wear on festivals?,Raincoats only,New clothes,Armor,School uniform only,New clothes,MCQ,Culture
+BAN15,9,Culture,Which food is popular at breakfast?,Sandwich only,Pitha,Steak only,Sushi only,Pitha,MCQ,Culture
+BAN16,10,Culture,What is pitha?,A car,Traditional cake,A game,A river,Traditional cake,MCQ,Culture
+BAN17,10,Culture,Which season often has many village fairs?,Monsoon only,Summer only,Winter,,Winter,MCQ,Culture
+BAN18,10,Culture,What do people decorate hands with at weddings?,Ink only,Paint mud,Glue,Mehendi,Mehendi,MCQ,Culture
+BAN19,10,Culture,Which festival comes after Ramadan?,Buddha Purnima,Pohela Boishakh,Christmas,Eid-ul-Fitr,Eid-ul-Fitr,MCQ,Culture
+BAN20,10,Culture,Which festival honors sacrifice in Islam?,River Day,Eid-ul-Adha,Tree Day,Book Day,Eid-ul-Adha,MCQ,Culture
+BAN21,10,Culture,What do people often share with guests?,Hospitality,Stones,Dust,Thunder,Hospitality,MCQ,Culture
+BAN22,10,Culture,Which craft uses bamboo and cane?,Basket making,Robot mining,Ship flying,Ice carving,Basket making,MCQ,Culture
+BAN23,10,Culture,Which city is famous for jamdani saree nearby?,Nepal City,Snow Town,Desert Port,Dhaka,Dhaka,MCQ,Culture
+BAN24,10,Culture,What do people enjoy at cultural programs?,Only homework,Only silence,Songs and dance,Only sleep,Songs and dance,MCQ,Culture
+BAN25,10,Culture,Which value is important in Bangladeshi culture?,Noise,Respect for elders,Greed,Rudeness,Respect for elders,MCQ,Culture
+BAN291,11,History,In which year did Bangladesh become independent?,1971,1965,1981,1991,1971,MCQ,History
+BAN292,11,History,Who is known as the Father of the Nation of Bangladesh?,Begum Rokeya,Ziaur Rahman,Kazi Nazrul Islam,Sheikh Mujibur Rahman,Sheikh Mujibur Rahman,MCQ,History
+BAN293,11,History,Which day is celebrated on 26 March?,Victory Day,Republic Day,Independence Day,Language Day,Independence Day,MCQ,History
+BAN294,11,History,Which day is celebrated on 16 December?,Pohela Boishakh,Labour Day,Victory Day,Language Day,Victory Day,MCQ,History
+BAN295,11,History,Which movement took place in 1952?,Farmers Movement,River Movement,Student Sports Movement,Language Movement,Language Movement,MCQ,History
+BAN296,11,History,What language did people fight for in 1952?,Hindi,Arabic,English,Bengali,Bengali,MCQ,History
+BAN297,11,History,Where is the Shaheed Minar located?,Khulna,Rajshahi,Dhaka,Sylhet,Dhaka,MCQ,History
+BAN298,11,History,Which month is Victory Day celebrated?,June,December,January,March,December,MCQ,History
+BAN299,11,History,Who gave the historic 7 March speech?,Kazi Nazrul Islam,Dr Yunus,Sheikh Mujibur Rahman,Jasimuddin,Sheikh Mujibur Rahman,MCQ,History
+BAN300,11,History,Which country was Bangladesh part of before 1971?,Pakistan,Bhutan,India,Nepal,Pakistan,MCQ,History
+BAN301,12,History,Which war helped Bangladesh become free?,World War II,Border War,Liberation War,Cold War,Liberation War,MCQ,History
+BAN302,12,History,What is the National Martyrs Memorial built for?,Sports heroes,War martyrs,Farmers,Teachers,War martyrs,MCQ,History
+BAN303,12,History,In which city is the National Martyrs Memorial?,Rangpur,Savar,Sylhet,Cumilla,Savar,MCQ,History
+BAN304,12,History,Which day is International Mother Language Day?,16-Dec,14-Apr,26-Mar,21-Feb,21-Feb,MCQ,History
+BAN305,12,History,Why is 21 February important?,Victory Day,New Year,Language Movement remembrance,Harvest Day,Language Movement remembrance,MCQ,History
+BAN306,12,History,What was East Pakistan later named?,Sri Lanka,India,Bangladesh,Nepal,Bangladesh,MCQ,History
+BAN307,12,History,Which leader inspired people in 1971?,Begum Rokeya,Jagadish Bose,Atish Dipankar,Sheikh Mujibur Rahman,Sheikh Mujibur Rahman,MCQ,History
+BAN308,12,History,Which city was central to the Language Movement?,Khulna,Barishal,Rajshahi,Dhaka,Dhaka,MCQ,History
+BAN309,12,History,What does Victory Day celebrate?,Winning freedom,School opening,Planting trees,New year,Winning freedom,MCQ,History
+BAN310,12,History,How many months are between March and December in 1971 freedom year?,10,8,9,7,9,MCQ,History
+BAN311,13,History,Which monument honors language martyrs?,Lalbagh Fort,Ahsan Manzil,Shaheed Minar,Curzon Hall,Shaheed Minar,MCQ,History
+BAN312,13,History,Who are remembered on Victory Day?,Singers,Shopkeepers,War heroes,Athletes,War heroes,MCQ,History
+BAN313,13,History,Which flag became the flag of Bangladesh in 1971?,Green and red,Red and yellow,Black and white,Blue and white,Green and red,MCQ,History
+BAN314,13,History,What do we remember on Independence Day?,Freedom of Bangladesh,School games,Rainy season,Harvest fair,Freedom of Bangladesh,MCQ,History
+BAN315,13,History,Which city is the capital where many historic events happened?,Cox's Bazar,Bogra,Khagrachari,Dhaka,Dhaka,MCQ,History
+BAN316,13,History,In which month is Independence Day celebrated?,March,February,December,April,March,MCQ,History
+BAN317,13,History,In which month is International Mother Language Day observed?,January,February,May,August,February,MCQ,History
+BAN318,13,History,In which month is Victory Day celebrated?,November,October,December,January,December,MCQ,History
+BAN319,13,History,Which city is home to the Shaheed Minar?,Chattogram,Dhaka,Khulna,Sylhet,Dhaka,MCQ,History
+BAN320,13,History,Which memorial honors the martyrs of the Liberation War?,National Martyrs Memorial,Shaheed Minar,Ahsan Manzil,Lalbagh Fort,National Martyrs Memorial,MCQ,History
+BAN321,14,History,Which monument honors the Language Movement martyrs?,Curzon Hall,National Parliament,Shaheed Minar,Sixty Dome Mosque,Shaheed Minar,MCQ,History
+BAN322,14,History,Which event came first in history?,Victory Day,Independence Day,Language Movement,Pohela Boishakh,Language Movement,MCQ,History
+BAN323,14,History,Which event happened in 1971?,Liberation War,Language Movement,Partition of Bengal,Earthquake,Liberation War,MCQ,History
+BAN324,14,History,Which speech inspired the people before independence?,Victory Speech,7 March Speech,New Year Speech,Language Speech,7 March Speech,MCQ,History
+BAN325,14,History,Which color is closely connected with the blood of the martyrs on the national flag?,Green,Red,Blue,Yellow,Red,MCQ,History
+BAN326,14,History,Bangladesh celebrates Victory Day every year on which date?,21-Feb,26-Mar,16-Dec,14-Apr,16-Dec,MCQ,History
+BAN327,14,History,Bangladesh celebrates Independence Day every year on which date?,21-Feb,16-Dec,26-Mar,1-Jan,26-Mar,MCQ,History
+BAN328,14,History,Which historic movement helped protect the Bengali language?,Liberation War,Language Movement,Green Movement,Farmers' Movement,Language Movement,MCQ,History
+BAN329,14,History,Which country gained independence in 1971?,Nepal,Bangladesh,Bhutan,Sri Lanka,Bangladesh,MCQ,History
+BAN330,14,History,Which leader delivered the famous 7 March speech?,Kazi Nazrul Islam,Sheikh Mujibur Rahman,Begum Rokeya,Dr. Muhammad Yunus,Sheikh Mujibur Rahman,MCQ,History
+BAN331,15,History,Why do people visit the Shaheed Minar?,To remember language martyrs,To watch sports,To buy books,To see animals,To remember language martyrs,MCQ,History
+BAN332,15,History,Why do people visit the National Martyrs Memorial?,To honor Liberation War martyrs,To play games,To go shopping,To study science,To honor Liberation War martyrs,MCQ,History
+BAN333,15,History,Which historical event is remembered on 21 February?,Victory Day,Language Movement,Independence Day,New Year,Language Movement,MCQ,History
+BAN334,15,History,Which historical event is remembered on 26 March?,Language Movement,Victory Day,Independence Day,Republic Day,Independence Day,MCQ,History
+BAN335,15,History,Which historical event is remembered on 16 December?,Independence Day,Victory Day,Language Day,Children's Day,Victory Day,MCQ,History
+BAN336,15,History,Which important value did the Liberation War help achieve?,Freedom,Rainfall,Trade,Tourism,Freedom,MCQ,History
+BAN337,15,History,Which language is honored on International Mother Language Day in Bangladesh?,Bengali,Hindi,Urdu,Arabic,Bengali,MCQ,History
+BAN338,15,History,Which city witnessed many important events during the Language Movement and Liberation War?,Dhaka,Rangpur,Barishal,Cumilla,Dhaka,MCQ,History
+BAN339,15,History,What do Bangladeshis proudly raise on Independence Day?,National Flag,White Flag,Blue Flag,School Flag,National Flag,MCQ,History
+BAN340,15,History,Which national day celebrates the success of the Liberation War?,Victory Day,Labour Day,Children's Day,Constitution Day,Victory Day,MCQ,History
+BAN216,16,General,What is the capital city of Bangladesh?,Khulna,Dhaka,Chittagong,Sylhet,Dhaka,MCQ,General
+BAN217,16,General,Which language is the national language of Bangladesh?,Hindi,English,Bengali,Nepali,Bengali,MCQ,General
+BAN218,16,General,What is the national flower of Bangladesh?,Water Lily,Sunflower,Jasmine,Rose,Water Lily,MCQ,General
+BAN219,16,General,What is the national animal of Bangladesh?,Elephant,Tiger,Lion,Deer,Tiger,MCQ,General
+BAN220,16,General,What is the national bird of Bangladesh?,Parrot,Magpie Robin,Eagle,Crow,Magpie Robin,MCQ,General
+BAN221,16,General,What is the currency of Bangladesh?,Dollar,Ringgit,Taka,Rupee,Taka,MCQ,General
+BAN222,16,General,Which sea lies to the south of Bangladesh?,Red Sea,Black Sea,Arabian Sea,Bay of Bengal,Bay of Bengal,MCQ,General
+BAN223,16,General,Which river is the longest in Bangladesh?,Jamuna,Padma,Karnaphuli,Meghna,Jamuna,MCQ,General
+BAN224,16,General,When did Bangladesh gain independence?,1947,1981,1971,1965,1971,MCQ,General
+BAN225,16,General,Who is called the Father of the Nation of Bangladesh?,Huseyn Shaheed Suhrawardy,A K Fazlul Huq,Ziaur Rahman,Sheikh Mujibur Rahman,Sheikh Mujibur Rahman,MCQ,General
+BAN226,17,General,What is the national fruit of Bangladesh?,Lychee,Mango,Banana,Jackfruit,Jackfruit,MCQ,General
+BAN227,17,General,Which city is known as the port city of Bangladesh?,Rajshahi,Dhaka,Barisal,Chittagong,Chittagong,MCQ,General
+BAN228,17,General,Which division is Sylhet city in?,Sylhet,Khulna,Dhaka,Rangpur,Sylhet,MCQ,General
+BAN229,17,General,How many divisions are there in Bangladesh?,6,7,8,9,8,MCQ,General
+BAN230,17,General,What is the largest mangrove forest in Bangladesh?,Sundarbans,Madhupur Forest,Lawachara,Bhawal Forest,Sundarbans,MCQ,General
+BAN231,17,General,Which famous tiger lives in the Sundarbans?,African Tiger,Siberian Tiger,Royal Bengal Tiger,White Tiger,Royal Bengal Tiger,MCQ,General
+BAN232,17,General,What is the main crop of Bangladesh?,Corn,Rice,Wheat,Tea,Rice,MCQ,General
+BAN233,17,General,Which month is Victory Day celebrated in Bangladesh?,March,January,December,August,December,MCQ,General
+BAN234,17,General,On which date is Independence Day celebrated in Bangladesh?,14-Apr,16-Dec,26-Mar,21-Feb,26-Mar,MCQ,General
+BAN235,17,General,What is celebrated on 21 February in Bangladesh?,Pohela Boishakh,Children's Day,Victory Day,Language Movement Day,Language Movement Day,MCQ,General
+BAN236,18,General,What is the Bengali New Year festival called?,Durga Puja,Pohela Boishakh,Eid,Fruit Fair,Pohela Boishakh,MCQ,General
+BAN237,18,General,Which sport is most popular in Bangladesh?,Cricket,Golf,Rugby,Tennis,Cricket,MCQ,General
+BAN238,18,General,Which district is famous for tea gardens?,Cumilla,Noakhali,Sylhet,Pabna,Sylhet,MCQ,General
+BAN239,18,General,What is the national mosque of Bangladesh?,Baitul Mukarram,Star Mosque,Sixty Dome Mosque,Hussaini Dalan,Baitul Mukarram,MCQ,General
+BAN240,18,General,What is the literacy monument in Dhaka called?,Lalbagh Fort,Ahsan Manzil,National Museum,Shaheed Minar,Shaheed Minar,MCQ,General
+BAN241,18,General,Which continent is Bangladesh in?,Europe,Asia,Africa,Australia,Asia,MCQ,General
+BAN242,18,General,Which country is to the east of Bangladesh?,Nepal,Bhutan,Myanmar,China,Myanmar,MCQ,General
+BAN243,18,General,Which country surrounds most of Bangladesh?,China,India,Nepal,Sri Lanka,India,MCQ,General
+BAN244,18,General,Which city is the capital of Chattogram Division?,Cumilla,Chattogram,Cox's Bazar,Feni,Chattogram,MCQ,General
+BAN245,18,General,Which city is famous for the world's longest natural sea beach?,Kuakata,Cox's Bazar,Saint Martin,Patuakhali,Cox's Bazar,MCQ,General
+BAN246,19,General,Which island is the only coral island in Bangladesh?,Nijhum Dwip,Bhola,Saint Martin's Island,Sandwip,Saint Martin's Island,MCQ,General
+BAN247,19,General,Which division is Khulna city in?,Rajshahi,Barishal,Khulna,Dhaka,Khulna,MCQ,General
+BAN248,19,General,Which division is Rajshahi city in?,Rajshahi,Rangpur,Mymensingh,Sylhet,Rajshahi,MCQ,General
+BAN249,19,General,Which division is Barishal city in?,Dhaka,Chattogram,Barishal,Khulna,Barishal,MCQ,General
+BAN250,19,General,Which division is Rangpur city in?,Rangpur,Rajshahi,Sylhet,Khulna,Rangpur,MCQ,General
+BAN251,19,General,Which division is Mymensingh city in?,Dhaka,Mymensingh,Sylhet,Rajshahi,Mymensingh,MCQ,General
+BAN252,19,General,Which city is known for rickshaws and busy streets?,Dhaka,Rangamati,Bandarban,Sunamganj,Dhaka,MCQ,General
+BAN253,19,General,Which district is famous for its hills?,Bandarban,Madaripur,Shariatpur,Faridpur,Bandarban,MCQ,General
+BAN254,19,General,Which district is famous for the Sundarbans?,Khulna,Bogura,Tangail,Narsingdi,Khulna,MCQ,General
+BAN255,19,General,Which river flows through Dhaka?,Buriganga,Karnaphuli,Teesta,Surma,Buriganga,MCQ,General
+BAN256,20,General,Which fruit is called the national fruit of Bangladesh?,Mango,Banana,Jackfruit,Guava,Jackfruit,MCQ,General
+BAN257,20,General,Which fish is the national fish of Bangladesh?,Rui,Katla,Hilsa,Tilapia,Hilsa,MCQ,General
+BAN258,20,General,Which tree is the national tree of Bangladesh?,Coconut Tree,Mango Tree,Banyan Tree,Neem Tree,Banyan Tree,MCQ,General
+BAN259,20,General,Which game is the national game of Bangladesh?,Football,Cricket,Kabaddi,Volleyball,Kabaddi,MCQ,General
+BAN260,20,General,Which bird is also called the Doel?,Magpie Robin,Crow,Pigeon,Eagle,Magpie Robin,MCQ,General
+BAN261,20,General,Which city is famous for tea gardens and green hills?,Sylhet,Khulna,Bogura,Jessore,Sylhet,MCQ,General
+BAN262,20,General,Which sea beach is the most popular tourist destination in Bangladesh?,Kuakata,Cox's Bazar,Patenga,Parki Beach,Cox's Bazar,MCQ,General
+BAN263,20,General,Which forest is home to the Royal Bengal Tiger?,Lawachara National Park,Bhawal National Park,Sundarbans,Madhupur Forest,Sundarbans,MCQ,General
+BAN264,20,General,Which festival marks the Bengali New Year?,Eid-ul-Fitr,Durga Puja,Pohela Boishakh,Christmas,Pohela Boishakh,MCQ,General
+BAN265,20,General,Which color is most seen on the Bangladesh national flag?,Blue,Green,Yellow,White,Green,MCQ,General
+BAN51,21,Famous Places,Which place is the largest mangrove forest in Bangladesh?,Sundarbans,Bhawal Forest,Lawachara,Madhupur Forest,Sundarbans,MCQ,Famous Places
+BAN52,21,Famous Places,Which sea beach in Bangladesh is famous for being very long?,Cox's Bazar,Kuakata,Patenga,Saint Martin,Cox's Bazar,MCQ,Famous Places
+BAN53,21,Famous Places,Which island is famous for coral beauty in Bangladesh?,Bhola,Saint Martin,Hatia,Sandwip,Saint Martin,MCQ,Famous Places
+BAN54,21,Famous Places,Where is the National Martyrs Memorial located?,Jessore,Savar,Rangpur,Sylhet,Savar,MCQ,Famous Places
+BAN55,21,Famous Places,Which historic fort is located in Dhaka?,Ahsan Fort,Lalbagh Fort,Mainamati Fort,Sonargaon Gate,Lalbagh Fort,MCQ,Famous Places
+BAN56,21,Famous Places,Which pink palace museum is in Dhaka?,Rose Castle,Ahsan Manzil,Curzon Hall,Liberty Palace,Ahsan Manzil,MCQ,Famous Places
+BAN57,21,Famous Places,Which mosque is famous in Bagerhat?,Baitul Mukarram,Shahi Eidgah,Sixty Dome Mosque,Star Mosque,Sixty Dome Mosque,MCQ,Famous Places
+BAN58,21,Famous Places,Which archaeological site is in Bogura?,Paharpur,Mahasthangarh,Lalmai,Mainamati,Mahasthangarh,MCQ,Famous Places
+BAN59,21,Famous Places,Which Buddhist monastery is in Naogaon?,Lalbagh Fort,Mahasthangarh,Paharpur,Sonargaon,Paharpur,MCQ,Famous Places
+BAN60,21,Famous Places,Which ancient capital area is near Dhaka?,Sonargaon,Teknaf,Ramu,Sreemangal,Sonargaon,MCQ,Famous Places
+BAN61,22,Famous Places,Which tea garden area is famous in Sylhet region?,Savar,Bhola,Patuakhali,Sreemangal,Sreemangal,MCQ,Famous Places
+BAN62,22,Famous Places,Which hill district is famous for scenic beauty?,Madaripur,Sirajganj,Shariatpur,Bandarban,Bandarban,MCQ,Famous Places
+BAN63,22,Famous Places,Which hanging bridge is a famous attraction in Rangamati?,Padma Bridge,Jamuna Bridge,Keane Bridge,Rangamati Hanging Bridge,Rangamati Hanging Bridge,MCQ,Famous Places
+BAN64,22,Famous Places,Which city is known for the shrine of Hazrat Shah Jalal?,Sylhet,Khulna,Rajshahi,Cumilla,Sylhet,MCQ,Famous Places
+BAN65,22,Famous Places,Which beach is famous for watching both sunrise and sunset?,Cox's Bazar,Saint Martin,Kuakata,Patenga,Kuakata,MCQ,Famous Places
+BAN66,22,Famous Places,Which zoo is a popular place in Dhaka?,Capital Zoo,Bangladesh National Zoo,Royal Safari Zoo,Dhaka Bird Park,Bangladesh National Zoo,MCQ,Famous Places
+BAN67,22,Famous Places,Which museum in Dhaka shows national history?,Science Tower,Art Palace,Bangladesh National Museum,River Museum,Bangladesh National Museum,MCQ,Famous Places
+BAN68,22,Famous Places,Which parliament building is a famous landmark in Dhaka?,High Court House,City Hall,Jatiya Sangsad Bhaban,Rail Bhaban,Jatiya Sangsad Bhaban,MCQ,Famous Places
+BAN69,22,Famous Places,Which bridge connects many southern districts and is very famous?,Keane Bridge,Kanchpur Bridge,Hardinge Bridge,Padma Bridge,Padma Bridge,MCQ,Famous Places
+BAN70,22,Famous Places,Which bridge over the Jamuna River is very famous?,Padma Bridge,Jamuna Bridge,Rupsha Bridge,Keane Bridge,Jamuna Bridge,MCQ,Famous Places
+BAN71,23,Famous Places,Which forest is famous for spotted deer and tigers?,Sundarbans,Bhawal Forest,Madhupur Forest,Lawachara,Sundarbans,MCQ,Famous Places
+BAN72,23,Famous Places,Which place in Cumilla is famous for ancient ruins?,Sonargaon,Paharpur,Ramu,Mainamati,Mainamati,MCQ,Famous Places
+BAN73,23,Famous Places,Which eco park is famous in Chattogram hills?,Suhrawardy Udyan,Foy's Lake,Osmani Park,Ramna Park,Foy's Lake,MCQ,Famous Places
+BAN74,23,Famous Places,Which park in Dhaka is famous for national events?,Suhrawardy Udyan,Baldha Garden,Ramna Park,Children Park,Suhrawardy Udyan,MCQ,Famous Places
+BAN75,23,Famous Places,Which garden in Dhaka is famous for many plants?,Ramna Park,Baldha Garden,National Zoo,Foy's Lake,Baldha Garden,MCQ,Famous Places
+BAN76,23,Famous Places,Which city is home to Ahsan Manzil?,Rajshahi,Dhaka,Khulna,Sylhet,Dhaka,MCQ,Famous Places
+BAN77,23,Famous Places,In which district is the Sixty Dome Mosque located?,Bagerhat,Khulna,Satkhira,Jessore,Bagerhat,MCQ,Famous Places
+BAN78,23,Famous Places,In which district is Mahasthangarh located?,Bogura,Rajshahi,Rangpur,Dinajpur,Bogura,MCQ,Famous Places
+BAN79,23,Famous Places,In which district is Paharpur located?,Naogaon,Bogura,Joypurhat,Rajshahi,Naogaon,MCQ,Famous Places
+BAN80,23,Famous Places,Which district is famous for the Sundarbans?,Khulna,Tangail,Cumilla,Mymensingh,Khulna,MCQ,Famous Places
+BAN81,24,Famous Places,Which place is famous for colorful coral reefs?,Cox's Bazar,Saint Martin's Island,Kuakata,Bhola,Saint Martin's Island,MCQ,Famous Places
+BAN82,24,Famous Places,Which hill district is known for Nilgiri tourist spot?,Bandarban,Rangamati,Khagrachhari,Sylhet,Bandarban,MCQ,Famous Places
+BAN83,24,Famous Places,Which city is known as the tea capital of Bangladesh?,Sreemangal,Bogura,Khulna,Pabna,Sreemangal,MCQ,Famous Places
+BAN84,24,Famous Places,Which famous park is beside the National Parliament?,Ramna Park,Suhrawardy Udyan,Chandrima Udyan,Baldha Garden,Chandrima Udyan,MCQ,Famous Places
+BAN85,24,Famous Places,Which city is famous for the National Parliament Building?,Dhaka,Chattogram,Rajshahi,Sylhet,Dhaka,MCQ,Famous Places
+BAN86,24,Famous Places,Which district is famous for Kuakata Sea Beach?,Patuakhali,Cox's Bazar,Noakhali,Bhola,Patuakhali,MCQ,Famous Places
+BAN87,24,Famous Places,Which place is known as the City of Mosques?,Bagerhat,Rajshahi,Sylhet,Rangpur,Bagerhat,MCQ,Famous Places
+BAN88,24,Famous Places,Which famous museum preserves the history of Bangladesh?,Bangladesh National Museum,Liberation War Museum,Folk Museum,Railway Museum,Bangladesh National Museum,MCQ,Famous Places
+BAN89,24,Famous Places,Which museum mainly tells the story of the Liberation War?,Bangladesh National Museum,Liberation War Museum,Science Museum,Postal Museum,Liberation War Museum,MCQ,Famous Places
+BAN90,24,Famous Places,Which city is famous for Foy's Lake?,Chattogram,Dhaka,Sylhet,Khulna,Chattogram,MCQ,Famous Places
+BAN91,25,Famous Places,Which district is famous for Madhabkunda Waterfall?,Moulvibazar,Bandarban,Rangamati,Khagrachhari,Moulvibazar,MCQ,Famous Places
+BAN92,25,Famous Places,Which district is famous for Lawachara National Park?,Moulvibazar,Bogura,Jessore,Pabna,Moulvibazar,MCQ,Famous Places
+BAN93,25,Famous Places,Which place is famous for wild elephants in Bangladesh?,Bandarban,Faridpur,Kushtia,Rajbari,Bandarban,MCQ,Famous Places
+BAN94,25,Famous Places,Which city is famous for the National Zoo?,Dhaka,Barishal,Cumilla,Rangpur,Dhaka,MCQ,Famous Places
+BAN95,25,Famous Places,Which place is famous for boating on Kaptai Lake?,Rangamati,Sylhet,Bogura,Rajshahi,Rangamati,MCQ,Famous Places
+BAN96,25,Famous Places,Which famous place is known for its tea gardens?,Sreemangal,Sonargaon,Savar,Bhola,Sreemangal,MCQ,Famous Places
+BAN97,25,Famous Places,Which place is famous for ancient Bengali heritage?,Sonargaon,Bandarban,Kuakata,Teknaf,Sonargaon,MCQ,Famous Places
+BAN98,25,Famous Places,Which place is famous for the National Martyrs Memorial?,Savar,Gazipur,Narayanganj,Tangail,Savar,MCQ,Famous Places
+BAN99,25,Famous Places,Which famous place is home to the Royal Bengal Tiger?,Sundarbans,Lawachara,Bhawal Forest,Ramna Park,Sundarbans,MCQ,Famous Places
+BAN100,25,Famous Places,"Which famous place attracts visitors with hills, lakes, and waterfalls?",Bandarban,Bogura,Pabna,Faridpur,Bandarban,MCQ,Famous Places
+BAN101,26,Geography,Which district is the capital of Bangladesh located in?,Cumilla,Dhaka,Rajshahi,Sylhet,Dhaka,MCQ,Geography
+BAN102,26,Geography,Which district is famous for tea gardens?,Sylhet,Barisal,Rangpur,Khulna,Sylhet,MCQ,Geography
+BAN103,26,Geography,Which district is known for the Sundarbans?,Natore,Bogra,Mymensingh,Khulna,Khulna,MCQ,Geography
+BAN104,26,Geography,Which river flows beside Dhaka city?,Jamuna,Buriganga,Padma,Karnaphuli,Buriganga,MCQ,Geography
+BAN105,26,Geography,Which is the longest river in Bangladesh?,Padma,Jamuna,Teesta,Meghna,Jamuna,MCQ,Geography
+BAN106,26,Geography,Which district is famous for Hilsa fish?,Dinajpur,Bhola,Chuadanga,Rangamati,Bhola,MCQ,Geography
+BAN107,26,Geography,Which district is known for Cox's Bazar sea beach?,Noakhali,Feni,Patuakhali,Cox's Bazar,Cox's Bazar,MCQ,Geography
+BAN108,26,Geography,Which district is famous for mangoes?,Rajshahi,Habiganj,Khagrachari,Kurigram,Rajshahi,MCQ,Geography
+BAN109,26,Geography,Which district is famous for lychees?,Jessore,Sunamganj,Dinajpur,Faridpur,Dinajpur,MCQ,Geography
+BAN110,26,Geography,Which district is known for jackfruit and pineapple?,Gazipur,Nilphamari,Narsingdi,Barguna,Gazipur,MCQ,Geography
+BAN111,27,Geography,Which hill district is in Chattogram division?,Rangamati,Kushtia,Sirajganj,Madaripur,Rangamati,MCQ,Geography
+BAN112,27,Geography,Which district is famous for the Sixty Dome Mosque?,Pabna,Bagerhat,Rajbari,Naogaon,Bagerhat,MCQ,Geography
+BAN113,27,Geography,Which district borders India and has many haors?,Gopalganj,Sunamganj,Jhalokathi,Meherpur,Sunamganj,MCQ,Geography
+BAN114,27,Geography,Which river is formed by the joining of Ganges in Bangladesh?,Dhaleshwari,Teesta,Surma,Padma,Padma,MCQ,Geography
+BAN115,27,Geography,Which district is famous for shrimp farming?,Sherpur,Satkhira,Kurigram,Tangail,Satkhira,MCQ,Geography
+BAN116,27,Geography,Which district is known for pottery and curd?,Feni,Netrokona,Bogra,Lakshmipur,Bogra,MCQ,Geography
+BAN117,27,Geography,Which district is famous for handloom sarees?,Joypurhat,Tangail,Thakurgaon,Pirojpur,Tangail,MCQ,Geography
+BAN118,27,Geography,Which district has the largest sea beach in the world?,Cox's Bazar,Chandpur,Bandarban,Bhola,Cox's Bazar,MCQ,Geography
+BAN119,27,Geography,Which district is famous for hills and tribal culture?,Rajbari,Shariatpur,Bandarban,Kishoreganj,Bandarban,MCQ,Geography
+BAN120,27,Geography,Which river flows through Chattogram city?,Jamuna,Gorai,Karnaphuli,Padma,Karnaphuli,MCQ,Geography
+BAN121,28,Geography,Which district is located in the Barishal division?,Gaibandha,Patuakhali,Panchagarh,Habiganj,Patuakhali,MCQ,Geography
+BAN122,28,Geography,Which district is the northernmost district of Bangladesh?,Narayanganj,Feni,Magura,Panchagarh,Panchagarh,MCQ,Geography
+BAN123,28,Geography,Which district is famous for fishing and islands?,Natore,Noakhali,Rajshahi,Bhola,Bhola,MCQ,Geography
+BAN124,28,Geography,Which district is known as the city of mosques and saints?,Sylhet,Bagerhat,Khagrachari,Kurigram,Bagerhat,MCQ,Geography
+BAN125,28,Geography,Which country borders Bangladesh on the southeast?,Nepal,Myanmar,Bhutan,India,Myanmar,MCQ,Geography
+BAN241,28,Geography,Which district is the capital of Bangladesh located in?,Cumilla,Dhaka,Rajshahi,Sylhet,Dhaka,MCQ,Geography
+BAN242,28,Geography,Which district is famous for tea gardens?,Sylhet,Barisal,Rangpur,Khulna,Sylhet,MCQ,Geography
+BAN243,28,Geography,Which district is known for the Sundarbans?,Natore,Bogra,Mymensingh,Khulna,Khulna,MCQ,Geography
+BAN244,28,Geography,Which river flows beside Dhaka city?,Jamuna,Buriganga,Padma,Karnaphuli,Buriganga,MCQ,Geography
+BAN245,28,Geography,Which is the longest river in Bangladesh?,Padma,Jamuna,Teesta,Meghna,Jamuna,MCQ,Geography
+BAN246,29,Geography,Which district is famous for Hilsa fish?,Dinajpur,Bhola,Chuadanga,Rangamati,Bhola,MCQ,Geography
+BAN247,29,Geography,Which district is known for Cox's Bazar sea beach?,Noakhali,Feni,Patuakhali,Cox's Bazar,Cox's Bazar,MCQ,Geography
+BAN248,29,Geography,Which district is famous for mangoes?,Rajshahi,Habiganj,Khagrachari,Kurigram,Rajshahi,MCQ,Geography
+BAN249,29,Geography,Which district is famous for lychees?,Jessore,Sunamganj,Dinajpur,Faridpur,Dinajpur,MCQ,Geography
+BAN250,29,Geography,Which district is known for jackfruit and pineapple?,Gazipur,Nilphamari,Narsingdi,Barguna,Gazipur,MCQ,Geography
+BAN251,29,Geography,Which hill district is in Chattogram division?,Rangamati,Kushtia,Sirajganj,Madaripur,Rangamati,MCQ,Geography
+BAN252,29,Geography,Which district is famous for the Sixty Dome Mosque?,Pabna,Bagerhat,Rajbari,Naogaon,Bagerhat,MCQ,Geography
+BAN253,29,Geography,Which district borders India and has many haors?,Gopalganj,Sunamganj,Jhalokathi,Meherpur,Sunamganj,MCQ,Geography
+BAN254,29,Geography,Which river is formed by the joining of Ganges in Bangladesh?,Dhaleshwari,Teesta,Surma,Padma,Padma,MCQ,Geography
+BAN255,29,Geography,Which district is famous for shrimp farming?,Sherpur,Satkhira,Kurigram,Tangail,Satkhira,MCQ,Geography
+BAN256,30,Geography,Which district is known for pottery and curd?,Feni,Netrokona,Bogra,Lakshmipur,Bogra,MCQ,Geography
+BAN257,30,Geography,Which district is famous for handloom sarees?,Joypurhat,Tangail,Thakurgaon,Pirojpur,Tangail,MCQ,Geography
+BAN258,30,Geography,Which district has the largest sea beach in the world?,Cox's Bazar,Chandpur,Bandarban,Bhola,Cox's Bazar,MCQ,Geography
+BAN259,30,Geography,Which district is famous for hills and tribal culture?,Rajbari,Shariatpur,Bandarban,Kishoreganj,Bandarban,MCQ,Geography
+BAN260,30,Geography,Which river flows through Chattogram city?,Jamuna,Gorai,Karnaphuli,Padma,Karnaphuli,MCQ,Geography
+BAN261,30,Geography,Which district is located in the Barishal division?,Gaibandha,Patuakhali,Panchagarh,Habiganj,Patuakhali,MCQ,Geography
+BAN262,30,Geography,Which district is the northernmost district of Bangladesh?,Narayanganj,Feni,Magura,Panchagarh,Panchagarh,MCQ,Geography
+BAN263,30,Geography,Which district is famous for fishing and islands?,Natore,Noakhali,Rajshahi,Bhola,Bhola,MCQ,Geography
+BAN264,30,Geography,Which district is known as the city of mosques and saints?,Sylhet,Bagerhat,Khagrachari,Kurigram,Bagerhat,MCQ,Geography
+BAN265,30,Geography,Which country borders Bangladesh on the southeast?,Nepal,Myanmar,Bhutan,India,Myanmar,MCQ,Geography
+BAN126,31,Heritage,Which heritage forest is the largest mangrove forest in the world?,Congo Forest,Amazon,Sundarbans,Black Forest,Sundarbans,MCQ,Heritage
+BAN127,31,Heritage,Which heritage site in Bangladesh is famous for the Sixty Dome Mosque?,Bagerhat,Sylhet,Rajshahi,Cumilla,Bagerhat,MCQ,Heritage
+BAN128,31,Heritage,Which ancient Buddhist monastery is a UNESCO heritage site?,Mainamati,Mahasthangarh,Paharpur,Lalbagh Fort,Paharpur,MCQ,Heritage
+BAN129,31,Heritage,Which language movement is a major heritage of Bangladesh?,1952 Language Movement,1980 Movement,1965 War,1975 Event,1952 Language Movement,MCQ,Heritage
+BAN131,31,Heritage,Which traditional festival marks Bengali New Year?,Eid,Buddha Purnima,Pohela Boishakh,Christmas,Pohela Boishakh,MCQ,Heritage
+BAN132,31,Heritage,Which traditional food is part of Bangladeshi culture?,Pasta,Pizza,Pitha,Burger,Pitha,MCQ,Heritage
+BAN133,31,Heritage,Which traditional cloth is famous in Bangladesh?,Jamdani,Kurta,Denim,Silk Saree,Jamdani,MCQ,Heritage
+BAN134,31,Heritage,Which historic city is known for mosques and heritage?,Bagerhat,Sylhet,Rangpur,Khulna,Bagerhat,MCQ,Heritage
+BAN135,31,Heritage,Which ancient site is known as the oldest city in Bangladesh?,Sonargaon,Mainamati,Paharpur,Mahasthangarh,Mahasthangarh,MCQ,Heritage
+BAN136,31,Heritage,Which place was an old capital of Bengal?,Sylhet,Cumilla,Rajshahi,Sonargaon,Sonargaon,MCQ,Heritage
+BAN138,32,Heritage,Which musical tradition is part of heritage?,Rock only,Rap only,Opera only,Folk songs,Folk songs,MCQ,Heritage
+BAN139,32,Heritage,Which poet is known for Bengali songs and culture?,Rabindranath Tagore,Newton,Einstein,Shakespeare,Rabindranath Tagore,MCQ,Heritage
+BAN140,32,Heritage,Which rebel poet is part of cultural heritage?,Mark Twain,Plato,Socrates,Kazi Nazrul Islam,Kazi Nazrul Islam,MCQ,Heritage
+BAN266,32,Heritage,Which heritage forest is the largest mangrove forest in the world?,Congo Forest,Amazon,Sundarbans,Black Forest,Sundarbans,MCQ,Heritage
+BAN267,32,Heritage,Which heritage site in Bangladesh is famous for the Sixty Dome Mosque?,Bagerhat,Sylhet,Rajshahi,Cumilla,Bagerhat,MCQ,Heritage
+BAN268,32,Heritage,Which ancient Buddhist monastery is a UNESCO heritage site?,Mainamati,Mahasthangarh,Paharpur,Lalbagh Fort,Paharpur,MCQ,Heritage
+BAN269,32,Heritage,Which language movement is a major heritage of Bangladesh?,1952 Language Movement,1980 Movement,1965 War,1975 Event,1952 Language Movement,MCQ,Heritage
+BAN270,32,Heritage,Which monument represents the Language Movement?,Curzon Hall,Lalbagh Fort,Shaheed Minar,Ahsan Manzil,Shaheed Minar,MCQ,Heritage
+BAN271,32,Heritage,Which traditional festival marks Bengali New Year?,Eid,Buddha Purnima,Pohela Boishakh,Christmas,Pohela Boishakh,MCQ,Heritage
+BAN272,32,Heritage,Which traditional food is part of Bangladeshi culture?,Pasta,Pizza,Pitha,Burger,Pitha,MCQ,Heritage
+BAN273,33,Heritage,Which traditional cloth is famous in Bangladesh?,Jamdani,Kurta,Denim,Silk Saree,Jamdani,MCQ,Heritage
+BAN274,33,Heritage,Which historic city is known for mosques and heritage?,Bagerhat,Sylhet,Rangpur,Khulna,Bagerhat,MCQ,Heritage
+BAN275,33,Heritage,Which ancient site is known as the oldest city in Bangladesh?,Sonargaon,Mainamati,Paharpur,Mahasthangarh,Mahasthangarh,MCQ,Heritage
+BAN276,33,Heritage,Which place was an old capital of Bengal?,Sylhet,Cumilla,Rajshahi,Sonargaon,Sonargaon,MCQ,Heritage
+BAN277,33,Heritage,Which river-based life is part of Bangladesh heritage?,Train culture,Boat culture,Air culture,Car culture,Boat culture,MCQ,Heritage
+BAN278,33,Heritage,Which musical tradition is part of heritage?,Rock only,Rap only,Opera only,Folk songs,Folk songs,MCQ,Heritage
+BAN279,33,Heritage,Which poet is known for Bengali songs and culture?,Rabindranath Tagore,Newton,Einstein,Shakespeare,Rabindranath Tagore,MCQ,Heritage
+BAN280,33,Heritage,Which rebel poet is part of cultural heritage?,Mark Twain,Plato,Socrates,Kazi Nazrul Islam,Kazi Nazrul Islam,MCQ,Heritage
+BAN281,33,Heritage,Which village craft is part of heritage?,Mining,Robotics,Software,Pottery,Pottery,MCQ,Heritage
+BAN283,33,Heritage,Which natural heritage is home to Royal Bengal Tiger?,Himalayas,Sundarbans,Sahara,Amazon,Sundarbans,MCQ,Heritage
+BAN284,34,Heritage,Which folk art is painted during festivals?,Graffiti,Poster only,Alpana,3D Print,Alpana,MCQ,Heritage
+BAN285,34,Heritage,Which heritage festival includes colorful masks?,Eid,Pohela Boishakh,Christmas,Durga Puja,Pohela Boishakh,MCQ,Heritage
+BAN286,34,Heritage,Which historic building is in Dhaka from Mughal era?,Curzon Hall,Ahsan Manzil,Lalbagh Fort,High Court,Lalbagh Fort,MCQ,Heritage
+BAN287,34,Heritage,Which palace is a symbol of Nawab history?,Sonargaon,Mainamati,Lalbagh Fort,Ahsan Manzil,Ahsan Manzil,MCQ,Heritage
+BAN288,34,Heritage,Which heritage site shows Buddhist culture in Cumilla?,Sylhet,Mainamati,Bagerhat,Paharpur,Mainamati,MCQ,Heritage
+BAN289,34,Heritage,Which cultural value is part of heritage?,Ignoring,Respect for elders,Noise making,Rushing,Respect for elders,MCQ,Heritage
+BAN290,34,Heritage,Which celebration reflects rural fairs and culture?,Air Show,Village Mela,Tech Expo,Car Race,Village Mela,MCQ,Heritage
+BAN291,34,Heritage,Which traditional fabric of Bangladesh is woven by hand?,Jamdani,Denim,Nylon,Polyester,Jamdani,MCQ,Heritage
+BAN292,34,Heritage,Which traditional food is often eaten during winter?,Pizza,Pitha,Burger,Sandwich,Pitha,MCQ,Heritage
+BAN293,34,Heritage,Which heritage city is famous for ancient buildings and mosques?,Bagerhat,Sylhet,Rangpur,Barishal,Bagerhat,MCQ,Heritage
+BAN294,35,Heritage,Which place is famous for preserving old Bengali traditions?,Sonargaon,Bandarban,Teknaf,Bhola,Sonargaon,MCQ,Heritage
+BAN295,35,Heritage,Which festival celebrates the first day of the Bengali calendar?,Victory Day,Pohela Boishakh,Eid-ul-Adha,Christmas,Pohela Boishakh,MCQ,Heritage
+BAN296,35,Heritage,Which colorful art is commonly drawn on the ground during festivals?,Alpana,Graffiti,Mosaic,Sculpture,Alpana,MCQ,Heritage
+BAN297,35,Heritage,Which musical instrument is commonly used in Bangladeshi folk music?,Guitar,Dotara,Piano,Violin,Dotara,MCQ,Heritage
+BAN298,35,Heritage,Which traditional craft is made from bamboo and cane?,Basket weaving,Glass making,Car making,Brick making,Basket weaving,MCQ,Heritage
+BAN299,35,Heritage,Which traditional occupation is part of Bangladesh's river heritage?,Fishing,Piloting,Mining,Driving trains,Fishing,MCQ,Heritage
+BAN300,35,Heritage,Which traditional vehicle is decorated with colorful art?,Rickshaw,Bus,Airplane,Train,Rickshaw,MCQ,Heritage
+BAN301,35,Heritage,Which heritage place is famous for Buddhist ruins in Naogaon?,Paharpur,Mahasthangarh,Mainamati,Sonargaon,Paharpur,MCQ,Heritage
+BAN302,35,Heritage,Which ancient archaeological site is located in Bogura?,Mahasthangarh,Lalbagh Fort,Ahsan Manzil,Bagerhat,Mahasthangarh,MCQ,Heritage
+BAN303,35,Heritage,Which heritage monument reminds us of the Language Movement?,Shaheed Minar,National Parliament,Curzon Hall,Ahsan Manzil,Shaheed Minar,MCQ,Heritage
+BAN304,36,Heritage,Which heritage forest is home to many deer and tigers?,Sundarbans,Bhawal Forest,Lawachara,Madhupur Forest,Sundarbans,MCQ,Heritage
+BAN307,36,Heritage,Which traditional fair is commonly held in villages?,Village Mela,Motor Show,Air Show,Book Expo,Village Mela,MCQ,Heritage
+BAN308,36,Heritage,Which traditional game is part of Bangladeshi culture?,Kabaddi,Baseball,Ice Hockey,Rugby,Kabaddi,MCQ,Heritage
+BAN309,36,Heritage,Which heritage cloth is famous around the world for its fine weaving?,Jamdani,Denim,Cotton T-shirt,Wool,Jamdani,MCQ,Heritage
+BAN310,36,Heritage,Which heritage place is known as an old trading center?,Sonargaon,Bandarban,Rangamati,Bhola,Sonargaon,MCQ,Heritage
+BAN311,36,Heritage,Which heritage craft is made using clay?,Pottery,Carpentry,Welding,Printing,Pottery,MCQ,Heritage
+BAN312,36,Heritage,Which cultural activity includes singing traditional folk songs?,Folk Music,Rock Concert,Opera,Rap Battle,Folk Music,MCQ,Heritage
+BAN313,36,Heritage,Which heritage item is worn by many women during festivals?,Jamdani Saree,Jacket,Jeans,Coat,Jamdani Saree,MCQ,Heritage
+BAN314,36,Heritage,Which UNESCO World Heritage Site is famous for many historic mosques?,Historic Mosque City of Bagerhat,Cox's Bazar,Lawachara National Park,Saint Martin's Island,Historic Mosque City of Bagerhat,MCQ,Heritage
+BAN315,36,Heritage,Which heritage value teaches people to care for their traditions?,Respecting culture,Ignoring history,Wasting resources,Forgetting customs,Respecting culture,MCQ,Heritage

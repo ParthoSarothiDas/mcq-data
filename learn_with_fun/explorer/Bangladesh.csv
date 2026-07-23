@@ -1,6 +1,0 @@
-﻿id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,Topic
-BD1,1,National Symbols,What is your name?,Green with red circle,Blue with white star,White with green stripe,Red with yellow moon,Green with red circle,MCQ,National Symbols
-BD2,1,National Symbols,What color is the background of the Bangladesh flag?,White,Blue,Green,Yellow,Green,MCQ,National Symbols
-BD3,1,National Symbols,What color is the circle on the Bangladesh flag?,Red,Black,White,Blue,Red,MCQ,National Symbols
-BD4,1,National Symbols,What does the red circle on the flag represent?,Book only,Sun and sacrifice,Mountain only,River only,Sun and sacrifice,MCQ,National Symbols
-BD5,1,National Symbols,What is the national anthem of Bangladesh?,God Save the King,Jana Gana Mana,Amar Sonar Bangla,Auld Lang Syne,Amar Sonar Bangla,MCQ,National Symbols

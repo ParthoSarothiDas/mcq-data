@@ -1,4 +1,0 @@
-﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
-SCI1,1,Astronomy,What shape is Earth?,Round,Square,Flat,Triangle,Round,MCQ
-SCI2,1,Astronomy,What is Earth's natural satellite?,Venus,Sun,Moon,Mars,Moon,MCQ
-SCI3,1,Astronomy,How long does Earth take to rotate once?,24 hrs,48 hrs,12 hrs,365 days,24 hrs,MCQ

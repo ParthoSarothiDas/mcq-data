@@ -1,0 +1,1001 @@
+﻿Id,Level,TopicHeadings,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
+FMAT1,1,Numbers,Choose the larger number,13,17,,,17,MCQ
+FMAT2,1,Numbers,Choose the larger number,27,32,,,32,MCQ
+FMAT3,1,Numbers,Choose the larger number,23,22,,,23,MCQ
+FMAT4,1,Numbers,Choose the larger number,45,39,,,45,MCQ
+FMAT5,1,Numbers,Choose the larger number,68,74,,,74,MCQ
+FMAT6,1,Numbers,Choose the larger number,91,89,,,91,MCQ
+FMAT7,1,Numbers,Choose the larger number,56,65,,,65,MCQ
+FMAT8,1,Numbers,Choose the larger number,14,9,,,14,MCQ
+FMAT9,1,Numbers,Choose the larger number,83,80,,,83,MCQ
+FMAT10,1,Numbers,Choose the larger number,100,91,,,100,MCQ
+FMAT11,2,Numbers,Select the greatest number.,45,67,34,50,67,MCQ
+FMAT12,2,Numbers,Select the greatest number.,35,18,42,27,42,MCQ
+FMAT13,2,Numbers,Select the greatest number.,61,44,56,39,61,MCQ
+FMAT14,2,Numbers,Select the greatest number.,85,91,68,73,91,MCQ
+FMAT15,2,Numbers,Select the greatest number.,19,25,9,12,25,MCQ
+FMAT16,2,Numbers,Select the greatest number.,81,76,94,88,94,MCQ
+FMAT17,2,Numbers,Select the greatest number.,41,52,30,47,52,MCQ
+FMAT18,2,Numbers,Select the greatest number.,64,71,59,66,71,MCQ
+FMAT19,2,Numbers,Select the greatest number.,29,17,22,14,29,MCQ
+FMAT20,2,Numbers,Select the greatest number.,79,95,98,83,98,MCQ
+FMAT21,3,Numbers,Which number is smaller.,65,56,,,56,MCQ
+FMAT22,3,Numbers,Which number is smaller.,18,24,,,18,MCQ
+FMAT23,3,Numbers,Which number is smaller.,72,69,,,69,MCQ
+FMAT24,3,Numbers,Which number is smaller.,91,84,,,84,MCQ
+FMAT25,3,Numbers,Which number is smaller.,37,45,,,37,MCQ
+FMAT26,3,Numbers,Which number is smaller.,58,63,,,58,MCQ
+FMAT27,3,Numbers,Which number is smaller.,29,16,,,16,MCQ
+FMAT28,3,Numbers,Which number is smaller.,80,98,,,80,MCQ
+FMAT29,3,Numbers,Which number is smaller.,54,47,,,47,MCQ
+FMAT30,3,Numbers,Which number is smaller.,33,39,,,33,MCQ
+FMAT31,4,Numbers,Select the smallest number.,45,67,34,50,34,MCQ
+FMAT32,4,Numbers,Select the smallest number.,82,19,56,73,19,MCQ
+FMAT33,4,Numbers,Select the smallest number.,38,91,44,27,27,MCQ
+FMAT34,4,Numbers,Select the smallest number.,60,75,48,53,48,MCQ
+FMAT35,4,Numbers,Select the smallest number.,99,84,76,88,76,MCQ
+FMAT36,4,Numbers,Select the smallest number.,31,57,22,46,22,MCQ
+FMAT37,4,Numbers,Select the smallest number.,69,41,58,63,41,MCQ
+FMAT38,4,Numbers,Select the smallest number.,94,80,87,72,72,MCQ
+FMAT39,4,Numbers,Select the smallest number.,55,29,36,47,29,MCQ
+FMAT40,4,Numbers,Select the smallest number.,18,66,39,52,18,MCQ
+FMAT41,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),23  < 34  < 43,23  < 43  < 34,34  < 23  < 43,43  < 34  < 23,23  < 34  < 43,MCQ
+FMAT42,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),79 < 62 < 45,45 < 79 < 62,45 < 62 < 79,62 < 45 < 79,45 < 62 < 79,MCQ
+FMAT43,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),74 < 58 < 91,58 < 74 < 91,91 < 74 < 58,58 < 91 < 74,58 < 74 < 91,MCQ
+FMAT44,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),48 < 36 < 65,65 < 48 < 36,36 < 65 < 48,36 < 48 < 65,36 < 48 < 65,MCQ
+FMAT45,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),84 < 97 < 89,84 < 89 < 97,89 < 84 < 97,97 < 89 < 84,84 < 89 < 97,MCQ
+FMAT46,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),53 < 27 < 11,27 < 11 < 53,11 < 53 < 27,11 < 27 < 53,11 < 27 < 53,MCQ
+FMAT47,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),19 < 68 < 41,68 < 41 < 19,19 < 41 < 68,41 < 19 < 68,19 < 41 < 68,MCQ
+FMAT48,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),32 < 76 < 57,32 < 57 < 76,76 < 57 < 32,57 < 32 < 76,32 < 57 < 76,MCQ
+FMAT49,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),14 < 38 < 59,59 < 38 < 14,38 < 14 < 59,14 < 59 < 38,14 < 38 < 59,MCQ
+FMAT50,5,Numbers,Which is the correct ascending order? (Smallest to Biggest),83 < 49 < 26,49 < 26 < 83,26 < 83 < 49,26 < 49 < 83,26 < 49 < 83,MCQ
+FMAT51,6,Numbers,Choose the middle number.,65,56,59,,59,MCQ
+FMAT52,6,Numbers,Choose the middle number.,18,27,22,,22,MCQ
+FMAT53,6,Numbers,Choose the middle number.,45,38,51,,45,MCQ
+FMAT54,6,Numbers,Choose the middle number.,74,69,82,,74,MCQ
+FMAT55,6,Numbers,Choose the middle number.,33,41,29,,33,MCQ
+FMAT56,6,Numbers,Choose the middle number.,90,97,93,,93,MCQ
+FMAT57,6,Numbers,Choose the middle number.,58,63,49,,58,MCQ
+FMAT58,6,Numbers,Choose the middle number.,16,11,24,,16,MCQ
+FMAT59,6,Numbers,Choose the middle number.,80,76,88,,80,MCQ
+FMAT60,6,Numbers,Choose the middle number.,54,61,57,,57,MCQ
+FMAT61,7,Numbers,Which is the correct descending order? (Biggest to Smallest),23 > 34 > 43,43 > 34 > 23,34 > 43 > 23,43 > 23 > 34,43 > 34 > 23,MCQ
+FMAT62,7,Numbers,Which is the correct descending order? (Biggest to Smallest),45 > 62 > 79,79 > 45 > 62,79 > 62 > 45,62 > 79 > 45,79 > 62 > 45,MCQ
+FMAT63,7,Numbers,Which is the correct descending order? (Biggest to Smallest),18 > 27 > 36,27 > 36 > 18,36 > 27 > 18,36 > 18 > 27,36 > 27 > 18,MCQ
+FMAT64,7,Numbers,Which is the correct descending order? (Biggest to Smallest),91 > 84 > 73,84 > 91 > 73,73 > 84 > 91,91 > 73 > 84,91 > 84 > 73,MCQ
+FMAT65,7,Numbers,Which is the correct descending order? (Biggest to Smallest),52 > 64 > 39,64 > 52 > 39,39 > 52 > 64,64 > 39 > 52,64 > 52 > 39,MCQ
+FMAT66,7,Numbers,Which is the correct descending order? (Biggest to Smallest),88 > 95 > 79,95 > 79 > 88,95 > 88 > 79,88 > 79 > 95,95 > 88 > 79,MCQ
+FMAT67,7,Numbers,Which is the correct descending order? (Biggest to Smallest),47 > 31 > 56,31 > 47 > 56,56 > 47 > 31,56 > 31 > 47,56 > 47 > 31,MCQ
+FMAT68,7,Numbers,Which is the correct descending order? (Biggest to Smallest),68 > 75 > 59,75 > 68 > 59,59 > 75 > 68,75 > 59 > 68,75 > 68 > 59,MCQ
+FMAT69,7,Numbers,Which is the correct descending order? (Biggest to Smallest),24 > 19 > 41,41 > 19 > 24,41 > 24 > 19,24 > 41 > 19,41 > 24 > 19,MCQ
+FMAT70,7,Numbers,Which is the correct descending order? (Biggest to Smallest),82 > 70 > 65,70 > 82 > 65,65 > 70 > 82,82 > 65 > 70,82 > 70 > 65,MCQ
+FMAT71,8,Word Problems (Numbers),"Arif owns 14 toy cars, 9 toy trains, and 11 toy planes. Which toy does he have the least of?",Cars,Trains,Planes,,Trains,MCQ
+FMAT72,8,Word Problems (Numbers),"Maya has 18 red balloons, 25 blue balloons, and 21 yellow balloons. Which color does she have the least of?",Red,Blue,Yellow,,Red,MCQ
+FMAT73,8,Word Problems (Numbers),"Rafi collected 16 stamps, 12 coins, and 19 postcards. Which collection is the smallest?",Stamps,Coins,Postcards,,Coins,MCQ
+FMAT74,8,Word Problems (Numbers),"Nila picked 27 mangoes, 31 oranges, and 24 guavas. Which fruit did she pick the least?",Oranges,Guavas,Mangoes,,Guavas,MCQ
+FMAT75,8,Word Problems (Numbers),"A shop sold 45 pencils, 38 erasers, and 42 rulers. Which item was sold the least?",Rulers,Pencils,Erasers,,Erasers,MCQ
+FMAT76,8,Word Problems (Numbers),"Tom has 13 marbles, 20 stickers, and 17 crayons. Which does Tom have the least?",Crayons,Marbles,Stickers,,Marbles,MCQ
+FMAT77,8,Word Problems (Numbers),"Sara read 22 pages on Monday, 18 pages on Tuesday, and 25 pages on Wednesday. On which day did she read the fewest pages?",Wednesday,Tuesday,Monday,,Tuesday,MCQ
+FMAT78,8,Word Problems (Numbers),"A farmer has 36 chickens, 29 ducks, and 41 goats. Which animal does the farmer have the least of?",Goats,Chickens,Ducks,,Ducks,MCQ
+FMAT79,8,Word Problems (Numbers),"Lina baked 15 cookies, 12 cupcakes, and 19 muffins. Which did she bake the least?",Cookies,Muffins,Cupcakes,,Cupcakes,MCQ
+FMAT80,8,Word Problems (Numbers),"Four baskets contain 26 apples, 33 apples, and 21 apples. Which basket has the fewest apples?",33 apples,21 apples,26 apples,,21 apples,MCQ
+FMAT81,9,Word Problems (Numbers),"The zoo has 7 lions, 12 elephants, and 10 giraffes. Which animal group is the biggest?",Lion,Elephant,Giraffe,,Elephant,MCQ
+FMAT82,9,Word Problems (Numbers),"A fruit shop has 18 apples, 24 oranges, and 21 bananas. Which fruit has the greatest quantity?",Bananas,Apples,Oranges,,Oranges,MCQ
+FMAT83,9,Word Problems (Numbers),"Mina collected 15 shells, 19 pebbles, and 13 leaves. Which collection is the biggest?",Leaves,Pebbles,Shells,,Pebbles,MCQ
+FMAT84,9,Word Problems (Numbers),"A classroom has 28 storybooks, 35 math books, and 31 science books. Which type of book is the most?",Science books,Math books,Storybooks,,Math books,MCQ
+FMAT85,9,Word Problems (Numbers),"Rahim has 16 toy cars, 22 toy robots, and 20 toy trains. Which toy does he have the most of?",Toy cars,Toy trains,All are equal,,Toy robots,MCQ
+FMAT86,9,Word Problems (Numbers),"A farmer has 32 chickens, 27 ducks, and 39 goats. Which animal group is the biggest?",Goats,Ducks,Chickens,,Goats,MCQ
+FMAT87,9,Word Problems (Numbers),"Sara picked 25 roses, 18 tulips, and 30 sunflowers. Which flower did she pick the most?",Tulips,Sunflowers,Roses,,Sunflowers,MCQ
+FMAT88,9,Word Problems (Numbers),"A library has 42 comics, 37 novels, and 45 magazines. Which section has the most books?",Novels,Comics,Magazines,,Magazines,MCQ
+FMAT89,9,Word Problems (Numbers),"A bakery sold 29 cupcakes, 34 cookies, and 31 muffins. Which item was sold the most?",Cookies,Muffins,Cupcakes,,Cookies,MCQ
+FMAT90,9,Word Problems (Numbers),"Four baskets contain 26 apples, 33 oranges, and 29 pears. Which fruit has the greatest quantity?",Pears,Apples,Oranges,,Oranges,MCQ
+FMAT91,10,Word Problems (Numbers),"Rina has 12 apples, 18 bananas, and 15 oranges. Which fruit sits between the others in number?",Apple,Banana,Oranges,,Oranges,MCQ
+FMAT92,10,Word Problems (Numbers),"Arif has 9 toy cars, 16 toy trains, and 12 toy planes. Which toy sits between the others in number?",Toy trains,Toy planes,Toy cars,,Toy planes,MCQ
+FMAT93,10,Word Problems (Numbers),"Maya picked 21 flowers, 14 leaves, and 18 stones. Which item sits between the others in number?",Flowers,Leaves,Stones,,Stones,MCQ
+FMAT94,10,Word Problems (Numbers),"A zoo has 8 lions, 15 tigers, and 11 bears. Which animal group sits between the others in number?",Bears,Lions,Tigers,,Bears,MCQ
+FMAT95,10,Word Problems (Numbers),"Sara has 30 crayons, 24 pencils, and 27 erasers. Which school item sits between the others in number?",Pencils,Erasers,Crayons,,Erasers,MCQ
+FMAT96,10,Word Problems (Numbers),"A farmer has 35 chickens, 28 ducks, and 31 goats. Which animal group sits between the others in number?",Goats,Ducks,Chickens,,Goats,MCQ
+FMAT97,10,Word Problems (Numbers),"A library has 42 storybooks, 37 comics, and 40 science books. Which type of book sits between the others in number?",Science books,Storybooks,Comics,,Science books,MCQ
+FMAT98,10,Word Problems (Numbers),"Lina baked 19 cookies, 25 cupcakes, and 22 muffins. Which snack sits between the others in number?",Cupcakes,Cookies,Muffins,,Muffins,MCQ
+FMAT99,10,Word Problems (Numbers),"A shop sold 48 notebooks, 39 rulers, and 44 pens. Which item sits between the others in number?",Rulers,Pens,Notebooks,,Pens,MCQ
+FMAT100,10,Word Problems (Numbers),"Tom collected 17 stamps, 11 coins, and 14 postcards. Which collection sits between the others in number?",Postcards,Stamps,Coins,,Postcards,MCQ
+FMAT101,11,Mental Math (Numbers),What number comes after 48?,49,47,50,46,49,MCQ
+FMAT102,11,Mental Math (Numbers),What number comes before 70?,69,71,68,72,69,MCQ
+FMAT103,11,Mental Math (Numbers),Which number is closest to 50?,49,56,43,61,49,MCQ
+FMAT104,11,Mental Math (Numbers),How many tens are in 80?,7,8,9,6,8,MCQ
+FMAT105,11,Mental Math (Numbers),Which number is an even number?,35,42,57,69,42,MCQ
+FMAT106,11,Mental Math (Numbers),Which number is an odd number?,24,38,51,66,51,MCQ
+FMAT107,11,Mental Math (Numbers),What is 10 more than 35?,40,45,55,50,45,MCQ
+FMAT108,11,Mental Math (Numbers),What is 10 less than 64?,44,74,54,64,54,MCQ
+FMAT109,11,Mental Math (Numbers),Which number is between 39 and 41?,38,40,42,43,40,MCQ
+FMAT110,11,Mental Math (Numbers),Which number comes just before 100?,98,100,97,99,99,MCQ
+FMAT111,12,Mental Math (Numbers),What number comes after 63?,64,62,65,61,64,MCQ
+FMAT112,12,Mental Math (Numbers),What number comes before 25?,26,23,24,22,24,MCQ
+FMAT113,12,Mental Math (Numbers),Which number is closest to 80?,78,81,85,74,81,MCQ
+FMAT114,12,Mental Math (Numbers),How many tens are in 50?,6,4,5,7,5,MCQ
+FMAT115,12,Mental Math (Numbers),Which number is an even number?,73,58,41,65,58,MCQ
+FMAT116,12,Mental Math (Numbers),Which number is an odd number?,28,44,39,62,39,MCQ
+FMAT117,12,Mental Math (Numbers),What is 10 more than 47?,67,57,56,37,57,MCQ
+FMAT118,12,Mental Math (Numbers),What is 10 less than 91?,71,81,90,101,81,MCQ
+FMAT119,12,Mental Math (Numbers),Which number is between 54 and 56?,53,57,55,58,55,MCQ
+FMAT120,12,Mental Math (Numbers),What number comes just after 89?,90,88,91,87,90,MCQ
+FMAT121,13,Mental Math (Numbers),What number comes after 26?,28,27,25,29,27,MCQ
+FMAT122,13,Mental Math (Numbers),What number comes before 51?,49,50,52,48,50,MCQ
+FMAT123,13,Mental Math (Numbers),Which number is closest to 30?,27,34,31,25,31,MCQ
+FMAT124,13,Mental Math (Numbers),How many tens are in 90?,8,10,9,7,9,MCQ
+FMAT125,13,Mental Math (Numbers),Which number is an even number?,55,68,71,83,68,MCQ
+FMAT126,13,Mental Math (Numbers),Which number is an odd number?,40,72,95,18,95,MCQ
+FMAT127,13,Mental Math (Numbers),What is 10 more than 62?,82,72,52,63,72,MCQ
+FMAT128,13,Mental Math (Numbers),What is 10 less than 43?,53,23,33,34,33,MCQ
+FMAT129,13,Mental Math (Numbers),Which number is between 67 and 69?,70,66,68,71,68,MCQ
+FMAT130,13,Mental Math (Numbers),What number comes just before 40?,38,41,40,39,39,MCQ
+FMAT131,14,Mental Math (Numbers),What number comes after 37? Answer: _____,,,,,38,FillBlank
+FMAT132,14,Mental Math (Numbers),What number comes before 64? Answer: _____,,,,,63,FillBlank
+FMAT133,14,Mental Math (Numbers),What is 10 more than 28? Answer: _____,,,,,38,FillBlank
+FMAT134,14,Mental Math (Numbers),What is 10 less than 75? Answer: _____,,,,,65,FillBlank
+FMAT135,14,Mental Math (Numbers),How many tens are in 40? Answer: _____,,,,,4,FillBlank
+FMAT136,14,Mental Math (Numbers),Which number is between 52 and 54? Answer: _____,,,,,53,FillBlank
+FMAT137,14,Mental Math (Numbers),What number comes just before 90? Answer: _____,,,,,89,FillBlank
+FMAT138,14,Mental Math (Numbers),What number comes just after 81? Answer: _____,,,,,82,FillBlank
+FMAT139,14,Mental Math (Numbers),What is 10 more than 66? Answer: _____,,,,,76,FillBlank
+FMAT140,14,Mental Math (Numbers),What is 10 less than 33? Answer: _____,,,,,23,FillBlank
+FMAT141,15,Mental Math (Numbers),What number comes after 58? Answer: _____,,,,,59,FillBlank
+FMAT142,15,Mental Math (Numbers),What number comes before 32? Answer: _____,,,,,31,FillBlank
+FMAT143,15,Mental Math (Numbers),What is 10 more than 41? Answer: _____,,,,,51,FillBlank
+FMAT144,15,Mental Math (Numbers),What is 10 less than 88? Answer: _____,,,,,78,FillBlank
+FMAT145,15,Mental Math (Numbers),How many tens are in 70? Answer: _____,,,,,7,FillBlank
+FMAT146,15,Mental Math (Numbers),Which number is between 46 and 48? Answer: _____,,,,,47,FillBlank
+FMAT147,15,Mental Math (Numbers),What number comes just before 100? Answer: _____,,,,,99,FillBlank
+FMAT148,15,Mental Math (Numbers),What number comes just after 14? Answer: _____,,,,,15,FillBlank
+FMAT149,15,Mental Math (Numbers),What is 10 more than 53? Answer: _____,,,,,63,FillBlank
+FMAT150,15,Mental Math (Numbers),What is 10 less than 27? Answer: _____,,,,,17,FillBlank
+FMAT151,16,Mental Math (Numbers),What is 2 more than 18? Answer: _____,,,,,20,FillBlank
+FMAT152,16,Mental Math (Numbers),What is 3 less than 27? Answer: _____,,,,,24,FillBlank
+FMAT153,16,Mental Math (Numbers),What is 4 more than 35? Answer: _____,,,,,39,FillBlank
+FMAT154,16,Mental Math (Numbers),What is 5 less than 42? Answer: _____,,,,,37,FillBlank
+FMAT155,16,Mental Math (Numbers),What is 2 less than 61? Answer: _____,,,,,59,FillBlank
+FMAT156,16,Mental Math (Numbers),What is 3 more than 54? Answer: _____,,,,,57,FillBlank
+FMAT157,16,Mental Math (Numbers),What is 5 more than 70? Answer: _____,,,,,75,FillBlank
+FMAT158,16,Mental Math (Numbers),What is 4 less than 29? Answer: _____,,,,,25,FillBlank
+FMAT159,16,Mental Math (Numbers),What is 3 less than 96? Answer: _____,,,,,93,FillBlank
+FMAT160,16,Mental Math (Numbers),What is 2 more than 47? Answer: _____,,,,,49,FillBlank
+FMAT161,17,Mental Math (Numbers),What is 4 more than 22? Answer: _____,,,,,26,FillBlank
+FMAT162,17,Mental Math (Numbers),What is 2 less than 49? Answer: _____,,,,,47,FillBlank
+FMAT163,17,Mental Math (Numbers),What is 5 more than 31? Answer: _____,,,,,36,FillBlank
+FMAT164,17,Mental Math (Numbers),What is 3 less than 58? Answer: _____,,,,,55,FillBlank
+FMAT165,17,Mental Math (Numbers),What is 2 more than 64? Answer: _____,,,,,66,FillBlank
+FMAT166,17,Mental Math (Numbers),What is 4 less than 73? Answer: _____,,,,,69,FillBlank
+FMAT167,17,Mental Math (Numbers),What is 5 less than 86? Answer: _____,,,,,81,FillBlank
+FMAT168,17,Mental Math (Numbers),What is 3 more than 45? Answer: _____,,,,,48,FillBlank
+FMAT169,17,Mental Math (Numbers),What is 2 less than 91? Answer: _____,,,,,89,FillBlank
+FMAT170,17,Mental Math (Numbers),What is 5 more than 52? Answer: _____,,,,,57,FillBlank
+FMAT171,18,Even & Odd Numbers,True or False: 24 is an even number.,TRUE,FALSE,,,TRUE,MCQ
+FMAT172,18,Even & Odd Numbers,True or False: 37 is an odd number.,TRUE,FALSE,,,TRUE,MCQ
+FMAT173,18,Even & Odd Numbers,True or False: 58 is an odd number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT174,18,Even & Odd Numbers,True or False: 91 is an even number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT175,18,Even & Odd Numbers,True or False: 46 is divisible by 2.,TRUE,FALSE,,,TRUE,MCQ
+FMAT176,18,Even & Odd Numbers,True or False: 75 is an even number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT177,18,Even & Odd Numbers,True or False: 100 is an even number.,TRUE,FALSE,,,TRUE,MCQ
+FMAT178,18,Even & Odd Numbers,True or False: 1 is an even number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT179,18,Even & Odd Numbers,True or False: 88 is an odd number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT180,18,Even & Odd Numbers,True or False: 63 is an odd number.,TRUE,FALSE,,,TRUE,MCQ
+FMAT181,19,Even & Odd Numbers,Which number is even?,23,45,68,91,68,MCQ
+FMAT182,19,Even & Odd Numbers,Which number is odd?,20,42,57,88,57,MCQ
+FMAT183,19,Even & Odd Numbers,Which number is even?,17,39,64,75,64,MCQ
+FMAT184,19,Even & Odd Numbers,Which number is odd?,16,28,54,81,81,MCQ
+FMAT185,19,Even & Odd Numbers,Which number is even?,31,47,90,53,90,MCQ
+FMAT186,19,Even & Odd Numbers,Which number is odd?,24,62,79,100,79,MCQ
+FMAT187,19,Even & Odd Numbers,Which number is even?,15,33,48,71,48,MCQ
+FMAT188,19,Even & Odd Numbers,Which number is odd?,44,56,89,92,89,MCQ
+FMAT189,19,Even & Odd Numbers,Which number is even?,19,27,84,65,84,MCQ
+FMAT190,19,Even & Odd Numbers,Which number is odd?,18,72,95,40,95,MCQ
+FMAT191,20,Even & Odd Numbers,Is 48 an even or odd number?,Even,Odd,,,Even,MCQ
+FMAT192,20,Even & Odd Numbers,Is 67 an even or odd number?,Even,Odd,,,Odd,MCQ
+FMAT193,20,Even & Odd Numbers,What is the next even number after 34? Answer: _____,,,,,36,FillBlank
+FMAT194,20,Even & Odd Numbers,What is the next odd number after 51? Answer: _____,,,,,53,FillBlank
+FMAT195,20,Even & Odd Numbers,What is the previous even number before 82? Answer: _____,,,,,80,FillBlank
+FMAT196,20,Even & Odd Numbers,What is the previous odd number before 39? Answer: _____,,,,,37,FillBlank
+FMAT197,20,Even & Odd Numbers,Write the smallest even number greater than 57. Answer: _____,,,,,58,FillBlank
+FMAT198,20,Even & Odd Numbers,Write the largest odd number less than 70. Answer: _____,,,,,69,FillBlank
+FMAT199,20,Even & Odd Numbers,Is 100 an even or odd number?,Even,Odd,,,Even,MCQ
+FMAT200,20,Even & Odd Numbers,Is 1 an even or odd number?,Even,Odd,,,Odd,MCQ
+FMAT201,21,Even & Odd Numbers,An even number is divisible by _____.,,,,,2,FillBlank
+FMAT202,21,Even & Odd Numbers,An odd number leaves a remainder of _____ when divided by 2.,,,,,1,FillBlank
+FMAT203,21,Even & Odd Numbers,The last digit of an even number can be 0 • 2 • 4 • 6 • _____,,,,,8,FillBlank
+FMAT204,21,Even & Odd Numbers,The last digit of an odd number can be 1 • 3 • 5 • 7 • _____,,,,,9,FillBlank
+FMAT205,21,Even & Odd Numbers,Even + Even =,Even,Odd,,,Even,MCQ
+FMAT206,21,Even & Odd Numbers,Odd + Odd =,Even,Odd,,,Even,MCQ
+FMAT207,21,Even & Odd Numbers,Even + Odd =,Even,Odd,,,Odd,MCQ
+FMAT208,21,Even & Odd Numbers,Odd + Even =,Even,Odd,,,Odd,MCQ
+FMAT209,21,Even & Odd Numbers,Even × Odd =,Even,Odd,,,Even,MCQ
+FMAT210,21,Even & Odd Numbers,Odd × Odd =,Even,Odd,,,Odd,MCQ
+FMAT211,22,Even & Odd Numbers,Which number is an even number?,41,56,73,95,56,MCQ
+FMAT212,22,Even & Odd Numbers,True or False: 27 is an odd number.,TRUE,FALSE,,,TRUE,MCQ
+FMAT213,22,Even & Odd Numbers,What is the next even number after 18? Answer: _____,,,,,20,FillBlank
+FMAT214,22,Even & Odd Numbers,Which number is an odd number?,64,82,99,46,99,MCQ
+FMAT215,22,Even & Odd Numbers,True or False: Every even number is divisible by 2.,TRUE,FALSE,,,TRUE,MCQ
+FMAT216,22,Even & Odd Numbers,What is the smallest odd number greater than 48? Answer: _____,,,,,49,FillBlank
+FMAT217,22,Even & Odd Numbers,Which pair contains two even numbers?,21 and 42,36 and 58,17 and 39,45 and 60,36 and 58,MCQ
+FMAT218,22,Even & Odd Numbers,True or False: The sum of two odd numbers is an odd number.,TRUE,FALSE,,,FALSE,MCQ
+FMAT219,22,Even & Odd Numbers,Even + Odd =,Even,Odd,,,Odd,MCQ
+FMAT220,22,Even & Odd Numbers,Which number cannot be the last digit of an even number?,0,4,7,8,7,MCQ
+FMAT221,23,Addition,2 + 3 = _____,,,,,5,FillBlank
+FMAT222,23,Addition,1 + 4 = _____,,,,,5,FillBlank
+FMAT223,23,Addition,5 + 2 = _____,,,,,7,FillBlank
+FMAT224,23,Addition,3 + 6 = _____,,,,,9,FillBlank
+FMAT225,23,Addition,4 + 4 = _____,,,,,8,FillBlank
+FMAT226,23,Addition,2 + 2 = _____,,,,,4,FillBlank
+FMAT227,23,Addition,3 + 3 = _____,,,,,6,FillBlank
+FMAT228,23,Addition,4 + 4 = _____,,,,,8,FillBlank
+FMAT229,23,Addition,5 + 5 = _____,,,,,10,FillBlank
+FMAT230,23,Addition,6 + 6 = _____,,,,,12,FillBlank
+FMAT231,24,Addition,7 + 7 = _____,,,,,14,FillBlank
+FMAT232,24,Addition,8 + 8 = _____,,,,,16,FillBlank
+FMAT233,24,Addition,9 + 9 = _____,,,,,18,FillBlank
+FMAT234,24,Addition,2 + 3 = _____,,,,,5,FillBlank
+FMAT235,24,Addition,3 + 4 = _____,,,,,7,FillBlank
+FMAT236,24,Addition,4 + 5 = _____,,,,,9,FillBlank
+FMAT237,24,Addition,5 + 6 = _____,,,,,11,FillBlank
+FMAT238,24,Addition,6 + 7 = _____,,,,,13,FillBlank
+FMAT239,24,Addition,7 + 8 = _____,,,,,15,FillBlank
+FMAT240,24,Addition,8 + 9 = _____,,,,,17,FillBlank
+FMAT241,25,Addition,2 + 4 = _____,,,,,6,FillBlank
+FMAT242,25,Addition,3 + 5 = _____,,,,,8,FillBlank
+FMAT243,25,Addition,4 + 6 = _____,,,,,10,FillBlank
+FMAT244,25,Addition,8 + 4 = _____,,,,,12,FillBlank
+FMAT245,25,Addition,2 + 7 = _____,,,,,9,FillBlank
+FMAT246,25,Addition,9 + 5 = _____,,,,,14,FillBlank
+FMAT247,25,Addition,6 + 3 = _____,,,,,9,FillBlank
+FMAT248,25,Addition,7 + 9 = _____,,,,,16,FillBlank
+FMAT249,25,Addition,5 + 8 = _____,,,,,13,FillBlank
+FMAT250,25,Addition,4 + 7 = _____,,,,,11,FillBlank
+FMAT251,26,Addition,2 + 8 = _____,,,,,10,FillBlank
+FMAT252,26,Addition,6 + 9 = _____,,,,,15,FillBlank
+FMAT253,26,Addition,3 + 8 = _____,,,,,11,FillBlank
+FMAT254,26,Addition,5 + 7 = _____,,,,,12,FillBlank
+FMAT255,26,Addition,4 + 9 = _____,,,,,13,FillBlank
+FMAT256,26,Addition,2 + 6 = _____,,,,,8,FillBlank
+FMAT257,26,Addition,8 + 8 = _____,,,,,16,FillBlank
+FMAT258,26,Addition,3 + 9 = _____,,,,,12,FillBlank
+FMAT259,26,Addition,7 + 7 = _____,,,,,14,FillBlank
+FMAT260,26,Addition,8 + 8 = _____,,,,,16,FillBlank
+FMAT261,27,Addition,Rina has 2 apples. Her mother gives her 3 more. How many apples does she have? She have _____ apples,4,5,6,7,5,MCQ
+FMAT262,27,Addition,A boy has 4 balloons. He gets 5 more balloons. How many balloons does he have?,8,9,10,11,9,MCQ
+FMAT263,27,Addition,There are 6 birds on a tree. 2 more birds come. How many birds are there now?,7,8,9,10,8,MCQ
+FMAT264,27,Addition,A basket has 7 oranges. 3 more oranges are added. How many oranges are there?,9,10,11,12,10,MCQ
+FMAT265,27,Addition,A classroom has 5 girls and 6 boys. How many students are there?,10,11,12,13,11,MCQ
+FMAT266,27,Addition,Ali has 8 marbles. His friend gives him 4 more. How many marbles does Ali have?,11,12,13,14,12,MCQ
+FMAT267,27,Addition,A farmer has 9 cows and buys 5 more cows. How many cows does he have?,13,14,15,16,14,MCQ
+FMAT268,27,Addition,A shelf has 3 books. You put 8 more books on it. How many books are on the shelf now?,10,11,12,13,11,MCQ
+FMAT269,27,Addition,A box contains 2 toys. Another box contains 9 toys. How many toys are there altogether?,10,11,12,13,11,MCQ
+FMAT270,27,Addition,There are 7 flowers in one vase and 8 flowers in another vase. How many flowers are there in total?,14,15,16,17,15,MCQ
+FMAT271,28,Addition,_____ + 2 = 5,,,,,3,FillBlank
+FMAT272,28,Addition,_____ + 3 = 7,,,,,4,FillBlank
+FMAT273,28,Addition,_____ + 4 = 9,,,,,5,FillBlank
+FMAT274,28,Addition,_____ + 5 = 11,,,,,6,FillBlank
+FMAT275,28,Addition,_____ + 6 = 13,,,,,7,FillBlank
+FMAT276,28,Addition,_____ + 7 = 15,,,,,8,FillBlank
+FMAT277,28,Addition,_____ + 8 = 17,,,,,9,FillBlank
+FMAT278,28,Addition,_____ + 9 = 18,,,,,9,FillBlank
+FMAT279,28,Addition,2 + _____ = 8,,,,,6,FillBlank
+FMAT280,28,Addition,3 + _____ = 10,,,,,7,FillBlank
+FMAT281,29,Addition,4 + _____ = 12,,,,,8,FillBlank
+FMAT282,29,Addition,5 + _____ = 14,,,,,9,FillBlank
+FMAT283,29,Addition,6 + _____ = 15,,,,,9,FillBlank
+FMAT284,29,Addition,7 + _____ = 16,,,,,9,FillBlank
+FMAT285,29,Addition,8 + _____ = 18,,,,,10,FillBlank
+FMAT286,29,Addition,6 + 3 = _____,,,,,9,FillBlank
+FMAT287,29,Addition,7 + 9 = _____,,,,,16,FillBlank
+FMAT288,29,Addition,9 + 9 = _____,,,,,18,FillBlank
+FMAT289,29,Addition,2 + 3 = _____,,,,,5,FillBlank
+FMAT290,29,Addition,_____ + 6 = 13,,,,,7,FillBlank
+FMAT291,30,Subtraction,8 - 3 = _____,,,,,5,FillBlank
+FMAT292,30,Subtraction,10 - 4 = _____,,,,,6,FillBlank
+FMAT293,30,Subtraction,9 - 2 = _____,,,,,7,FillBlank
+FMAT294,30,Subtraction,7 - 5 = _____,,,,,2,FillBlank
+FMAT295,30,Subtraction,10 - 3 = _____,,,,,7,FillBlank
+FMAT296,30,Subtraction,9 - 4 = _____,,,,,5,FillBlank
+FMAT297,30,Subtraction,8 - 2 = _____,,,,,6,FillBlank
+FMAT298,30,Subtraction,10 - 5 = _____,,,,,5,FillBlank
+FMAT299,30,Subtraction,9 - 7 = _____,,,,,2,FillBlank
+FMAT300,30,Subtraction,8 - 6 = _____,,,,,2,FillBlank
+FMAT301,31,Subtraction,10 - 8 = _____,,,,,2,FillBlank
+FMAT302,31,Subtraction,7 - 3 = _____,,,,,4,FillBlank
+FMAT303,31,Subtraction,6 - 5 = _____,,,,,1,FillBlank
+FMAT304,31,Subtraction,10 - 9 = _____,,,,,1,FillBlank
+FMAT305,31,Subtraction,9 - 1 = _____,,,,,8,FillBlank
+FMAT306,31,Subtraction,8 - 5 = _____,,,,,3,FillBlank
+FMAT307,31,Subtraction,7 - 4 = _____,,,,,3,FillBlank
+FMAT308,31,Subtraction,6 - 2 = _____,,,,,4,FillBlank
+FMAT309,31,Subtraction,5 - 3 = _____,,,,,2,FillBlank
+FMAT310,31,Subtraction,10 - 2 = _____,,,,,8,FillBlank
+FMAT311,32,Subtraction,_____ - 2 = 5,,,,,7,FillBlank
+FMAT312,32,Subtraction,_____ - 3 = 7,,,,,10,FillBlank
+FMAT313,32,Subtraction,_____ - 4 = 9,,,,,13,FillBlank
+FMAT314,32,Subtraction,_____ - 5 = 11,,,,,16,FillBlank
+FMAT315,32,Subtraction,_____ - 6 = 13,,,,,19,FillBlank
+FMAT316,32,Subtraction,_____ - 7 = 8,,,,,15,FillBlank
+FMAT317,32,Subtraction,_____ - 8 = 10,,,,,18,FillBlank
+FMAT318,32,Subtraction,_____ - 9 = 6,,,,,15,FillBlank
+FMAT319,32,Subtraction,_____ - 10 = 9,,,,,19,FillBlank
+FMAT320,32,Subtraction,_____ - 5 = 14,,,,,19,FillBlank
+FMAT321,33,Subtraction,8 - _____ = 2,,,,,6,FillBlank
+FMAT322,33,Subtraction,10 - _____ = 3,,,,,7,FillBlank
+FMAT323,33,Subtraction,12 - _____ = 4,,,,,8,FillBlank
+FMAT324,33,Subtraction,14 - _____ = 5,,,,,9,FillBlank
+FMAT325,33,Subtraction,15 - _____ = 6,,,,,9,FillBlank
+FMAT326,33,Subtraction,16 - _____ = 7,,,,,9,FillBlank
+FMAT327,33,Subtraction,17 - _____ = 8,,,,,9,FillBlank
+FMAT328,33,Subtraction,18 - _____ = 9,,,,,9,FillBlank
+FMAT329,33,Subtraction,19 - _____ = 10,,,,,9,FillBlank
+FMAT330,33,Subtraction,20 - _____ = 11,,,,,9,FillBlank
+FMAT331,34,Subtraction,17 - 8 = _____,,,,,9,FillBlank
+FMAT332,34,Subtraction,_____ - 4 = 9,,,,,13,FillBlank
+FMAT333,34,Subtraction,15 - _____ = 8,,,,,7,FillBlank
+FMAT334,34,Subtraction,19 - 7 = _____,,,,,12,FillBlank
+FMAT335,34,Subtraction,_____ - 6 = 10,,,,,16,FillBlank
+FMAT336,34,Subtraction,18 - _____ = 9,,,,,9,FillBlank
+FMAT337,34,Subtraction,14 - 5 = _____,,,,,9,FillBlank
+FMAT338,34,Subtraction,_____ - 3 = 11,,,,,14,FillBlank
+FMAT339,34,Subtraction,20 - _____ = 12,,,,,8,FillBlank
+FMAT340,34,Subtraction,16 - 9 = _____,,,,,7,FillBlank
+FMAT341,35,Subtraction,_____ - 8 = 7,,,,,15,FillBlank
+FMAT342,35,Subtraction,13 - _____ = 4,,,,,9,FillBlank
+FMAT343,35,Subtraction,12 - 5 = _____,,,,,7,FillBlank
+FMAT344,35,Subtraction,_____ - 9 = 8,,,,,17,FillBlank
+FMAT345,35,Subtraction,18 - _____ = 10,,,,,8,FillBlank
+FMAT346,35,Subtraction,11 - 3 = _____,,,,,8,FillBlank
+FMAT347,35,Subtraction,_____ - 7 = 9,,,,,16,FillBlank
+FMAT348,35,Subtraction,15 - _____ = 6,,,,,9,FillBlank
+FMAT349,35,Subtraction,19 - 10 = _____,,,,,9,FillBlank
+FMAT350,35,Subtraction,_____ - 5 = 13,,,,,18,FillBlank
+FMAT351,36,Subtraction Word Problems,Riya has 12 apples. She gives 5 apples to her friend. How many apples does she have left?,,,,,7,FillBlank
+FMAT352,36,Subtraction Word Problems,Tom has 15 balloons. 6 balloons burst. How many balloons are left?,,,,,9,FillBlank
+FMAT353,36,Subtraction Word Problems,A basket has 18 oranges. 7 oranges are taken out. How many oranges remain?,,,,,11,FillBlank
+FMAT354,36,Subtraction Word Problems,Sara has 14 pencils. She gives 8 pencils to her classmates. How many pencils does she have now?,,,,,6,FillBlank
+FMAT355,36,Subtraction Word Problems,There are 20 birds on a tree. 9 birds fly away. How many birds are still on the tree?,,,,,11,FillBlank
+FMAT356,36,Subtraction Word Problems,A toy box has 16 toys. 4 toys are taken out to play. How many toys are left in the box?,,,,,12,FillBlank
+FMAT357,36,Subtraction Word Problems,Ali has 19 candies. He eats 10 candies. How many candies does he have left?,,,,,9,FillBlank
+FMAT358,36,Subtraction Word Problems,A library has 17 storybooks on a shelf. 5 books are borrowed. How many books are left?,,,,,12,FillBlank
+FMAT359,36,Subtraction Word Problems,Emma picked 13 flowers. She gave 6 flowers to her mother. How many flowers does she have now?,,,,,7,FillBlank
+FMAT360,36,Subtraction Word Problems,A farmer has 18 chickens. He sells 8 chickens. How many chickens does he have left?,,,,,10,FillBlank
+FMAT361,37,Challenge 1: Word Problems,Sam has 7 marbles. He gets 5 more marbles from his friend. How many marbles does he have now?,,,,,12,FillBlank
+FMAT362,37,Challenge 1: Word Problems,Lily has 14 cookies. She gives 6 cookies to her brother. How many cookies are left?,,,,,8,FillBlank
+FMAT363,37,Challenge 1: Word Problems,There are 9 birds on a tree. 8 more birds join them. How many birds are on the tree now?,,,,,17,FillBlank
+FMAT364,37,Challenge 1: Word Problems,A box has 18 crayons. 7 crayons are lost. How many crayons are left?,,,,,11,FillBlank
+FMAT365,37,Challenge 1: Word Problems,Emma has 6 stickers. She buys 9 more stickers. How many stickers does she have altogether?,,,,,15,FillBlank
+FMAT366,37,Challenge 1: Word Problems,A bus has 16 passengers. 5 passengers get off the bus. How many passengers remain?,,,,,11,FillBlank
+FMAT367,37,Challenge 1: Word Problems,Noah collects 11 shells at the beach. Later, he finds 7 more shells. How many shells does he have in total?,,,,,18
+FMAT368,37,Challenge 1: Word Problems,A jar contains 20 candies. Mia eats 8 candies. How many candies are left in the jar?,,,,,12,FillBlank
+FMAT369,37,Challenge 1: Word Problems,There are 10 fish in a pond. 6 more fish are added. How many fish are in the pond now?,,,,,16,FillBlank
+FMAT370,37,Challenge 1: Word Problems,Sophia has 15 balloons. She gives 9 balloons to her friends. How many balloons does she have left?,,,,,6,FillBlank
+FMAT371,38,Challenge 2: Addition & Subtraction,8 + 9 = _____,,,,,17,FillBlank
+FMAT372,38,Challenge 2: Addition & Subtraction,17 - 8 = _____,,,,,9,FillBlank
+FMAT373,38,Challenge 2: Addition & Subtraction,_____ + 5 = 14,,,,,9,FillBlank
+FMAT374,38,Challenge 2: Addition & Subtraction,18 - _____ = 10,,,,,8,FillBlank
+FMAT375,38,Challenge 2: Addition & Subtraction,Liam has 7 toy cars. He gets 8 more toy cars for his birthday. How many toy cars does he have now?,,,,,15,FillBlank
+FMAT376,38,Challenge 2: Addition & Subtraction,_____ - 6 = 11,,,,,17,FillBlank
+FMAT377,38,Challenge 2: Addition & Subtraction,9 + _____ = 17,,,,,8,FillBlank
+FMAT378,38,Challenge 2: Addition & Subtraction,A basket has 16 oranges. 7 oranges are eaten. How many oranges are left?,,,,,9,FillBlank
+FMAT379,38,Challenge 2: Addition & Subtraction,13 + 6 = _____,,,,,19,FillBlank
+FMAT380,38,Challenge 2: Addition & Subtraction,19 - 5 = _____,,,,,14,FillBlank
+FMAT381,39,Challenge 3: Addition & Subtraction,9 + 8 = _____,,,,,17,FillBlank
+FMAT382,39,Challenge 3: Addition & Subtraction,18 - 7 = _____,,,,,11,FillBlank
+FMAT383,39,Challenge 3: Addition & Subtraction,_____ + 6 = 15,,,,,9,FillBlank
+FMAT384,39,Challenge 3: Addition & Subtraction,16 - _____ = 9,,,,,7,FillBlank
+FMAT385,39,Challenge 3: Addition & Subtraction,A basket has 12 apples. 5 more apples are added. How many apples are there now?,,,,,17,FillBlank
+FMAT386,39,Challenge 3: Addition & Subtraction,_____ - 4 = 10,,,,,14,FillBlank
+FMAT387,39,Challenge 3: Addition & Subtraction,7 + _____ = 18,,,,,11,FillBlank
+FMAT388,39,Challenge 3: Addition & Subtraction,A box has 19 crayons. 8 crayons are taken out. How many crayons are left?,,,,,11,FillBlank
+FMAT389,39,Challenge 3: Addition & Subtraction,14 + 5 = _____,,,,,19,FillBlank
+FMAT390,39,Challenge 3: Addition & Subtraction,20 - 9 = _____,,,,,11,FillBlank
+FMAT391,40,Multiplication (2x),2 × 1 = _____,,,,,2,FillBlank
+FMAT392,40,Multiplication (2x),2 × 2 = _____,,,,,4,FillBlank
+FMAT393,40,Multiplication (2x),2 × 3 = _____,,,,,6,FillBlank
+FMAT394,40,Multiplication (2x),2 × 4 = _____,,,,,8,FillBlank
+FMAT395,40,Multiplication (2x),2 × 5 = _____,,,,,10,FillBlank
+FMAT396,40,Multiplication (2x),2 × 6 = _____,,,,,12,FillBlank
+FMAT397,40,Multiplication (2x),2 × 7 = _____,,,,,14,FillBlank
+FMAT398,40,Multiplication (2x),2 × 8 = _____,,,,,16,FillBlank
+FMAT399,40,Multiplication (2x),2 × 9 = _____,,,,,18,FillBlank
+FMAT400,40,Multiplication (2x),2 × 10 = _____,,,,,20,FillBlank
+FMAT401,41,Multiplication (2x),8 × 2 = _____,,,,,16,FillBlank
+FMAT402,41,Multiplication (2x),1 × 2 = _____,,,,,2,FillBlank
+FMAT403,41,Multiplication (2x),2 × 2 = _____,,,,,4,FillBlank
+FMAT404,41,Multiplication (2x),5 × 2 = _____,,,,,10,FillBlank
+FMAT405,41,Multiplication (2x),3 × 2 = _____,,,,,6,FillBlank
+FMAT406,41,Multiplication (2x),4 × 2 = _____,,,,,8,FillBlank
+FMAT407,41,Multiplication (2x),7 × 2 = _____,,,,,14,FillBlank
+FMAT408,41,Multiplication (2x),9 × 2 = _____,,,,,18,FillBlank
+FMAT409,41,Multiplication (2x),6 × 2 = _____,,,,,12,FillBlank
+FMAT410,41,Multiplication (2x),10 × 2 = _____,,,,,20,FillBlank
+FMAT411,42,Multiplication (2x),There are 2 flowers in each vase. How many flowers are in 7 vases?,12,13,14,15,14,MCQ
+FMAT412,42,Multiplication (2x),There are 2 apples in each basket. How many apples are in 3 baskets?,4,5,6,7,6,MCQ
+FMAT413,42,Multiplication (2x),Each shelf holds 2 books. How many books are on 9 shelves?,16,17,18,19,18,MCQ
+FMAT414,42,Multiplication (2x),Each box has 2 chocolates. How many chocolates are in 5 boxes?,8,9,10,11,10,MCQ
+FMAT415,42,Multiplication (2x),A teacher gives 2 pencils to each of 4 students. How many pencils are given?,6,7,8,9,8,MCQ
+FMAT416,42,Multiplication (2x),A pair has 2 socks. How many socks are in 8 pairs?,14,15,16,17,16,MCQ
+FMAT417,42,Multiplication (2x),A bicycle has 2 wheels. How many wheels do 6 bicycles have?,10,11,12,13,12,MCQ
+FMAT418,42,Multiplication (2x),A shop sells 2 balloons every hour. How many balloons are sold in 10 hours?,18,19,20,21,20,MCQ
+FMAT419,42,Multiplication (2x),Each bag has 2 oranges. How many oranges are in 2 bags?,2,3,4,5,4,MCQ
+FMAT420,42,Multiplication (2x),There are 2 stars on each card. How many stars are on 1 card?,1,2,3,4,2,MCQ
+FMAT421,43,Multiplication (3x),3 × 1 = _____,,,,,3,FillBlank
+FMAT422,43,Multiplication (3x),3 × 2 = _____,,,,,6,FillBlank
+FMAT423,43,Multiplication (3x),3 × 3 = _____,,,,,9,FillBlank
+FMAT424,43,Multiplication (3x),3 × 4 = _____,,,,,12,FillBlank
+FMAT425,43,Multiplication (3x),3 × 5 = _____,,,,,15,FillBlank
+FMAT426,43,Multiplication (3x),3 × 6 = _____,,,,,18,FillBlank
+FMAT427,43,Multiplication (3x),3 × 7 = _____,,,,,21,FillBlank
+FMAT428,43,Multiplication (3x),3 × 8 = _____,,,,,24,FillBlank
+FMAT429,43,Multiplication (3x),3 × 9 = _____,,,,,27,FillBlank
+FMAT430,43,Multiplication (3x),3 × 10 = _____,,,,,30,FillBlank
+FMAT431,44,Multiplication (3x),5 × 3 = _____,,,,,15,FillBlank
+FMAT432,44,Multiplication (3x),1 × 3 = _____,,,,,3,FillBlank
+FMAT433,44,Multiplication (3x),2 × 3 = _____,,,,,6,FillBlank
+FMAT434,44,Multiplication (3x),4 × 3 = _____,,,,,12,FillBlank
+FMAT435,44,Multiplication (3x),6 × 3 = _____,,,,,18,FillBlank
+FMAT436,44,Multiplication (3x),9 × 3 = _____,,,,,27,FillBlank
+FMAT437,44,Multiplication (3x),7 × 3 = _____,,,,,21,FillBlank
+FMAT438,44,Multiplication (3x),3 × 3 = _____,,,,,9,FillBlank
+FMAT439,44,Multiplication (3x),8 × 3 = _____,,,,,24,FillBlank
+FMAT440,44,Multiplication (3x),10 × 3 = _____,,,,,30,FillBlank
+FMAT441,45,Multiplication (3x),There are 3 apples in each basket. How many apples are in 2 baskets?,5,6,7,8,6,MCQ
+FMAT442,45,Multiplication (3x),A tricycle has 3 wheels. How many wheels do 5 tricycles have?,14,15,16,17,15,MCQ
+FMAT443,45,Multiplication (3x),A teacher gives 3 pencils to each of 3 students. How many pencils are given?,8,9,10,11,9,MCQ
+FMAT444,45,Multiplication (3x),Each box has 3 chocolates. How many chocolates are in 4 boxes?,11,12,13,14,12,MCQ
+FMAT445,45,Multiplication (3x),There are 3 flowers in each vase. How many flowers are in 6 vases?,17,18,19,20,18,MCQ
+FMAT446,45,Multiplication (3x),A child gets 3 stickers. How many stickers does 1 child get?,2,3,4,5,3,MCQ
+FMAT447,45,Multiplication (3x),Each packet has 3 biscuits. How many biscuits are in 7 packets?,20,21,22,23,21,MCQ
+FMAT448,45,Multiplication (3x),There are 3 birds on each tree. How many birds are on 9 trees?,26,27,28,29,27,MCQ
+FMAT449,45,Multiplication (3x),Each bag has 3 oranges. How many oranges are in 10 bags?,29,30,31,32,30,MCQ
+FMAT450,45,Multiplication (3x),Each shelf holds 3 books. How many books are on 8 shelves?,23,24,25,26,24,MCQ
+FMAT451,46,Challenge 4: Multiplication,3 × 4 = _____,,,,,12,FillBlank
+FMAT452,46,Challenge 4: Multiplication,9 × 2 = _____,,,,,18,FillBlank
+FMAT453,46,Challenge 4: Multiplication,_____ × 3 = 21,,,,,7,FillBlank
+FMAT454,46,Challenge 4: Multiplication,8 × _____ = 16,,,,,2,FillBlank
+FMAT455,46,Challenge 4: Multiplication,A farmer has 3 baskets. Each basket has 6 apples. How many apples are there altogether?,,,,,18,FillBlank
+FMAT456,46,Challenge 4: Multiplication,2 × 10 = _____,,,,,20,FillBlank
+FMAT457,46,Challenge 4: Multiplication,_____ × 2 = 14,,,,,7,FillBlank
+FMAT458,46,Challenge 4: Multiplication,5 × _____ = 15,,,,,3,FillBlank
+FMAT459,46,Challenge 4: Multiplication,There are 4 tables. Each table has 2 chairs. How many chairs are there in total?,,,,,8,FillBlank
+FMAT460,46,Challenge 4: Multiplication,A box contains 3 rows of 9 crayons. How many crayons are in the box?,,,,,27,FillBlank
+FMAT461,47,Two-Digit Addition,23|14|+,,,,,37,ColumnMath
+FMAT462,47,Two-Digit Addition,45|12|+,,,,,57,ColumnMath
+FMAT463,47,Two-Digit Addition,36|22|+,,,,,58,ColumnMath
+FMAT464,47,Two-Digit Addition,51|18|+,,,,,69,ColumnMath
+FMAT465,47,Two-Digit Addition,42|17|+,,,,,59,ColumnMath
+FMAT466,47,Two-Digit Addition,64|15|+,,,,,79,ColumnMath
+FMAT467,47,Two-Digit Addition,33|46|+,,,,,79,ColumnMath
+FMAT468,47,Two-Digit Addition,72|16|+,,,,,88,ColumnMath
+FMAT469,47,Two-Digit Addition,25|34|+,,,,,59,ColumnMath
+FMAT470,47,Two-Digit Addition,41|27|+,,,,,68,ColumnMath
+FMAT471,48,Two-Digit Addition,34|25|+,,,,,59,ColumnMath
+FMAT472,48,Two-Digit Addition,62|17|+,,,,,79,ColumnMath
+FMAT473,48,Two-Digit Addition,43|16|+,,,,,59,ColumnMath
+FMAT474,48,Two-Digit Addition,71|28|+,,,,,99,ColumnMath
+FMAT475,48,Two-Digit Addition,52|37|+,,,,,89,ColumnMath
+FMAT476,48,Two-Digit Addition,24|35|+,,,,,59,ColumnMath
+FMAT477,48,Two-Digit Addition,61|18|+,,,,,79,ColumnMath
+FMAT478,48,Two-Digit Addition,53|26|+,,,,,79,ColumnMath
+FMAT479,48,Two-Digit Addition,44|15|+,,,,,59,ColumnMath
+FMAT480,48,Two-Digit Addition,32|47|+,,,,,79,ColumnMath
+FMAT481,49,Two-Digit Addition,21|38|+,,,,,59,ColumnMath
+FMAT482,49,Two-Digit Addition,63|24|+,,,,,87,ColumnMath
+FMAT483,49,Two-Digit Addition,42|35|+,,,,,77,ColumnMath
+FMAT484,49,Two-Digit Addition,54|13|+,,,,,67,ColumnMath
+FMAT485,49,Two-Digit Addition,70|19|+,,,,,89,ColumnMath
+FMAT486,49,Two-Digit Addition,31|48|+,,,,,79,ColumnMath
+FMAT487,49,Two-Digit Addition,65|22|+,,,,,87,ColumnMath
+FMAT488,49,Two-Digit Addition,46|33|+,,,,,79,ColumnMath
+FMAT489,49,Two-Digit Addition,82|17|+,,,,,99,ColumnMath
+FMAT490,49,Two-Digit Addition,50|29|+,,,,,79,ColumnMath
+FMAT491,50,Two-Digit Subtraction,68|31|-,,,,,37,ColumnMath
+FMAT492,50,Two-Digit Subtraction,95|42|-,,,,,53,ColumnMath
+FMAT493,50,Two-Digit Subtraction,87|25|-,,,,,62,ColumnMath
+FMAT494,50,Two-Digit Subtraction,76|14|-,,,,,62,ColumnMath
+FMAT495,50,Two-Digit Subtraction,59|27|-,,,,,32,ColumnMath
+FMAT496,50,Two-Digit Subtraction,84|43|-,,,,,41,ColumnMath
+FMAT497,50,Two-Digit Subtraction,73|22|-,,,,,51,ColumnMath
+FMAT498,50,Two-Digit Subtraction,96|35|-,,,,,61,ColumnMath
+FMAT499,50,Two-Digit Subtraction,65|24|-,,,,,41,ColumnMath
+FMAT500,50,Two-Digit Subtraction,78|16|-,,,,,62,ColumnMath
+FMAT501,51,Two-Digit Subtraction,74|32|-,,,,,42,ColumnMath
+FMAT502,51,Two-Digit Subtraction,88|46|-,,,,,42,ColumnMath
+FMAT503,51,Two-Digit Subtraction,97|54|-,,,,,43,ColumnMath
+FMAT504,51,Two-Digit Subtraction,65|13|-,,,,,52,ColumnMath
+FMAT505,51,Two-Digit Subtraction,86|44|-,,,,,42,ColumnMath
+FMAT506,51,Two-Digit Subtraction,79|27|-,,,,,52,ColumnMath
+FMAT507,51,Two-Digit Subtraction,93|41|-,,,,,52,ColumnMath
+FMAT508,51,Two-Digit Subtraction,57|25|-,,,,,32,ColumnMath
+FMAT509,51,Two-Digit Subtraction,98|36|-,,,,,62,ColumnMath
+FMAT510,51,Two-Digit Subtraction,67|15|-,,,,,52,ColumnMath
+FMAT511,52,Two-Digit Subtraction,85|42|-,,,,,43,ColumnMath
+FMAT512,52,Two-Digit Subtraction,94|53|-,,,,,41,ColumnMath
+FMAT513,52,Two-Digit Subtraction,76|34|-,,,,,42,ColumnMath
+FMAT514,52,Two-Digit Subtraction,69|17|-,,,,,52,ColumnMath
+FMAT515,52,Two-Digit Subtraction,87|45|-,,,,,42,ColumnMath
+FMAT516,52,Two-Digit Subtraction,98|57|-,,,,,41,ColumnMath
+FMAT517,52,Two-Digit Subtraction,64|22|-,,,,,42,ColumnMath
+FMAT518,52,Two-Digit Subtraction,75|33|-,,,,,42,ColumnMath
+FMAT519,52,Two-Digit Subtraction,96|54|-,,,,,42,ColumnMath
+FMAT520,52,Two-Digit Subtraction,58|16|-,,,,,42,ColumnMath
+FMAT521,53,Challenge 5,34|25|+,,,,,59,ColumnMath
+FMAT522,53,Challenge 5,86|44|-,,,,,42,ColumnMath
+FMAT523,53,Challenge 5,52|17|+,,,,,69,ColumnMath
+FMAT524,53,Challenge 5,95|53|-,,,,,42,ColumnMath
+FMAT525,53,Challenge 5,43|36|+,,,,,79,ColumnMath
+FMAT526,53,Challenge 5,74|32|-,,,,,42,ColumnMath
+FMAT527,53,Challenge 5,61|28|+,,,,,89,ColumnMath
+FMAT528,53,Challenge 5,88|46|-,,,,,42,ColumnMath
+FMAT529,53,Challenge 5,45|24|+,,,,,69,ColumnMath
+FMAT530,53,Challenge 5,97|54|-,,,,,43,ColumnMath
+FMAT531,54,Division by 2 and 3,21 ÷ 3 = _____,,,,,7,FillBlank
+FMAT532,54,Division by 2 and 3,10 ÷ 2 = _____,,,,,5,FillBlank
+FMAT533,54,Division by 2 and 3,36 ÷ 3 = _____,,,,,12,FillBlank
+FMAT534,54,Division by 2 and 3,8 ÷ 2 = _____,,,,,4,FillBlank
+FMAT535,54,Division by 2 and 3,30 ÷ 3 = _____,,,,,10,FillBlank
+FMAT536,54,Division by 2 and 3,14 ÷ 2 = _____,,,,,7,FillBlank
+FMAT537,54,Division by 2 and 3,48 ÷ 3 = _____,,,,,16,FillBlank
+FMAT538,54,Division by 2 and 3,6 ÷ 2 = _____,,,,,3,FillBlank
+FMAT539,54,Division by 2 and 3,24 ÷ 2 = _____,,,,,12,FillBlank
+FMAT540,54,Division by 2 and 3,15 ÷ 3 = _____,,,,,5,FillBlank
+FMAT541,55,Division by 2 and 3,22 ÷ 2 = _____,,,,,11,FillBlank
+FMAT542,55,Division by 2 and 3,12 ÷ 3 = _____,,,,,4,FillBlank
+FMAT543,55,Division by 2 and 3,42 ÷ 3 = _____,,,,,14,FillBlank
+FMAT544,55,Division by 2 and 3,20 ÷ 2 = _____,,,,,10,FillBlank
+FMAT545,55,Division by 2 and 3,18 ÷ 3 = _____,,,,,6,FillBlank
+FMAT546,55,Division by 2 and 3,33 ÷ 3 = _____,,,,,11,FillBlank
+FMAT547,55,Division by 2 and 3,16 ÷ 2 = _____,,,,,8,FillBlank
+FMAT548,55,Division by 2 and 3,27 ÷ 3 = _____,,,,,9,FillBlank
+FMAT549,55,Division by 2 and 3,24 ÷ 3 = _____,,,,,8,FillBlank
+FMAT550,55,Division by 2 and 3,9 ÷ 3 = _____,,,,,3,FillBlank
+FMAT551,56,Division Word Problems by 2 and 3,A farmer picked 12 apples and put them equally into 3 baskets. How many apples are in each basket?,,,,,4,FillBlank
+FMAT552,56,Division Word Problems by 2 and 3,10 balloons are divided equally between 2 friends. How many balloons does each friend get?,,,,,5,FillBlank
+FMAT553,56,Division Word Problems by 2 and 3,A shopkeeper packs 18 candies into 3 bags equally. How many candies are in each bag?,,,,,6,FillBlank
+FMAT554,56,Division Word Problems by 2 and 3,Mother puts 8 cookies equally onto 2 plates. How many cookies are on each plate?,,,,,4,FillBlank
+FMAT555,56,Division Word Problems by 2 and 3,A teacher gives 30 pencils equally to 3 groups. How many pencils does each group get?,,,,,10,FillBlank
+FMAT556,56,Division Word Problems by 2 and 3,14 oranges are placed equally into 2 baskets. How many oranges are in each basket?,,,,,7,FillBlank
+FMAT557,56,Division Word Problems by 2 and 3,A gardener arranges 24 flowers equally in 3 vases. How many flowers are in each vase?,,,,,8,FillBlank
+FMAT558,56,Division Word Problems by 2 and 3,There are 6 cupcakes for 2 children. If they each get the same number, how many cupcakes does each child get?,,,,,3
+FMAT559,56,Division Word Problems by 2 and 3,27 marbles are put equally into 3 jars. How many marbles are in each jar?,,,,,9,FillBlank
+FMAT560,56,Division Word Problems by 2 and 3,Two sisters share 16 stickers equally. How many stickers does each sister get?,,,,,8,FillBlank
+FMAT561,57,Division Word Problems by 2 and 3,A librarian places 21 books equally on 3 shelves. How many books are on each shelf?,,,,,7,FillBlank
+FMAT562,57,Division Word Problems by 2 and 3,20 chocolates are packed equally into 2 boxes. How many chocolates are in each box?,,,,,10,FillBlank
+FMAT563,57,Division Word Problems by 2 and 3,15 toy cars are divided equally among 3 children. How many toy cars does each child get?,,,,,5,FillBlank
+FMAT564,57,Division Word Problems by 2 and 3,A farmer packs 36 eggs equally into 3 boxes. How many eggs are in each box?,,,,,12,FillBlank
+FMAT565,57,Division Word Problems by 2 and 3,A box has 22 crayons. They are shared equally between 2 children. How many crayons does each child get?,,,,,11,FillBlank
+FMAT566,57,Division Word Problems by 2 and 3,9 bananas are divided equally among 3 monkeys. How many bananas does each monkey get?,,,,,3,FillBlank
+FMAT567,57,Division Word Problems by 2 and 3,A craft teacher gives 42 beads equally to 3 girls. How many beads does each girl get?,,,,,14,FillBlank
+FMAT568,57,Division Word Problems by 2 and 3,48 biscuits are packed equally into 3 tins. How many biscuits are in each tin?,,,,,16,FillBlank
+FMAT569,57,Division Word Problems by 2 and 3,24 toy blocks are arranged equally into 2 boxes. How many blocks are in each box?,,,,,12,FillBlank
+FMAT570,57,Division Word Problems by 2 and 3,33 stars are divided equally into 3 groups. How many stars are in each group?,,,,,11,FillBlank
+FMAT571,58,Multiplication (4x),What is 4 × 1 ?,3,4,5,6,4,MCQ
+FMAT572,58,Multiplication (4x),What is 4 × 2 ?,6,7,8,9,8,MCQ
+FMAT573,58,Multiplication (4x),What is 4 × 3 ?,10,11,12,13,12,MCQ
+FMAT574,58,Multiplication (4x),What is 4 × 4 ?,14,15,16,17,16,MCQ
+FMAT575,58,Multiplication (4x),What is 4 × 5 ?,18,19,20,21,20,MCQ
+FMAT576,58,Multiplication (4x),What is 4 × 6 ?,22,23,24,25,24,MCQ
+FMAT577,58,Multiplication (4x),What is 4 × 7 ?,26,27,28,29,28,MCQ
+FMAT578,58,Multiplication (4x),What is 4 × 8 ?,30,31,32,33,32,MCQ
+FMAT579,58,Multiplication (4x),What is 4 × 9 ?,34,35,36,37,36,MCQ
+FMAT580,58,Multiplication (4x),What is 4 × 10 ?,38,39,40,41,40,MCQ
+FMAT581,59,Multiplication (4x),What is 5 × 4 ?,18,19,20,21,20,MCQ
+FMAT582,59,Multiplication (4x),What is 1 × 4 ?,3,4,5,6,4,MCQ
+FMAT583,59,Multiplication (4x),What is 9 × 4 ?,34,35,36,37,36,MCQ
+FMAT584,59,Multiplication (4x),What is 2 × 4 ?,6,7,8,9,8,MCQ
+FMAT585,59,Multiplication (4x),What is 7 × 4 ?,26,27,28,29,28,MCQ
+FMAT586,59,Multiplication (4x),What is 3 × 4 ?,10,11,12,13,12,MCQ
+FMAT587,59,Multiplication (4x),What is 4 × 4 ?,14,15,16,17,16,MCQ
+FMAT588,59,Multiplication (4x),What is 10 × 4 ?,38,39,40,41,40,MCQ
+FMAT589,59,Multiplication (4x),What is 6 × 4 ?,22,23,24,25,24,MCQ
+FMAT590,59,Multiplication (4x),What is 8 × 4 ?,30,31,32,33,32,MCQ
+FMAT591,60,Multiplication (4x),There are 4 apples in each basket. How many apples are in 2 baskets?,6,7,8,9,8,MCQ
+FMAT592,60,Multiplication (4x),Each packet has 4 biscuits. How many biscuits are in 7 packets?,26,27,28,29,28,MCQ
+FMAT593,60,Multiplication (4x),A teacher gives 4 pencils to each of 3 students. How many pencils are given?,10,11,12,13,12,MCQ
+FMAT594,60,Multiplication (4x),Each box has 4 chocolates. How many chocolates are in 4 boxes?,14,15,16,17,16,MCQ
+FMAT595,60,Multiplication (4x),A child gets 4 stickers. How many stickers does 1 child get?,3,4,5,6,4,MCQ
+FMAT596,60,Multiplication (4x),A car has 4 wheels. How many wheels do 5 cars have?,18,19,20,21,20,MCQ
+FMAT597,60,Multiplication (4x),Each shelf holds 4 books. How many books are on 8 shelves?,30,31,32,33,32,MCQ
+FMAT598,60,Multiplication (4x),There are 4 birds on each tree. How many birds are on 9 trees?,34,35,36,37,36,MCQ
+FMAT599,60,Multiplication (4x),There are 4 flowers in each vase. How many flowers are in 6 vases?,22,23,24,25,24,MCQ
+FMAT600,60,Multiplication (4x),Each bag has 4 oranges. How many oranges are in 10 bags?,38,39,40,41,40,MCQ
+FMAT601,61,Multiplication (5x),What is 5 × 1 ?,4,5,6,7,5,MCQ
+FMAT602,61,Multiplication (5x),What is 5 × 2 ?,8,9,10,11,10,MCQ
+FMAT603,61,Multiplication (5x),What is 5 × 3 ?,13,14,15,16,15,MCQ
+FMAT604,61,Multiplication (5x),What is 5 × 4 ?,18,19,20,21,20,MCQ
+FMAT605,61,Multiplication (5x),What is 5 × 5 ?,23,24,25,26,25,MCQ
+FMAT606,61,Multiplication (5x),What is 5 × 6 ?,28,29,30,31,30,MCQ
+FMAT607,61,Multiplication (5x),What is 5 × 7 ?,33,34,35,36,35,MCQ
+FMAT608,61,Multiplication (5x),What is 5 × 8 ?,38,39,40,41,40,MCQ
+FMAT609,61,Multiplication (5x),What is 5 × 9 ?,43,44,45,46,45,MCQ
+FMAT610,61,Multiplication (5x),What is 5 × 10 ?,48,49,50,51,50,MCQ
+FMAT611,62,Multiplication (5x),What is 5 × 5 ?,23,24,25,26,25,MCQ
+FMAT612,62,Multiplication (5x),What is 1 × 5 ?,4,5,6,7,5,MCQ
+FMAT613,62,Multiplication (5x),What is 3 × 5 ?,13,14,15,16,15,MCQ
+FMAT614,62,Multiplication (5x),What is 4 × 5 ?,18,19,20,21,20,MCQ
+FMAT615,62,Multiplication (5x),What is 2 × 5 ?,8,9,10,11,10,MCQ
+FMAT616,62,Multiplication (5x),What is 6 × 5 ?,28,29,30,31,30,MCQ
+FMAT617,62,Multiplication (5x),What is 10 × 5 ?,48,49,50,51,50,MCQ
+FMAT618,62,Multiplication (5x),What is 7 × 5 ?,33,34,35,36,35,MCQ
+FMAT619,62,Multiplication (5x),What is 8 × 5 ?,38,39,40,41,40,MCQ
+FMAT620,62,Multiplication (5x),What is 9 × 5 ?,43,44,45,46,45,MCQ
+FMAT621,63,Multiplication (5x),There are 5 apples in each basket. How many apples are in 2 baskets?,8,9,10,11,10,MCQ
+FMAT622,63,Multiplication (5x),A hand has 5 fingers. How many fingers do 5 hands have?,23,24,25,26,25,MCQ
+FMAT623,63,Multiplication (5x),A teacher gives 5 pencils to each of 3 students. How many pencils are given?,13,14,15,16,15,MCQ
+FMAT624,63,Multiplication (5x),Each packet has 5 biscuits. How many biscuits are in 7 packets?,33,34,35,36,35,MCQ
+FMAT625,63,Multiplication (5x),Each box has 5 chocolates. How many chocolates are in 4 boxes?,18,19,20,21,20,MCQ
+FMAT626,63,Multiplication (5x),There are 5 flowers in each vase. How many flowers are in 6 vases?,28,29,30,31,30,MCQ
+FMAT627,63,Multiplication (5x),Each bag has 5 oranges. How many oranges are in 10 bags?,48,49,50,51,50,MCQ
+FMAT628,63,Multiplication (5x),There are 5 birds on each tree. How many birds are on 9 trees?,43,44,45,46,45,MCQ
+FMAT629,63,Multiplication (5x),A child gets 5 stickers. How many stickers does 1 child get?,4,5,6,7,5,MCQ
+FMAT630,63,Multiplication (5x),Each shelf holds 5 books. How many books are on 8 shelves?,38,39,40,41,40,MCQ
+FMAT631,64,Challenge 6: Multiplication,7 × 4 = _____,,,,,28,FillBlank
+FMAT632,64,Challenge 6: Multiplication,9 × 5 = _____,,,,,45,FillBlank
+FMAT633,64,Challenge 6: Multiplication,_____ × 4 = 32,,,,,8,FillBlank
+FMAT634,64,Challenge 6: Multiplication,6 × _____ = 30,,,,,5,FillBlank
+FMAT635,64,Challenge 6: Multiplication,A teacher has 4 boxes. Each box contains 8 pencils. How many pencils are there altogether?,,,,,32,FillBlank
+FMAT636,64,Challenge 6: Multiplication,5 × 10 = _____,,,,,50,FillBlank
+FMAT637,64,Challenge 6: Multiplication,_____ × 5 = 35,,,,,7,FillBlank
+FMAT638,64,Challenge 6: Multiplication,9 × _____ = 36,,,,,4,FillBlank
+FMAT639,64,Challenge 6: Multiplication,There are 5 shelves. Each shelf has 6 books. How many books are there in total?,,,,,30,FillBlank
+FMAT640,64,Challenge 6: Multiplication,A gardener plants 4 rows of 9 flowers. How many flowers are planted altogether?,,,,,36,FillBlank
+FMAT641,65,Challenge 7:  Addition & Subtraction,43|26|+,,,,,69,ColumnMath
+FMAT642,65,Challenge 7:  Addition & Subtraction,78|35|-,,,,,43,ColumnMath
+FMAT643,65,Challenge 7:  Addition & Subtraction,51|18|+,,,,,69,ColumnMath
+FMAT644,65,Challenge 7:  Addition & Subtraction,84|42|-,,,,,42,ColumnMath
+FMAT645,65,Challenge 7:  Addition & Subtraction,32|47|+,,,,,79,ColumnMath
+FMAT646,65,Challenge 7:  Addition & Subtraction,97|45|-,,,,,52,ColumnMath
+FMAT647,65,Challenge 7:  Addition & Subtraction,61|28|+,,,,,89,ColumnMath
+FMAT648,65,Challenge 7:  Addition & Subtraction,75|34|-,,,,,41,ColumnMath
+FMAT649,65,Challenge 7:  Addition & Subtraction,24|53|+,,,,,77,ColumnMath
+FMAT650,65,Challenge 7:  Addition & Subtraction,88|46|-,,,,,42,ColumnMath
+FMAT651,66,Challenge 8:  Addition & Subtraction,41|37|+,,,,,78,ColumnMath
+FMAT652,66,Challenge 8:  Addition & Subtraction,93|52|-,,,,,41,ColumnMath
+FMAT653,66,Challenge 8:  Addition & Subtraction,56|23|+,,,,,79,ColumnMath
+FMAT654,66,Challenge 8:  Addition & Subtraction,87|36|-,,,,,51,ColumnMath
+FMAT655,66,Challenge 8:  Addition & Subtraction,31|48|+,,,,,79,ColumnMath
+FMAT656,66,Challenge 8:  Addition & Subtraction,96|54|-,,,,,42,ColumnMath
+FMAT657,66,Challenge 8:  Addition & Subtraction,42|27|+,,,,,69,ColumnMath
+FMAT658,66,Challenge 8:  Addition & Subtraction,85|43|-,,,,,42,ColumnMath
+FMAT659,66,Challenge 8:  Addition & Subtraction,53|16|+,,,,,69,ColumnMath
+FMAT660,66,Challenge 8:  Addition & Subtraction,98|57|-,,,,,41,ColumnMath
+FMAT661,67,Challenge 8:  Addition & Subtraction,45|34|+,,,,,79,ColumnMath
+FMAT662,67,Challenge 8:  Addition & Subtraction,76|25|-,,,,,51,ColumnMath
+FMAT663,67,Challenge 8:  Addition & Subtraction,62|17|+,,,,,79,ColumnMath
+FMAT664,67,Challenge 8:  Addition & Subtraction,94|53|-,,,,,41,ColumnMath
+FMAT665,67,Challenge 8:  Addition & Subtraction,33|46|+,,,,,79,ColumnMath
+FMAT666,67,Challenge 8:  Addition & Subtraction,89|47|-,,,,,42,ColumnMath
+FMAT667,67,Challenge 8:  Addition & Subtraction,54|25|+,,,,,79,ColumnMath
+FMAT668,67,Challenge 8:  Addition & Subtraction,77|36|-,,,,,41,ColumnMath
+FMAT669,67,Challenge 8:  Addition & Subtraction,71|18|+,,,,,89,ColumnMath
+FMAT670,67,Challenge 8:  Addition & Subtraction,86|45|-,,,,,41,ColumnMath
+FMAT671,68,Division by 4 and 5,20 ÷ 5 = _____,,,,,4,FillBlank
+FMAT672,68,Division by 4 and 5,16 ÷ 4 = _____,,,,,4,FillBlank
+FMAT673,68,Division by 4 and 5,40 ÷ 5 = _____,,,,,8,FillBlank
+FMAT674,68,Division by 4 and 5,32 ÷ 4 = _____,,,,,8,FillBlank
+FMAT675,68,Division by 4 and 5,25 ÷ 5 = _____,,,,,5,FillBlank
+FMAT676,68,Division by 4 and 5,24 ÷ 4 = _____,,,,,6,FillBlank
+FMAT677,68,Division by 4 and 5,45 ÷ 5 = _____,,,,,9,FillBlank
+FMAT678,68,Division by 4 and 5,36 ÷ 4 = _____,,,,,9,FillBlank
+FMAT679,68,Division by 4 and 5,5 ÷ 5 = _____,,,,,1,FillBlank
+FMAT680,68,Division by 4 and 5,28 ÷ 4 = _____,,,,,7,FillBlank
+FMAT681,69,Division by 4 and 5,35 ÷ 5 = _____,,,,,7,FillBlank
+FMAT682,69,Division by 4 and 5,48 ÷ 4 = _____,,,,,12,FillBlank
+FMAT683,69,Division by 4 and 5,50 ÷ 5 = _____,,,,,10,FillBlank
+FMAT684,69,Division by 4 and 5,12 ÷ 4 = _____,,,,,3,FillBlank
+FMAT685,69,Division by 4 and 5,15 ÷ 5 = _____,,,,,3,FillBlank
+FMAT686,69,Division by 4 and 5,56 ÷ 4 = _____,,,,,14,FillBlank
+FMAT687,69,Division by 4 and 5,30 ÷ 5 = _____,,,,,6,FillBlank
+FMAT688,69,Division by 4 and 5,4 ÷ 4 = _____,,,,,1,FillBlank
+FMAT689,69,Division by 4 and 5,15 ÷ 5 = _____,,,,,3,FillBlank
+FMAT690,69,Division by 4 and 5,16 ÷ 4 = _____,,,,,4,FillBlank
+FMAT691,70,Division Word Problems by 4 and 5,A teacher shares 20 pencils equally among 5 students. How many pencils does each student get?,,,,,4,FillBlank
+FMAT692,70,Division Word Problems by 4 and 5,16 apples are placed equally into 4 baskets. How many apples are in each basket?,,,,,4,FillBlank
+FMAT693,70,Division Word Problems by 4 and 5,A baker packs 40 cookies equally into 5 boxes. How many cookies are in each box?,,,,,8,FillBlank
+FMAT694,70,Division Word Problems by 4 and 5,32 flowers are arranged equally in 4 vases. How many flowers are in each vase?,,,,,8,FillBlank
+FMAT695,70,Division Word Problems by 4 and 5,25 balloons are shared equally among 5 children. How many balloons does each child get?,,,,,5,FillBlank
+FMAT696,70,Division Word Problems by 4 and 5,A farmer puts 24 eggs equally into 4 baskets. How many eggs are in each basket?,,,,,6,FillBlank
+FMAT697,70,Division Word Problems by 4 and 5,45 candies are divided equally among 5 friends. How many candies does each friend get?,,,,,9,FillBlank
+FMAT698,70,Division Word Problems by 4 and 5,A gardener plants 36 flowers equally in 4 rows. How many flowers are in each row?,,,,,9,FillBlank
+FMAT699,70,Division Word Problems by 4 and 5,60 crayons are shared equally among 5 children. How many crayons does each child get?,,,,,12,FillBlank
+FMAT700,70,Division Word Problems by 4 and 5,28 books are placed equally on 4 shelves. How many books are on each shelf?,,,,,7,FillBlank
+FMAT701,71,Division Word Problems by 4 and 5,A shopkeeper packs 35 oranges equally into 5 bags. How many oranges are in each bag?,,,,,7,FillBlank
+FMAT702,71,Division Word Problems by 4 and 5,48 toy blocks are divided equally into 4 boxes. How many blocks are in each box?,,,,,12,FillBlank
+FMAT703,71,Division Word Problems by 4 and 5,50 chocolates are shared equally among 5 children. How many chocolates does each child get?,,,,,10,FillBlank
+FMAT704,71,Division Word Problems by 4 and 5,12 birds sit equally on 4 branches. How many birds are on each branch?,,,,,3,FillBlank
+FMAT705,71,Division Word Problems by 4 and 5,15 toy cars are divided equally among 5 children. How many toy cars does each child get?,,,,,3,FillBlank
+FMAT706,71,Division Word Problems by 4 and 5,56 marbles are shared equally among 4 boys. How many marbles does each boy get?,,,,,14,FillBlank
+FMAT707,71,Division Word Problems by 4 and 5,A librarian arranges 30 storybooks equally on 5 shelves. How many books are on each shelf?,,,,,6,FillBlank
+FMAT708,71,Division Word Problems by 4 and 5,44 stickers are shared equally among 4 friends. How many stickers does each friend get?,,,,,11,FillBlank
+FMAT709,71,Division Word Problems by 4 and 5,55 stars are divided equally into 5 groups. How many stars are in each group?,,,,,11,FillBlank
+FMAT710,71,Division Word Problems by 4 and 5,64 biscuits are packed equally into 4 tins. How many biscuits are in each tin?,,,,,16,FillBlank
+FMAT711,72,Challenge 9: Multiplication & Division,4 × 5 = _____,,,,,20,FillBlank
+FMAT712,72,Challenge 9: Multiplication & Division,18 ÷ 3 = _____,,,,,6,FillBlank
+FMAT713,72,Challenge 9: Multiplication & Division,3 × 7 = _____,,,,,21,FillBlank
+FMAT714,72,Challenge 9: Multiplication & Division,16 ÷ 4 = _____,,,,,4,FillBlank
+FMAT715,72,Challenge 9: Multiplication & Division,5 × 8 = _____,,,,,40,FillBlank
+FMAT716,72,Challenge 9: Multiplication & Division,20 ÷ 5 = _____,,,,,4,FillBlank
+FMAT717,72,Challenge 9: Multiplication & Division,2 × 9 = _____,,,,,18,FillBlank
+FMAT718,72,Challenge 9: Multiplication & Division,14 ÷ 2 = _____,,,,,7,FillBlank
+FMAT719,72,Challenge 9: Multiplication & Division,4 × 6 = _____,,,,,24,FillBlank
+FMAT720,72,Challenge 9: Multiplication & Division,27 ÷ 3 = _____,,,,,9,FillBlank
+FMAT721,73,Challenge 9: Multiplication & Division,5 × 6 = _____,,,,,30,FillBlank
+FMAT722,73,Challenge 9: Multiplication & Division,32 ÷ 4 = _____,,,,,8,FillBlank
+FMAT723,73,Challenge 9: Multiplication & Division,3 × 8 = _____,,,,,24,FillBlank
+FMAT724,73,Challenge 9: Multiplication & Division,45 ÷ 5 = _____,,,,,9,FillBlank
+FMAT725,73,Challenge 9: Multiplication & Division,2 × 10 = _____,,,,,20,FillBlank
+FMAT726,73,Challenge 9: Multiplication & Division,12 ÷ 2 = _____,,,,,6,FillBlank
+FMAT727,73,Challenge 9: Multiplication & Division,4 × 9 = _____,,,,,36,FillBlank
+FMAT728,73,Challenge 9: Multiplication & Division,24 ÷ 4 = _____,,,,,6,FillBlank
+FMAT729,73,Challenge 9: Multiplication & Division,3 × 9 = _____,,,,,27,FillBlank
+FMAT730,73,Challenge 9: Multiplication & Division,35 ÷ 5 = _____,,,,,7,FillBlank
+FMAT731,74,Multiplication (6x),What is 6 × 1 ?,5,6,7,8,6,MCQ
+FMAT732,74,Multiplication (6x),What is 6 × 2 ?,10,12,14,16,12,MCQ
+FMAT733,74,Multiplication (6x),What is 6 × 3 ?,16,18,20,22,18,MCQ
+FMAT734,74,Multiplication (6x),What is 6 × 4 ?,22,24,26,28,24,MCQ
+FMAT735,74,Multiplication (6x),What is 6 × 5 ?,28,30,32,34,30,MCQ
+FMAT736,74,Multiplication (6x),What is 6 × 6 ?,34,36,38,40,36,MCQ
+FMAT737,74,Multiplication (6x),What is 6 × 7 ?,40,42,44,46,42,MCQ
+FMAT738,74,Multiplication (6x),What is 6 × 8 ?,46,48,50,52,48,MCQ
+FMAT739,74,Multiplication (6x),What is 6 × 9 ?,52,54,56,58,54,MCQ
+FMAT740,74,Multiplication (6x),What is 6 × 10 ?,58,60,62,64,60,MCQ
+FMAT741,75,Multiplication (6x),What is 4 × 6 ?,22,24,26,28,24,MCQ
+FMAT742,75,Multiplication (6x),What is 1 × 6 ?,5,6,7,8,6,MCQ
+FMAT743,75,Multiplication (6x),What is 2 × 6 ?,10,12,14,16,12,MCQ
+FMAT744,75,Multiplication (6x),What is 8 × 6 ?,46,48,50,52,48,MCQ
+FMAT745,75,Multiplication (6x),What is 3 × 6 ?,16,18,20,22,18,MCQ
+FMAT746,75,Multiplication (6x),What is 5 × 6 ?,28,30,32,34,30,MCQ
+FMAT747,75,Multiplication (6x),What is 7 × 6 ?,40,42,44,46,42,MCQ
+FMAT748,75,Multiplication (6x),What is 9 × 6 ?,52,54,56,58,54,MCQ
+FMAT749,75,Multiplication (6x),What is 10 × 6 ?,58,60,62,64,60,MCQ
+FMAT750,75,Multiplication (6x),What is 6 × 6 ?,34,36,38,40,36,MCQ
+FMAT751,76,Multiplication (6x),A teacher gives 6 pencils to each of 3 students. How many pencils are given?,16,18,20,22,18,MCQ
+FMAT752,76,Multiplication (6x),A packet has 6 biscuits. How many biscuits are in 8 packets?,46,48,50,52,48,MCQ
+FMAT753,76,Multiplication (6x),Each box has 6 chocolates. How many chocolates are in 4 boxes?,22,24,26,28,24,MCQ
+FMAT754,76,Multiplication (6x),A spider has 6 legs. How many legs do 5 spiders have?,24,28,30,32,30,MCQ
+FMAT755,76,Multiplication (6x),Each shelf holds 6 books. How many books are on 10 shelves?,58,60,62,64,60,MCQ
+FMAT756,76,Multiplication (6x),There are 6 flowers in each vase. How many flowers are in 6 vases?,34,35,36,37,36,MCQ
+FMAT757,76,Multiplication (6x),Each week has 6 school days. How many school days are there in 7 weeks?,40,41,42,43,42,MCQ
+FMAT758,76,Multiplication (6x),There are 6 birds on each tree. How many birds are on 9 trees?,52,54,56,58,54,MCQ
+FMAT759,76,Multiplication (6x),There are 6 apples in each basket. How many apples are in 2 baskets?,10,12,14,16,12,MCQ
+FMAT760,76,Multiplication (6x),A shop sells 6 balloons every hour. How many balloons are sold in 1 hour?,5,6,7,8,6,MCQ
+FMAT761,77,Multiplication (7x ),What is 7 × 1 ?,6,7,8,9,7,MCQ
+FMAT762,77,Multiplication (7x ),What is 7 × 2 ?,12,13,14,15,14,MCQ
+FMAT763,77,Multiplication (7x ),What is 7 × 3 ?,19,20,21,22,21,MCQ
+FMAT764,77,Multiplication (7x ),What is 7 × 4 ?,26,27,28,29,28,MCQ
+FMAT765,77,Multiplication (7x ),What is 7 × 5 ?,33,34,35,36,35,MCQ
+FMAT766,77,Multiplication (7x ),What is 7 × 6 ?,40,41,42,43,42,MCQ
+FMAT767,77,Multiplication (7x ),What is 7 × 7 ?,47,48,49,50,49,MCQ
+FMAT768,77,Multiplication (7x ),What is 7 × 8 ?,54,55,56,57,56,MCQ
+FMAT769,77,Multiplication (7x ),What is 7 × 9 ?,61,62,63,64,63,MCQ
+FMAT770,77,Multiplication (7x ),What is 7 × 10 ?,68,69,70,71,70,MCQ
+FMAT771,78,Multiplication (7x ),What is 1 × 7 ?,6,7,8,9,7,MCQ
+FMAT772,78,Multiplication (7x ),What is 6 × 7 ?,40,41,42,43,42,MCQ
+FMAT773,78,Multiplication (7x ),What is 2 × 7 ?,12,13,14,15,14,MCQ
+FMAT774,78,Multiplication (7x ),What is 4 × 7 ?,26,27,28,29,28,MCQ
+FMAT775,78,Multiplication (7x ),What is 5 × 7 ?,33,34,35,36,35,MCQ
+FMAT776,78,Multiplication (7x ),What is 10 × 7 ?,68,69,70,71,70,MCQ
+FMAT777,78,Multiplication (7x ),What is 8 × 7 ?,54,55,56,57,56,MCQ
+FMAT778,78,Multiplication (7x ),What is 9 × 7 ?,61,62,63,64,63,MCQ
+FMAT779,78,Multiplication (7x ),What is 7 × 7 ?,47,48,49,50,49,MCQ
+FMAT780,78,Multiplication (7x ),What is 3 × 7 ?,19,20,21,22,21,MCQ
+FMAT781,79,Multiplication (7x ),There are 7 apples in each basket. How many apples are in 2 baskets?,12,14,16,18,14,MCQ
+FMAT782,79,Multiplication (7x ),A teacher gives 7 pencils to each of 3 students. How many pencils are given?,20,21,22,23,21,MCQ
+FMAT783,79,Multiplication (7x ),There are 7 birds on each tree. How many birds are on 9 trees?,61,62,63,64,63,MCQ
+FMAT784,79,Multiplication (7x ),Each box has 7 chocolates. How many chocolates are in 4 boxes?,26,27,28,29,28,MCQ
+FMAT785,79,Multiplication (7x ),There are 7 flowers in each vase. How many flowers are in 6 vases?,40,41,42,43,42,MCQ
+FMAT786,79,Multiplication (7x ),A spider has 7 toy stickers on each page. How many stickers are on 7 pages?,47,48,49,50,49,MCQ
+FMAT787,79,Multiplication (7x ),Each packet has 7 biscuits. How many biscuits are in 8 packets?,54,55,56,57,56,MCQ
+FMAT788,79,Multiplication (7x ),Each shelf holds 7 books. How many books are on 10 shelves?,68,69,70,71,70,MCQ
+FMAT789,79,Multiplication (7x ),A week has 7 days. How many days are there in 5 weeks?,33,34,35,36,35,MCQ
+FMAT790,79,Multiplication (7x ),A shop sells 7 balloons every hour. How many balloons are sold in 1 hour?,6,7,8,9,7,MCQ
+FMAT791,80,Division by 6 and 7,42 ÷ 6 = _____,,,,,7,FillBlank
+FMAT792,80,Division by 6 and 7,28 ÷ 7 = _____,,,,,4,FillBlank
+FMAT793,80,Division by 6 and 7,18 ÷ 6 = _____,,,,,3,FillBlank
+FMAT794,80,Division by 6 and 7,49 ÷ 7 = _____,,,,,7,FillBlank
+FMAT795,80,Division by 6 and 7,54 ÷ 6 = _____,,,,,9,FillBlank
+FMAT796,80,Division by 6 and 7,35 ÷ 7 = _____,,,,,5,FillBlank
+FMAT797,80,Division by 6 and 7,30 ÷ 6 = _____,,,,,5,FillBlank
+FMAT798,80,Division by 6 and 7,63 ÷ 7 = _____,,,,,9,FillBlank
+FMAT799,80,Division by 6 and 7,60 ÷ 6 = _____,,,,,10,FillBlank
+FMAT800,80,Division by 6 and 7,14 ÷ 7 = _____,,,,,2,FillBlank
+FMAT801,81,Division by 6 and 7,24 ÷ 6 = _____,,,,,4,FillBlank
+FMAT802,81,Division by 6 and 7,56 ÷ 7 = _____,,,,,8,FillBlank
+FMAT803,81,Division by 6 and 7,36 ÷ 6 = _____,,,,,6,FillBlank
+FMAT804,81,Division by 6 and 7,21 ÷ 7 = _____,,,,,3,FillBlank
+FMAT805,81,Division by 6 and 7,48 ÷ 6 = _____,,,,,8,FillBlank
+FMAT806,81,Division by 6 and 7,70 ÷ 7 = _____,,,,,10,FillBlank
+FMAT807,81,Division by 6 and 7,12 ÷ 6 = _____,,,,,2,FillBlank
+FMAT808,81,Division by 6 and 7,7 ÷ 7 = _____,,,,,1,FillBlank
+FMAT809,81,Division by 6 and 7,6 ÷ 6 = _____,,,,,1,FillBlank
+FMAT810,81,Division by 6 and 7,42 ÷ 7 = _____,,,,,6,FillBlank
+FMAT811,82,Choose the Operation,A week has 7 days. How many days are there in 5 weeks?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT812,82,Choose the Operation,Rina has 15 apples. She buys 8 more apples. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT813,82,Choose the Operation,Tom has 20 balloons. He gives 6 balloons to his friend. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT814,82,Choose the Operation,There are 4 baskets with 9 oranges in each basket. Which operation should you use?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT815,82,Choose the Operation,A farmer plants 6 rows of 8 flowers. Which operation should you use?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT816,82,Choose the Operation,Sara has 32 stickers. She loses 9 stickers. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT817,82,Choose the Operation,Ali has 14 marbles. His uncle gives him 11 more marbles. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT818,82,Choose the Operation,There are 5 boxes with 10 pencils in each box. Which operation should you use?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT819,82,Choose the Operation,Nina has 18 pencils. She gives away 5 pencils. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT820,82,Choose the Operation,A bus has 27 passengers. 13 more passengers get on. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT821,83,Choose the Operation,A spider has 8 legs. How many legs do 6 spiders have?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT822,83,Choose the Operation,John had 40 coins. He spent 17 coins. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT823,83,Choose the Operation,A box contains 10 crayons. How many crayons are in 9 boxes?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT824,83,Choose the Operation,Maya collected 25 shells and then found 14 more shells. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT825,83,Choose the Operation,A class has 30 students. 7 students are absent. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT826,83,Choose the Operation,There are 5 tables with 8 chairs at each table. Which operation should you use?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT827,83,Choose the Operation,Emma has 22 storybooks. Her father gives her 6 more books. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT828,83,Choose the Operation,David has 35 toy cars. He gives 12 to his cousin. Which operation should you use?,Addition,Subtraction,Multiplication,,Subtraction,MCQ
+FMAT829,83,Choose the Operation,There are 9 bags with 4 candies in each bag. Which operation should you use?,Addition,Subtraction,Multiplication,,Multiplication,MCQ
+FMAT830,83,Choose the Operation,Lily has 16 balloons. Her friends give her 9 more balloons. Which operation should you use?,Addition,Subtraction,Multiplication,,Addition,MCQ
+FMAT831,84,Addition with Carrying,27|15|+,,,,,42,ColumnMath
+FMAT832,84,Addition with Carrying,38|27|+,,,,,65,ColumnMath
+FMAT833,84,Addition with Carrying,46|19|+,,,,,65,ColumnMath
+FMAT834,84,Addition with Carrying,58|16|+,,,,,74,ColumnMath
+FMAT835,84,Addition with Carrying,39|24|+,,,,,63,ColumnMath
+FMAT836,84,Addition with Carrying,47|28|+,,,,,75,ColumnMath
+FMAT837,84,Addition with Carrying,65|17|+,,,,,82,ColumnMath
+FMAT838,84,Addition with Carrying,29|35|+,,,,,64,ColumnMath
+FMAT839,84,Addition with Carrying,48|15|+,,,,,63,ColumnMath
+FMAT840,84,Addition with Carrying,57|26|+,,,,,83,ColumnMath
+FMAT841,85,Addition with Carrying,36|28|+,,,,,64,ColumnMath
+FMAT842,85,Addition with Carrying,49|18|+,,,,,67,ColumnMath
+FMAT843,85,Addition with Carrying,68|15|+,,,,,83,ColumnMath
+FMAT844,85,Addition with Carrying,59|23|+,,,,,82,ColumnMath
+FMAT845,85,Addition with Carrying,77|16|+,,,,,93,ColumnMath
+FMAT846,85,Addition with Carrying,28|39|+,,,,,67,ColumnMath
+FMAT847,85,Addition with Carrying,56|18|+,,,,,74,ColumnMath
+FMAT848,85,Addition with Carrying,37|25|+,,,,,62,ColumnMath
+FMAT849,85,Addition with Carrying,69|14|+,,,,,83,ColumnMath
+FMAT850,85,Addition with Carrying,88|13|+,,,,,101,ColumnMath
+FMAT851,86,Subtraction with Borrowing,52|17|-,,,,,35,ColumnMath
+FMAT852,86,Subtraction with Borrowing,63|28|-,,,,,35,ColumnMath
+FMAT853,86,Subtraction with Borrowing,74|39|-,,,,,35,ColumnMath
+FMAT854,86,Subtraction with Borrowing,81|26|-,,,,,55,ColumnMath
+FMAT855,86,Subtraction with Borrowing,92|47|-,,,,,45,ColumnMath
+FMAT856,86,Subtraction with Borrowing,53|18|-,,,,,35,ColumnMath
+FMAT857,86,Subtraction with Borrowing,64|29|-,,,,,35,ColumnMath
+FMAT858,86,Subtraction with Borrowing,75|38|-,,,,,37,ColumnMath
+FMAT859,86,Subtraction with Borrowing,82|47|-,,,,,35,ColumnMath
+FMAT860,86,Subtraction with Borrowing,93|58|-,,,,,35,ColumnMath
+FMAT861,87,Subtraction with Borrowing,61|24|-,,,,,37,ColumnMath
+FMAT862,87,Subtraction with Borrowing,72|35|-,,,,,37,ColumnMath
+FMAT863,87,Subtraction with Borrowing,84|29|-,,,,,55,ColumnMath
+FMAT864,87,Subtraction with Borrowing,95|37|-,,,,,58,ColumnMath
+FMAT865,87,Subtraction with Borrowing,73|18|-,,,,,55,ColumnMath
+FMAT866,87,Subtraction with Borrowing,62|27|-,,,,,35,ColumnMath
+FMAT867,87,Subtraction with Borrowing,91|46|-,,,,,45,ColumnMath
+FMAT868,87,Subtraction with Borrowing,83|28|-,,,,,55,ColumnMath
+FMAT869,87,Subtraction with Borrowing,54|19|-,,,,,35,ColumnMath
+FMAT870,87,Subtraction with Borrowing,71|26|-,,,,,45,ColumnMath
+FMAT871,88,Multiplication (8x ),What is 8 × 1 ?,7,8,9,10,8,MCQ
+FMAT872,88,Multiplication (8x ),What is 8 × 2 ?,14,15,16,17,16,MCQ
+FMAT873,88,Multiplication (8x ),What is 8 × 3 ?,22,23,24,25,24,MCQ
+FMAT874,88,Multiplication (8x ),What is 8 × 4 ?,30,31,32,33,32,MCQ
+FMAT875,88,Multiplication (8x ),What is 8 × 5 ?,38,39,40,41,40,MCQ
+FMAT876,88,Multiplication (8x ),What is 8 × 6 ?,46,47,48,49,48,MCQ
+FMAT877,88,Multiplication (8x ),What is 8 × 7 ?,54,55,56,57,56,MCQ
+FMAT878,88,Multiplication (8x ),What is 8 × 8 ?,62,63,64,65,64,MCQ
+FMAT879,88,Multiplication (8x ),What is 8 × 9 ?,70,71,72,73,72,MCQ
+FMAT880,88,Multiplication (8x ),What is 8 × 10 ?,78,79,80,81,80,MCQ
+FMAT881,89,Multiplication (8x ),What is 8 × 6 ?,46,47,48,49,48,MCQ
+FMAT882,89,Multiplication (8x ),What is 3 × 8 ?,22,23,24,25,24,MCQ
+FMAT883,89,Multiplication (8x ),What is 10 × 8 ?,78,79,80,81,80,MCQ
+FMAT884,89,Multiplication (8x ),What is 1 × 8 ?,7,8,9,10,8,MCQ
+FMAT885,89,Multiplication (8x ),What is 7 × 8 ?,54,55,56,57,56,MCQ
+FMAT886,89,Multiplication (8x ),What is 5 × 8 ?,38,39,40,41,40,MCQ
+FMAT887,89,Multiplication (8x ),What is 8 × 8 ?,62,63,64,65,64,MCQ
+FMAT888,89,Multiplication (8x ),What is 2 × 8 ?,14,15,16,17,16,MCQ
+FMAT889,89,Multiplication (8x ),What is 9 × 8 ?,70,71,72,73,72,MCQ
+FMAT890,89,Multiplication (8x ),What is 4 × 8 ?,30,31,32,33,32,MCQ
+FMAT891,90,Multiplication (8x ),Each packet has 8 biscuits. How many biscuits are in 7 packets?,54,55,56,57,56,MCQ
+FMAT892,90,Multiplication (8x ),There are 8 apples in each basket. How many apples are in 2 baskets?,14,15,16,17,16,MCQ
+FMAT893,90,Multiplication (8x ),Each shelf holds 8 books. How many books are on 10 shelves?,78,79,80,81,80,MCQ
+FMAT894,90,Multiplication (8x ),A spider has 8 legs. How many legs do 4 spiders have?,30,31,32,33,32,MCQ
+FMAT895,90,Multiplication (8x ),There are 8 flowers in each vase. How many flowers are in 6 vases?,46,47,48,49,48,MCQ
+FMAT896,90,Multiplication (8x ),Each box has 8 chocolates. How many chocolates are in 8 boxes?,62,63,64,65,64,MCQ
+FMAT897,90,Multiplication (8x ),A teacher gives 8 pencils to each of 3 students. How many pencils are given?,22,23,24,25,24,MCQ
+FMAT898,90,Multiplication (8x ),Each bag has 8 oranges. How many oranges are in 5 bags?,38,39,40,41,40,MCQ
+FMAT899,90,Multiplication (8x ),There are 8 birds on each tree. How many birds are on 9 trees?,70,71,72,73,72,MCQ
+FMAT900,90,Multiplication (8x ),A shop sells 8 balloons every hour. How many balloons are sold in 1 hour?,7,8,9,10,8,MCQ
+FMAT901,91,Multiplication (9x ),What is 9 × 1 ?,8,9,10,11,9,MCQ
+FMAT902,91,Multiplication (9x ),What is 9 × 2 ?,16,17,18,19,18,MCQ
+FMAT903,91,Multiplication (9x ),What is 9 × 3 ?,25,26,27,28,27,MCQ
+FMAT904,91,Multiplication (9x ),What is 9 × 4 ?,34,35,36,37,36,MCQ
+FMAT905,91,Multiplication (9x ),What is 9 × 5 ?,43,44,45,46,45,MCQ
+FMAT906,91,Multiplication (9x ),What is 9 × 6 ?,52,53,54,55,54,MCQ
+FMAT907,91,Multiplication (9x ),What is 9 × 7 ?,61,62,63,64,63,MCQ
+FMAT908,91,Multiplication (9x ),What is 9 × 8 ?,70,71,72,73,72,MCQ
+FMAT909,91,Multiplication (9x ),What is 9 × 9 ?,79,80,81,82,81,MCQ
+FMAT910,91,Multiplication (9x ),What is 9 × 10 ?,88,89,90,91,90,MCQ
+FMAT911,92,Multiplication (9x ),What is 7 × 9 ?,61,62,63,64,63,MCQ
+FMAT912,92,Multiplication (9x ),What is 2 × 9 ?,16,17,18,19,18,MCQ
+FMAT913,92,Multiplication (9x ),What is 10 × 9 ?,88,89,90,91,90,MCQ
+FMAT914,92,Multiplication (9x ),What is 4 × 9 ?,34,35,36,37,36,MCQ
+FMAT915,92,Multiplication (9x ),What is 1 × 9 ?,8,9,10,11,9,MCQ
+FMAT916,92,Multiplication (9x ),What is 8 × 9 ?,70,71,72,73,72,MCQ
+FMAT917,92,Multiplication (9x ),What is 5 × 9 ?,43,44,45,46,45,MCQ
+FMAT918,92,Multiplication (9x ),What is 9 × 9 ?,79,80,81,82,81,MCQ
+FMAT919,92,Multiplication (9x ),What is 3 × 9 ?,25,26,27,28,27,MCQ
+FMAT920,92,Multiplication (9x ),What is 6 × 9 ?,52,53,54,55,54,MCQ
+FMAT921,93,Multiplication (9x ),Each packet has 9 biscuits. How many biscuits are in 8 packets?,70,71,72,73,72,MCQ
+FMAT922,93,Multiplication (9x ),There are 9 apples in each basket. How many apples are in 3 baskets?,25,26,27,28,27,MCQ
+FMAT923,93,Multiplication (9x ),Each shelf holds 9 books. How many books are on 10 shelves?,88,89,90,91,90,MCQ
+FMAT924,93,Multiplication (9x ),A cat has 9 toy balls. How many toy balls do 5 cats have?,43,44,45,46,45,MCQ
+FMAT925,93,Multiplication (9x ),There are 9 flowers in each vase. How many flowers are in 6 vases?,52,53,54,55,54,MCQ
+FMAT926,93,Multiplication (9x ),Each box has 9 chocolates. How many chocolates are in 9 boxes?,79,80,81,82,81,MCQ
+FMAT927,93,Multiplication (9x ),A teacher gives 9 pencils to each of 2 students. How many pencils are given?,16,17,18,19,18,MCQ
+FMAT928,93,Multiplication (9x ),Each bag has 9 oranges. How many oranges are in 7 bags?,61,62,63,64,63,MCQ
+FMAT929,93,Multiplication (9x ),There are 9 birds on each tree. How many birds are on 4 trees?,34,35,36,37,36,MCQ
+FMAT930,93,Multiplication (9x ),A shop sells 9 balloons every hour. How many balloons are sold in 1 hour?,8,9,10,11,9,MCQ
+FMAT931,94,Multiplication (10x ),What is 10 × 1 ?,9,10,11,12,10,MCQ
+FMAT932,94,Multiplication (10x ),What is 10 × 2 ?,18,19,20,21,20,MCQ
+FMAT933,94,Multiplication (10x ),What is 10 × 3 ?,28,29,30,31,30,MCQ
+FMAT934,94,Multiplication (10x ),What is 10 × 4 ?,38,39,40,41,40,MCQ
+FMAT935,94,Multiplication (10x ),What is 10 × 5 ?,48,49,50,51,50,MCQ
+FMAT936,94,Multiplication (10x ),What is 10 × 6 ?,58,59,60,61,60,MCQ
+FMAT937,94,Multiplication (10x ),What is 10 × 7 ?,68,69,70,71,70,MCQ
+FMAT938,94,Multiplication (10x ),What is 10 × 8 ?,78,79,80,81,80,MCQ
+FMAT939,94,Multiplication (10x ),What is 10 × 9 ?,88,89,90,91,90,MCQ
+FMAT940,94,Multiplication (10x ),What is 10 × 10 ?,98,99,100,101,100,MCQ
+FMAT941,95,Multiplication (10x ),What is 8 × 10 ?,78,79,80,81,80,MCQ
+FMAT942,95,Multiplication (10x ),What is 2 × 10 ?,18,19,20,21,20,MCQ
+FMAT943,95,Multiplication (10x ),What is 10 × 10 ?,98,99,100,101,100,MCQ
+FMAT944,95,Multiplication (10x ),What is 5 × 10 ?,48,49,50,51,50,MCQ
+FMAT945,95,Multiplication (10x ),What is 1 × 10 ?,9,10,11,12,10,MCQ
+FMAT946,95,Multiplication (10x ),What is 7 × 10 ?,68,69,70,71,70,MCQ
+FMAT947,95,Multiplication (10x ),What is 3 × 10 ?,28,29,30,31,30,MCQ
+FMAT948,95,Multiplication (10x ),What is 9 × 10 ?,88,89,90,91,90,MCQ
+FMAT949,95,Multiplication (10x ),What is 6 × 10 ?,58,59,60,61,60,MCQ
+FMAT950,95,Multiplication (10x ),What is 4 × 10 ?,38,39,40,41,40,MCQ
+FMAT951,96,Multiplication (10x ),Each packet has 10 biscuits. How many biscuits are in 8 packets?,78,79,80,81,80,MCQ
+FMAT952,96,Multiplication (10x ),There are 10 apples in each basket. How many apples are in 3 baskets?,28,29,30,31,30,MCQ
+FMAT953,96,Multiplication (10x ),Each shelf holds 10 books. How many books are on 10 shelves?,98,99,100,101,100,MCQ
+FMAT954,96,Multiplication (10x ),A box contains 10 crayons. How many crayons are in 5 boxes?,48,49,50,51,50,MCQ
+FMAT955,96,Multiplication (10x ),There are 10 flowers in each vase. How many flowers are in 6 vases?,58,59,60,61,60,MCQ
+FMAT956,96,Multiplication (10x ),Each bag has 10 oranges. How many oranges are in 9 bags?,88,89,90,91,90,MCQ
+FMAT957,96,Multiplication (10x ),A teacher gives 10 pencils to each of 2 students. How many pencils are given?,18,19,20,21,20,MCQ
+FMAT958,96,Multiplication (10x ),Each toy costs 10 dollars. What is the cost of 7 toys?,68,69,70,71,70,MCQ
+FMAT959,96,Multiplication (10x ),A shop sells 10 balloons every hour. How many balloons are sold in 4 hours?,38,39,40,41,40,MCQ
+FMAT960,96,Multiplication (10x ),A child gets 10 stickers. How many stickers does 1 child get?,9,10,11,12,10,MCQ
+FMAT961,97,Division by 8 and 9,72 ÷ 8 = _____,,,,,9,FillBlank
+FMAT962,97,Division by 8 and 9,27 ÷ 9 = _____,,,,,3,FillBlank
+FMAT963,97,Division by 8 and 9,40 ÷ 8 = _____,,,,,5,FillBlank
+FMAT964,97,Division by 8 and 9,54 ÷ 9 = _____,,,,,6,FillBlank
+FMAT965,97,Division by 8 and 9,64 ÷ 8 = _____,,,,,8,FillBlank
+FMAT966,97,Division by 8 and 9,81 ÷ 9 = _____,,,,,9,FillBlank
+FMAT967,97,Division by 8 and 9,16 ÷ 8 = _____,,,,,2,FillBlank
+FMAT968,97,Division by 8 and 9,36 ÷ 9 = _____,,,,,4,FillBlank
+FMAT969,97,Division by 8 and 9,56 ÷ 8 = _____,,,,,7,FillBlank
+FMAT970,97,Division by 8 and 9,18 ÷ 9 = _____,,,,,2,FillBlank
+FMAT971,98,Division by 8 and 9,24 ÷ 8 = _____,,,,,3,FillBlank
+FMAT972,98,Division by 8 and 9,45 ÷ 9 = _____,,,,,5,FillBlank
+FMAT973,98,Division by 8 and 9,80 ÷ 8 = _____,,,,,10,FillBlank
+FMAT974,98,Division by 8 and 9,63 ÷ 9 = _____,,,,,7,FillBlank
+FMAT975,98,Division by 8 and 9,48 ÷ 8 = _____,,,,,6,FillBlank
+FMAT976,98,Division by 8 and 9,9 ÷ 9 = _____,,,,,1,FillBlank
+FMAT977,98,Division by 8 and 9,8 ÷ 8 = _____,,,,,1,FillBlank
+FMAT978,98,Division by 8 and 9,72 ÷ 9 = _____,,,,,8,FillBlank
+FMAT979,98,Division by 8 and 9,32 ÷ 8 = _____,,,,,4,FillBlank
+FMAT980,98,Division by 8 and 9,90 ÷ 9 = _____,,,,,10,FillBlank
+FMAT981,99,Challenge 10: Mixed Operations,27|15|+,,,,,42,ColumnMath
+FMAT982,99,Challenge 10: Mixed Operations,48 ÷ 6 = _____,,,,,8,FillBlank
+FMAT983,99,Challenge 10: Mixed Operations,63|28|-,,,,,35,ColumnMath
+FMAT984,99,Challenge 10: Mixed Operations,7 × 8 = _____,,,,,56,FillBlank
+FMAT985,99,Challenge 10: Mixed Operations,19|34|+,,,,,53,ColumnMath
+FMAT986,99,Challenge 10: Mixed Operations,72 ÷ 9 = _____,,,,,8,FillBlank
+FMAT987,99,Challenge 10: Mixed Operations,90|47|-,,,,,43,ColumnMath
+FMAT988,99,Challenge 10: Mixed Operations,6 × 9 = _____,,,,,54,FillBlank
+FMAT989,99,Challenge 10: Mixed Operations,56|18|+,,,,,74,ColumnMath
+FMAT990,99,Challenge 10: Mixed Operations,40 ÷ 5 = _____,,,,,8,FillBlank
+FMAT991,100,Challenge 10: Mixed Operations,81|36|-,,,,,45,ColumnMath
+FMAT992,100,Challenge 10: Mixed Operations,4 × 9 = _____,,,,,36,FillBlank
+FMAT993,100,Challenge 10: Mixed Operations,38|27|+,,,,,65,ColumnMath
+FMAT994,100,Challenge 10: Mixed Operations,64 ÷ 8 = _____,,,,,8,FillBlank
+FMAT995,100,Challenge 10: Mixed Operations,75|29|-,,,,,46,ColumnMath
+FMAT996,100,Challenge 10: Mixed Operations,5 × 7 = _____,,,,,35,FillBlank
+FMAT997,100,Challenge 10: Mixed Operations,46|29|+,,,,,75,ColumnMath
+FMAT998,100,Challenge 10: Mixed Operations,42 ÷ 7 = _____,,,,,6,FillBlank
+FMAT999,100,Challenge 10: Mixed Operations,100|58|-,,,,,42,ColumnMath
+FMAT1000,100,Challenge 10: Mixed Operations,3 × 8 = _____,,,,,24,FillBlank

@@ -1,0 +1,17 @@
+﻿Id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId
+1,1,The Clever Fox,What did the fox find?,Apple,Fish,Bread,Cheese,Cheese,MCQ,,P001
+2,1,The Clever Fox,Where was the cheese?,In a basket,On the ground,On a tree,In a house,On a tree,MCQ,,P001
+3,1,The Clever Fox,Why did the crow sing?,It was happy,The fox praised it,It was hungry,It saw food,The fox praised it,MCQ,,P001
+4,2,Lost Puppy Max,Why did Max wander away from his home?,He was playing with a girl,He was looking for food,He wanted to go to school,He was chasing a butterfly,He was chasing a butterfly,MCQ,,P002
+5,2,Lost Puppy Max,What did the kind girl give Max?,Some food,A toy,Some water,A blanket,Some water,MCQ,,P002
+6,2,Lost Puppy Max,How did Max's owner find him?,The girl called the phone number on his collar,A neighbor found him,The puppy returned by himself,A police officer brought him home,The girl called the phone number on his collar,MCQ,,P002
+7,3,Our Solar System,How many planets are in our solar system?,Six,Eight,Nine,Ten,Eight,MCQ,,P003
+8,3,Our Solar System,Which planet is closest to the Sun?,Earth,Mars,Neptune,Mercury,Mercury,MCQ,,P003
+9,3,Our Solar System,Which planet is known to support life?,Venus,Earth,Jupiter,Saturn,Earth,MCQ,,P003
+10,3,Our Solar System,What do planets travel around the Sun in?,Paths called orbits,Rings,Clouds,Spaceships,Paths called orbits,MCQ,,P003
+11,3,Our Solar System,What do scientists use to learn about the solar system?,Planes and trains,Books and maps,Telescopes and spacecraft,Only computers,Telescopes and spacecraft,MCQ,,P003
+12,4,The Wright Brothers,Who made the first successful powered airplane flight?,The Wright brothers,Thomas Edison,Alexander Graham Bell,Isaac Newton,The Wright brothers,MCQ,,P004
+13,4,The Wright Brothers,In which year did the Wright brothers make their first successful flight?,1899,1903,1910,1920,1903,MCQ,,P004
+14,4,The Wright Brothers,Where did the first successful powered airplane flight take place?,Texas,California,North Carolina,Florida,North Carolina,MCQ,,P004
+15,4,The Wright Brothers,What did the first successful flight prove?,Helicopters were invented,Airplanes could fly across oceans,Airplanes could carry many people,Powered flight was possible,Powered flight was possible,MCQ,,P004
+16,4,The Wright Brothers,Why do millions of people travel by airplane today?,Because cars are too slow,Because trains stopped running,Because of the Wright brothers' invention,Because airplanes existed forever,Because of the Wright brothers' invention,MCQ,,P004

@@ -1,0 +1,7 @@
+﻿Id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId
+RP001,1,The Clever Fox,What did the fox find?,Cheese,Fish,Bread,Apple,Cheese,MCQ,,P001
+RP002,1,The Clever Fox,Where was the cheese?,On a tree,On the ground,In a basket,In a house,On a tree,MCQ,,P001
+RP003,1,The Clever Fox,Why did the crow sing?,It was happy,The fox praised it,It was hungry,It saw food,The fox praised it,MCQ,,P001
+3,2,The Lost Puppy,What did the fox find?,Cheese,Fish,Bread,Apple,Cheese,MCQ,,P002
+4,2,The Lost Puppy,Where was the cheese?,On a tree,On the ground,In a basket,In a house,On a tree,MCQ,,P002
+5,2,The Lost Puppy,Why did the crow sing?,It was happy,The fox praised it,It was hungry,It saw food,The fox praised it,MCQ,,P002

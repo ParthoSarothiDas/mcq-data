@@ -1,0 +1,48 @@
+﻿Id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData
+50001,1,Number Names,The dog is ____ the table.,on,behind,beside,under,under,MCQ,under.png
+50001,1,Number Names,Who is it?,Kabboy,Abhik,Suman,Partho,Abhik,MCQ,abhik.png
+50002,1,Addition,Who is it?,Kabboy,Abhik,Suman,Partho,Abhik,MCQ,eye_anatomy_2.png
+50003,1,Subtraction,Match the subtraction sums with their answers,,,,,,Match,"[{""left"":""8 - 3"",""right"":""5""},{""left"":""9 - 4"",""right"":""5""},{""left"":""10 - 2"",""right"":""8""},{""left"":""7 - 3"",""right"":""4""}]"
+50004,1,Shapes,Match the shapes with their number of sides,,,,,,Match,"[{""left"":""Triangle"",""right"":""3""},{""left"":""Square"",""right"":""4""},{""left"":""Pentagon"",""right"":""5""},{""left"":""Hexagon"",""right"":""6""}]"
+50005,1,Comparison,Match the comparison with the correct sign,,,,,,Match,"[{""left"":""8 and 5"",""right"":"">""},{""left"":""3 and 7"",""right"":""<""},{""left"":""6 and 6"",""right"":""=""},{""left"":""9 and 2"",""right"":"">""}]"
+50006,1,Multiplication,Match the multiplication sums with their answers,,,,,,Match,"[{""left"":""2 × 3"",""right"":""6""},{""left"":""4 × 2"",""right"":""8""},{""left"":""5 × 2"",""right"":""10""},{""left"":""3 × 3"",""right"":""9""}]"
+50007,1,Division,Match the division sums with their answers,,,,,,Match,"[{""left"":""8 ÷ 2"",""right"":""4""},{""left"":""10 ÷ 2"",""right"":""5""},{""left"":""12 ÷ 3"",""right"":""4""},{""left"":""9 ÷ 3"",""right"":""3""}]"
+50008,1,Measurement,Match the object with the suitable unit,,,,,,Match,"[{""left"":""Pencil"",""right"":""cm""},{""left"":""Road"",""right"":""m""},{""left"":""Rice"",""right"":""kg""},{""left"":""Milk"",""right"":""L""}]"
+50009,1,Time,Match the time with the part of the day,,,,,,Match,"[{""left"":""7:00 AM"",""right"":""Morning""},{""left"":""1:00 PM"",""right"":""Afternoon""},{""left"":""6:00 PM"",""right"":""Evening""},{""left"":""9:00 PM"",""right"":""Night""}]"
+50010,1,Ordinal Numbers,Match the ordinal numbers with their words,,,,,,Match,"[{""left"":""1st"",""right"":""First""},{""left"":""2nd"",""right"":""Second""},{""left"":""3rd"",""right"":""Third""},{""left"":""4th"",""right"":""Fourth""}]"
+50001,1,Test,Match the animals with their homes,,,,,,Match,"[{""left"":""Dog"",""right"":""Kennel""},{""left"":""Bird"",""right"":""Nest""},{""left"":""Fish"",""right"":""Pond""}]"
+FMAT221,1,Test,2 + 3 = _____,,,,,5,FillBlank,
+FMAT493,1,Test,87|25|-,,,,,62,ColumnMath,
+FENG1197,1,Test,The match was cancelled because the field was wet. (Pick out the Conjunction),,,,,because,FillBlank,Part of Speech
+FENG1180,1,Test,"I knocked on the door, _____ nobody answered.",,,,,but,FillBlank,Part of Speech
+FMAT131,1,Test,What number comes after 37? Answer: _____,,,,,38,FillBlank,
+1,1,Mixed Measurement,Which unit is best to measure the length of a pencil?,Centimeter,Meter,Kilogram,Liter,Centimeter,MCQ,
+2,1,Mixed Measurement,Which unit is best to measure the height of a tree?,Centimeter,Meter,Gram,Milliliter,Meter,MCQ,
+3,1,Mixed Measurement,Which unit is best to measure the weight of an apple?,Gram,Kilogram,Centimeter,Liter,Gram,MCQ,
+4,1,Mixed Measurement,Which unit is best to measure the weight of an elephant?,Gram,Kilogram,Centimeter,Milliliter,Kilogram,MCQ,
+5,1,Mixed Measurement,Which unit is best to measure the amount of water in a bottle?,Milliliter,Liter,Centimeter,Kilogram,Milliliter,MCQ,
+6,1,Mixed Measurement,Which unit is best to measure the water in a swimming pool?,Milliliter,Liter,Gram,Centimeter,Liter,MCQ,
+7,1,Mixed Measurement,Which unit is best to measure the length of a classroom?,Centimeter,Meter,Gram,Liter,Meter,MCQ,
+8,2,Mixed Measurement,Which unit is best to measure the weight of a school bag?,Gram,Kilogram,Milliliter,Centimeter,Kilogram,MCQ,
+9,2,Mixed Measurement,Which unit is best to measure a spoonful of syrup?,Milliliter,Liter,Gram,Meter,Milliliter,MCQ,
+10,2,Mixed Measurement,Which unit is best to measure the length of an eraser?,Centimeter,Meter,Kilogram,Liter,Centimeter,MCQ,
+11,2,Mixed Measurement,Which unit is smaller?,Centimeter,Meter,Gram,Kilogram,Centimeter,MCQ,
+12,2,Mixed Measurement,Which unit is heavier?,Gram,Kilogram,Centimeter,Milliliter,Kilogram,MCQ,
+13,2,Mixed Measurement,Which unit holds more liquid?,Milliliter,Liter,Gram,Kilogram,Liter,MCQ,
+14,3,Mixed Measurement,Which unit is used to measure milk in a carton?,Liter,Kilogram,Centimeter,Gram,Liter,MCQ,
+15,3,Mixed Measurement,Which unit is best to measure the weight of a coin?,Gram,Kilogram,Milliliter,Liter,Gram,MCQ,
+16,3,Mixed Measurement,Which unit is best to measure the length of a road?,Centimeter,Meter,Gram,Milliliter,Meter,MCQ,
+17,3,Mixed Measurement,How many centimeters are in 1 meter?,10,100,1000,50,100,MCQ,
+18,3,Mixed Measurement,How many grams are in 1 kilogram?,100,1000,10,500,1000,MCQ,
+19,3,Mixed Measurement,How many milliliters are in 1 liter?,100,1000,10,500,1000,MCQ,
+20,4,Mixed Measurement,Which is longer?,1 meter,50 centimeters,25 centimeters,10 centimeters,1 meter,MCQ,
+21,4,Mixed Measurement,Which is heavier?,1 kilogram,500 grams,250 grams,100 grams,1 kilogram,MCQ,
+22,4,Mixed Measurement,Which holds more?,1 liter,500 milliliters,250 milliliters,100 milliliters,1 liter,MCQ,
+23,4,Mixed Measurement,Which object is best measured in centimeters?,Notebook,Football Field,Bus,Building,Notebook,MCQ,
+24,4,Mixed Measurement,Which object is best measured in meters?,Door Key,Paper Clip,Playground,Eraser,Playground,MCQ,
+25,4,Mixed Measurement,Which object is best measured in grams?,Chocolate Bar,Car,Elephant,School Bus,Chocolate Bar,MCQ,
+26,4,Mixed Measurement,Which object is best measured in kilograms?,Refrigerator,Paper Clip,Pencil,Leaf,Refrigerator,MCQ,
+27,5,Mixed Measurement,Which container is best measured in milliliters?,Medicine Bottle,Swimming Pool,Water Tank,Lake,Medicine Bottle,MCQ,
+28,5,Mixed Measurement,Which container is best measured in liters?,Bucket,Teaspoon,Eyedrop Bottle,Cupcake,Bucket,MCQ,
+29,5,Mixed Measurement,Which unit would you use to measure the height of a student?,Centimeter,Milliliter,Gram,Meter,Meter,MCQ,
+30,5,Mixed Measurement,Which unit would you use to measure the weight of a watermelon?,Gram,Kilogram,Centimeter,Liter,Kilogram,MCQ,

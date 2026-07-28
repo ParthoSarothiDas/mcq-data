@@ -1,9 +1,7 @@
 {
-  "subjects": [
-    "English",
-    "Math",
-    "Reading_Passage",
-    "General_Knowledge",
-    "Science"
+  "files": [
+    "explorer/Reading_Passage.csv"'
+    "explorer/reading_passages.csv",
+   
   ]
 }

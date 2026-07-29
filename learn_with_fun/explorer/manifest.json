@@ -3,7 +3,8 @@
     "General_Knowledge",
     "English",
     "Math",
-    "Reading_Passage",	
+    "Reading_Passage",
+    "reading_passages.csv",
     "Science"
   ]
 }

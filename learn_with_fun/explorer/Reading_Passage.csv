@@ -1,0 +1,71 @@
+﻿Id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData,PassageId
+1,1,The Clever Fox,What did the fox find?,Apple,Fish,Bread,Cheese,Cheese,MCQ,,P001
+2,1,The Clever Fox,Where was the cheese?,In a basket,On the ground,On a tree,In a house,On a tree,MCQ,,P001
+3,1,The Clever Fox,Why did the crow sing?,It was happy,fox praised it,It was hungry,It saw food,fox praised it,MCQ,,P001
+4,2,Lost Puppy Max,Why did Max wander away from his home?,to play,to find food,to go to school,chasing a butterfly,chasing a butterfly,MCQ,,P002
+5,2,Lost Puppy Max,What did the kind girl give Max?,Some food,A toy,Some water,A blanket,Some water,MCQ,,P002
+6,2,Lost Puppy Max,How did Max's owner find him?,phone call,neighbor,returned by himself,police officer,phone call,MCQ,,P002
+7,3,The Solar System,How many planets are in our solar system?,Six,Eight,Nine,Ten,Eight,MCQ,,P003
+8,3,The Solar System,Which planet is closest to the Sun?,Earth,Mars,Neptune,Mercury,Mercury,MCQ,,P003
+9,3,The Solar System,Which planet is known to support life?,Venus,Earth,Jupiter,Saturn,Earth,MCQ,,P003
+10,3,The Solar System,What do planets travel around the Sun in?,Paths called orbits,Rings,Clouds,Spaceships,Paths called orbits,MCQ,,P003
+11,3,The Solar System,What do scientists use to learn about the solar system?,Planes and trains,Books and maps,Telescopes and spacecraft,Only computers,Telescopes and spacecraft,MCQ,,P003
+12,4,Wright Brothers,Who made the first successful powered airplane flight?,Wright brothers,Thomas Edison,Alexander Graham Bell,Isaac Newton,Wright brothers,MCQ,,P004
+13,4,Wright Brothers,In which year did the Wright brothers make their first successful flight?,1899,1903,1910,1920,1903,MCQ,,P004
+14,4,Wright Brothers,The first flight happened in the USA.,Yes,No,,,Yes,MCQ,,P004
+15,4,Wright Brothers,How long did the first flight last?,Short time,Many hours,One day,,Short time,MCQ,,P004
+16,4,Wright Brothers,What changed forever?,Transportation,Weather,Farming,Buildings,Transportation,MCQ,,P004
+17,5,Saving Water,Which of these is NOT mentioned as a use of water?,Drinking,Cooking,Farming,Playing football,Playing football,MCQ,,P005
+18,5,Saving Water,Why should we save water?,Limited,Expensive,Essential,Pollution,Limited,MCQ,,P005
+19,5,Saving Water,Which action saves water?,Turn tap off,Fix leaks,Collect rain,All above,All above,MCQ,,P005
+20,5,Saving Water,Who benefits from saving water?,Children,Future,Animals,Farmers,Future,MCQ,,P005
+21,6,A Rainy Day,What filled the sky?,Birds,Dark clouds,Stars,Balloons,Dark clouds,MCQ,,P006
+22,6,A Rainy Day,What is one of Earth's most valuable resources?,Water,Air,Soil,Fire,Water,MCQ,,P006
+23,6,A Rainy Day,What should everyone use wisely?,Fresh water,Electricity,Food,Plastic,Fresh water,MCQ,,P006
+24,6,A Rainy Day,What can help save water?,Rainwater,Cars,Trees,Books,Rainwater,MCQ,,P006
+25,6,A Rainy Day,Who can protect water for future generations?,People,Animals,Robots,Plants,People,MCQ,,P006
+26,7,My School Garden,What did Ben's class plant?,Trees,Flowers and vegetables,Grass,Fruit,Flowers and vegetables,MCQ,,P007
+27,7,My School Garden,What did the children give the plants?,Milk,Juice,Water,Sand,Water,MCQ,,P007
+28,7,My School Garden,Which insects visited the garden?,Ants,Butterflies and bees,Spiders,Flies,Butterflies and bees,MCQ,,P007
+29,7,My School Garden,Ben felt proud because he helped the plants grow.,TRUE,FALSE,,,TRUE,MCQ,,P007
+30,7,My School Garden,The children watered the ______ every morning.,,,,,Plants,FillBlank,,P007
+31,8,The Friendly Firefighter,Who visited Emma's school?,Doctor,Firefighter,Teacher,Farmer,Firefighter,MCQ,,P008
+32,8,The Friendly Firefighter,What did the firefighter show the children?,School bus,Fire truck,Train,Bicycle,Fire truck,MCQ,,P008
+33,8,The Friendly Firefighter,What should children do if there is a fire?,Run away,Hide,Call for help,Play,Call for help,MCQ,,P008
+34,8,The Friendly Firefighter,The firefighter wore a special helmet.,TRUE,FALSE,,,TRUE,MCQ,,P008
+35,8,The Friendly Firefighter,Firefighters help keep everyone ______.,,,,,Safe,FillBlank,,P008
+36,9,The Little Seed,Who planted the seed?,Emma,Lily,Tom,Ben,Lily,MCQ,,P009
+37,9,The Little Seed,Where did Lily put the pot?,Near a sunny window,Under the bed,In the garden,In a box,Near a sunny window,MCQ,,P009
+38,9,The Little Seed,What came out of the soil?,A flower,A little green sprout,A rock,A stick,A little green sprout,MCQ,,P009
+39,9,The Little Seed,Lily watered the seed.,TRUE,FALSE,,,TRUE,MCQ,,P009
+40,9,The Little Seed,The seed grew into a healthy ______.,,,,,Plant,FillBlank,,P009
+41,10,A Trip to the Zoo,Where did Tom go with his family?,Park,Farm,Zoo,Beach,Zoo,MCQ,,P010
+42,10,A Trip to the Zoo,What was Tom's favorite animal?,Lion,Monkey,Elephant,Giraffe,Elephant,MCQ,,P010
+43,10,A Trip to the Zoo,What did the elephant use to pick up food?,Leg,Ear,Trunk,Tail,Trunk,MCQ,,P010
+44,10,A Trip to the Zoo,Tom thanked the zoo workers.,TRUE,FALSE,,,TRUE,MCQ,,P010
+45,10,A Trip to the Zoo,Tom wanted to visit the zoo ______.,,,,,Again,FillBlank,,P010
+46,11,A Day at the Beach,Where did Ava and her family go?,The park,The beach,The zoo,The forest,The beach,MCQ,,P011
+47,11,A Day at the Beach,What did Ava use to build a sandcastle?,A kite,A bucket and shovel,A ball,A net,A bucket and shovel,MCQ,,P011
+48,11,A Day at the Beach,What did Ava and her brother find on the beach?,Flowers,Seashells,Toys,Leaves,Seashells,MCQ,,P011
+49,11,A Day at the Beach,Ava's family cleaned up their trash before going home.,TRUE,FALSE,,,TRUE,MCQ,,P011
+50,11,A Day at the Beach,Everyone should help keep the beach ______.,,,,,Clean,FillBlank,,P011
+51,12,The Busy Honeybee,What was the honeybee looking for?,Honey,Nectar,Water,Leaves,Nectar,MCQ,,P012
+52,12,The Busy Honeybee,Where did the bee take the nectar?,To a tree,To its hive,To a pond,To a nest,To its hive,MCQ,,P012
+53,12,The Busy Honeybee,What stuck to the bee's body?,Sand,Pollen,Water,Grass,Pollen,MCQ,,P012
+54,12,The Busy Honeybee,The honeybee helped new plants grow.,TRUE,FALSE,,,TRUE,MCQ,,P012
+55,12,The Busy Honeybee,The bee returned to its ______ at the end of the day.,,,,,Hive,FillBlank,,P012
+56,13,My New Library,Where did Sam go for the first time?,The museum,The library,The playground,The store,The library,MCQ,,P013
+57,13,My New Library,Who helped Sam find a book?,His friend,The teacher,The librarian,His mother,The librarian,MCQ,,P013
+58,13,My New Library,What did Sam enjoy in the book?,Colorful pictures,Only numbers,Maps,Stickers,Colorful pictures,MCQ,,P013
+59,13,My New Library,Sam thanked the librarian before leaving.,TRUE,FALSE,,,TRUE,MCQ,,P013
+60,13,My New Library,Sam wanted to read another wonderful ______.,,,,,Story,FillBlank,,P013
+61,14,The Snowman,What covered the ground?,Rain,Leaves,Snow,Sand,Snow,MCQ,,P014
+62,14,The Snowman,How many snowballs did the children use?,One,Two,Three,Four,Three,MCQ,,P014
+63,14,The Snowman,What did they use for the snowman's nose?,A stick,A carrot,A leaf,A flower,A carrot,MCQ,,P014
+64,14,The Snowman,The children drank hot chocolate after playing.,TRUE,FALSE,,,TRUE,MCQ,,P014
+65,14,The Snowman,The children wore warm ______ before going outside.,,,,,Coats,FillBlank,,P014
+66,15,The Helpful Robot,What was the robot's name?,Max,Bolt,Robo,Spark,Robo,MCQ,,P015
+67,15,The Helpful Robot,What could Robo help the class do?,Fly a plane,Count numbers and spell words,Cook food,Paint walls,Count numbers and spell words,MCQ,,P015
+68,15,The Helpful Robot,What do robots follow carefully?,Music,Instructions,Stories,Dreams,Instructions,MCQ,,P015
+69,15,The Helpful Robot,Lily thanked Robo at the end of the lesson.,TRUE,FALSE,,,TRUE,MCQ,,P015
+70,15,The Helpful Robot,Technology can make ______ fun.,,,,,Learning,FillBlank,,P015

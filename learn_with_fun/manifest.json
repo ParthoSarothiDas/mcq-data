@@ -1,0 +1,17 @@
+{
+  "explorer": [
+    "English.csv",
+    "General_Knowledge.csv",
+    "Math.csv",
+    "Reading_Passage.csv",
+    "reading_passages.csv",
+    "Science.csv"
+  ],
+  "foundation": [
+    "Bangladesh.csv",
+    "Brain_Boosting.csv",
+    "English.csv",
+    "Math.csv",
+    "Science.csv"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "csv": {
+    "English": 1,
+    "General_Knowledge":1,
+    "Math": 1,
+    "Reading_Passage": 1,
+    "reading_passages": 1,
+    "Science": 1
+  },
+  "images": {
+    "assets/images/reading_passage/amazon_rainforest.png": 1,
+    "assets/images/reading_passage/fox_crow.png": 1,
+    "assets/images/reading_passage/puppy.png": 1,
+    "assets/images/reading_passage/recycling.png": 1,
+    "assets/images/reading_passage/save_water.png": 1,
+    "assets/images/reading_passage/solar_system.png": 1,
+    "assets/images/reading_passage/wright_brothers.png": 1
+  }
+}

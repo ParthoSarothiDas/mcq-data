@@ -1,0 +1,1191 @@
+﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData
+1,1,Amazing Plants,A plant needs water to grow.,TRUE,FALSE,,,TRUE,MCQ,
+2,1,Amazing Plants,Roots grow above the ground.,TRUE,FALSE,,,FALSE,MCQ,
+3,1,Amazing Plants,Do leaves make food for the plant?,Yes,No,,,Yes,MCQ,
+4,1,Amazing Plants,Which part of a plant absorbs water from the soil?,Root,Leaf,Flower,,Root,MCQ,
+5,1,Amazing Plants,Which part of a plant usually has colorful petals?,Stem,Flower,Root,,Flower,MCQ,
+6,1,Amazing Plants,Which part carries water from the roots to the leaves?,Stem,Fruit,Seed,Leaf,Stem,MCQ,
+7,1,Amazing Plants,Which part contains seeds?,Leaf,Stem,Root,Fruit,Fruit,MCQ,
+8,1,Amazing Plants,Which part makes food using sunlight?,Leaf,Flower,Root,Seed,Leaf,MCQ,
+9,1,Amazing Plants,Match the plant parts with their jobs.,,,,,,Match,"[{""left"":""Root"",""right"":""Absorbs water""},{""left"":""Leaf"",""right"":""Makes food""},{""left"":""Flower"",""right"":""Makes seeds""},{""left"":""Stem"",""right"":""Supports plant""}]"
+10,1,Amazing Plants,Match the plant parts with what they do.,,,,,,Match,"[{""left"":""Root"",""right"":""Holds the plant""},{""left"":""Stem"",""right"":""Carries water""},{""left"":""Leaf"",""right"":""Uses sunlight""},{""left"":""Fruit"",""right"":""Protects seeds""}]"
+11,2,Amazing Plants,Plants grow from seeds.,TRUE,FALSE,,,TRUE,MCQ,
+12,2,Amazing Plants,A seed grows into a flower first.,TRUE,FALSE,,,FALSE,MCQ,
+13,2,Amazing Plants,Does a seed need water to grow?,Yes,No,,,Yes,MCQ,
+14,2,Amazing Plants,What is the first stage of a plant's life cycle?,Seed,Flower,Fruit,,Seed,MCQ,
+15,2,Amazing Plants,What grows out of a seed first?,Root,Leaf,Flower,,Root,MCQ,
+16,2,Amazing Plants,Which comes after the seedling stage?,Fruit,Root,Adult Plant,Seed,Adult Plant,MCQ,
+17,2,Amazing Plants,Which part of a mature plant makes seeds?,Leaf,Flower,Stem,Root,Flower,MCQ,
+18,2,Amazing Plants,Which of these is the last stage in the simple plant life cycle?,Seedling,Fruit,Root,Seed,Fruit,MCQ,
+19,2,Amazing Plants,Match the stages of a plant life cycle.,,,,,,Match,"[{""left"":""Seed"",""right"":""Beginning of a new plant""},{""left"":""Seedling"",""right"":""Young plant""},{""left"":""Adult Plant"",""right"":""Produces flowers""},{""left"":""Fruit"",""right"":""Contains seeds""}]"
+20,2,Amazing Plants,Match the plant stage with its description.,,,,,,Match,"[{""left"":""Seed"",""right"":""Needs water to grow""},{""left"":""Root"",""right"":""Absorbs water""},{""left"":""Flower"",""right"":""Makes seeds""},{""left"":""Fruit"",""right"":""Protects the seeds""}]"
+21,3,Amazing Plants,Some seeds are carried by the wind.,TRUE,FALSE,,,TRUE,MCQ,
+22,3,Amazing Plants,All seeds fall and grow in the same place.,TRUE,FALSE,,,FALSE,MCQ,
+23,3,Amazing Plants,Can animals help spread seeds?,Yes,No,,,Yes,MCQ,
+24,3,Amazing Plants,Which of these can carry seeds to new places?,Wind,Rock,Chair,,Wind,MCQ,
+25,3,Amazing Plants,Which animal may carry seeds on its fur?,Dog,Fish,Whale,,Dog,MCQ,
+26,3,Amazing Plants,Which plant has seeds that can float on water?,Grass,Mango,Rose,Coconut,Coconut,MCQ,
+27,3,Amazing Plants,Which helps a dandelion seed travel?,Snow,Stone,Fire,Wind,Wind,MCQ,
+28,3,Amazing Plants,Why do plants spread seeds?,New places,Change color,Make noise,Sleep,New places,MCQ,
+29,3,Amazing Plants,Match the seed dispersal method with the example.,,,,,,Match,"[{""left"":""Wind"",""right"":""Dandelion""},{""left"":""Water"",""right"":""Coconut""},{""left"":""Animals"",""right"":""Seeds stick to fur""},{""left"":""Explosion"",""right"":""Pea pod""}]"
+30,3,Amazing Plants,Match the seed with how it travels.,,,,,,Match,"[{""left"":""Coconut"",""right"":""Water""},{""left"":""Dandelion"",""right"":""Wind""},{""left"":""Burdock"",""right"":""Animal fur""},{""left"":""Pea"",""right"":""Bursting pod""}]"
+31,4,Amazing Plants,We get fruits from many plants.,TRUE,FALSE,,,TRUE,MCQ,
+32,4,Amazing Plants,Wood comes from plastic.,TRUE,FALSE,,,FALSE,MCQ,
+33,4,Amazing Plants,Do we get cotton from plants?,Yes,No,,,Yes,MCQ,
+34,4,Amazing Plants,Which plant gives us rice?,Mango Tree,Rose Plant,Pine Tree,Rice Plant,Rice Plant,MCQ,
+35,4,Amazing Plants,Which of these is a fruit plant?,Fern,Mango Tree,Grass,Rose Plant,Mango Tree,MCQ,
+36,4,Amazing Plants,Which plant is used to make paper?,Bamboo,Lotus,Sunflower,Cactus,Bamboo,MCQ,
+37,4,Amazing Plants,Which plant gives us cotton to make clothes?,Coconut Tree,Rose Plant,Apple Tree,Cotton Plant,Cotton Plant,MCQ,
+38,4,Amazing Plants,Which plant gives us cooking oil?,Fern,Rose,Moss,Sunflower,Sunflower,MCQ,
+39,4,Amazing Plants,Match the plant with what we get from it.,,,,,,Match,"[{""left"":""Mango Tree"",""right"":""Mango""},{""left"":""Cotton Plant"",""right"":""Cotton""},{""left"":""Bamboo"",""right"":""Paper""},{""left"":""Sunflower"",""right"":""Cooking oil""}]"
+40,4,Amazing Plants,Match the plant to its use.,,,,,,Match,"[{""left"":""Rice Plant"",""right"":""Rice""},{""left"":""Rubber Tree"",""right"":""Rubber""},{""left"":""Tea Plant"",""right"":""Tea leaves""},{""left"":""Sugarcane"",""right"":""Sugar""}]"
+41,5,Amazing Plants,Cactus plants can live in the desert.,TRUE,FALSE,,,TRUE,MCQ,
+42,5,Amazing Plants,Lotus plants grow best in dry sand.,TRUE,FALSE,,,FALSE,MCQ,
+43,5,Amazing Plants,Can water lilies grow in ponds?,Yes,No,,,Yes,MCQ,
+44,5,Amazing Plants,Which plant grows well in the desert?,Rice Plant,Cactus,Lotus,Rose,Cactus,MCQ,
+45,5,Amazing Plants,Which plant grows in water?,Cactus,Lotus,Pine Tree,Coconut Tree,Lotus,MCQ,
+46,5,Amazing Plants,Why does a cactus have thick stems?,To store water,To catch fish,To make flowers,To make fruit,To store water,MCQ,
+47,5,Amazing Plants,Which tree grows well in snowy places?,Coconut Tree,Mango Tree,Pine Tree,Banana Plant,Pine Tree,MCQ,
+48,5,Amazing Plants,Which plant is commonly found in a rainforest?,Cactus,Fern,Cotton Plant,Coconut Tree,Fern,MCQ,
+49,5,Amazing Plants,Match the plant with its habitat.,,,,,,Match,"[{""left"":""Cactus"",""right"":""Desert""},{""left"":""Lotus"",""right"":""Pond""},{""left"":""Pine Tree"",""right"":""Snowy Mountains""},{""left"":""Mangrove Tree"",""right"":""Coastal Swamp""}]"
+50,5,Amazing Plants,Match the plant with its special feature.,,,,,,Match,"[{""left"":""Cactus"",""right"":""Stores water""},{""left"":""Lotus"",""right"":""Floats on water""},{""left"":""Pine Tree"",""right"":""Needle-like leaves""},{""left"":""Mangrove Tree"",""right"":""Roots above water""}]"
+51,6,Amazing Plants: Review,Which part of a plant absorbs water from the soil?,Flower,Stem,Leaf,Root,Root,MCQ,
+52,6,Amazing Plants: Review,Coconut seeds can float on water.,TRUE,FALSE,,,TRUE,MCQ,
+53,6,Amazing Plants: Review,Do leaves use sunlight to make food?,Yes,No,,,Yes,MCQ,
+54,6,Amazing Plants: Review,Which plant grows well in the desert?,Lotus,Fern,Cactus,Rice Plant,Cactus,MCQ,
+55,6,Amazing Plants: Review,Which plant gives us cotton for making clothes?,Rose Plant,Mango Tree,Pine Tree,Cotton Plant,Cotton Plant,MCQ,
+56,6,Amazing Plants: Review,Which part of a mature plant makes seeds?,Root,Leaf,Stem,Flower,Flower,MCQ,
+57,6,Amazing Plants: Review,Why do plants spread seeds?,Make noise,Change color,Sleep,New places,New places,MCQ,
+58,6,Amazing Plants: Review,Which part of a plant contains seeds?,Leaf,Fruit,Root,Stem,Fruit,MCQ,
+59,6,Amazing Plants: Review,Match the plant with what we get from it.,,,,,,Match,"[{""left"":""Rice Plant"",""right"":""Rice""},{""left"":""Cotton Plant"",""right"":""Cotton""},{""left"":""Sunflower"",""right"":""Cooking oil""},{""left"":""Tea Plant"",""right"":""Tea leaves""}]"
+60,6,Amazing Plants: Review,Match the plant with its habitat.,,,,,,Match,"[{""left"":""Cactus"",""right"":""Desert""},{""left"":""Lotus"",""right"":""Pond""},{""left"":""Pine Tree"",""right"":""Snowy Mountains""},{""left"":""Mangrove Tree"",""right"":""Coastal Swamp""}]"
+61,7,Amazing Plants: Review,Plants grow from seeds.,TRUE,FALSE,,,TRUE,MCQ,
+62,7,Amazing Plants: Review,Roots grow above the ground.,TRUE,FALSE,,,FALSE,MCQ,
+63,7,Amazing Plants: Review,Can animals help spread seeds?,Yes,No,,,Yes,MCQ,
+64,7,Amazing Plants: Review,Which part carries water from the roots to the leaves?,Stem,Seed,Flower,Leaf,Stem,MCQ,
+65,7,Amazing Plants: Review,Which plant grows in water?,Lotus,Cotton Plant,Pine Tree,Cactus,Lotus,MCQ,
+66,7,Amazing Plants: Review,Which helps a dandelion seed travel?,Fire,Snow,Stone,Wind,Wind,MCQ,
+67,7,Amazing Plants: Review,Which plant is used to make paper?,Bamboo,Rose,Lotus,Cactus,Bamboo,MCQ,
+68,7,Amazing Plants: Review,Why does a cactus have thick stems?,To catch fish,To make flowers,To store water,To make fruit,To store water,MCQ,
+69,7,Amazing Plants: Review,Match the stages of a plant life cycle.,,,,,,Match,"[{""left"":""Seed"",""right"":""Beginning of a new plant""},{""left"":""Seedling"",""right"":""Young plant""},{""left"":""Adult Plant"",""right"":""Produces flowers""},{""left"":""Fruit"",""right"":""Contains seeds""}]"
+70,7,Amazing Plants: Review,Match the seed with how it travels.,,,,,,Match,"[{""left"":""Coconut"",""right"":""Water""},{""left"":""Dandelion"",""right"":""Wind""},{""left"":""Burdock"",""right"":""Animal fur""},{""left"":""Pea"",""right"":""Bursting pod""}]"
+71,8,Amazing Animals,A mammal feeds its babies with milk.,TRUE,FALSE,,,TRUE,MCQ,
+72,8,Amazing Animals,Birds have scales instead of feathers.,TRUE,FALSE,,,FALSE,MCQ,
+73,8,Amazing Animals,Can fish breathe underwater using gills?,Yes,No,,,Yes,MCQ,
+74,8,Amazing Animals,Which of these is a mammal?,Dog,Eagle,Snake,Frog,Dog,MCQ,
+75,8,Amazing Animals,Which of these is a bird?,Crocodile,Parrot,Shark,Tiger,Parrot,MCQ,
+76,8,Amazing Animals,Which of these is a fish?,Eagle,Rabbit,Lizard,Goldfish,Goldfish,MCQ,
+77,8,Amazing Animals,Which of these is a reptile?,Dolphin,Frog,Duck,Snake,Snake,MCQ,
+78,8,Amazing Animals,Which of these is an amphibian?,Parrot,Frog,Lion,Horse,Frog,MCQ,
+79,8,Amazing Animals,Match the animal group with the example.,,,,,,Match,"[{""left"":""Mammal"",""right"":""Elephant""},{""left"":""Bird"",""right"":""Eagle""},{""left"":""Fish"",""right"":""Goldfish""},{""left"":""Reptile"",""right"":""Snake""}]"
+80,8,Amazing Animals,Match the animal with its body covering.,,,,,,Match,"[{""left"":""Tiger"",""right"":""Fur""},{""left"":""Duck"",""right"":""Feathers""},{""left"":""Snake"",""right"":""Scales""},{""left"":""Goldfish"",""right"":""Scales""}]"
+81,9,Amazing Animals,A camel can live in the desert.,TRUE,FALSE,,,TRUE,MCQ,
+82,9,Amazing Animals,A polar bear lives in the hot desert.,TRUE,FALSE,,,FALSE,MCQ,
+83,9,Amazing Animals,Do herbivores eat plants?,Yes,No,,,Yes,MCQ,
+84,9,Amazing Animals,Which animal is a herbivore?,Eagle,Lion,Shark,Cow,Cow,MCQ,
+85,9,Amazing Animals,Which animal is a carnivore?,Rabbit,Deer,Tiger,Goat,Tiger,MCQ,
+86,9,Amazing Animals,Which animal is an omnivore?,Rabbit,Giraffe,Bear,Cow,Bear,MCQ,
+87,9,Amazing Animals,Where does a penguin usually live?,Rainforest,Cold regions,Desert,Grassland,Cold regions,MCQ,
+88,9,Amazing Animals,Which animal lives in the ocean?,Camel,Dolphin,Elephant,Wolf,Dolphin,MCQ,
+89,9,Amazing Animals,Match the animal with its habitat.,,,,,,Match,"[{""left"":""Camel"",""right"":""Desert""},{""left"":""Penguin"",""right"":""Cold Region""},{""left"":""Dolphin"",""right"":""Ocean""},{""left"":""Monkey"",""right"":""Forest""}]"
+90,9,Amazing Animals,Match the animal with its food type.,,,,,,Match,"[{""left"":""Cow"",""right"":""Herbivore""},{""left"":""Lion"",""right"":""Carnivore""},{""left"":""Bear"",""right"":""Omnivore""},{""left"":""Rabbit"",""right"":""Herbivore""}]"
+91,10,Amazing Animals,Plants are the first part of many food chains.,TRUE,FALSE,,,TRUE,MCQ,
+92,10,Amazing Animals,A lion eats grass.,TRUE,FALSE,,,FALSE,MCQ,
+93,10,Amazing Animals,Do rabbits eat plants?,Yes,No,,,Yes,MCQ,
+94,10,Amazing Animals,Which animal eats grass?,Eagle,Deer,Lion,Shark,Deer,MCQ,
+95,10,Amazing Animals,Which animal is a predator?,Cow,Rabbit,Tiger,Goat,Tiger,MCQ,
+96,10,Amazing Animals,Which animal is the prey in this food chain: Grass â†’ Rabbit â†’ Fox?,Fox,Eagle,Grass,Rabbit,Rabbit,MCQ,
+97,10,Amazing Animals,What is usually the first living thing in a food chain?,Hawk,Plant,Fox,Rabbit,Plant,MCQ,
+98,10,Amazing Animals,Which food chain is correct?,Fox â†’ Rabbit â†’ Grass,Rabbit â†’ Grass â†’ Fox,Grass â†’ Deer â†’ Tiger,Tiger â†’ Deer â†’ Grass,Grass â†’ Deer â†’ Tiger,MCQ,
+99,10,Amazing Animals,Match the animal with what it eats.,,,,,,Match,"[{""left"":""Cow"",""right"":""Grass""},{""left"":""Rabbit"",""right"":""Carrot""},{""left"":""Lion"",""right"":""Deer""},{""left"":""Eagle"",""right"":""Fish""}]"
+100,10,Amazing Animals,Match the food chain parts.,,,,,,Match,"[{""left"":""Grass"",""right"":""Producer""},{""left"":""Rabbit"",""right"":""Primary Consumer""},{""left"":""Fox"",""right"":""Secondary Consumer""},{""left"":""Tiger"",""right"":""Top Predator""}]"
+101,11,Amazing Animals,Camouflage helps animals hide from danger.,TRUE,FALSE,,,TRUE,MCQ,
+102,11,Amazing Animals,All animals stay in the same place throughout the year.,TRUE,FALSE,,,FALSE,MCQ,
+103,11,Amazing Animals,Do some birds migrate to warmer places in winter?,Yes,No,,,Yes,MCQ,
+104,11,Amazing Animals,Which animal changes its color to blend into its surroundings?,Horse,Elephant,Cow,Chameleon,Chameleon,MCQ,
+105,11,Amazing Animals,Which animal sleeps for a long time during winter?,Zebra,Monkey,Giraffe,Bear,Bear,MCQ,
+106,11,Amazing Animals,Which bird is famous for migrating long distances?,Swallow,Ostrich,Peacock,Chicken,Swallow,MCQ,
+107,11,Amazing Animals,Why do ducks have webbed feet?,To dig holes,To climb trees,To fly faster,To swim easily,To swim easily,MCQ,
+108,11,Amazing Animals,Why does a polar bear have thick fur?,To keep warm,To change color,To swim faster,To fly,To keep warm,MCQ,
+109,11,Amazing Animals,Match the animal with its adaptation.,,,,,,Match,"[{""left"":""Chameleon"",""right"":""Camouflage""},{""left"":""Bear"",""right"":""Hibernation""},{""left"":""Swallow"",""right"":""Migration""},{""left"":""Duck"",""right"":""Webbed feet""}]"
+110,11,Amazing Animals,Match the animal with its special feature.,,,,,,Match,"[{""left"":""Polar Bear"",""right"":""Thick fur""},{""left"":""Camel"",""right"":""Hump stores fat""},{""left"":""Duck"",""right"":""Webbed feet""},{""left"":""Chameleon"",""right"":""Changes color""}]"
+111,12,Amazing Animals,Some animals are endangered because their habitats are disappearing.,TRUE,FALSE,,,TRUE,MCQ,
+112,12,Amazing Animals,Hunting endangered animals helps protect them.,TRUE,FALSE,,,FALSE,MCQ,
+113,12,Amazing Animals,Can people help protect endangered animals?,Yes,No,,,Yes,MCQ,
+114,12,Amazing Animals,Which of these is an endangered animal?,House Cat,Goat,Giant Panda,Chicken,Giant Panda,MCQ,
+115,12,Amazing Animals,Which place helps protect wild animals?,National Park,Parking Lot,Factory,Shopping Mall,National Park,MCQ,
+116,12,Amazing Animals,Which action helps protect animals?,Cutting forests,Planting trees,Throwing rubbish in rivers,Hunting wild animals,Planting trees,MCQ,
+117,12,Amazing Animals,Why do some animals become endangered?,lose habitats,change color,learn to fly,grow bigger,lose habitats,MCQ,
+118,12,Amazing Animals,Which animal is the national animal of Bangladesh and is also endangered?,Dog,Royal Bengal Tiger,Goat,Cow,Royal Bengal Tiger,MCQ,
+119,12,Amazing Animals,Match the endangered animal with its habitat.,,,,,,Match,"[{""left"":""Giant Panda"",""right"":""Bamboo Forest""},{""left"":""Sea Turtle"",""right"":""Ocean""},{""left"":""Royal Bengal Tiger"",""right"":""Mangrove Forest""},{""left"":""Orangutan"",""right"":""Rainforest""}]"
+120,12,Amazing Animals,Match the conservation action with its benefit.,,,,,,Match,"[{""left"":""Plant trees"",""right"":""Creates animal habitats""},{""left"":""Protect forests"",""right"":""Keeps wildlife safe""},{""left"":""Reduce pollution"",""right"":""Cleaner environment""},{""left"":""Stop illegal hunting"",""right"":""Protects endangered animals""}]"
+121,13,Amazing Animals: Review,Which of these is a mammal?,Snake,Dog,Eagle,Frog,Dog,MCQ,
+122,13,Amazing Animals: Review,A camel can live in the desert.,TRUE,FALSE,,,TRUE,MCQ,
+123,13,Amazing Animals: Review,Can people help protect endangered animals?,Yes,No,,,Yes,MCQ,
+124,13,Amazing Animals: Review,Which animal changes its color to blend into its surroundings?,Horse,Chameleon,Cow,Elephant,Chameleon,MCQ,
+125,13,Amazing Animals: Review,Which animal is the prey in this food chain: Grass â†’ Rabbit â†’ Fox?,Fox,Grass,Eagle,Rabbit,Rabbit,MCQ,
+126,13,Amazing Animals: Review,Which place helps protect wild animals?,Parking Lot,Factory,Shopping Mall,National Park,National Park,MCQ,
+127,13,Amazing Animals: Review,Which animal is an omnivore?,Giraffe,Rabbit,Bear,Cow,Bear,MCQ,
+128,13,Amazing Animals: Review,Which bird is famous for migrating long distances?,Chicken,Peacock,Swallow,Ostrich,Swallow,MCQ,
+129,13,Amazing Animals: Review,Match the animal with its habitat.,,,,,,Match,"[{""left"":""Camel"",""right"":""Desert""},{""left"":""Penguin"",""right"":""Cold Region""},{""left"":""Dolphin"",""right"":""Ocean""},{""left"":""Monkey"",""right"":""Forest""}]"
+130,13,Amazing Animals: Review,Match the animal with its adaptation.,,,,,,Match,"[{""left"":""Chameleon"",""right"":""Camouflage""},{""left"":""Bear"",""right"":""Hibernation""},{""left"":""Swallow"",""right"":""Migration""},{""left"":""Duck"",""right"":""Webbed feet""}]"
+131,14,Amazing Animals: Review,Birds have scales instead of feathers.,TRUE,FALSE,,,FALSE,MCQ,
+132,14,Amazing Animals: Review,Do herbivores eat plants?,Yes,No,,,Yes,MCQ,
+133,14,Amazing Animals: Review,Plants are the first part of many food chains.,TRUE,FALSE,,,TRUE,MCQ,
+134,14,Amazing Animals: Review,Which of these is an amphibian?,Frog,Lion,Parrot,Horse,Frog,MCQ,
+135,14,Amazing Animals: Review,Which animal lives in the ocean?,Camel,Wolf,Dolphin,Elephant,Dolphin,MCQ,
+136,14,Amazing Animals: Review,Which food chain is correct?,Tiger â†’ Deer â†’ Grass,Fox â†’ Rabbit â†’ Grass,Grass â†’ Deer â†’ Tiger,Rabbit â†’ Grass â†’ Fox,Grass â†’ Deer â†’ Tiger,MCQ,
+137,14,Amazing Animals: Review,Why does a polar bear have thick fur?,To swim faster,To change color,To keep warm,To fly,To keep warm,MCQ,
+138,14,Amazing Animals: Review,Which action helps protect animals?,Throwing rubbish in rivers,Hunting wild animals,Cutting forests,Planting trees,Planting trees,MCQ,
+139,14,Amazing Animals: Review,Match the animal with its food type.,,,,,,Match,"[{""left"":""Cow"",""right"":""Herbivore""},{""left"":""Lion"",""right"":""Carnivore""},{""left"":""Bear"",""right"":""Omnivore""},{""left"":""Rabbit"",""right"":""Herbivore""}]"
+140,14,Amazing Animals: Review,Match the endangered animal with its habitat.,,,,,,Match,"[{""left"":""Giant Panda"",""right"":""Bamboo Forest""},{""left"":""Sea Turtle"",""right"":""Ocean""},{""left"":""Royal Bengal Tiger"",""right"":""Mangrove Forest""},{""left"":""Orangutan"",""right"":""Rainforest""}]"
+141,15,Amazing Animals: Review,Fish breathe through gills.,TRUE,FALSE,,,TRUE,MCQ,
+142,15,Amazing Animals: Review,Can omnivores eat both plants and animals?,Yes,No,,,Yes,MCQ,
+143,15,Amazing Animals: Review,Which of these is a reptile?,Dolphin,Sparrow,Rabbit,Crocodile,Crocodile,MCQ,
+144,15,Amazing Animals: Review,Which animal usually lives in a rainforest?,Orangutan,Polar Bear,Camel,Penguin,Orangutan,MCQ,
+145,15,Amazing Animals: Review,Which animal is the top predator in this food chain: Grass â†’ Deer â†’ Tiger?,Deer,Tiger,Rabbit,Grass,Tiger,MCQ,
+146,15,Amazing Animals: Review,Which adaptation helps a duck swim?,Webbed feet,Sharp claws,Thick fur,Long neck,Webbed feet,MCQ,
+147,15,Amazing Animals: Review,Which animal is endangered because of habitat loss and illegal hunting?,Rhino,Goat,Chicken,Cat,Rhino,MCQ,
+148,15,Amazing Animals: Review,Which action protects oceans?,Cut mangroves,River rubbish,Reduce plastic,Hunt turtles,Reduce plastic,MCQ,
+149,15,Amazing Animals: Review,Match the animal with its group.,,,,,,Match,"[{""left"":""Whale"",""right"":""Mammal""},{""left"":""Crocodile"",""right"":""Reptile""},{""left"":""Salmon"",""right"":""Fish""},{""left"":""Frog"",""right"":""Amphibian""}]"
+150,15,Amazing Animals: Review,Match the animal with its diet.,,,,,,Match,"[{""left"":""Elephant"",""right"":""Herbivore""},{""left"":""Tiger"",""right"":""Carnivore""},{""left"":""Crow"",""right"":""Omnivore""},{""left"":""Giraffe"",""right"":""Herbivore""}]"
+151,16,Human Body Explorer,The heart pumps blood around the body.,TRUE,FALSE,,,TRUE,MCQ,
+152,16,Human Body Explorer,The lungs help us digest food.,TRUE,FALSE,,,FALSE,MCQ,
+153,16,Human Body Explorer,Does the brain help us think?,Yes,No,,,Yes,MCQ,
+154,16,Human Body Explorer,Which organ pumps blood?,Brain,Lungs,Stomach,Heart,Heart,MCQ,
+155,16,Human Body Explorer,Which organ helps us breathe?,Liver,Lungs,Stomach,Heart,Lungs,MCQ,
+156,16,Human Body Explorer,Which organ helps us think and learn?,Heart,Brain,Stomach,Lungs,Brain,MCQ,
+157,16,Human Body Explorer,Which organ helps digest food?,Heart,Brain,Stomach,Lungs,Stomach,MCQ,
+158,16,Human Body Explorer,Which is the largest organ of the human body?,Lungs,Heart,Brain,Skin,Skin,MCQ,
+159,16,Human Body Explorer,Match the organ with its job.,,,,,,Match,"[{""left"":""Heart"",""right"":""Pumps blood""},{""left"":""Brain"",""right"":""Controls the body""},{""left"":""Lungs"",""right"":""Help us breathe""},{""left"":""Stomach"",""right"":""Digests food""}]"
+160,16,Human Body Explorer,Match the organ with its function.,,,,,,Match,"[{""left"":""Skin"",""right"":""Protects the body""},{""left"":""Brain"",""right"":""Helps us think""},{""left"":""Heart"",""right"":""Pumps blood""},{""left"":""Lungs"",""right"":""Take in oxygen""}]"
+161,17,Human Body Explorer,The skeleton gives our body shape.,TRUE,FALSE,,,TRUE,MCQ,
+162,17,Human Body Explorer,Bones are soft like rubber.,TRUE,FALSE,,,FALSE,MCQ,
+163,17,Human Body Explorer,Do bones protect important organs?,Yes,No,,,Yes,MCQ,
+164,17,Human Body Explorer,Which bone protects the brain?,Skull,Spine,Leg Bone,Rib,Skull,MCQ,
+165,17,Human Body Explorer,Which bones protect the heart and lungs?,Ribs,Arms,Skull,Legs,Ribs,MCQ,
+166,17,Human Body Explorer,Which part helps you stand upright?,Stomach,Lungs,Heart,Spine,Spine,MCQ,
+167,17,Human Body Explorer,What is the main job of the skeleton?,Help us smell,Make blood,Help us hear,Support the body,Support the body,MCQ,
+168,17,Human Body Explorer,Which of these is a joint?,Brain,Heart,Knee,Lung,Knee,MCQ,
+169,17,Human Body Explorer,Match the bone with what it protects.,,,,,,Match,"[{""left"":""Skull"",""right"":""Brain""},{""left"":""Ribs"",""right"":""Heart and Lungs""},{""left"":""Spine"",""right"":""Spinal Cord""},{""left"":""Leg Bones"",""right"":""Support Walking""}]"
+170,17,Human Body Explorer,Match the body part with its description.,,,,,,Match,"[{""left"":""Skeleton"",""right"":""Gives body shape""},{""left"":""Joint"",""right"":""Connects bones""},{""left"":""Skull"",""right"":""Head bone""},{""left"":""Ribs"",""right"":""Chest bones""}]"
+171,18,Human Body Explorer,Muscles help us move our body.,TRUE,FALSE,,,TRUE,MCQ,
+172,18,Human Body Explorer,Muscles cannot work with bones.,TRUE,FALSE,,,FALSE,MCQ,
+173,18,Human Body Explorer,Do muscles become stronger with exercise?,Yes,No,,,Yes,MCQ,
+174,18,Human Body Explorer,Which part of the body helps you bend your arm?,Muscles,Bones,Teeth,Hair,Muscles,MCQ,
+175,18,Human Body Explorer,Which activity helps make muscles stronger?,Exercise,Watching TV,Eating candy,Sleeping all day,Exercise,MCQ,
+176,18,Human Body Explorer,What do muscles work with to help us move?,Hair,Bones,Teeth,Nails,Bones,MCQ,
+177,18,Human Body Explorer,Which activity uses many muscles?,Watching TV,Sleeping,Reading a book,Running,Running,MCQ,
+178,18,Human Body Explorer,Why stretch before exercise?,Change color,Stop breathing,Prepare muscles,Bone disappear,Prepare muscles,MCQ,
+179,18,Human Body Explorer,Match the body part with its job.,,,,,,Match,"[{""left"":""Muscles"",""right"":""Help us move""},{""left"":""Bones"",""right"":""Support the body""},{""left"":""Joints"",""right"":""Allow bending""},{""left"":""Brain"",""right"":""Controls movement""}]"
+180,18,Human Body Explorer,Match the activity with the body part used the most.,,,,,,Match,"[{""left"":""Running"",""right"":""Leg muscles""},{""left"":""Writing"",""right"":""Hand muscles""},{""left"":""Chewing"",""right"":""Jaw muscles""},{""left"":""Blinking"",""right"":""Eye muscles""}]"
+181,19,Human Body Explorer,Washing your hands helps prevent germs from spreading.,TRUE,FALSE,,,TRUE,MCQ,
+182,19,Human Body Explorer,Eating lots of candy every day is healthy.,TRUE,FALSE,,,FALSE,MCQ,
+183,19,Human Body Explorer,Should you brush your teeth twice a day?,Yes,No,,,Yes,MCQ,
+184,19,Human Body Explorer,Which food is the healthiest choice?,Apple,Chocolate,Candy,Potato Chips,Apple,MCQ,
+185,19,Human Body Explorer,What should you do before eating?,Play games,Jump around,Watch TV,Wash your hands,Wash your hands,MCQ,
+186,19,Human Body Explorer,Which drink is the best for keeping your body healthy?,Water,Soft Drink,Energy Drink,Soda,Water,MCQ,
+187,19,Human Body Explorer,Why is enough sleep important?,Skip rest,Grow and rest,Change color,Replace exercise,Grow and rest,MCQ,
+188,19,Human Body Explorer,Which habit keeps your body fit?,No sleep,Only sweets,Daily exercise,Skip breakfast,Daily exercise,MCQ,
+189,19,Human Body Explorer,Match the healthy habit with its benefit.,,,,,,Match,"[{""left"":""Brush teeth"",""right"":""Keeps teeth clean""},{""left"":""Wash hands"",""right"":""Removes germs""},{""left"":""Exercise"",""right"":""Keeps muscles strong""},{""left"":""Drink water"",""right"":""Keeps the body hydrated""}]"
+190,19,Human Body Explorer,Match the healthy food with its food group.,,,,,,Match,"[{""left"":""Apple"",""right"":""Fruit""},{""left"":""Carrot"",""right"":""Vegetable""},{""left"":""Milk"",""right"":""Dairy""},{""left"":""Fish"",""right"":""Protein""}]"
+191,20,Human Body Explorer,The brain controls many activities in our body.,TRUE,FALSE,,,TRUE,MCQ,
+192,20,Human Body Explorer,The stomach helps us breathe.,TRUE,FALSE,,,FALSE,MCQ,
+193,20,Human Body Explorer,Does food go to the stomach after we swallow it?,Yes,No,,,Yes,MCQ,
+194,20,Human Body Explorer,Which body system helps us breathe?,Muscular System,Skeletal System,Digestive System,Respiratory System,Respiratory System,MCQ,
+195,20,Human Body Explorer,Which body system breaks down food?,Skeletal System,Respiratory System,Digestive System,Nervous System,Digestive System,MCQ,
+196,20,Human Body Explorer,Which body system includes the heart and blood vessels?,Respiratory System,Skeletal System,Muscular System,Circulatory System,Circulatory System,MCQ,
+197,20,Human Body Explorer,Which body system includes the brain and nerves?,Digestive System,Nervous System,Skeletal System,Respiratory System,Nervous System,MCQ,
+198,20,Human Body Explorer,Why is every body system important?,They do same job,1 system is needed,help us change hair color,They work together,They work together,MCQ,
+199,20,Human Body Explorer,Match the body system with its main job.,,,,,,Match,"[{""left"":""Digestive System"",""right"":""Breaks down food""},{""left"":""Respiratory System"",""right"":""Helps us breathe""},{""left"":""Circulatory System"",""right"":""Moves blood around the body""},{""left"":""Nervous System"",""right"":""Controls the body""}]"
+200,20,Human Body Explorer,Match the organ with its body system.,,,,,,Match,"[{""left"":""Heart"",""right"":""Circulatory System""},{""left"":""Lungs"",""right"":""Respiratory System""},{""left"":""Stomach"",""right"":""Digestive System""},{""left"":""Brain"",""right"":""Nervous System""}]"
+201,21,Human Body Explorer: Review,Which organ helps us think and learn?,Lungs,Brain,Stomach,Heart,Brain,MCQ,
+202,21,Human Body Explorer: Review,The skeleton gives our body shape.,TRUE,FALSE,,,TRUE,MCQ,
+203,21,Human Body Explorer: Review,Do muscles become stronger with exercise?,Yes,No,,,Yes,MCQ,
+204,21,Human Body Explorer: Review,Which bone protects the brain?,Ribs,Leg Bone,Spine,Skull,Skull,MCQ,
+205,21,Human Body Explorer: Review,Which drink is the best for keeping your body healthy?,Soft Drink,Energy Drink,Soda,Water,Water,MCQ,
+206,21,Human Body Explorer: Review,Which body system includes the heart and blood vessels?,Circulatory System,Skeletal System,Digestive System,Respiratory System,Circulatory System,MCQ,
+207,21,Human Body Explorer: Review,Why is enough sleep important?,Change color,Grow and rest,Replace exercise,Forget things,Grow and rest,MCQ,
+208,21,Human Body Explorer: Review,Which organ helps us breathe?,Brain,Stomach,Lungs,Heart,Lungs,MCQ,
+209,21,Human Body Explorer: Review,Match the organ with its job.,,,,,,Match,"[{""left"":""Heart"",""right"":""Pumps blood""},{""left"":""Brain"",""right"":""Controls the body""},{""left"":""Lungs"",""right"":""Help us breathe""},{""left"":""Stomach"",""right"":""Digests food""}]"
+210,21,Human Body Explorer: Review,Match the body system with its main job.,,,,,,Match,"[{""left"":""Digestive System"",""right"":""Breaks down food""},{""left"":""Respiratory System"",""right"":""Helps us breathe""},{""left"":""Circulatory System"",""right"":""Moves blood around the body""},{""left"":""Nervous System"",""right"":""Controls the body""}]"
+211,22,Human Body Explorer: Review,The lungs help us digest food.,TRUE,FALSE,,,FALSE,MCQ,
+212,22,Human Body Explorer: Review,Should you brush your teeth twice a day?,Yes,No,,,Yes,MCQ,
+213,22,Human Body Explorer: Review,Which organ helps digest food?,Lungs,Brain,Stomach,Heart,Stomach,MCQ,
+214,22,Human Body Explorer: Review,Which part helps you stand upright?,Stomach,Heart,Lungs,Spine,Spine,MCQ,
+215,22,Human Body Explorer: Review,Which activity helps make muscles stronger?,Exercise,Eating candy,Watching TV,Sleeping all day,Exercise,MCQ,
+216,22,Human Body Explorer: Review,Which food is the healthiest choice?,Candy,Chocolate,Potato Chips,Apple,Apple,MCQ,
+217,22,Human Body Explorer: Review,Which body system helps us breathe?,Skeletal System,Respiratory System,Digestive System,Muscular System,Respiratory System,MCQ,
+218,22,Human Body Explorer: Review,Why is every body system important?,Hair color,Same job,One system,Work together,Work together,MCQ,
+219,22,Human Body Explorer: Review,Match the bone with what it protects.,,,,,,Match,"[{""left"":""Skull"",""right"":""Brain""},{""left"":""Ribs"",""right"":""Heart and Lungs""},{""left"":""Spine"",""right"":""Spinal Cord""},{""left"":""Leg Bones"",""right"":""Support Walking""}]"
+220,22,Human Body Explorer: Review,Match the healthy habit with its benefit.,,,,,,Match,"[{""left"":""Brush teeth"",""right"":""Keeps teeth clean""},{""left"":""Wash hands"",""right"":""Removes germs""},{""left"":""Exercise"",""right"":""Keeps muscles strong""},{""left"":""Drink water"",""right"":""Keeps the body hydrated""}]"
+221,23,Human Body Explorer: Review,Skin is the largest organ of the human body.,TRUE,FALSE,,,TRUE,MCQ,
+222,23,Human Body Explorer: Review,Can bones protect important organs?,Yes,No,,,Yes,MCQ,
+223,23,Human Body Explorer: Review,Which body part connects two bones together?,Heart,Joint,Brain,Lung,Joint,MCQ,
+224,23,Human Body Explorer: Review,Which organ pumps blood around the body?,Lungs,Heart,Brain,Stomach,Heart,MCQ,
+225,23,Human Body Explorer: Review,Which activity uses many muscles?,Watching TV,Running,Sleeping,Reading a book,Running,MCQ,
+226,23,Human Body Explorer: Review,What should you do before eating?,Play games,Wash your hands,Watch TV,Jump around,Wash your hands,MCQ,
+227,23,Human Body Explorer: Review,Which body system includes the brain and nerves?,Digestive System,Skeletal System,Nervous System,Respiratory System,Nervous System,MCQ,
+228,23,Human Body Explorer: Review,Which organ belongs to the digestive system?,Heart,Lungs,Stomach,Brain,Stomach,MCQ,
+229,23,Human Body Explorer: Review,Match the organ with its body system.,,,,,,Match,"[{""left"":""Heart"",""right"":""Circulatory System""},{""left"":""Lungs"",""right"":""Respiratory System""},{""left"":""Brain"",""right"":""Nervous System""},{""left"":""Stomach"",""right"":""Digestive System""}]"
+230,23,Human Body Explorer: Review,Match the body part with its main function.,,,,,,Match,"[{""left"":""Muscles"",""right"":""Help us move""},{""left"":""Skeleton"",""right"":""Supports the body""},{""left"":""Skin"",""right"":""Protects the body""},{""left"":""Brain"",""right"":""Controls the body""}]"
+231,24,Earth Explorer,A mountain is higher than a hill.,TRUE,FALSE,,,TRUE,MCQ,
+232,24,Earth Explorer,An island is completely surrounded by water.,TRUE,FALSE,,,TRUE,MCQ,
+233,24,Earth Explorer,Can rivers flow into oceans?,Yes,No,,,Yes,MCQ,
+234,24,Earth Explorer,Which landform is the highest?,Mountain,Island,Valley,Plain,Mountain,MCQ,
+235,24,Earth Explorer,Which landform is mostly flat?,Plain,Mountain,Hill,Valley,Plain,MCQ,
+236,24,Earth Explorer,Which landform is surrounded by water on all sides?,Island,Hill,Desert,Valley,Island,MCQ,
+237,24,Earth Explorer,Which landform is covered mostly with sand?,Desert,River,Ocean,Forest,Desert,MCQ,
+238,24,Earth Explorer,Where does a river usually flow?,Lake or ocean,Sky,Mountain,Volcano,Lake or ocean,MCQ,
+239,24,Earth Explorer,Match the landform with its description.,,,,,,Match,"[{""left"":""Mountain"",""right"":""Very high land""},{""left"":""Plain"",""right"":""Flat land""},{""left"":""Island"",""right"":""Land surrounded by water""},{""left"":""Valley"",""right"":""Low land between mountains""}]"
+240,24,Earth Explorer,Match the landform with its feature.,,,,,,Match,"[{""left"":""Desert"",""right"":""Dry and sandy""},{""left"":""River"",""right"":""Flowing water""},{""left"":""Ocean"",""right"":""Largest body of salt water""},{""left"":""Hill"",""right"":""Lower than a mountain""}]"
+241,25,Earth Explorer,Rocks are found naturally on Earth.,TRUE,FALSE,,,TRUE,MCQ,
+242,25,Earth Explorer,All rocks are soft.,TRUE,FALSE,,,FALSE,MCQ,
+243,25,Earth Explorer,Can rocks be different in color and size?,Yes,No,,,Yes,MCQ,
+244,25,Earth Explorer,Which of these is a rock?,Paper,Granite,Plastic,Glass,Granite,MCQ,
+245,25,Earth Explorer,What are minerals found in?,Trees,Rivers,Clouds,Rocks,Rocks,MCQ,
+246,25,Earth Explorer,Which material is commonly used to build houses?,Cotton,Plastic,Stone,Paper,Stone,MCQ,
+247,25,Earth Explorer,Which of these is the hardest natural mineral?,Gold,Diamond,Sand,Coal,Diamond,MCQ,
+248,25,Earth Explorer,Why are rocks useful?,Building,Tree growth,Rain making,Electricity,Building,MCQ,
+249,25,Earth Explorer,Match the rock or mineral with its use.,,,,,,Match,"[{""left"":""Granite"",""right"":""Building stone""},{""left"":""Diamond"",""right"":""Jewelry""},{""left"":""Coal"",""right"":""Fuel""},{""left"":""Sand"",""right"":""Making glass""}]"
+250,25,Earth Explorer,Match the material with its description.,,,,,,Match,"[{""left"":""Rock"",""right"":""Natural solid material""},{""left"":""Mineral"",""right"":""Found inside rocks""},{""left"":""Coal"",""right"":""Used as fuel""},{""left"":""Diamond"",""right"":""Very hard mineral""}]"
+251,26,Earth Explorer,Soil helps plants grow.,TRUE,FALSE,,,TRUE,MCQ,
+252,26,Earth Explorer,Seeds can grow without soil in most natural environments.,TRUE,FALSE,,,FALSE,MCQ,
+253,26,Earth Explorer,Does soil contain tiny living things?,Yes,No,,,Yes,MCQ,
+254,26,Earth Explorer,Which type of soil is best for growing most plants?,Gravel,Sand,Clay,Loam,Loam,MCQ,
+255,26,Earth Explorer,Which type of soil lets water pass through quickly?,Sand,Mud,Clay,Loam,Sand,MCQ,
+256,26,Earth Explorer,Which type of soil holds the most water?,Loam,Clay,Gravel,Sand,Clay,MCQ,
+257,26,Earth Explorer,Which animal helps make soil healthier?,Eagle,Dolphin,Earthworm,Lion,Earthworm,MCQ,
+258,26,Earth Explorer,Why is soil important?,Cloud making,River movement,Plant growth,Sunlight,Plant growth,MCQ,
+259,26,Earth Explorer,Match the soil type with its feature.,,,,,,Match,"[{""left"":""Sand"",""right"":""Drains water quickly""},{""left"":""Clay"",""right"":""Holds water well""},{""left"":""Loam"",""right"":""Best for most plants""},{""left"":""Gravel"",""right"":""Contains large stones""}]"
+260,26,Earth Explorer,Match the soil item with its description.,,,,,,Match,"[{""left"":""Earthworm"",""right"":""Lives in soil""},{""left"":""Compost"",""right"":""Makes soil richer""},{""left"":""Roots"",""right"":""Absorb water from soil""},{""left"":""Soil"",""right"":""Supports plant growth""}]"
+261,27,Earth Explorer,A volcano can erupt and release lava.,TRUE,FALSE,,,TRUE,MCQ,
+262,27,Earth Explorer,Lava is cold when it comes out of a volcano.,TRUE,FALSE,,,FALSE,MCQ,
+263,27,Earth Explorer,Can volcanoes change the shape of the land?,Yes,No,,,Yes,MCQ,
+264,27,Earth Explorer,What is hot melted rock called after it comes out of a volcano?,Sand,Steam,Lava,Soil,Lava,MCQ,
+265,27,Earth Explorer,What is hot melted rock called while it is inside the Earth?,Smoke,Rock,Magma,Lava,Magma,MCQ,
+266,27,Earth Explorer,Where is magma found?,In rivers,Inside the Earth,On trees,In clouds,Inside the Earth,MCQ,
+267,27,Earth Explorer,What happens during a volcanic eruption?,Lava and ash,Ocean disappears,Trees fly,Snow falls,Lava and ash,MCQ,
+268,27,Earth Explorer,Which action is safest during a volcanic eruption?,Follow orders,Hide nearby,Near lava,Touch lava,Follow orders,MCQ,
+269,27,Earth Explorer,Match the volcano word with its meaning.,,,,,,Match,"[{""left"":""Magma"",""right"":""Melted rock inside Earth""},{""left"":""Lava"",""right"":""Melted rock outside Earth""},{""left"":""Ash"",""right"":""Fine powder from an eruption""},{""left"":""Crater"",""right"":""Opening at the top of a volcano""}]"
+270,27,Earth Explorer,Match the volcano part with its description.,,,,,,Match,"[{""left"":""Crater"",""right"":""Top opening""},{""left"":""Magma Chamber"",""right"":""Stores magma underground""},{""left"":""Lava"",""right"":""Flows on Earth's surface""},{""left"":""Ash Cloud"",""right"":""Rises into the sky after an eruption""}]"
+271,28,Earth Explorer,An earthquake is the shaking of the ground.,TRUE,FALSE,,,TRUE,MCQ,
+272,28,Earth Explorer,Earthquakes happen because of the weather.,TRUE,FALSE,,,FALSE,MCQ,
+273,28,Earth Explorer,Should you stay calm during an earthquake?,Yes,No,,,Yes,MCQ,
+274,28,Earth Explorer,What should you do during an earthquake indoors?,Drop-Cover-Hold,Elevator,Window,Tree,Drop-Cover-Hold,MCQ,
+275,28,Earth Explorer,Which place is safest after an earthquake?,Tall building,Bridge,Open area,Damaged house,Open area,MCQ,
+276,28,Earth Explorer,What can happen during a strong earthquake?,Buildings shake,Mountains melt,Flying fish,Sun disappears,Buildings shake,MCQ,
+277,28,Earth Explorer,Why is an emergency kit useful?,Stop earthquakes,Predict earthquakes,Weather change,Emergency help,Emergency help,MCQ,
+278,28,Earth Explorer,Which item is good to keep in an emergency kit?,Candy Wrapper,Video Game,Toy Car,Flashlight,Flashlight,MCQ,
+279,28,Earth Explorer,Match the earthquake safety action with its purpose.,,,,,,Match,"[{""left"":""Drop"",""right"":""Get low to the ground""},{""left"":""Cover"",""right"":""Protect your head and body""},{""left"":""Hold On"",""right"":""Stay under shelter until shaking stops""},{""left"":""Emergency Kit"",""right"":""Provides important supplies""}]"
+280,28,Earth Explorer,Match the emergency item with its use.,,,,,,Match,"[{""left"":""Flashlight"",""right"":""Provides light""},{""left"":""First Aid Kit"",""right"":""Treats small injuries""},{""left"":""Bottle of Water"",""right"":""Drinking""},{""left"":""Whistle"",""right"":""Calls for help""}]"
+281,29,Earth Explorer: Review,Which landform is the highest?,Mountain,Island,Valley,Plain,Mountain,MCQ,
+282,29,Earth Explorer: Review,Rocks are found naturally on Earth.,TRUE,FALSE,,,TRUE,MCQ,
+283,29,Earth Explorer: Review,Which soil is best for growing most plants?,Sand,Loam,Gravel,Clay,Loam,MCQ,
+284,29,Earth Explorer: Review,What is hot melted rock called after it comes out of a volcano?,Sand,Soil,Lava,Steam,Lava,MCQ,
+285,29,Earth Explorer: Review,An earthquake is the shaking of the ground.,TRUE,FALSE,,,TRUE,MCQ,
+286,29,Earth Explorer: Review,Which landform is surrounded by water on all sides?,Island,Hill,Desert,Valley,Island,MCQ,
+287,29,Earth Explorer: Review,Which animal helps make soil healthier?,Earthworm,Dolphin,Eagle,Lion,Earthworm,MCQ,
+288,29,Earth Explorer: Review,What should you do during an earthquake indoors?,Drop-Cover-Hold,Window,Run outside,Elevator,Drop-Cover-Hold,MCQ,
+289,29,Earth Explorer: Review,Match the landform with its description.,,,,,,Match,"[{""left"":""Mountain"",""right"":""Very high land""},{""left"":""Plain"",""right"":""Flat land""},{""left"":""Island"",""right"":""Land surrounded by water""},{""left"":""Valley"",""right"":""Low land between mountains""}]"
+290,29,Earth Explorer: Review,Match the volcano word with its meaning.,,,,,,Match,"[{""left"":""Magma"",""right"":""Melted rock inside Earth""},{""left"":""Lava"",""right"":""Melted rock outside Earth""},{""left"":""Ash"",""right"":""Fine powder from an eruption""},{""left"":""Crater"",""right"":""Opening at the top of a volcano""}]"
+291,30,Earth Explorer: Review,An island is completely surrounded by water.,TRUE,FALSE,,,TRUE,MCQ,
+292,30,Earth Explorer: Review,Which material is commonly used to build houses?,Cotton,Paper,Plastic,Stone,Stone,MCQ,
+293,30,Earth Explorer: Review,Does soil contain tiny living things?,Yes,No,,,Yes,MCQ,
+294,30,Earth Explorer: Review,What is hot melted rock called while it is inside the Earth?,Magma,Rock,Smoke,Lava,Magma,MCQ,
+295,30,Earth Explorer: Review,Should you stay calm during an earthquake?,Yes,No,,,Yes,MCQ,
+296,30,Earth Explorer: Review,Which landform is mostly flat?,Mountain,Hill,Valley,Plain,Plain,MCQ,
+297,30,Earth Explorer: Review,Which type of soil holds the most water?,Gravel,Sand,Clay,Loam,Clay,MCQ,
+298,30,Earth Explorer: Review,Which item is good to keep in an emergency kit?,Video Game,Toy Car,Flashlight,Candy Wrapper,Flashlight,MCQ,
+299,30,Earth Explorer: Review,Match the rock or mineral with its use.,,,,,,Match,"[{""left"":""Granite"",""right"":""Building stone""},{""left"":""Diamond"",""right"":""Jewelry""},{""left"":""Coal"",""right"":""Fuel""},{""left"":""Sand"",""right"":""Making glass""}]"
+300,30,Earth Explorer: Review,Match the earthquake safety action with its purpose.,,,,,,Match,"[{""left"":""Drop"",""right"":""Get low to the ground""},{""left"":""Cover"",""right"":""Protect your head and body""},{""left"":""Hold On"",""right"":""Stay under shelter until shaking stops""},{""left"":""Emergency Kit"",""right"":""Provides important supplies""}]"
+301,31,Earth Explorer: Review,A valley is low land between mountains.,TRUE,FALSE,,,TRUE,MCQ,
+302,31,Earth Explorer: Review,Which of these is a natural solid material found on Earth?,Glass,Plastic,Paper,Rock,Rock,MCQ,
+303,31,Earth Explorer: Review,"""Which soil is made from a mixture of sand, clay and organic matter?""",Stone,Rock,Loam,Gravel,Loam,MCQ,
+304,31,Earth Explorer: Review,What comes out of a volcano during an eruption?,Ice,Lava,Snow,Rain,Lava,MCQ,
+305,31,Earth Explorer: Review,What should you do during an earthquake indoors?,Elevator,Run outside,Drop-Cover-Hold,Window,Drop-Cover-Hold,MCQ,
+306,31,Earth Explorer: Review,Which landform contains a large amount of salt water?,Hill,Valley,Ocean,River,Ocean,MCQ,
+307,31,Earth Explorer: Review,Which mineral is known as one of the hardest natural materials?,Diamond,Sand,Clay,Coal,Diamond,MCQ,
+308,31,Earth Explorer: Review,Why is soil important for plants?,It provides nutrients,It makes sunlight,It creates clouds,It produces wind,It provides nutrients,MCQ,
+309,31,Earth Explorer: Review,Match the landform with its feature.,,,,,,Match,"[{""left"":""Desert"",""right"":""Dry sandy area""},{""left"":""River"",""right"":""Flowing water""},{""left"":""Island"",""right"":""Land surrounded by water""},{""left"":""Mountain"",""right"":""High landform""}]"
+310,31,Earth Explorer: Review,Match the Earth feature with its description.,,,,,,Match,"[{""left"":""Volcano"",""right"":""Opening that releases lava""},{""left"":""Earthquake"",""right"":""Shaking of the ground""},{""left"":""Soil"",""right"":""Supports plant growth""},{""left"":""Rock"",""right"":""Natural solid material""}]"
+311,32,Water World,Water cycle moves water on Earth.,TRUE,FALSE,,,TRUE,MCQ,
+312,32,Water World,The Sun helps water evaporate.,TRUE,FALSE,,,TRUE,MCQ,
+313,32,Water World,Can clouds make rain?,Yes,No,,,Yes,MCQ,
+314,32,Water World,Water turns into vapor by?,Freezing,Melting,Evaporation,Flowing,Evaporation,MCQ,
+315,32,Water World,Water vapor forms?,Rocks,Plants,Soil,Clouds,Clouds,MCQ,
+316,32,Water World,Water falls from clouds as?,Rain,Wind,Snow,Smoke,Rain,MCQ,
+317,32,Water World,What heats water?,Star,Sun,Cloud,Moon,Sun,MCQ,
+318,32,Water World,Water collects in?,Air,Rocks,Sky,Oceans,Oceans,MCQ,
+319,32,Water World,Match the water cycle step.,,,,,,Match,"[{""left"":""Evaporation"",""right"":""Water vapor""},{""left"":""Condensation"",""right"":""Cloud making""},{""left"":""Rainfall"",""right"":""Water drops""},{""left"":""Collection"",""right"":""Water storage""}]"
+320,32,Water World,Match the water cycle part.,,,,,,Match,"[{""left"":""Sun"",""right"":""Heat source""},{""left"":""Cloud"",""right"":""Water drops""},{""left"":""Rain"",""right"":""Falling water""},{""left"":""Ocean"",""right"":""Water store""}]"
+321,33,Water World,Rivers contain moving water.,TRUE,FALSE,,,TRUE,MCQ,
+322,33,Water World,Fresh water has salt.,TRUE,FALSE,,,FALSE,MCQ,
+323,33,Water World,Can people use river water?,Yes,No,,,Yes,MCQ,
+324,33,Water World,Which is fresh water?,Sea,Wave,River,Ocean,River,MCQ,
+325,33,Water World,Where do rivers flow?,Upward,Downhill,Backward,Skyward,Downhill,MCQ,
+326,33,Water World,Which stores fresh water?,Sea,Wave,Lake,Ocean,Lake,MCQ,
+327,33,Water World,Rivers provide water for?,Clouds,Sun,Stars,People,People,MCQ,
+328,33,Water World,What flows in a river?,Smoke,Sand,Air,Water,Water,MCQ,
+329,33,Water World,Match the water source.,,,,,,Match,"[{""left"":""River"",""right"":""Fresh water""},{""left"":""Lake"",""right"":""Water storage""},{""left"":""Stream"",""right"":""Small river""},{""left"":""Spring"",""right"":""Water source""}]"
+330,33,Water World,Match the water body.,,,,,,Match,"[{""left"":""River"",""right"":""Flowing water""},{""left"":""Lake"",""right"":""Still water""},{""left"":""Pond"",""right"":""Small lake""},{""left"":""Stream"",""right"":""Small flow""}]"
+331,34,Water World,Oceans contain salt water.,TRUE,FALSE,,,TRUE,MCQ,
+332,34,Water World,Ocean water is drinkable.,TRUE,FALSE,,,FALSE,MCQ,
+333,34,Water World,Do fish live in oceans?,Yes,No,,,Yes,MCQ,
+334,34,Water World,Which is a large water body?,Pond,River,Stream,Ocean,Ocean,MCQ,
+335,34,Water World,Which animal lives in oceans?,Cat,Cow,Whale,Bird,Whale,MCQ,
+336,34,Water World,Ocean water contains?,Salt,Oil,Milk,Sugar,Salt,MCQ,
+337,34,Water World,Which moves on ocean water?,Trees,Waves,Rocks,Clouds,Waves,MCQ,
+338,34,Water World,Coral reefs are found in?,Mountain,Ocean,Desert,Forest,Ocean,MCQ,
+339,34,Water World,Match the ocean animal.,,,,,,Match,"[{""left"":""Whale"",""right"":""Large animal""},{""left"":""Fish"",""right"":""Swims water""},{""left"":""Dolphin"",""right"":""Sea animal""},{""left"":""Turtle"",""right"":""Ocean animal""}]"
+340,34,Water World,Match the ocean feature.,,,,,,Match,"[{""left"":""Wave"",""right"":""Moving water""},{""left"":""Ocean"",""right"":""Salt water""},{""left"":""Coral"",""right"":""Sea home""},{""left"":""Beach"",""right"":""Sandy shore""}]"
+341,35,Water World,Water pollution makes water dirty.,TRUE,FALSE,,,TRUE,MCQ,
+342,35,Water World,Plastic can pollute water.,TRUE,FALSE,,,TRUE,MCQ,
+343,35,Water World,Can polluted water harm animals?,Yes,No,,,Yes,MCQ,
+344,35,Water World,Which causes water pollution?,Plastic,Sun,Clouds,Plants,Plastic,MCQ,
+345,35,Water World,Dirty water is called?,Clean water,Rainwater,Pollution,Freshwater,Pollution,MCQ,
+346,35,Water World,Which should not enter rivers?,Fish,Waste,Plants,Water,Waste,MCQ,
+347,35,Water World,Oil spills harm?,Clouds,Trees,Sea life,Mountains,Sea life,MCQ,
+348,35,Water World,Clean water helps?,Smoke,Dust,Noise,Health,Health,MCQ,
+349,35,Water World,Match the pollution cause.,,,,,,Match,"[{""left"":""Plastic"",""right"":""Waste""},{""left"":""Oil"",""right"":""Spill""},{""left"":""Chemicals"",""right"":""Pollution""},{""left"":""Trash"",""right"":""Litter""}]"
+350,35,Water World,Match the clean water action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Clean rivers"",""right"":""Save water""},{""left"":""No plastic"",""right"":""Protect water""},{""left"":""Plant trees"",""right"":""Help nature""}]"
+351,36,Water World,Saving water is important.,TRUE,FALSE,,,TRUE,MCQ,
+352,36,Water World,We should waste water.,TRUE,FALSE,,,FALSE,MCQ,
+353,36,Water World,Can we reuse water?,Yes,No,,,Yes,MCQ,
+354,36,Water World,How can we save water?,Waste water,Spill water,Close taps,Open taps,Close taps,MCQ,
+355,36,Water World,Which saves water?,Short shower,Open tap,Long shower,Water waste,Short shower,MCQ,
+356,36,Water World,Rainwater can be?,Wasted,Burned,Hidden,Collected,Collected,MCQ,
+357,36,Water World,Why save water?,Create smoke,Heat air,Protect Earth,Make noise,Protect Earth,MCQ,
+358,36,Water World,Who should save water?,Nobody,Clouds,Everyone,Animals,Everyone,MCQ,
+359,36,Water World,Match the water saving action.,,,,,,Match,"[{""left"":""Close tap"",""right"":""Save water""},{""left"":""Reuse water"",""right"":""Reduce waste""},{""left"":""Fix leaks"",""right"":""Stop loss""},{""left"":""Collect rain"",""right"":""Store water""}]"
+360,36,Water World,Match the water use.,,,,,,Match,"[{""left"":""Drinking"",""right"":""Daily need""},{""left"":""Washing"",""right"":""Cleaning""},{""left"":""Plants"",""right"":""Watering""},{""left"":""Cooking"",""right"":""Food use""}]"
+361,37,Water World: Review,Water turns into vapor by?,Freezing,Flowing,Evaporation,Melting,Evaporation,MCQ,
+362,37,Water World: Review,Fresh water has salt.,TRUE,FALSE,,,FALSE,MCQ,
+363,37,Water World: Review,Which animal lives in oceans?,Cow,Cat,Whale,Bird,Whale,MCQ,
+364,37,Water World: Review,Plastic causes water?,Pollution,Growth,Cleaning,Heat,Pollution,MCQ,
+365,37,Water World: Review,We should save water.,TRUE,FALSE,,,TRUE,MCQ,
+366,37,Water World: Review,Water falls from clouds as?,Smoke,Wind,Sand,Rain,Rain,MCQ,
+367,37,Water World: Review,Which stores fresh water?,Sea,Wave,Lake,Ocean,Lake,MCQ,
+368,37,Water World: Review,How can we save water?,Close taps,Open taps,Waste water,Spill water,Close taps,MCQ,
+369,37,Water World: Review,Match the water cycle step.,,,,,,Match,"[{""left"":""Evaporation"",""right"":""Water vapor""},{""left"":""Condensation"",""right"":""Cloud making""},{""left"":""Rainfall"",""right"":""Water drops""},{""left"":""Collection"",""right"":""Water storage""}]"
+370,37,Water World: Review,Match the ocean feature.,,,,,,Match,"[{""left"":""Ocean"",""right"":""Salt water""},{""left"":""Wave"",""right"":""Moving water""},{""left"":""Coral"",""right"":""Sea home""},{""left"":""Beach"",""right"":""Sandy shore""}]"
+371,38,Water World: Review,Water turns into vapor by?,Flowing,Evaporation,Melting,Freezing,Evaporation,MCQ,
+372,38,Water World: Review,Fresh water has salt.,TRUE,FALSE,,,FALSE,MCQ,
+373,38,Water World: Review,Which animal lives in oceans?,Cat,Bird,Whale,Cow,Whale,MCQ,
+374,38,Water World: Review,Plastic causes water?,Heat,Pollution,Growth,Cleaning,Pollution,MCQ,
+375,38,Water World: Review,We should save water.,TRUE,FALSE,,,TRUE,MCQ,
+376,38,Water World: Review,Water falls from clouds as?,Wind,Sand,Rain,Smoke,Rain,MCQ,
+377,38,Water World: Review,Which stores fresh water?,Wave,Lake,Sea,Ocean,Lake,MCQ,
+378,38,Water World: Review,How can we save water?,Close taps,Spill water,Open taps,Waste water,Close taps,MCQ,
+379,38,Water World: Review,Match the water cycle step.,,,,,,Match,"[{""left"":""Evaporation"",""right"":""Water vapor""},{""left"":""Condensation"",""right"":""Cloud making""},{""left"":""Rainfall"",""right"":""Water drops""},{""left"":""Collection"",""right"":""Water storage""}]"
+380,38,Water World: Review,Match the ocean feature.,,,,,,Match,"[{""left"":""Ocean"",""right"":""Salt water""},{""left"":""Wave"",""right"":""Moving water""},{""left"":""Coral"",""right"":""Sea home""},{""left"":""Beach"",""right"":""Sandy shore""}]"
+381,39,Water World: Review,The Sun helps the water cycle.,TRUE,FALSE,,,TRUE,MCQ,
+382,39,Water World: Review,Which is the largest water body?,River,Ocean,Pond,Lake,Ocean,MCQ,
+383,39,Water World: Review,Can polluted water harm fish?,Yes,No,,,Yes,MCQ,
+384,39,Water World: Review,Which action saves water?,Open tap,Close taps,Waste water,Long shower,Close taps,MCQ,
+385,39,Water World: Review,Which water is salty?,River,Ocean,Lake,Pond,Ocean,MCQ,
+386,39,Water World: Review,Water vapor changes into?,Sand,Smoke,Clouds,Rocks,Clouds,MCQ,
+387,39,Water World: Review,Which should stay out of rivers?,Trash,Fish,Boats,Water,Trash,MCQ,
+388,39,Water World: Review,Who should save water?,Everyone,Children,Farmers,Adults,Everyone,MCQ,
+389,39,Water World: Review,Match the water body.,,,,,,Match,"[{""left"":""Ocean"",""right"":""Salt water""},{""left"":""River"",""right"":""Flowing water""},{""left"":""Lake"",""right"":""Still water""},{""left"":""Pond"",""right"":""Small water""}]"
+390,39,Water World: Review,Match the water action.,,,,,,Match,"[{""left"":""Evaporation"",""right"":""Water vapor""},{""left"":""Condensation"",""right"":""Clouds""},{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Close tap"",""right"":""Save water""}]"
+391,40,Weather Station,Clouds float in the sky.,TRUE,FALSE,,,TRUE,MCQ,
+392,40,Weather Station,Clouds are made of tiny water drops.,TRUE,FALSE,,,TRUE,MCQ,
+393,40,Weather Station,Can clouds bring rain?,Yes,No,,,Yes,MCQ,
+394,40,Weather Station,Where do clouds form?,Cave,Ground,Sky,Ocean,Sky,MCQ,
+395,40,Weather Station,Which cloud is dark and rainy?,Fog,Cumulus,Cirrus,Rain cloud,Rain cloud,MCQ,
+396,40,Weather Station,Which cloud is white and fluffy?,Fog,Storm cloud,Cirrus,Cumulus,Cumulus,MCQ,
+397,40,Weather Station,Clouds are made from?,Dust,Water drops,Smoke,Sand,Water drops,MCQ,
+398,40,Weather Station,What color are most fair-weather clouds?,White,Black,Red,Green,White,MCQ,
+399,40,Weather Station,Match the cloud type.,,,,,,Match,"[{""left"":""Cumulus"",""right"":""Fluffy""},{""left"":""Rain cloud"",""right"":""Rain""},{""left"":""Cirrus"",""right"":""Thin""},{""left"":""Fog"",""right"":""Ground cloud""}]"
+400,40,Weather Station,Match the weather word.,,,,,,Match,"[{""left"":""Cloud"",""right"":""Sky""},{""left"":""Rain"",""right"":""Water""},{""left"":""Sun"",""right"":""Heat""},{""left"":""Wind"",""right"":""Air""}]"
+401,41,Weather Station,Rain falls from clouds.,TRUE,FALSE,,,TRUE,MCQ,
+402,41,Weather Station,The Sun helps make rain.,TRUE,FALSE,,,TRUE,MCQ,
+403,41,Weather Station,Can rain help plants grow?,Yes,No,,,Yes,MCQ,
+404,41,Weather Station,Water changes into vapor by?,Freezing,Evaporation,Boiling,Melting,Evaporation,MCQ,
+405,41,Weather Station,Water vapor forms?,Clouds,Rocks,Trees,Soil,Clouds,MCQ,
+406,41,Weather Station,Frozen rain is called?,Fog,Hail,Snow,Dew,Hail,MCQ,
+407,41,Weather Station,Which weather brings rain?,Stars,Wind,Clouds,Sunshine,Clouds,MCQ,
+408,41,Weather Station,Rainwater collects in?,Rivers,Ovens,Roads,Roofs,Rivers,MCQ,
+409,41,Weather Station,Match the water cycle.,,,,,,Match,"[{""left"":""Evaporation"",""right"":""Water vapor""},{""left"":""Condensation"",""right"":""Clouds""},{""left"":""Rainfall"",""right"":""Rain""},{""left"":""Collection"",""right"":""Rivers""}]"
+410,41,Weather Station,Match the weather word.,,,,,,Match,"[{""left"":""Rain"",""right"":""Water drops""},{""left"":""Snow"",""right"":""Ice flakes""},{""left"":""Hail"",""right"":""Ice balls""},{""left"":""Dew"",""right"":""Morning drops""}]"
+411,42,Weather Station,Thunderstorms have lightning.,TRUE,FALSE,,,TRUE,MCQ,
+412,42,Weather Station,Lightning is safe to touch.,TRUE,FALSE,,,FALSE,MCQ,
+413,42,Weather Station,Should you stay indoors during a storm?,Yes,No,,,Yes,MCQ,
+414,42,Weather Station,Which weather has thunder?,Foggy,Sunny,Thunderstorm,Cloudy,Thunderstorm,MCQ,
+415,42,Weather Station,Strong spinning winds are called?,Hurricane,Breeze,Rainbow,Tornado,Tornado,MCQ,
+416,42,Weather Station,Which weather brings heavy rain and strong winds?,Hurricane,Snow,Fog,Sunny,Hurricane,MCQ,
+417,42,Weather Station,What comes before thunder?,Wind,Rain,Snow,Lightning,Lightning,MCQ,
+418,42,Weather Station,What should you avoid during a storm?,Home,Tall trees,Raincoat,Shelter,Tall trees,MCQ,
+419,42,Weather Station,Match the weather event.,,,,,,Match,"[{""left"":""Thunderstorm"",""right"":""Thunder""},{""left"":""Lightning"",""right"":""Bright flash""},{""left"":""Tornado"",""right"":""Spinning wind""},{""left"":""Hurricane"",""right"":""Strong storm""}]"
+420,42,Weather Station,Match the safety rule.,,,,,,Match,"[{""left"":""Stay indoors"",""right"":""Storm safety""},{""left"":""Avoid trees"",""right"":""Lightning safety""},{""left"":""Listen radio"",""right"":""Weather news""},{""left"":""Stay calm"",""right"":""Safe action""}]"
+421,43,Weather Station,A thermometer measures temperature.,TRUE,FALSE,,,TRUE,MCQ,
+422,43,Weather Station,A rain gauge measures rainfall.,TRUE,FALSE,,,TRUE,MCQ,
+423,43,Weather Station,Can a wind vane show wind direction?,Yes,No,,,Yes,MCQ,
+424,43,Weather Station,Which instrument measures temperature?,Thermometer,Rain gauge,Wind vane,Barometer,Thermometer,MCQ,
+425,43,Weather Station,Which instrument measures rainfall?,Thermometer,Anemometer,Barometer,Rain gauge,Rain gauge,MCQ,
+426,43,Weather Station,Which instrument measures wind speed?,Barometer,Rain gauge,Anemometer,Thermometer,Anemometer,MCQ,
+427,43,Weather Station,Which instrument shows wind direction?,Barometer,Thermometer,Compass,Wind vane,Wind vane,MCQ,
+428,43,Weather Station,Which instrument measures air pressure?,Rain gauge,Anemometer,Thermometer,Barometer,Barometer,MCQ,
+429,43,Weather Station,Match the instrument.,,,,,,Match,"[{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Rain gauge"",""right"":""Rainfall""},{""left"":""Anemometer"",""right"":""Wind speed""},{""left"":""Wind vane"",""right"":""Wind direction""}]"
+430,43,Weather Station,Match the weather tool.,,,,,,Match,"[{""left"":""Barometer"",""right"":""Air pressure""},{""left"":""Thermometer"",""right"":""Heat""},{""left"":""Rain gauge"",""right"":""Rain""},{""left"":""Wind vane"",""right"":""Wind""}]"
+431,44,Weather Station,A weather forecast tells future weather.,TRUE,FALSE,,,TRUE,MCQ,
+432,44,Weather Station,You should ignore weather warnings.,TRUE,FALSE,,,FALSE,MCQ,
+433,44,Weather Station,Should you carry an umbrella on a rainy day?,Yes,No,,,Yes,MCQ,
+434,44,Weather Station,Who studies the weather?,Farmer,Meteorologist,Doctor,Pilot,Meteorologist,MCQ,
+435,44,Weather Station,What should you wear on a cold day?,T-shirt,Sandals,Jacket,Shorts,Jacket,MCQ,
+436,44,Weather Station,What should you use on a sunny day?,Scarf,Sunscreen,Blanket,Umbrella,Sunscreen,MCQ,
+437,44,Weather Station,Which weather is best for flying kites?,Snowy,Windy,Rainy,Stormy,Windy,MCQ,
+438,44,Weather Station,Where can you check today's weather?,Forecast,Map,Book,Clock,Forecast,MCQ,
+439,44,Weather Station,Match the weather with the item.,,,,,,Match,"[{""left"":""Rainy"",""right"":""Umbrella""},{""left"":""Sunny"",""right"":""Sunscreen""},{""left"":""Cold"",""right"":""Jacket""},{""left"":""Windy"",""right"":""Kite""}]"
+440,44,Weather Station,Match the weather with the action.,,,,,,Match,"[{""left"":""Storm"",""right"":""Stay indoors""},{""left"":""Rain"",""right"":""Carry umbrella""},{""left"":""Sunny"",""right"":""Drink water""},{""left"":""Snow"",""right"":""Wear boots""}]"
+441,45,Weather Station: Review,Clouds are made of?,Smoke,Sand,Water drops,Dust,Water drops,MCQ,
+442,45,Weather Station: Review,Rain falls from?,Clouds,Plants,Oceans,Rivers,Clouds,MCQ,
+443,45,Weather Station: Review,Which weather has thunder?,Thunderstorm,Sunny,Cloudy,Foggy,Thunderstorm,MCQ,
+444,45,Weather Station: Review,Which tool measures temperature?,Rain gauge,Thermometer,Anemometer,Barometer,Thermometer,MCQ,
+445,45,Weather Station: Review,Who studies weather?,Teacher,Farmer,Doctor,Meteorologist,Meteorologist,MCQ,
+446,45,Weather Station: Review,Can clouds bring rain?,Yes,No,,,Yes,MCQ,
+447,45,Weather Station: Review,Which measures rainfall?,Rain gauge,Thermometer,Compass,Barometer,Rain gauge,MCQ,
+448,45,Weather Station: Review,Best place during a storm?,Tree,Rooftop,Playground,Indoors,Indoors,MCQ,
+449,45,Weather Station: Review,Match the weather tool.,,,,,,Match,"[{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Rain gauge"",""right"":""Rainfall""},{""left"":""Wind vane"",""right"":""Wind direction""},{""left"":""Anemometer"",""right"":""Wind speed""}]"
+450,45,Weather Station: Review,Match the weather type.,,,,,,Match,"[{""left"":""Sunny"",""right"":""Bright sun""},{""left"":""Rainy"",""right"":""Falling rain""},{""left"":""Cloudy"",""right"":""Many clouds""},{""left"":""Stormy"",""right"":""Thunder""}]"
+451,46,Weather Station: Review,Which cloud brings rain?,Fog,Cumulus,Rain cloud,Cirrus,Rain cloud,MCQ,
+452,46,Weather Station: Review,Frozen rain is called?,Hail,Snow,Fog,Dew,Hail,MCQ,
+453,46,Weather Station: Review,Lightning comes before thunder.,TRUE,FALSE,,,TRUE,MCQ,
+454,46,Weather Station: Review,Which tool measures wind speed?,Anemometer,Thermometer,Rain gauge,Barometer,Anemometer,MCQ,
+455,46,Weather Station: Review,What should you carry on a rainy day?,Jacket,Scarf,Umbrella,Hat,Umbrella,MCQ,
+456,46,Weather Station: Review,Clouds form by?,Evaporation,Condensation,Melting,Freezing,Condensation,MCQ,
+457,46,Weather Station: Review,Which tool measures air pressure?,Wind vane,Rain gauge,Thermometer,Barometer,Barometer,MCQ,
+458,46,Weather Station: Review,Which weather is good for kite flying?,Rainy,Stormy,Windy,Snowy,Windy,MCQ,
+459,46,Weather Station: Review,Match the storm event.,,,,,,Match,"[{""left"":""Lightning"",""right"":""Bright flash""},{""left"":""Thunder"",""right"":""Loud sound""},{""left"":""Tornado"",""right"":""Spinning wind""},{""left"":""Hurricane"",""right"":""Strong storm""}]"
+460,46,Weather Station: Review,Match the weather safety.,,,,,,Match,"[{""left"":""Storm"",""right"":""Stay indoors""},{""left"":""Rain"",""right"":""Use umbrella""},{""left"":""Cold"",""right"":""Wear jacket""},{""left"":""Sunny"",""right"":""Use sunscreen""}]"
+461,47,Weather Station: Review,White fluffy clouds are?,Fog,Rain cloud,Cumulus,Cirrus,Cumulus,MCQ,
+462,47,Weather Station: Review,Rain helps plants grow.,TRUE,FALSE,,,TRUE,MCQ,
+463,47,Weather Station: Review,Should you stand under a tree during lightning?,Yes,No,,,No,MCQ,
+464,47,Weather Station: Review,Which tool shows wind direction?,Anemometer,Barometer,Wind vane,Thermometer,Wind vane,MCQ,
+465,47,Weather Station: Review,Who gives weather forecasts?,Pilot,Meteorologist,Teacher,Doctor,Meteorologist,MCQ,
+466,47,Weather Station: Review,Which weather has strong winds?,Stormy,Sunny,Cloudy,Foggy,Stormy,MCQ,
+467,47,Weather Station: Review,Which tool measures rainfall?,Rain gauge,Thermometer,Compass,Barometer,Rain gauge,MCQ,
+468,47,Weather Station: Review,What should you wear on a cold day?,Sandals,Cap,Jacket,Shorts,Jacket,MCQ,
+469,47,Weather Station: Review,Match the weather instrument.,,,,,,Match,"[{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Barometer"",""right"":""Air pressure""},{""left"":""Rain gauge"",""right"":""Rainfall""},{""left"":""Wind vane"",""right"":""Wind direction""}]"
+470,47,Weather Station: Review,Match the weather condition.,,,,,,Match,"[{""left"":""Sunny"",""right"":""Bright day""},{""left"":""Cloudy"",""right"":""Many clouds""},{""left"":""Rainy"",""right"":""Wet weather""},{""left"":""Windy"",""right"":""Moving air""}]"
+471,48,Space Adventure,The Sun is at the center of the Solar System.,TRUE,FALSE,,,TRUE,MCQ,
+472,48,Space Adventure,Earth is part of the Solar System.,TRUE,FALSE,,,TRUE,MCQ,
+473,48,Space Adventure,Do planets orbit the Sun?,Yes,No,,,Yes,MCQ,
+474,48,Space Adventure,What is at the center of the Solar System?,Sun,Earth,Moon,Mars,Sun,MCQ,
+475,48,Space Adventure,How many planets are in the Solar System?,Nine,Seven,Ten,Eight,Eight,MCQ,
+476,48,Space Adventure,What do planets move around?,Earth,Sun,Moon,Stars,Sun,MCQ,
+477,48,Space Adventure,Which is a planet?,Moon,Star,Sun,Earth,Earth,MCQ,
+478,48,Space Adventure,What gives Earth light?,Sun,Venus,Mars,Moon,Sun,MCQ,
+479,48,Space Adventure,Match the space object.,,,,,,Match,"[{""left"":""Sun"",""right"":""Center""},{""left"":""Earth"",""right"":""Planet""},{""left"":""Moon"",""right"":""Satellite""},{""left"":""Mars"",""right"":""Planet""}]"
+480,48,Space Adventure,Match the Solar System word.,,,,,,Match,"[{""left"":""Sun"",""right"":""Star""},{""left"":""Planet"",""right"":""Orbits Sun""},{""left"":""Moon"",""right"":""Orbits Earth""},{""left"":""Space"",""right"":""Universe""}]"
+481,49,Space Adventure,Earth is the third planet from the Sun.,TRUE,FALSE,,,TRUE,MCQ,
+482,49,Space Adventure,Jupiter is the largest planet.,TRUE,FALSE,,,TRUE,MCQ,
+483,49,Space Adventure,Does Saturn have rings?,Yes,No,,,Yes,MCQ,
+484,49,Space Adventure,Which planet do we live on?,Earth,Venus,Jupiter,Mars,Earth,MCQ,
+485,49,Space Adventure,Which planet is closest to the Sun?,Venus,Mars,Mercury,Earth,Mercury,MCQ,
+486,49,Space Adventure,Which planet is called the Red Planet?,Earth,Mars,Saturn,Venus,Mars,MCQ,
+487,49,Space Adventure,Which planet has beautiful rings?,Jupiter,Saturn,Neptune,Mercury,Saturn,MCQ,
+488,49,Space Adventure,Which is the largest planet?,Mars,Earth,Jupiter,Venus,Jupiter,MCQ,
+489,49,Space Adventure,Match the planet.,,,,,,Match,"[{""left"":""Mercury"",""right"":""Closest Sun""},{""left"":""Earth"",""right"":""Our home""},{""left"":""Mars"",""right"":""Red Planet""},{""left"":""Saturn"",""right"":""Has rings""}]"
+490,49,Space Adventure,Match the planet fact.,,,,,,Match,"[{""left"":""Jupiter"",""right"":""Largest""},{""left"":""Venus"",""right"":""Second planet""},{""left"":""Neptune"",""right"":""Farthest""},{""left"":""Earth"",""right"":""Life""}]"
+491,50,Space Adventure,The Moon orbits Earth.,TRUE,FALSE,,,TRUE,MCQ,
+492,50,Space Adventure,The Moon makes its own light.,TRUE,FALSE,,,FALSE,MCQ,
+493,50,Space Adventure,Can we see a Full Moon?,Yes,No,,,Yes,MCQ,
+494,50,Space Adventure,Earth has one?,Planet,Moon,Star,Sun,Moon,MCQ,
+495,50,Space Adventure,Which Moon phase is fully bright?,Crescent,New Moon,Half Moon,Full Moon,Full Moon,MCQ,
+496,50,Space Adventure,Which phase is mostly dark?,Full Moon,Crescent,New Moon,Half Moon,New Moon,MCQ,
+497,50,Space Adventure,The Moon shines by reflecting?,Starlight,Fire,Lightning,Sunlight,Sunlight,MCQ,
+498,50,Space Adventure,Which phase looks like a banana?,Half Moon,New Moon,Full Moon,Crescent,Crescent,MCQ,
+499,50,Space Adventure,Match the Moon phase.,,,,,,Match,"[{""left"":""Full Moon"",""right"":""Round""},{""left"":""New Moon"",""right"":""Dark""},{""left"":""Half Moon"",""right"":""Half lit""},{""left"":""Crescent"",""right"":""Curved""}]"
+500,50,Space Adventure,Match the space object.,,,,,,Match,"[{""left"":""Moon"",""right"":""Earth orbits""},{""left"":""Earth"",""right"":""Our planet""},{""left"":""Sun"",""right"":""Gives light""},{""left"":""Stars"",""right"":""Twinkle""}]"
+501,51,Space Adventure,A solar eclipse happens when the Moon blocks the Sun.,TRUE,FALSE,,,TRUE,MCQ,
+502,51,Space Adventure,A lunar eclipse happens when Earth blocks sunlight to the Moon.,TRUE,FALSE,,,TRUE,MCQ,
+503,51,Space Adventure,Should you look directly at a solar eclipse?,Yes,No,,,No,MCQ,
+504,51,Space Adventure,What blocks the Sun in a solar eclipse?,Venus,Earth,Moon,Mars,Moon,MCQ,
+505,51,Space Adventure,What becomes dark during a lunar eclipse?,Earth,Mars,Sun,Moon,Moon,MCQ,
+506,51,Space Adventure,Which eclipse needs eye protection?,Solar,Lunar,Both,,Solar,MCQ,
+507,51,Space Adventure,Earth's shadow falls on the?,Moon,Venus,Mars,Sun,Moon,MCQ,
+508,51,Space Adventure,The Moon's shadow falls on the?,Jupiter,Earth,Sun,Mars,Earth,MCQ,
+509,51,Space Adventure,Match the eclipse.,,,,,,Match,"[{""left"":""Solar eclipse"",""right"":""Moon blocks Sun""},{""left"":""Lunar eclipse"",""right"":""Earth blocks light""},{""left"":""Moon"",""right"":""Natural satellite""},{""left"":""Sun"",""right"":""Star""}]"
+510,51,Space Adventure,Match the space object.,,,,,,Match,"[{""left"":""Sun"",""right"":""Gives light""},{""left"":""Earth"",""right"":""Our planet""},{""left"":""Moon"",""right"":""Orbits Earth""},{""left"":""Shadow"",""right"":""Blocks light""}]"
+511,52,Space Adventure,Stars make their own light.,TRUE,FALSE,,,TRUE,MCQ,
+512,52,Space Adventure,The North Star helps find direction.,TRUE,FALSE,,,TRUE,MCQ,
+513,52,Space Adventure,Can we see stars at night?,Yes,No,,,Yes,MCQ,
+514,52,Space Adventure,A group of stars is called?,Comet,Planet,Galaxy,Constellation,Constellation,MCQ,
+515,52,Space Adventure,Which constellation is famous?,Venus,Orion,Earth,Mars,Orion,MCQ,
+516,52,Space Adventure,Which star helps find north?,Rigel,Polaris,Vega,Sirius,Polaris,MCQ,
+517,52,Space Adventure,Stars appear to?,Fall,Float,Spin,Twinkle,Twinkle,MCQ,
+518,52,Space Adventure,What is the Sun?,Moon,Planet,Star,Comet,Star,MCQ,
+519,52,Space Adventure,Match the space object.,,,,,,Match,"[{""left"":""Polaris"",""right"":""North Star""},{""left"":""Orion"",""right"":""Constellation""},{""left"":""Sun"",""right"":""Star""},{""left"":""Earth"",""right"":""Planet""}]"
+520,52,Space Adventure,Match the space word.,,,,,,Match,"[{""left"":""Constellation"",""right"":""Star group""},{""left"":""Galaxy"",""right"":""Star system""},{""left"":""Comet"",""right"":""Ice body""},{""left"":""Planet"",""right"":""Orbits Sun""}]"
+521,53,Space Adventure: Review,What is at the center of the Solar System?,Mars,Sun,Moon,Earth,Sun,MCQ,
+522,53,Space Adventure: Review,Which planet has rings?,Jupiter,Saturn,Earth,Mars,Saturn,MCQ,
+523,53,Space Adventure: Review,The Moon reflects sunlight.,TRUE,FALSE,,,TRUE,MCQ,
+524,53,Space Adventure: Review,What blocks the Sun during a solar eclipse?,Earth,Venus,Mars,Moon,Moon,MCQ,
+525,53,Space Adventure: Review,What is the Sun?,Moon,Star,Planet,Comet,Star,MCQ,
+526,53,Space Adventure: Review,Which planet is our home?,Earth,Venus,Mars,Jupiter,Earth,MCQ,
+527,53,Space Adventure: Review,Which Moon phase is fully bright?,New Moon,Full Moon,Half Moon,Crescent,Full Moon,MCQ,
+528,53,Space Adventure: Review,Which star helps find north?,Polaris,Rigel,Vega,Sirius,Polaris,MCQ,
+529,53,Space Adventure: Review,Match the planet.,,,,,,Match,"[{""left"":""Mercury"",""right"":""Closest Sun""},{""left"":""Earth"",""right"":""Our home""},{""left"":""Mars"",""right"":""Red Planet""},{""left"":""Jupiter"",""right"":""Largest""}]"
+530,53,Space Adventure: Review,Match the eclipse.,,,,,,Match,"[{""left"":""Solar eclipse"",""right"":""Moon blocks Sun""},{""left"":""Lunar eclipse"",""right"":""Earth blocks light""},{""left"":""Sun"",""right"":""Star""},{""left"":""Moon"",""right"":""Natural satellite""}]"
+531,54,Space Adventure: Review,How many planets are in the Solar System?,Seven,Eight,Ten,Nine,Eight,MCQ,
+532,54,Space Adventure: Review,Which is the Red Planet?,Earth,Saturn,Mars,Venus,Mars,MCQ,
+533,54,Space Adventure: Review,Can we see a Full Moon?,Yes,No,,,Yes,MCQ,
+534,54,Space Adventure: Review,Which eclipse needs eye protection?,Solar,Lunar,Both,,Solar,MCQ,
+535,54,Space Adventure: Review,A group of stars is called?,Comet,Constellation,Asteroid,Galaxy,Constellation,MCQ,
+536,54,Space Adventure: Review,Which planet is closest to the Sun?,Mars,Venus,Mercury,Earth,Mercury,MCQ,
+537,54,Space Adventure: Review,What is the Moon?,Comet,Star,Satellite,Planet,Satellite,MCQ,
+538,54,Space Adventure: Review,Stars appear to?,Spin,Fall,Twinkle,Float,Twinkle,MCQ,
+539,54,Space Adventure: Review,Match the Moon phase.,,,,,,Match,"[{""left"":""Full Moon"",""right"":""Round""},{""left"":""New Moon"",""right"":""Dark""},{""left"":""Half Moon"",""right"":""Half lit""},{""left"":""Crescent"",""right"":""Curved""}]"
+540,54,Space Adventure: Review,Match the space object.,,,,,,Match,"[{""left"":""Sun"",""right"":""Star""},{""left"":""Earth"",""right"":""Planet""},{""left"":""Moon"",""right"":""Satellite""},{""left"":""Polaris"",""right"":""North Star""}]"
+541,55,Space Adventure: Review,The Sun is a star.,TRUE,FALSE,,,TRUE,MCQ,
+542,55,Space Adventure: Review,Which planet is the largest?,Mars,Earth,Jupiter,Venus,Jupiter,MCQ,
+543,55,Space Adventure: Review,Which Moon phase is mostly dark?,Full Moon,New Moon,Crescent,Half Moon,New Moon,MCQ,
+544,55,Space Adventure: Review,Earth's shadow falls on the?,Sun,Mars,Venus,Moon,Moon,MCQ,
+545,55,Space Adventure: Review,Which star helps find north?,Vega,Rigel,Sirius,Polaris,Polaris,MCQ,
+546,55,Space Adventure: Review,What gives Earth light?,Sun,Mars,Stars,Moon,Sun,MCQ,
+547,55,Space Adventure: Review,Which planet has rings?,Mars,Venus,Saturn,Jupiter,Saturn,MCQ,
+548,55,Space Adventure: Review,Should you look at a solar eclipse directly?,Maybe,No,Yes,Sometimes,No,MCQ,
+549,55,Space Adventure: Review,Match the Solar System.,,,,,,Match,"[{""left"":""Sun"",""right"":""Center""},{""left"":""Earth"",""right"":""Planet""},{""left"":""Moon"",""right"":""Satellite""},{""left"":""Mars"",""right"":""Red Planet""}]"
+550,55,Space Adventure: Review,Match the space term.,,,,,,Match,"[{""left"":""Constellation"",""right"":""Star group""},{""left"":""Galaxy"",""right"":""Star system""},{""left"":""Comet"",""right"":""Ice body""},{""left"":""Polaris"",""right"":""North Star""}]"
+551,56,Energy Explorer,The Sun gives us heat.,TRUE,FALSE,,,TRUE,MCQ,
+552,56,Energy Explorer,Ice is hotter than fire.,TRUE,FALSE,,,FALSE,MCQ,
+553,56,Energy Explorer,Can fire produce heat?,Yes,No,,,Yes,MCQ,
+554,56,Energy Explorer,Which is a source of heat?,Star,Moon,Sun,Cloud,Sun,MCQ,
+555,56,Energy Explorer,Which object is usually hot?,Fire,Snow,Rain,Ice,Fire,MCQ,
+556,56,Energy Explorer,Which feels cold?,Sun,Oven,Fire,Ice,Ice,MCQ,
+557,56,Energy Explorer,Which appliance gives heat?,Radio,Fan,Heater,Clock,Heater,MCQ,
+558,56,Energy Explorer,What should you avoid touching?,Hot stove,Cold water,Paper,Soft toy,Hot stove,MCQ,
+559,56,Energy Explorer,Match the heat source.,,,,,,Match,"[{""left"":""Sun"",""right"":""Natural heat""},{""left"":""Fire"",""right"":""Hot flames""},{""left"":""Heater"",""right"":""Warms room""},{""left"":""Oven"",""right"":""Cooks food""}]"
+560,56,Energy Explorer,Match the temperature.,,,,,,Match,"[{""left"":""Ice"",""right"":""Cold""},{""left"":""Fire"",""right"":""Hot""},{""left"":""Snow"",""right"":""Cold""},{""left"":""Sun"",""right"":""Warm""}]"
+561,57,Energy Explorer,The Sun is a natural light source.,TRUE,FALSE,,,TRUE,MCQ,
+562,57,Energy Explorer,A light bulb gives light.,TRUE,FALSE,,,TRUE,MCQ,
+563,57,Energy Explorer,Can we see without light?,Yes,No,,,No,MCQ,
+564,57,Energy Explorer,Which is a natural light source?,Torch,Sun,Lamp,Moon,Sun,MCQ,
+565,57,Energy Explorer,Which is an artificial light source?,Firefly,Bulb,Sun,Star,Bulb,MCQ,
+566,57,Energy Explorer,What forms when light is blocked?,Wind,Shadow,Cloud,Rain,Shadow,MCQ,
+567,57,Energy Explorer,Which helps us see at night?,Book,Torch,Fan,Umbrella,Torch,MCQ,
+568,57,Energy Explorer,Which object lets light pass through?,Wood,Brick,Glass,Metal,Glass,MCQ,
+569,57,Energy Explorer,Match the light source.,,,,,,Match,"[{""left"":""Sun"",""right"":""Natural light""},{""left"":""Bulb"",""right"":""Electric light""},{""left"":""Torch"",""right"":""Portable light""},{""left"":""Candle"",""right"":""Flame light""}]"
+570,57,Energy Explorer,Match the light word.,,,,,,Match,"[{""left"":""Shadow"",""right"":""Blocked light""},{""left"":""Glass"",""right"":""Transparent""},{""left"":""Mirror"",""right"":""Reflects light""},{""left"":""Darkness"",""right"":""No light""}]"
+571,58,Energy Explorer,Sound is made by vibrations.,TRUE,FALSE,,,TRUE,MCQ,
+572,58,Energy Explorer,Space has no sound.,TRUE,FALSE,,,TRUE,MCQ,
+573,58,Energy Explorer,Can we hear with our ears?,Yes,No,,,Yes,MCQ,
+574,58,Energy Explorer,Which makes sound?,Cloud,Leaf,Bell,Rock,Bell,MCQ,
+575,58,Energy Explorer,Which is a loud sound?,Breeze,Thunder,Whisper,Leaves,Thunder,MCQ,
+576,58,Energy Explorer,Which is a soft sound?,Whisper,Siren,Thunder,Horn,Whisper,MCQ,
+577,58,Energy Explorer,What do we use to hear?,Nose,Ears,Eyes,Hands,Ears,MCQ,
+578,58,Energy Explorer,Very loud sounds can hurt?,Hair,Teeth,Eyes,Ears,Ears,MCQ,
+579,58,Energy Explorer,Match the sound source.,,,,,,Match,"[{""left"":""Bell"",""right"":""Rings""},{""left"":""Drum"",""right"":""Beats""},{""left"":""Guitar"",""right"":""Strings""},{""left"":""Whistle"",""right"":""Blows""}]"
+580,58,Energy Explorer,Match the sound type.,,,,,,Match,"[{""left"":""Thunder"",""right"":""Loud""},{""left"":""Whisper"",""right"":""Soft""},{""left"":""Horn"",""right"":""Warning""},{""left"":""Music"",""right"":""Pleasant""}]"
+581,59,Energy Explorer,Electricity powers many appliances.,TRUE,FALSE,,,TRUE,MCQ,
+582,59,Energy Explorer,It is safe to touch bare wires.,TRUE,FALSE,,,FALSE,MCQ,
+583,59,Energy Explorer,Should you switch off unused lights?,Yes,No,,,Yes,MCQ,
+584,59,Energy Explorer,Which appliance uses electricity?,Spoon,Chair,Book,Fan,Fan,MCQ,
+585,59,Energy Explorer,Which stores electrical energy?,Plate,Cup,Pencil,Battery,Battery,MCQ,
+586,59,Energy Explorer,Which should stay dry?,Book,Hat,Plug,Towel,Plug,MCQ,
+587,59,Energy Explorer,Which can produce electricity?,Bicycle,Ball,Generator,Table,Generator,MCQ,
+588,59,Energy Explorer,Which action saves electricity?,Read book,Open door,Turn off,Leave on,Turn off,MCQ,
+589,59,Energy Explorer,Match the electrical item.,,,,,,Match,"[{""left"":""Battery"",""right"":""Stores energy""},{""left"":""Bulb"",""right"":""Gives light""},{""left"":""Fan"",""right"":""Moves air""},{""left"":""Plug"",""right"":""Power point""}]"
+590,59,Energy Explorer,Match the safety rule.,,,,,,Match,"[{""left"":""Bare wire"",""right"":""Do not touch""},{""left"":""Wet hands"",""right"":""Keep away""},{""left"":""Unused light"",""right"":""Turn off""},{""left"":""Broken plug"",""right"":""Tell adult""}]"
+591,60,Energy Explorer,Solar energy comes from the Sun.,TRUE,FALSE,,,TRUE,MCQ,
+592,60,Energy Explorer,Coal is renewable energy.,TRUE,FALSE,,,FALSE,MCQ,
+593,60,Energy Explorer,Can wind produce electricity?,Yes,No,,,Yes,MCQ,
+594,60,Energy Explorer,Which is renewable energy?,Gas,Solar,Coal,Oil,Solar,MCQ,
+595,60,Energy Explorer,Which uses wind to make electricity?,Fan,Generator,Battery,Wind turbine,Wind turbine,MCQ,
+596,60,Energy Explorer,Which uses flowing water?,Oil,Hydropower,Coal,Gas,Hydropower,MCQ,
+597,60,Energy Explorer,Which energy helps protect nature?,Oil,Fossil fuel,Coal,Clean energy,Clean energy,MCQ,
+598,60,Energy Explorer,Which source will not run out quickly?,Sun,Oil,Coal,Gas,Sun,MCQ,
+599,60,Energy Explorer,Match the energy source.,,,,,,Match,"[{""left"":""Sun"",""right"":""Solar""},{""left"":""Wind"",""right"":""Turbine""},{""left"":""Water"",""right"":""Hydropower""},{""left"":""Plants"",""right"":""Biomass""}]"
+600,60,Energy Explorer,Match the energy type.,,,,,,Match,"[{""left"":""Solar"",""right"":""Sunlight""},{""left"":""Wind"",""right"":""Moving air""},{""left"":""Hydropower"",""right"":""Flowing water""},{""left"":""Biomass"",""right"":""Plant waste""}]"
+601,61,Energy Explorer: Review,Which gives us heat?,Star,Cloud,Sun,Moon,Sun,MCQ,
+602,61,Energy Explorer: Review,What forms when light is blocked?,Shadow,Rain,Wind,Fog,Shadow,MCQ,
+603,61,Energy Explorer: Review,Which body part hears sound?,Nose,Ears,Eyes,Hands,Ears,MCQ,
+604,61,Energy Explorer: Review,Which stores electrical energy?,Chair,Book,Cup,Battery,Battery,MCQ,
+605,61,Energy Explorer: Review,Which is renewable energy?,Solar,Gas,Coal,Oil,Solar,MCQ,
+606,61,Energy Explorer: Review,Fire is hot.,TRUE,FALSE,,,TRUE,MCQ,
+607,61,Energy Explorer: Review,Should you touch bare wires?,Yes,No,,,No,MCQ,
+608,61,Energy Explorer: Review,Can wind produce electricity?,Yes,No,,,Yes,MCQ,
+609,61,Energy Explorer: Review,Match the energy source.,,,,,,Match,"[{""left"":""Sun"",""right"":""Heat""},{""left"":""Battery"",""right"":""Stores energy""},{""left"":""Bell"",""right"":""Sound""},{""left"":""Wind"",""right"":""Electricity""}]"
+610,61,Energy Explorer: Review,Match the energy type.,,,,,,Match,"[{""left"":""Heat"",""right"":""Fire""},{""left"":""Light"",""right"":""Bulb""},{""left"":""Sound"",""right"":""Drum""},{""left"":""Electricity"",""right"":""Fan""}]"
+611,62,Energy Explorer: Review,Which object is usually hot?,Snow,Ice,Fire,Rain,Fire,MCQ,
+612,62,Energy Explorer: Review,Which is a natural light source?,Torch,Lamp,Bulb,Sun,Sun,MCQ,
+613,62,Energy Explorer: Review,Sound is made by vibrations.,TRUE,FALSE,,,TRUE,MCQ,
+614,62,Energy Explorer: Review,Which appliance uses electricity?,Book,Spoon,Table,Fan,Fan,MCQ,
+615,62,Energy Explorer: Review,Which uses flowing water?,Hydropower,Oil,Coal,Gas,Hydropower,MCQ,
+616,62,Energy Explorer: Review,Which helps us see at night?,Torch,Clock,Chair,Umbrella,Torch,MCQ,
+617,62,Energy Explorer: Review,Which sound is soft?,Siren,Horn,Thunder,Whisper,Whisper,MCQ,
+618,62,Energy Explorer: Review,Which action saves electricity?,Leave on,Turn off,Open door,Read book,Turn off,MCQ,
+619,62,Energy Explorer: Review,Match the light source.,,,,,,Match,"[{""left"":""Sun"",""right"":""Natural light""},{""left"":""Bulb"",""right"":""Electric light""},{""left"":""Torch"",""right"":""Portable light""},{""left"":""Candle"",""right"":""Flame light""}]"
+620,62,Energy Explorer: Review,Match the renewable energy.,,,,,,Match,"[{""left"":""Solar"",""right"":""Sun""},{""left"":""Wind"",""right"":""Moving air""},{""left"":""Hydropower"",""right"":""Flowing water""},{""left"":""Biomass"",""right"":""Plants""}]"
+621,63,Energy Explorer: Review,The Sun is a natural light source.,TRUE,FALSE,,,TRUE,MCQ,
+622,63,Energy Explorer: Review,Which feels cold?,Sun,Ice,Fire,Oven,Ice,MCQ,
+623,63,Energy Explorer: Review,Can we hear with our ears?,Yes,No,,,Yes,MCQ,
+624,63,Energy Explorer: Review,Which should stay dry?,Towel,Plug,Hat,Book,Plug,MCQ,
+625,63,Energy Explorer: Review,Which energy comes from the Sun?,Gas,Solar,Wind,Coal,Solar,MCQ,
+626,63,Energy Explorer: Review,What forms when light is blocked?,Rain,Shadow,Wind,Cloud,Shadow,MCQ,
+627,63,Energy Explorer: Review,Which is a loud sound?,Whisper,Breeze,Leaves,Thunder,Thunder,MCQ,
+628,63,Energy Explorer: Review,Should you switch off unused lights?,Yes,No,,,Yes,MCQ,
+629,63,Energy Explorer: Review,Match the energy source.,,,,,,Match,"[{""left"":""Fire"",""right"":""Heat""},{""left"":""Bulb"",""right"":""Light""},{""left"":""Bell"",""right"":""Sound""},{""left"":""Battery"",""right"":""Electricity""}]"
+630,63,Energy Explorer: Review,Match the clean energy.,,,,,,Match,"[{""left"":""Solar"",""right"":""Sunlight""},{""left"":""Wind"",""right"":""Wind turbine""},{""left"":""Hydropower"",""right"":""Flowing water""},{""left"":""Biomass"",""right"":""Plant waste""}]"
+631,64,Forces in Action,A push is a type of force.,TRUE,FALSE,,,TRUE,MCQ,
+632,64,Forces in Action,A pull is a type of force.,TRUE,FALSE,,,TRUE,MCQ,
+633,64,Forces in Action,Can a push move an object?,Yes,No,,,Yes,MCQ,
+634,64,Forces in Action,What do you do to open a door away from you?,Drop,Pull,Push,Lift,Push,MCQ,
+635,64,Forces in Action,What do you do to open a drawer?,Pull,Throw,Push,Drop,Pull,MCQ,
+636,64,Forces in Action,Which action moves a shopping cart?,Push,Lift,Pull,Jump,Push,MCQ,
+637,64,Forces in Action,Which action lifts a bucket from a well?,Drop,Push,Kick,Pull,Pull,MCQ,
+638,64,Forces in Action,Kicking a ball is a?,Pull,Drop,Spin,Push,Push,MCQ,
+639,64,Forces in Action,Match the force.,,,,,,Match,"[{""left"":""Push door"",""right"":""Away""},{""left"":""Pull rope"",""right"":""Toward""},{""left"":""Kick ball"",""right"":""Push""},{""left"":""Open drawer"",""right"":""Pull""}]"
+640,64,Forces in Action,Match the action.,,,,,,Match,"[{""left"":""Push"",""right"":""Shopping cart""},{""left"":""Pull"",""right"":""Wagon""},{""left"":""Push"",""right"":""Toy car""},{""left"":""Pull"",""right"":""Curtain""}]"
+641,65,Forces in Action,Gravity pulls objects toward Earth.,TRUE,FALSE,,,TRUE,MCQ,
+642,65,Forces in Action,Gravity makes things float upward.,TRUE,FALSE,,,FALSE,MCQ,
+643,65,Forces in Action,Do apples fall because of gravity?,Yes,No,,,Yes,MCQ,
+644,65,Forces in Action,What pulls us toward Earth?,Wind,Heat,Gravity,Light,Gravity,MCQ,
+645,65,Forces in Action,Which object falls to the ground?,Moon,Cloud,Sun,Ball,Ball,MCQ,
+646,65,Forces in Action,What happens when you drop a book?,Falls,Breaks,Melts,Floats,Falls,MCQ,
+647,65,Forces in Action,Gravity keeps us on the?,Roof,Ground,Tree,Cloud,Ground,MCQ,
+648,65,Forces in Action,Rain falls because of?,Wind,Heat,Gravity,Light,Gravity,MCQ,
+649,65,Forces in Action,Match the gravity action.,,,,,,Match,"[{""left"":""Apple"",""right"":""Falls""},{""left"":""Rain"",""right"":""Falls""},{""left"":""Jump"",""right"":""Land""},{""left"":""Ball"",""right"":""Drops""}]"
+650,65,Forces in Action,Match the force.,,,,,,Match,"[{""left"":""Gravity"",""right"":""Pulls down""},{""left"":""Wind"",""right"":""Moves leaves""},{""left"":""Push"",""right"":""Moves away""},{""left"":""Pull"",""right"":""Moves closer""}]"
+651,66,Forces in Action,Friction slows moving objects.,TRUE,FALSE,,,TRUE,MCQ,
+652,66,Forces in Action,Smooth surfaces have less friction.,TRUE,FALSE,,,TRUE,MCQ,
+653,66,Forces in Action,Can friction help us walk?,Yes,No,,,Yes,MCQ,
+654,66,Forces in Action,Which surface has more friction?,Ice,Smooth,Wet,Rough,Rough,MCQ,
+655,66,Forces in Action,What helps a bicycle stop?,Brakes,Seat,Pedals,Handle,Brakes,MCQ,
+656,66,Forces in Action,Which surface is slippery?,Sand,Grass,Ice,Carpet,Ice,MCQ,
+657,66,Forces in Action,What gives shoes a good grip?,Heat,Magnet,Friction,Gravity,Friction,MCQ,
+658,66,Forces in Action,Rubbing hands makes?,Heat,Water,Ice,Wind,Heat,MCQ,
+659,66,Forces in Action,Match the surface.,,,,,,Match,"[{""left"":""Ice"",""right"":""Slippery""},{""left"":""Sandpaper"",""right"":""Rough""},{""left"":""Glass"",""right"":""Smooth""},{""left"":""Road"",""right"":""Grip""}]"
+660,66,Forces in Action,Match the friction use.,,,,,,Match,"[{""left"":""Shoes"",""right"":""Walking""},{""left"":""Brakes"",""right"":""Stopping""},{""left"":""Tires"",""right"":""Grip""},{""left"":""Hands"",""right"":""Rubbing""}]"
+661,67,Forces in Action,Magnets attract iron.,TRUE,FALSE,,,TRUE,MCQ,
+662,67,Forces in Action,Wood is attracted to magnets.,TRUE,FALSE,,,FALSE,MCQ,
+663,67,Forces in Action,Can magnets pull paper clips?,Yes,No,,,Yes,MCQ,
+664,67,Forces in Action,Which metal is magnetic?,Glass,Plastic,Iron,Wood,Iron,MCQ,
+665,67,Forces in Action,How many poles does a magnet have?,Two,Three,Four,One,Two,MCQ,
+666,67,Forces in Action,Which poles attract each other?,South,North,Opposite,Same,Opposite,MCQ,
+667,67,Forces in Action,Which poles push apart?,Same,Opposite,Both,,Same,MCQ,
+668,67,Forces in Action,Which tool uses a magnet?,Compass,Torch,Scissors,Ruler,Compass,MCQ,
+669,67,Forces in Action,Match the magnetic item.,,,,,,Match,"[{""left"":""Iron nail"",""right"":""Magnetic""},{""left"":""Paper clip"",""right"":""Magnetic""},{""left"":""Plastic toy"",""right"":""Not magnetic""},{""left"":""Wood block"",""right"":""Not magnetic""}]"
+670,67,Forces in Action,Match the magnet fact.,,,,,,Match,"[{""left"":""North pole"",""right"":""Magnet end""},{""left"":""South pole"",""right"":""Magnet end""},{""left"":""Opposite poles"",""right"":""Attract""},{""left"":""Same poles"",""right"":""Repel""}]"
+671,68,Forces in Action,Simple machines make work easier.,TRUE,FALSE,,,TRUE,MCQ,
+672,68,Forces in Action,A ramp is a simple machine.,TRUE,FALSE,,,TRUE,MCQ,
+673,68,Forces in Action,Can a pulley help lift heavy objects?,Yes,No,,,Yes,MCQ,
+674,68,Forces in Action,Which simple machine is a slide?,Ramp,Screw,Pulley,Lever,Ramp,MCQ,
+675,68,Forces in Action,Which simple machine helps raise a flag?,Wedge,Wheel,Lever,Pulley,Pulley,MCQ,
+676,68,Forces in Action,Which simple machine has a wheel and rod?,Wheel axle,Lever,Ramp,Screw,Wheel axle,MCQ,
+677,68,Forces in Action,Which simple machine is a seesaw?,Lever,Ramp,Pulley,Wedge,Lever,MCQ,
+678,68,Forces in Action,Which simple machine is a knife?,Wheel,Wedge,Screw,Pulley,Wedge,MCQ,
+679,68,Forces in Action,Match the machine.,,,,,,Match,"[{""left"":""Ramp"",""right"":""Slide""},{""left"":""Pulley"",""right"":""Lift flag""},{""left"":""Lever"",""right"":""Seesaw""},{""left"":""Wedge"",""right"":""Knife""}]"
+680,68,Forces in Action,Match the simple machine.,,,,,,Match,"[{""left"":""Wheel axle"",""right"":""Bicycle""},{""left"":""Screw"",""right"":""Bolt""},{""left"":""Pulley"",""right"":""Well bucket""},{""left"":""Ramp"",""right"":""Wheelchair""}]"
+681,69,Forces in Action: Review,Which force moves a shopping cart?,Push,Pull,Jump,Lift,Push,MCQ,
+682,69,Forces in Action: Review,What pulls objects toward Earth?,Heat,Wind,Gravity,Light,Gravity,MCQ,
+683,69,Forces in Action: Review,Can friction help us walk?,Yes,No,,,Yes,MCQ,
+684,69,Forces in Action: Review,Which metal is magnetic?,Iron,Glass,Plastic,Wood,Iron,MCQ,
+685,69,Forces in Action: Review,Which simple machine helps raise a flag?,Pulley,Ramp,Lever,Wedge,Pulley,MCQ,
+686,69,Forces in Action: Review,Same poles push apart.,TRUE,FALSE,,,TRUE,MCQ,
+687,69,Forces in Action: Review,Which surface is slippery?,Grass,Sand,Carpet,Ice,Ice,MCQ,
+688,69,Forces in Action: Review,Simple machines make work easier.,TRUE,FALSE,,,TRUE,MCQ,
+689,69,Forces in Action: Review,Match the force.,,,,,,Match,"[{""left"":""Push"",""right"":""Shopping cart""},{""left"":""Pull"",""right"":""Rope""},{""left"":""Gravity"",""right"":""Pulls down""},{""left"":""Friction"",""right"":""Slows motion""}]"
+690,69,Forces in Action: Review,Match the machine.,,,,,,Match,"[{""left"":""Lever"",""right"":""Seesaw""},{""left"":""Ramp"",""right"":""Slide""},{""left"":""Pulley"",""right"":""Flag""},{""left"":""Wedge"",""right"":""Knife""}]"
+691,70,Forces in Action: Review,What do you do to open a drawer?,Drop,Pull,Lift,Push,Pull,MCQ,
+692,70,Forces in Action: Review,Gravity makes rain fall.,TRUE,FALSE,,,TRUE,MCQ,
+693,70,Forces in Action: Review,Which surface has more friction?,Rough,Glass,Smooth,Ice,Rough,MCQ,
+694,70,Forces in Action: Review,Which tool uses a magnet?,Book,Compass,Torch,Ruler,Compass,MCQ,
+695,70,Forces in Action: Review,Which simple machine is a seesaw?,Screw,Pulley,Lever,Ramp,Lever,MCQ,
+696,70,Forces in Action: Review,Opposite poles attract.,TRUE,FALSE,,,TRUE,MCQ,
+697,70,Forces in Action: Review,Which helps a bicycle stop?,Bell,Pedals,Brakes,Seat,Brakes,MCQ,
+698,70,Forces in Action: Review,Can a push move an object?,Yes,No,,,Yes,MCQ,
+699,70,Forces in Action: Review,Match the magnetic item.,,,,,,Match,"[{""left"":""Iron nail"",""right"":""Magnetic""},{""left"":""Paper clip"",""right"":""Magnetic""},{""left"":""Wood block"",""right"":""Not magnetic""},{""left"":""Plastic toy"",""right"":""Not magnetic""}]"
+700,70,Forces in Action: Review,Match the force action.,,,,,,Match,"[{""left"":""Gravity"",""right"":""Apple falls""},{""left"":""Friction"",""right"":""Bike stops""},{""left"":""Push"",""right"":""Close door""},{""left"":""Pull"",""right"":""Open drawer""}]"
+701,71,Forces in Action: Review,A push moves an object away.,TRUE,FALSE,,,TRUE,MCQ,
+702,71,Forces in Action: Review,What keeps us on the ground?,Heat,Wind,Light,Gravity,Gravity,MCQ,
+703,71,Forces in Action: Review,Which surface is smooth?,Carpet,Gravel,Glass,Sandpaper,Glass,MCQ,
+704,71,Forces in Action: Review,Can magnets attract iron?,Yes,No,,,Yes,MCQ,
+705,71,Forces in Action: Review,Which simple machine is a knife?,Pulley,Wedge,Lever,Ramp,Wedge,MCQ,
+706,71,Forces in Action: Review,Which action moves a wagon?,Pull,Drop,Push,Throw,Pull,MCQ,
+707,71,Forces in Action: Review,Which poles attract each other?,South,Same,Opposite,North,Opposite,MCQ,
+708,71,Forces in Action: Review,Which machine is a slide?,Screw,Wheel axle,Ramp,Lever,Ramp,MCQ,
+709,71,Forces in Action: Review,Match the force.,,,,,,Match,"[{""left"":""Push"",""right"":""Move away""},{""left"":""Pull"",""right"":""Move closer""},{""left"":""Gravity"",""right"":""Pulls down""},{""left"":""Friction"",""right"":""Slows motion""}]"
+710,71,Forces in Action: Review,Match the simple machine.,,,,,,Match,"[{""left"":""Pulley"",""right"":""Lift flag""},{""left"":""Lever"",""right"":""Seesaw""},{""left"":""Wheel axle"",""right"":""Bicycle""},{""left"":""Wedge"",""right"":""Knife""}]"
+711,72,Matter Lab,A solid keeps its shape.,TRUE,FALSE,,,TRUE,MCQ,
+712,72,Matter Lab,A rock is a solid.,TRUE,FALSE,,,TRUE,MCQ,
+713,72,Matter Lab,Can you hold a solid?,Yes,No,,,Yes,MCQ,
+714,72,Matter Lab,Which is a solid?,Air,Water,Juice,Book,Book,MCQ,
+715,72,Matter Lab,Which is a solid object?,Smoke,Steam,Chair,Milk,Chair,MCQ,
+716,72,Matter Lab,Which is NOT a solid?,Water,Table,Pencil,Stone,Water,MCQ,
+717,72,Matter Lab,What does a solid have?,Flowing shape,No shape,Fixed shape,Round shape,Fixed shape,MCQ,
+718,72,Matter Lab,Which solid is hard?,Air,Water,Sponge,Rock,Rock,MCQ,
+719,72,Matter Lab,Match the solid.,,,,,,Match,"[{""left"":""Book"",""right"":""Solid""},{""left"":""Rock"",""right"":""Solid""},{""left"":""Chair"",""right"":""Solid""},{""left"":""Pencil"",""right"":""Solid""}]"
+720,72,Matter Lab,Match the property.,,,,,,Match,"[{""left"":""Rock"",""right"":""Hard""},{""left"":""Sponge"",""right"":""Soft""},{""left"":""Book"",""right"":""Fixed shape""},{""left"":""Table"",""right"":""Solid""}]"
+721,73,Matter Lab,Water is a liquid.,TRUE,FALSE,,,TRUE,MCQ,
+722,73,Matter Lab,Liquids have a fixed shape.,TRUE,FALSE,,,FALSE,MCQ,
+723,73,Matter Lab,Can liquids flow?,Yes,No,,,Yes,MCQ,
+724,73,Matter Lab,Which is a liquid?,Rock,Chair,Book,Milk,Milk,MCQ,
+725,73,Matter Lab,What does a liquid take the shape of?,Container,Air,Table,Floor,Container,MCQ,
+726,73,Matter Lab,Which is NOT a liquid?,Water,Stone,Oil,Juice,Stone,MCQ,
+727,73,Matter Lab,Which liquid do we drink every day?,Water,Rock,Glass,Chair,Water,MCQ,
+728,73,Matter Lab,Which liquid is used for cooking?,Sand,Oil,Paper,Wood,Oil,MCQ,
+729,73,Matter Lab,Match the liquid.,,,,,,Match,"[{""left"":""Water"",""right"":""Liquid""},{""left"":""Milk"",""right"":""Liquid""},{""left"":""Juice"",""right"":""Liquid""},{""left"":""Oil"",""right"":""Liquid""}]"
+730,73,Matter Lab,Match the property.,,,,,,Match,"[{""left"":""Water"",""right"":""Flows""},{""left"":""Milk"",""right"":""Container""},{""left"":""Juice"",""right"":""Liquid""},{""left"":""Oil"",""right"":""Pours""}]"
+731,74,Matter Lab,Air is a gas.,TRUE,FALSE,,,TRUE,MCQ,
+732,74,Matter Lab,We can see air clearly.,TRUE,FALSE,,,FALSE,MCQ,
+733,74,Matter Lab,Can gases spread out?,Yes,No,,,Yes,MCQ,
+734,74,Matter Lab,Which is a gas?,Rock,Water,Air,Book,Air,MCQ,
+735,74,Matter Lab,What fills a balloon?,Water,Air,Sand,Paper,Air,MCQ,
+736,74,Matter Lab,Which gas do we breathe?,Steam,Helium,Oxygen,Smoke,Oxygen,MCQ,
+737,74,Matter Lab,Which state has no fixed shape?,Rock,Gas,Solid,Ice,Gas,MCQ,
+738,74,Matter Lab,Which gas helps balloons float?,Oxygen,Nitrogen,Helium,Carbon,Helium,MCQ,
+739,74,Matter Lab,Match the gas.,,,,,,Match,"[{""left"":""Air"",""right"":""Gas""},{""left"":""Oxygen"",""right"":""Breathing""},{""left"":""Helium"",""right"":""Balloon""},{""left"":""Steam"",""right"":""Water vapor""}]"
+740,74,Matter Lab,Match the property.,,,,,,Match,"[{""left"":""Gas"",""right"":""Spreads out""},{""left"":""Air"",""right"":""Invisible""},{""left"":""Balloon"",""right"":""Filled air""},{""left"":""Oxygen"",""right"":""Breathing""}]"
+741,75,Matter Lab,Ice melts into water.,TRUE,FALSE,,,TRUE,MCQ,
+742,75,Matter Lab,Water freezes into ice.,TRUE,FALSE,,,TRUE,MCQ,
+743,75,Matter Lab,Can water change into steam?,Yes,No,,,Yes,MCQ,
+744,75,Matter Lab,What happens when ice gets warm?,Melts,Freezes,Breaks,Sinks,Melts,MCQ,
+745,75,Matter Lab,What does water become when frozen?,Cloud,Steam,Ice,Air,Ice,MCQ,
+746,75,Matter Lab,What is water vapor called?,Fog,Steam,Air,Smoke,Steam,MCQ,
+747,75,Matter Lab,What process changes water into vapor?,Condensation,Freezing,Melting,Evaporation,Evaporation,MCQ,
+748,75,Matter Lab,What forms on a cold glass?,Sand,Smoke,Dust,Droplets,Droplets,MCQ,
+749,75,Matter Lab,Match the change.,,,,,,Match,"[{""left"":""Ice"",""right"":""Melts""},{""left"":""Water"",""right"":""Freezes""},{""left"":""Steam"",""right"":""Condenses""},{""left"":""Heat"",""right"":""Evaporation""}]"
+750,75,Matter Lab,Match the state.,,,,,,Match,"[{""left"":""Ice"",""right"":""Solid""},{""left"":""Water"",""right"":""Liquid""},{""left"":""Steam"",""right"":""Gas""},{""left"":""Snow"",""right"":""Solid""}]"
+751,76,Matter Lab,A mixture contains two or more materials.,TRUE,FALSE,,,TRUE,MCQ,
+752,76,Matter Lab,Sand dissolves in water.,TRUE,FALSE,,,FALSE,MCQ,
+753,76,Matter Lab,Can salt dissolve in water?,Yes,No,,,Yes,MCQ,
+754,76,Matter Lab,Which dissolves in water?,Sand,Stone,Salt,Paper,Salt,MCQ,
+755,76,Matter Lab,Which mixture can be filtered?,Sand water,Salt water,Milk,Juice,Sand water,MCQ,
+756,76,Matter Lab,What tool separates sand from water?,Cup,Plate,Filter,Spoon,Filter,MCQ,
+757,76,Matter Lab,Which is a mixture?,Trail mix,Water,Iron,Salt,Trail mix,MCQ,
+758,76,Matter Lab,Which does NOT dissolve?,Sugar,Salt,Sand,Juice,Sand,MCQ,
+759,76,Matter Lab,Match the mixture.,,,,,,Match,"[{""left"":""Salt"",""right"":""Dissolves""},{""left"":""Sand"",""right"":""Doesn't dissolve""},{""left"":""Water"",""right"":""Liquid""},{""left"":""Filter"",""right"":""Separates""}]"
+760,76,Matter Lab,Match the material.,,,,,,Match,"[{""left"":""Sugar"",""right"":""Dissolves""},{""left"":""Pebbles"",""right"":""Solid""},{""left"":""Oil"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""}]"
+761,77,Matter Lab: Review,Which state keeps its shape?,Liquid,Steam,Gas,Solid,Solid,MCQ,
+762,77,Matter Lab: Review,Which takes the shape of its container?,Rock,Solid,Wood,Liquid,Liquid,MCQ,
+763,77,Matter Lab: Review,Can air fill a balloon?,Yes,No,,,Yes,MCQ,
+764,77,Matter Lab: Review,What does ice become when it melts?,Water,Sand,Steam,Rock,Water,MCQ,
+765,77,Matter Lab: Review,Which dissolves in water?,Salt,Stone,Sand,Plastic,Salt,MCQ,
+766,77,Matter Lab: Review,Water is a liquid.,TRUE,FALSE,,,TRUE,MCQ,
+767,77,Matter Lab: Review,Which state spreads out?,Gas,Liquid,Ice,Solid,Gas,MCQ,
+768,77,Matter Lab: Review,Water freezes into ice.,TRUE,FALSE,,,TRUE,MCQ,
+769,77,Matter Lab: Review,Match the state.,,,,,,Match,"[{""left"":""Rock"",""right"":""Solid""},{""left"":""Milk"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""},{""left"":""Steam"",""right"":""Gas""}]"
+770,77,Matter Lab: Review,Match the change.,,,,,,Match,"[{""left"":""Ice"",""right"":""Melts""},{""left"":""Water"",""right"":""Freezes""},{""left"":""Salt"",""right"":""Dissolves""},{""left"":""Filter"",""right"":""Separates""}]"
+771,78,Matter Lab: Review,Which is a solid?,Water,Book,Milk,Air,Book,MCQ,
+772,78,Matter Lab: Review,Can liquids flow?,Yes,No,,,Yes,MCQ,
+773,78,Matter Lab: Review,Which gas do we breathe?,Helium,Smoke,Steam,Oxygen,Oxygen,MCQ,
+774,78,Matter Lab: Review,What process changes water into vapor?,Condensation,Melting,Evaporation,Freezing,Evaporation,MCQ,
+775,78,Matter Lab: Review,Which mixture can be filtered?,Milk,Salt water,Sand water,Juice,Sand water,MCQ,
+776,78,Matter Lab: Review,Ice melts into water.,TRUE,FALSE,,,TRUE,MCQ,
+777,78,Matter Lab: Review,Which takes the shape of its container?,Rock,Liquid,Gas,Solid,Liquid,MCQ,
+778,78,Matter Lab: Review,Sand dissolves in water.,TRUE,FALSE,,,FALSE,MCQ,
+779,78,Matter Lab: Review,Match the matter.,,,,,,Match,"[{""left"":""Chair"",""right"":""Solid""},{""left"":""Juice"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""},{""left"":""Ice"",""right"":""Solid""}]"
+780,78,Matter Lab: Review,Match the process.,,,,,,Match,"[{""left"":""Melting"",""right"":""Ice to water""},{""left"":""Freezing"",""right"":""Water to ice""},{""left"":""Evaporation"",""right"":""Water to vapor""},{""left"":""Condensation"",""right"":""Vapor to water""}]"
+781,79,Matter Lab: Review,A solid keeps its shape.,TRUE,FALSE,,,TRUE,MCQ,
+782,79,Matter Lab: Review,Which is a liquid?,Rock,Water,Air,Book,Water,MCQ,
+783,79,Matter Lab: Review,Can gases spread out?,Yes,No,,,Yes,MCQ,
+784,79,Matter Lab: Review,What does water become when frozen?,Air,Ice,Sand,Steam,Ice,MCQ,
+785,79,Matter Lab: Review,Which does NOT dissolve in water?,Sugar,Salt,Sand,Juice,Sand,MCQ,
+786,79,Matter Lab: Review,Which state has no fixed shape?,Gas,Ice,Rock,Solid,Gas,MCQ,
+787,79,Matter Lab: Review,What fills a balloon?,Sand,Air,Water,Paper,Air,MCQ,
+788,79,Matter Lab: Review,What tool separates sand from water?,Cup,Plate,Filter,Spoon,Filter,MCQ,
+789,79,Matter Lab: Review,Match the states.,,,,,,Match,"[{""left"":""Rock"",""right"":""Solid""},{""left"":""Water"",""right"":""Liquid""},{""left"":""Steam"",""right"":""Gas""},{""left"":""Ice"",""right"":""Solid""}]"
+790,79,Matter Lab: Review,Match the mixtures.,,,,,,Match,"[{""left"":""Salt"",""right"":""Dissolves""},{""left"":""Sand"",""right"":""Filtered""},{""left"":""Oil"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""}]"
+791,80,Inventor's Workshop,An invention solves a problem.,TRUE,FALSE,,,TRUE,MCQ,
+792,80,Inventor's Workshop,Inventors create new ideas.,TRUE,FALSE,,,TRUE,MCQ,
+793,80,Inventor's Workshop,Can anyone invent something?,Yes,No,,,Yes,MCQ,
+794,80,Inventor's Workshop,Who creates inventions?,Teacher,Inventor,Farmer,Doctor,Inventor,MCQ,
+795,80,Inventor's Workshop,What is a light bulb?,Rock,Invention,Animal,Plant,Invention,MCQ,
+796,80,Inventor's Workshop,Which is an invention?,River,Bicycle,Tree,Mountain,Bicycle,MCQ,
+797,80,Inventor's Workshop,Why are inventions made?,Grow plants,Solve problems,Make noise,Cook food,Solve problems,MCQ,
+798,80,Inventor's Workshop,Which is used for writing?,Leaf,Stone,Pencil,Cloud,Pencil,MCQ,
+799,80,Inventor's Workshop,Match the invention.,,,,,,Match,"[{""left"":""Bicycle"",""right"":""Travel""},{""left"":""Light bulb"",""right"":""Light""},{""left"":""Umbrella"",""right"":""Rain""},{""left"":""Pencil"",""right"":""Writing""}]"
+800,80,Inventor's Workshop,Match the inventor's job.,,,,,,Match,"[{""left"":""Inventor"",""right"":""Creates""},{""left"":""Engineer"",""right"":""Builds""},{""left"":""Designer"",""right"":""Plans""},{""left"":""Tester"",""right"":""Checks""}]"
+801,81,Inventor's Workshop,Engineers solve problems.,TRUE,FALSE,,,TRUE,MCQ,
+802,81,Inventor's Workshop,Testing a design is important.,TRUE,FALSE,,,TRUE,MCQ,
+803,81,Inventor's Workshop,Should you make a plan before building?,Yes,No,,,Yes,MCQ,
+804,81,Inventor's Workshop,What is the first design step?,Paint,Sell,Ask,Build,Ask,MCQ,
+805,81,Inventor's Workshop,What comes after asking?,Imagine,Finish,Throw,Stop,Imagine,MCQ,
+806,81,Inventor's Workshop,What do you do before testing?,Forget,Throw,Build,Eat,Build,MCQ,
+807,81,Inventor's Workshop,Why do engineers test?,Save money,Take photos,Win games,Find problems,Find problems,MCQ,
+808,81,Inventor's Workshop,What should you do after testing?,Sleep,Quit,Hide,Improve,Improve,MCQ,
+809,81,Inventor's Workshop,Match the design step.,,,,,,Match,"[{""left"":""Ask"",""right"":""Find problem""},{""left"":""Imagine"",""right"":""Think ideas""},{""left"":""Plan"",""right"":""Draw design""},{""left"":""Build"",""right"":""Make model""}]"
+810,81,Inventor's Workshop,Match the engineering step.,,,,,,Match,"[{""left"":""Test"",""right"":""Try design""},{""left"":""Improve"",""right"":""Make better""},{""left"":""Engineer"",""right"":""Problem solver""},{""left"":""Team"",""right"":""Work together""}]"
+811,82,Inventor's Workshop,Problem solving means finding solutions.,TRUE,FALSE,,,TRUE,MCQ,
+812,82,Inventor's Workshop,Mistakes can help us learn.,TRUE,FALSE,,,TRUE,MCQ,
+813,82,Inventor's Workshop,Should we try new ideas?,Yes,No,,,Yes,MCQ,
+814,82,Inventor's Workshop,What should you do when something breaks?,Fix,Throw,Ignore,Hide,Fix,MCQ,
+815,82,Inventor's Workshop,Which helps solve problems?,Running,Thinking,Sleeping,Crying,Thinking,MCQ,
+816,82,Inventor's Workshop,Why do inventors try again?,Improve,Stop,Forget,Quit,Improve,MCQ,
+817,82,Inventor's Workshop,Working with others is called?,Silence,Playing,Teamwork,Waiting,Teamwork,MCQ,
+818,82,Inventor's Workshop,What helps create ideas?,Creativity,Sadness,Fear,Noise,Creativity,MCQ,
+819,82,Inventor's Workshop,Match the problem.,,,,,,Match,"[{""left"":""Broken toy"",""right"":""Repair""},{""left"":""Dark room"",""right"":""Light""},{""left"":""Heavy box"",""right"":""Lift""},{""left"":""Lost item"",""right"":""Search""}]"
+820,82,Inventor's Workshop,Match the solution.,,,,,,Match,"[{""left"":""Idea"",""right"":""Solution""},{""left"":""Test"",""right"":""Check""},{""left"":""Mistake"",""right"":""Learn""},{""left"":""Teamwork"",""right"":""Together""}]"
+821,83,Inventor's Workshop,The wheel is an invention.,TRUE,FALSE,,,TRUE,MCQ,
+822,83,Inventor's Workshop,A bicycle helps us travel.,TRUE,FALSE,,,TRUE,MCQ,
+823,83,Inventor's Workshop,Which invention gives light?,Bulb,Chair,Book,Plate,Bulb,MCQ,
+824,83,Inventor's Workshop,Which invention helps in rain?,Clock,Umbrella,Spoon,Pencil,Umbrella,MCQ,
+825,83,Inventor's Workshop,Which invention helps communication?,Glass,Phone,Tree,Rock,Phone,MCQ,
+826,83,Inventor's Workshop,Which invention helps us type?,Computer,Cup,Shoe,Ball,Computer,MCQ,
+827,83,Inventor's Workshop,What invention has wheels?,Pen,Car,Chair,Book,Car,MCQ,
+828,83,Inventor's Workshop,Which invention shows time?,Plate,Clock,Brush,Table,Clock,MCQ,
+829,83,Inventor's Workshop,Match the invention.,,,,,,Match,"[{""left"":""Bicycle"",""right"":""Travel""},{""left"":""Phone"",""right"":""Communication""},{""left"":""Clock"",""right"":""Time""},{""left"":""Bulb"",""right"":""Light""}]"
+830,83,Inventor's Workshop,Match the invention use.,,,,,,Match,"[{""left"":""Umbrella"",""right"":""Rain""},{""left"":""Computer"",""right"":""Work""},{""left"":""Car"",""right"":""Transport""},{""left"":""Camera"",""right"":""Photos""}]"
+831,84,Inventor's Workshop,Inventors build models before final products.,TRUE,FALSE,,,TRUE,MCQ,
+832,84,Inventor's Workshop,Strong materials make better designs.,TRUE,FALSE,,,TRUE,MCQ,
+833,84,Inventor's Workshop,Should we improve failed designs?,Yes,No,,,Yes,MCQ,
+834,84,Inventor's Workshop,What do we make to test ideas?,Model,Game,Noise,Food,Model,MCQ,
+835,84,Inventor's Workshop,Which material is strong?,Metal,Leaf,Paper,Cloth,Metal,MCQ,
+836,84,Inventor's Workshop,What helps a bridge stay strong?,Color,Support,Water,Sound,Support,MCQ,
+837,84,Inventor's Workshop,Why do we improve designs?,Better results,Hide ideas,Waste time,Stop work,Better results,MCQ,
+838,84,Inventor's Workshop,What should an invention be?,Random,Useful,Unsafe,Broken,Useful,MCQ,
+839,84,Inventor's Workshop,Match the building step.,,,,,,Match,"[{""left"":""Model"",""right"":""Test idea""},{""left"":""Material"",""right"":""Build item""},{""left"":""Improve"",""right"":""Make better""},{""left"":""Design"",""right"":""Plan""}]"
+840,84,Inventor's Workshop,Match the inventor skill.,,,,,,Match,"[{""left"":""Creativity"",""right"":""New ideas""},{""left"":""Testing"",""right"":""Check work""},{""left"":""Planning"",""right"":""Prepare""},{""left"":""Building"",""right"":""Create""}]"
+841,85,Inventor's Workshop: Review,Who creates inventions?,Farmer,Inventor,Doctor,Teacher,Inventor,MCQ,
+842,85,Inventor's Workshop: Review,Engineers solve problems.,TRUE,FALSE,,,TRUE,MCQ,
+843,85,Inventor's Workshop: Review,What comes before building?,Stop,Sleep,Plan,Eat,Plan,MCQ,
+844,85,Inventor's Workshop: Review,Which invention gives light?,Book,Chair,Bulb,Spoon,Bulb,MCQ,
+845,85,Inventor's Workshop: Review,Should we improve designs?,Yes,No,,,Yes,MCQ,
+846,85,Inventor's Workshop: Review,Mistakes can help us learn.,TRUE,FALSE,,,TRUE,MCQ,
+847,85,Inventor's Workshop: Review,Which invention helps travel?,Book,Cup,Bicycle,Plate,Bicycle,MCQ,
+848,85,Inventor's Workshop: Review,What do inventors use to test ideas?,Cloud,Water,Model,Rock,Model,MCQ,
+849,85,Inventor's Workshop: Review,Match the inventor role.,,,,,,Match,"[{""left"":""Inventor"",""right"":""Creates""},{""left"":""Engineer"",""right"":""Builds""},{""left"":""Tester"",""right"":""Checks""},{""left"":""Designer"",""right"":""Plans""}]"
+850,85,Inventor's Workshop: Review,Match the invention.,,,,,,Match,"[{""left"":""Bulb"",""right"":""Light""},{""left"":""Bicycle"",""right"":""Travel""},{""left"":""Phone"",""right"":""Talk""},{""left"":""Umbrella"",""right"":""Rain""}]"
+851,86,Inventor's Workshop: Review,An invention solves a problem.,TRUE,FALSE,,,TRUE,MCQ,
+852,86,Inventor's Workshop: Review,What should engineers do after testing?,Hide,Stop,Throw,Improve,Improve,MCQ,
+853,86,Inventor's Workshop: Review,Which helps create new ideas?,Creativity,Sadness,Noise,Fear,Creativity,MCQ,
+854,86,Inventor's Workshop: Review,Which invention helps communication?,Book,Tree,Phone,Rock,Phone,MCQ,
+855,86,Inventor's Workshop: Review,What material is strong?,Leaf,Metal,Cloth,Paper,Metal,MCQ,
+856,86,Inventor's Workshop: Review,Can teamwork solve problems?,Yes,No,,,Yes,MCQ,
+857,86,Inventor's Workshop: Review,Which invention shows time?,Shoe,Clock,Pen,Cup,Clock,MCQ,
+858,86,Inventor's Workshop: Review,Should a design be safe?,Yes,No,,,Yes,MCQ,
+859,86,Inventor's Workshop: Review,Match the design process.,,,,,,Match,"[{""left"":""Ask"",""right"":""Problem""},{""left"":""Imagine"",""right"":""Ideas""},{""left"":""Build"",""right"":""Create""},{""left"":""Test"",""right"":""Check""}]"
+860,86,Inventor's Workshop: Review,Match the invention use.,,,,,,Match,"[{""left"":""Computer"",""right"":""Work""},{""left"":""Camera"",""right"":""Photos""},{""left"":""Car"",""right"":""Transport""},{""left"":""Clock"",""right"":""Time""}]"
+861,87,Inventor's Workshop: Review,Inventors create new things.,TRUE,FALSE,,,TRUE,MCQ,
+862,87,Inventor's Workshop: Review,What helps solve problems?,Sleeping,Hiding,Waiting,Thinking,Thinking,MCQ,
+863,87,Inventor's Workshop: Review,Which invention gives light?,Plate,Chair,Book,Bulb,Bulb,MCQ,
+864,87,Inventor's Workshop: Review,Why do we test designs?,Stop work,Make noise,Play games,Find problems,Find problems,MCQ,
+865,87,Inventor's Workshop: Review,Which invention helps travel?,Tree,Glass,Bicycle,Rock,Bicycle,MCQ,
+866,87,Inventor's Workshop: Review,What should you do after failure?,Stop,Ignore,Quit,Try again,Try again,MCQ,
+867,87,Inventor's Workshop: Review,Which skill creates ideas?,Sadness,Fear,Anger,Creativity,Creativity,MCQ,
+868,87,Inventor's Workshop: Review,What makes a design better?,Improve,Break,Hide,Forget,Improve,MCQ,
+869,87,Inventor's Workshop: Review,Match the invention.,,,,,,Match,"[{""left"":""Wheel"",""right"":""Movement""},{""left"":""Bulb"",""right"":""Light""},{""left"":""Phone"",""right"":""Communication""},{""left"":""Umbrella"",""right"":""Rain""}]"
+870,87,Inventor's Workshop: Review,Match the engineer steps.,,,,,,Match,"[{""left"":""Ask"",""right"":""Problem""},{""left"":""Plan"",""right"":""Design""},{""left"":""Build"",""right"":""Model""},{""left"":""Improve"",""right"":""Better""}]"
+871,88,Nature & Ecosystems,A habitat is a home for living things.,TRUE,FALSE,,,TRUE,MCQ,
+872,88,Nature & Ecosystems,Animals need habitats to survive.,TRUE,FALSE,,,TRUE,MCQ,
+873,88,Nature & Ecosystems,Can a forest be a habitat?,Yes,No,,,Yes,MCQ,
+874,88,Nature & Ecosystems,Where do fish live?,Desert,Sky,Tree,Water,Water,MCQ,
+875,88,Nature & Ecosystems,Which is a habitat?,Car,Chair,Forest,Book,Forest,MCQ,
+876,88,Nature & Ecosystems,Where do camels live?,Forest,Desert,Pond,Ocean,Desert,MCQ,
+877,88,Nature & Ecosystems,What do animals need in habitats?,Food,Plastic,Glass,Metal,Food,MCQ,
+878,88,Nature & Ecosystems,Which animal lives in the ocean?,Fish,Cow,Eagle,Tiger,Fish,MCQ,
+879,88,Nature & Ecosystems,Match the habitat.,,,,,,Match,"[{""left"":""Forest"",""right"":""Trees""},{""left"":""Ocean"",""right"":""Fish""},{""left"":""Desert"",""right"":""Camel""},{""left"":""Pond"",""right"":""Frog""}]"
+880,88,Nature & Ecosystems,Match the animal home.,,,,,,Match,"[{""left"":""Bird"",""right"":""Nest""},{""left"":""Bee"",""right"":""Hive""},{""left"":""Rabbit"",""right"":""Burrow""},{""left"":""Fish"",""right"":""Water""}]"
+881,89,Nature & Ecosystems,An ecosystem has living things.,TRUE,FALSE,,,TRUE,MCQ,
+882,89,Nature & Ecosystems,Plants and animals are part of ecosystems.,TRUE,FALSE,,,TRUE,MCQ,
+883,89,Nature & Ecosystems,Can a pond be an ecosystem?,Yes,No,,,Yes,MCQ,
+884,89,Nature & Ecosystems,Which is a living thing?,Rock,Tree,Stone,Water,Tree,MCQ,
+885,89,Nature & Ecosystems,Which is non-living?,Bird,Fish,Tree,Rock,Rock,MCQ,
+886,89,Nature & Ecosystems,What do plants need to grow?,Metal,Sunlight,Glass,Plastic,Sunlight,MCQ,
+887,89,Nature & Ecosystems,Which ecosystem has many trees?,Ice,Ocean,Forest,Desert,Forest,MCQ,
+888,89,Nature & Ecosystems,Which ecosystem has salty water?,Garden,Ocean,Forest,Pond,Ocean,MCQ,
+889,89,Nature & Ecosystems,Match the ecosystem.,,,,,,Match,"[{""left"":""Forest"",""right"":""Trees""},{""left"":""Ocean"",""right"":""Fish""},{""left"":""Pond"",""right"":""Frogs""},{""left"":""Desert"",""right"":""Sand""}]"
+890,89,Nature & Ecosystems,Match living things.,,,,,,Match,"[{""left"":""Plant"",""right"":""Living""},{""left"":""Animal"",""right"":""Living""},{""left"":""Rock"",""right"":""Non-living""},{""left"":""Water"",""right"":""Non-living""}]"
+891,90,Nature & Ecosystems,Plants make their own food.,TRUE,FALSE,,,TRUE,MCQ,
+892,90,Nature & Ecosystems,A food chain shows who eats whom.,TRUE,FALSE,,,TRUE,MCQ,
+893,90,Nature & Ecosystems,What starts most food chains?,Animals,Rock,Water,Plants,Plants,MCQ,
+894,90,Nature & Ecosystems,Animals that eat plants are?,Herbivores,Birds,Carnivores,Fish,Herbivores,MCQ,
+895,90,Nature & Ecosystems,Animals that eat other animals are?,Plants,Carnivores,Trees,Herbivores,Carnivores,MCQ,
+896,90,Nature & Ecosystems,Who eats grass in a food chain?,Lion,Shark,Cow,Eagle,Cow,MCQ,
+897,90,Nature & Ecosystems,Who is a predator?,Tree,Grass,Lion,Cow,Lion,MCQ,
+898,90,Nature & Ecosystems,Who is prey for a lion?,Rock,Tree,Water,Deer,Deer,MCQ,
+899,90,Nature & Ecosystems,Match the food chain.,,,,,,Match,"[{""left"":""Grass"",""right"":""Producer""},{""left"":""Rabbit"",""right"":""Consumer""},{""left"":""Lion"",""right"":""Predator""},{""left"":""Sun"",""right"":""Energy""}]"
+900,90,Nature & Ecosystems,Match the role.,,,,,,Match,"[{""left"":""Plant"",""right"":""Makes food""},{""left"":""Herbivore"",""right"":""Eats plants""},{""left"":""Carnivore"",""right"":""Eats animals""},{""left"":""Predator"",""right"":""Hunts""}]"
+901,91,Nature & Ecosystems,Biodiversity means many kinds of life.,TRUE,FALSE,,,TRUE,MCQ,
+902,91,Nature & Ecosystems,Plants and animals are part of biodiversity.,TRUE,FALSE,,,TRUE,MCQ,
+903,91,Nature & Ecosystems,Is a variety of species important?,Yes,No,,,Yes,MCQ,
+904,91,Nature & Ecosystems,Which has many different species?,Chair,Book,Forest,Car,Forest,MCQ,
+905,91,Nature & Ecosystems,Which is an endangered animal?,Rock,Table,Tiger,Cloud,Tiger,MCQ,
+906,91,Nature & Ecosystems,Why should we protect animals?,Dust,Trash,Noise,Balance,Balance,MCQ,
+907,91,Nature & Ecosystems,Which group includes many living things?,Stone,Metal,Species,Water,Species,MCQ,
+908,91,Nature & Ecosystems,Can plants and animals depend on each other?,Yes,No,,,Yes,MCQ,
+909,91,Nature & Ecosystems,Match the living thing.,,,,,,Match,"[{""left"":""Tiger"",""right"":""Animal""},{""left"":""Rose"",""right"":""Plant""},{""left"":""Butterfly"",""right"":""Insect""},{""left"":""Fish"",""right"":""Water""}]"
+910,91,Nature & Ecosystems,Match the biodiversity idea.,,,,,,Match,"[{""left"":""Many species"",""right"":""Diversity""},{""left"":""Protect animals"",""right"":""Conservation""},{""left"":""Rare animals"",""right"":""Endangered""},{""left"":""Forest"",""right"":""Habitat""}]"
+911,92,Nature & Ecosystems,We should protect nature.,TRUE,FALSE,,,TRUE,MCQ,
+912,92,Nature & Ecosystems,Planting trees helps the environment.,TRUE,FALSE,,,TRUE,MCQ,
+913,92,Nature & Ecosystems,Can recycling reduce waste?,Yes,No,,,Yes,MCQ,
+914,92,Nature & Ecosystems,Which helps save water?,Turn off tap,Spill water,Waste water,Leave tap,Turn off tap,MCQ,
+915,92,Nature & Ecosystems,Which action protects forests?,Drop trash,Burn trees,Cut trees,Plant trees,Plant trees,MCQ,
+916,92,Nature & Ecosystems,What should we do with trash?,Throw,Hide,Recycle,Burn,Recycle,MCQ,
+917,92,Nature & Ecosystems,Which causes pollution?,Plants,Trees,Smoke,Rain,Smoke,MCQ,
+918,92,Nature & Ecosystems,Why save animals?,Make noise,Build roads,Catch all,Protect life,Protect life,MCQ,
+919,92,Nature & Ecosystems,Match the action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Plant trees"",""right"":""Help forests""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Protect animals"",""right"":""Care""}]"
+920,92,Nature & Ecosystems,Match the nature care.,,,,,,Match,"[{""left"":""Forest"",""right"":""Protect""},{""left"":""River"",""right"":""Keep clean""},{""left"":""Animals"",""right"":""Save""},{""left"":""Plants"",""right"":""Grow""}]"
+921,93,Nature & Ecosystems: Review,A habitat is a home for living things.,TRUE,FALSE,,,TRUE,MCQ,
+922,93,Nature & Ecosystems: Review,Which ecosystem has many trees?,Desert,Ice,Ocean,Forest,Forest,MCQ,
+923,93,Nature & Ecosystems: Review,What starts most food chains?,Plants,Rocks,Animals,Water,Plants,MCQ,
+924,93,Nature & Ecosystems: Review,What does biodiversity mean?,Only plants,One species,No life,Many species,Many species,MCQ,
+925,93,Nature & Ecosystems: Review,Which action helps nature?,Waste,Burn,Pollute,Recycle,Recycle,MCQ,
+926,93,Nature & Ecosystems: Review,Fish live in water habitats.,TRUE,FALSE,,,TRUE,MCQ,
+927,93,Nature & Ecosystems: Review,Which is non-living?,Rock,Fish,Bird,Tree,Rock,MCQ,
+928,93,Nature & Ecosystems: Review,A lion is a predator.,TRUE,FALSE,,,TRUE,MCQ,
+929,93,Nature & Ecosystems: Review,Match the habitat.,,,,,,Match,"[{""left"":""Ocean"",""right"":""Fish""},{""left"":""Forest"",""right"":""Trees""},{""left"":""Desert"",""right"":""Camel""},{""left"":""Pond"",""right"":""Frog""}]"
+930,93,Nature & Ecosystems: Review,Match the nature action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Plant trees"",""right"":""Help forests""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Protect animals"",""right"":""Care""}]"
+931,94,Nature & Ecosystems: Review,Animals need habitats to survive.,TRUE,FALSE,,,TRUE,MCQ,
+932,94,Nature & Ecosystems: Review,Which is a living thing?,Rock,Water,Tree,Stone,Tree,MCQ,
+933,94,Nature & Ecosystems: Review,Who eats plants?,Herbivore,Predator,Rock,Carnivore,Herbivore,MCQ,
+934,94,Nature & Ecosystems: Review,Which animal is endangered?,Cup,Book,Chair,Tiger,Tiger,MCQ,
+935,94,Nature & Ecosystems: Review,Why plant trees?,Cut wood,Make trash,Help forests,Pollute,Help forests,MCQ,
+936,94,Nature & Ecosystems: Review,Can ecosystems have living and non-living things?,Yes,No,,,Yes,MCQ,
+937,94,Nature & Ecosystems: Review,Who hunts other animals?,Rock,Plant,Water,Predator,Predator,MCQ,
+938,94,Nature & Ecosystems: Review,Can recycling reduce waste?,Yes,No,,,Yes,MCQ,
+939,94,Nature & Ecosystems: Review,Match the ecosystem.,,,,,,Match,"[{""left"":""Ocean"",""right"":""Salt water""},{""left"":""Forest"",""right"":""Many trees""},{""left"":""Desert"",""right"":""Dry land""},{""left"":""Pond"",""right"":""Frogs""}]"
+940,94,Nature & Ecosystems: Review,Match the food chain role.,,,,,,Match,"[{""left"":""Plant"",""right"":""Producer""},{""left"":""Rabbit"",""right"":""Consumer""},{""left"":""Lion"",""right"":""Predator""},{""left"":""Sun"",""right"":""Energy""}]"
+941,95,Nature & Ecosystems: Review,A habitat provides a home.,TRUE,FALSE,,,TRUE,MCQ,
+942,95,Nature & Ecosystems: Review,Which ecosystem has fish?,Ocean,Mountain,Forest,Desert,Ocean,MCQ,
+943,95,Nature & Ecosystems: Review,Plants are producers.,TRUE,FALSE,,,TRUE,MCQ,
+944,95,Nature & Ecosystems: Review,What protects biodiversity?,Waste,Damage,Pollution,Conservation,Conservation,MCQ,
+945,95,Nature & Ecosystems: Review,Which action saves nature?,Waste,Burn,Recycle,Litter,Recycle,MCQ,
+946,95,Nature & Ecosystems: Review,What does a food web show?,Water flow,Food links,Weather,Rock types,Food links,MCQ,
+947,95,Nature & Ecosystems: Review,Which is a non-living part?,Bird,Rock,Tree,Fish,Rock,MCQ,
+948,95,Nature & Ecosystems: Review,Why are many species important?,Trash,Balance,Noise,Smoke,Balance,MCQ,
+949,95,Nature & Ecosystems: Review,Match the living role.,,,,,,Match,"[{""left"":""Plant"",""right"":""Producer""},{""left"":""Deer"",""right"":""Herbivore""},{""left"":""Lion"",""right"":""Carnivore""},{""left"":""Bee"",""right"":""Insect""}]"
+950,95,Nature & Ecosystems: Review,Match the protection action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Plant trees"",""right"":""Grow forests""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Protect animals"",""right"":""Care""}]"
+951,96,Environment Heroes,Recycling helps reduce waste.,TRUE,FALSE,,,TRUE,MCQ,
+952,96,Environment Heroes,Can paper be recycled?,Yes,No,,,Yes,MCQ,
+953,96,Environment Heroes,Recycling means using materials again.,TRUE,FALSE,,,TRUE,MCQ,
+954,96,Environment Heroes,Which item can be recycled?,Water,Food,Smoke,Paper,Paper,MCQ,
+955,96,Environment Heroes,Which bin holds recyclable items?,Food,Water,Trash,Recycle,Recycle,MCQ,
+956,96,Environment Heroes,Which material is recyclable?,Air,Smoke,Plastic,Stone,Plastic,MCQ,
+957,96,Environment Heroes,Why do we recycle?,Waste water,Cause pollution,Make waste,Save Earth,Save Earth,MCQ,
+958,96,Environment Heroes,Which can be reused?,Smoke,Bottle,Cloud,Dust,Bottle,MCQ,
+959,96,Environment Heroes,Match the recyclable item.,,,,,,Match,"[{""left"":""Paper"",""right"":""Recycle""},{""left"":""Plastic"",""right"":""Recycle""},{""left"":""Glass"",""right"":""Recycle""},{""left"":""Can"",""right"":""Recycle""}]"
+960,96,Environment Heroes,Match the action.,,,,,,Match,"[{""left"":""Reuse"",""right"":""Use again""},{""left"":""Recycle"",""right"":""Make new""},{""left"":""Reduce"",""right"":""Use less""},{""left"":""Sort"",""right"":""Separate""}]"
+961,97,Environment Heroes,Pollution harms nature.,TRUE,FALSE,,,TRUE,MCQ,
+962,97,Environment Heroes,Smoke causes air pollution.,TRUE,FALSE,,,TRUE,MCQ,
+963,97,Environment Heroes,Can trash pollute water?,Yes,No,,,Yes,MCQ,
+964,97,Environment Heroes,Which causes air pollution?,Tree,Flower,Smoke,Water,Smoke,MCQ,
+965,97,Environment Heroes,Which keeps places clean?,Burn,Recycle,Throw,Litter,Recycle,MCQ,
+966,97,Environment Heroes,Where does water pollution happen?,Rivers,Mountains,Sky,Clouds,Rivers,MCQ,
+967,97,Environment Heroes,Which is harmful waste?,Plastic,Tree,Grass,Flower,Plastic,MCQ,
+968,97,Environment Heroes,Should we throw trash on roads?,No,Yes,,,No,MCQ,
+969,97,Environment Heroes,Match the pollution type.,,,,,,Match,"[{""left"":""Smoke"",""right"":""Air pollution""},{""left"":""Trash"",""right"":""Land pollution""},{""left"":""Chemicals"",""right"":""Water pollution""},{""left"":""Noise"",""right"":""Sound pollution""}]"
+970,97,Environment Heroes,Match the clean action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Less waste""},{""left"":""Plant trees"",""right"":""Clean air""},{""left"":""Save water"",""right"":""Clean rivers""},{""left"":""Walk"",""right"":""Less smoke""}]"
+971,98,Environment Heroes,Climate change affects Earth.,TRUE,FALSE,,,TRUE,MCQ,
+972,98,Environment Heroes,Earth is getting warmer.,TRUE,FALSE,,,TRUE,MCQ,
+973,98,Environment Heroes,Can saving energy help Earth?,Yes,No,,,Yes,MCQ,
+974,98,Environment Heroes,What traps heat in Earth atmosphere?,Sand,Rock,Gases,Water,Gases,MCQ,
+975,98,Environment Heroes,Which gas causes warming?,Steam,Carbon dioxide,Oxygen,Helium,Carbon dioxide,MCQ,
+976,98,Environment Heroes,Which action saves energy?,Leave lights,Turn off lights,Waste power,Use more,Turn off lights,MCQ,
+977,98,Environment Heroes,Planting trees helps Earth.,TRUE,FALSE,,,TRUE,MCQ,
+978,98,Environment Heroes,What can reduce climate change?,Clean energy,Trash,Smoke,Plastic,Clean energy,MCQ,
+979,98,Environment Heroes,Match the action.,,,,,,Match,"[{""left"":""Plant trees"",""right"":""Absorb carbon""},{""left"":""Save energy"",""right"":""Reduce use""},{""left"":""Recycle"",""right"":""Less waste""},{""left"":""Walk"",""right"":""Less smoke""}]"
+980,98,Environment Heroes,Match the climate idea.,,,,,,Match,"[{""left"":""Global warming"",""right"":""Hotter Earth""},{""left"":""Carbon dioxide"",""right"":""Heat gas""},{""left"":""Trees"",""right"":""Clean air""},{""left"":""Energy"",""right"":""Power""}]"
+981,99,Environment Heroes,Conservation means protecting nature.,TRUE,FALSE,,,TRUE,MCQ,
+982,99,Environment Heroes,We should save water.,TRUE,FALSE,,,TRUE,MCQ,
+983,99,Environment Heroes,Can trees protect Earth?,Yes,No,,,Yes,MCQ,
+984,99,Environment Heroes,Which saves water?,Spill water,Waste water,Close tap,Leave tap,Close tap,MCQ,
+985,99,Environment Heroes,Why plant trees?,Cause smoke,Make trash,Waste water,Clean air,Clean air,MCQ,
+986,99,Environment Heroes,Which is a natural resource?,Water,Plastic,Toy,Glass,Water,MCQ,
+987,99,Environment Heroes,Which energy is renewable?,Solar,Gas,Oil,Coal,Solar,MCQ,
+988,99,Environment Heroes,Should we protect animals?,Yes,No,,,Yes,MCQ,
+989,99,Environment Heroes,Match the conservation action.,,,,,,Match,"[{""left"":""Plant trees"",""right"":""Grow forests""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Protect animals"",""right"":""Care""},{""left"":""Save energy"",""right"":""Reduce use""}]"
+990,99,Environment Heroes,Match the resource.,,,,,,Match,"[{""left"":""Sun"",""right"":""Solar energy""},{""left"":""Wind"",""right"":""Wind energy""},{""left"":""Water"",""right"":""Resource""},{""left"":""Trees"",""right"":""Forest""}]"
+991,100,Environment Heroes,Everyone can help Earth.,TRUE,FALSE,,,TRUE,MCQ,
+992,100,Environment Heroes,An environment hero cares for nature.,TRUE,FALSE,,,TRUE,MCQ,
+993,100,Environment Heroes,Can children protect Earth?,Yes,No,,,Yes,MCQ,
+994,100,Environment Heroes,Which is an eco-friendly action?,Recycle,Waste,Burn,Litter,Recycle,MCQ,
+995,100,Environment Heroes,What saves electricity?,Use more,Waste power,Turn off lights,Leave lights,Turn off lights,MCQ,
+996,100,Environment Heroes,Which helps reduce pollution?,Smoke,Dump,Walk,Litter,Walk,MCQ,
+997,100,Environment Heroes,What should we do with trees?,Cut,Ignore,Burn,Protect,Protect,MCQ,
+998,100,Environment Heroes,Which habit helps nature?,Throw,Pollute,Reuse,Waste,Reuse,MCQ,
+999,100,Environment Heroes,Match the hero action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Save materials""},{""left"":""Plant trees"",""right"":""Help Earth""},{""left"":""Save water"",""right"":""Protect resources""},{""left"":""Walk"",""right"":""Clean air""}]"
+1000,100,Environment Heroes,Match the green habit.,,,,,,Match,"[{""left"":""Reuse"",""right"":""Use again""},{""left"":""Reduce"",""right"":""Use less""},{""left"":""Recycle"",""right"":""Make new""},{""left"":""Protect"",""right"":""Keep safe""}]"
+1001,101,Environment Heroes: Review,Recycling reduces waste.,TRUE,FALSE,,,TRUE,MCQ,
+1002,101,Environment Heroes: Review,Which causes air pollution?,Smoke,Water,Flower,Tree,Smoke,MCQ,
+1003,101,Environment Heroes: Review,Planting trees helps Earth.,TRUE,FALSE,,,TRUE,MCQ,
+1004,101,Environment Heroes: Review,What saves water?,Waste water,Spill,Leave tap,Close tap,Close tap,MCQ,
+1005,101,Environment Heroes: Review,Which item can be recycled?,Paper,Smoke,Cloud,Stone,Paper,MCQ,
+1006,101,Environment Heroes: Review,Can children help nature?,Yes,No,,,Yes,MCQ,
+1007,101,Environment Heroes: Review,What makes Earth warmer?,Rain,Ice,Trees,Gases,Gases,MCQ,
+1008,101,Environment Heroes: Review,Which energy is renewable?,Solar,Oil,Coal,Gas,Solar,MCQ,
+1009,101,Environment Heroes: Review,Match the action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Reduce waste""},{""left"":""Plant trees"",""right"":""Clean air""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Walk"",""right"":""Less smoke""}]"
+1010,101,Environment Heroes: Review,Match the pollution type.,,,,,,Match,"[{""left"":""Smoke"",""right"":""Air""},{""left"":""Trash"",""right"":""Land""},{""left"":""Chemicals"",""right"":""Water""},{""left"":""Noise"",""right"":""Sound""}]"
+1011,102,Environment Heroes: Review,Recycling means using materials again.,TRUE,FALSE,,,TRUE,MCQ,
+1012,102,Environment Heroes: Review,Which pollutes rivers?,Tree,Trash,Flower,Sun,Trash,MCQ,
+1013,102,Environment Heroes: Review,What helps reduce climate change?,Plastic,Clean energy,Smoke,Waste,Clean energy,MCQ,
+1014,102,Environment Heroes: Review,Why protect forests?,Pollute,Make waste,Save nature,Cut trees,Save nature,MCQ,
+1015,102,Environment Heroes: Review,Which habit helps Earth?,Burn,Reuse,Throw,Waste,Reuse,MCQ,
+1016,102,Environment Heroes: Review,Can recycling save resources?,Yes,No,,,Yes,MCQ,
+1017,102,Environment Heroes: Review,Which gas traps heat?,Nitrogen,Helium,Carbon dioxide,Oxygen,Carbon dioxide,MCQ,
+1018,102,Environment Heroes: Review,Should we protect animals?,Yes,No,,,Yes,MCQ,
+1019,102,Environment Heroes: Review,Match the green action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Save materials""},{""left"":""Reuse"",""right"":""Use again""},{""left"":""Reduce"",""right"":""Use less""},{""left"":""Protect"",""right"":""Keep safe""}]"
+1020,102,Environment Heroes: Review,Match the resource.,,,,,,Match,"[{""left"":""Sun"",""right"":""Solar""},{""left"":""Wind"",""right"":""Renewable""},{""left"":""Water"",""right"":""Resource""},{""left"":""Trees"",""right"":""Forest""}]"
+1021,103,Environment Heroes: Review,Recycling helps protect Earth.,TRUE,FALSE,,,TRUE,MCQ,
+1022,103,Environment Heroes: Review,Which causes pollution?,Tree,Flower,Water,Smoke,Smoke,MCQ,
+1023,103,Environment Heroes: Review,What helps cool Earth?,Trash,Trees,Plastic,Smoke,Trees,MCQ,
+1024,103,Environment Heroes: Review,Conservation means protecting nature.,TRUE,FALSE,,,TRUE,MCQ,
+1025,103,Environment Heroes: Review,Which is eco-friendly?,Litter,Waste,Reuse,Burn,Reuse,MCQ,
+1026,103,Environment Heroes: Review,Why save energy?,Help Earth,Create trash,Make smoke,Waste power,Help Earth,MCQ,
+1027,103,Environment Heroes: Review,Which can be recycled?,Food,Glass,Smoke,Cloud,Glass,MCQ,
+1028,103,Environment Heroes: Review,Who can be an environment hero?,No one,Only teachers,Only adults,Everyone,Everyone,MCQ,
+1029,103,Environment Heroes: Review,Match the Earth action.,,,,,,Match,"[{""left"":""Recycle"",""right"":""Less waste""},{""left"":""Save water"",""right"":""Conserve""},{""left"":""Plant trees"",""right"":""Clean air""},{""left"":""Walk"",""right"":""Less pollution""}]"
+1030,103,Environment Heroes: Review,Match the climate idea.,,,,,,Match,"[{""left"":""Global warming"",""right"":""Warmer Earth""},{""left"":""Carbon dioxide"",""right"":""Heat gas""},{""left"":""Solar energy"",""right"":""Clean power""},{""left"":""Trees"",""right"":""Absorb carbon""}]"
+1031,104,Technology Around Us,A computer is an electronic device.,TRUE,FALSE,,,TRUE,MCQ,
+1032,104,Technology Around Us,Computers help people work.,TRUE,FALSE,,,TRUE,MCQ,
+1033,104,Technology Around Us,Can computers store information?,Yes,No,,,Yes,MCQ,
+1034,104,Technology Around Us,Which part shows pictures?,Speaker,Monitor,Keyboard,Mouse,Monitor,MCQ,
+1035,104,Technology Around Us,Which part is used for typing?,Keyboard,Screen,Printer,Mouse,Keyboard,MCQ,
+1036,104,Technology Around Us,Which device controls the pointer?,Camera,Speaker,Monitor,Mouse,Mouse,MCQ,
+1037,104,Technology Around Us,Which part gives sound?,Screen,Keyboard,Speaker,Cable,Speaker,MCQ,
+1038,104,Technology Around Us,What do computers use to follow commands?,Trees,Water,Food,Programs,Programs,MCQ,
+1039,104,Technology Around Us,Match the computer part.,,,,,,Match,"[{""left"":""Monitor"",""right"":""Shows images""},{""left"":""Keyboard"",""right"":""Typing""},{""left"":""Mouse"",""right"":""Clicking""},{""left"":""Speaker"",""right"":""Sound""}]"
+1040,104,Technology Around Us,Match the device use.,,,,,,Match,"[{""left"":""Computer"",""right"":""Work""},{""left"":""Printer"",""right"":""Paper""},{""left"":""Camera"",""right"":""Photos""},{""left"":""Keyboard"",""right"":""Typing""}]"
+1041,105,Technology Around Us,Digital devices use technology.,TRUE,FALSE,,,TRUE,MCQ,
+1042,105,Technology Around Us,A smartphone can make calls.,TRUE,FALSE,,,TRUE,MCQ,
+1043,105,Technology Around Us,Can tablets show videos?,Yes,No,,,Yes,MCQ,
+1044,105,Technology Around Us,Which device takes photos?,Camera,Speaker,Keyboard,Printer,Camera,MCQ,
+1045,105,Technology Around Us,Which device can call people?,Monitor,Phone,Mouse,Scanner,Phone,MCQ,
+1046,105,Technology Around Us,Which device can show videos?,Tablet,Cable,Speaker,Keyboard,Tablet,MCQ,
+1047,105,Technology Around Us,Which device measures time?,Mouse,Printer,Smart watch,Camera,Smart watch,MCQ,
+1048,105,Technology Around Us,Which device prints papers?,Printer,Phone,Camera,Tablet,Printer,MCQ,
+1049,105,Technology Around Us,Match the digital device.,,,,,,Match,"[{""left"":""Phone"",""right"":""Calls""},{""left"":""Camera"",""right"":""Photos""},{""left"":""Tablet"",""right"":""Videos""},{""left"":""Watch"",""right"":""Time""}]"
+1050,105,Technology Around Us,Match the device use.,,,,,,Match,"[{""left"":""Printer"",""right"":""Paper""},{""left"":""Phone"",""right"":""Messages""},{""left"":""Camera"",""right"":""Pictures""},{""left"":""Tablet"",""right"":""Learning""}]"
+1051,106,Technology Around Us,A robot is a machine.,TRUE,FALSE,,,TRUE,MCQ,
+1052,106,Technology Around Us,Robots can follow instructions.,TRUE,FALSE,,,TRUE,MCQ,
+1053,106,Technology Around Us,Can robots help people?,Yes,No,,,Yes,MCQ,
+1054,106,Technology Around Us,Which is a robot?,Book,Robot arm,Tree,Chair,Robot arm,MCQ,
+1055,106,Technology Around Us,Robots need what to work?,Power,Soil,Food,Water,Power,MCQ,
+1056,106,Technology Around Us,Where can robots work?,Factory,Cloud,River,Forest,Factory,MCQ,
+1057,106,Technology Around Us,Which machine helps clean floors?,Camera,Phone,Keyboard,Robot vacuum,Robot vacuum,MCQ,
+1058,106,Technology Around Us,Robots can do repeated tasks.,TRUE,FALSE,,,TRUE,MCQ,
+1059,106,Technology Around Us,Match the robot use.,,,,,,Match,"[{""left"":""Robot arm"",""right"":""Factory""},{""left"":""Robot vacuum"",""right"":""Cleaning""},{""left"":""Drone"",""right"":""Flying""},{""left"":""Robot car"",""right"":""Driving""}]"
+1060,106,Technology Around Us,Match the machine.,,,,,,Match,"[{""left"":""Machine"",""right"":""Work""},{""left"":""Robot"",""right"":""Instructions""},{""left"":""Sensor"",""right"":""Detect""},{""left"":""Motor"",""right"":""Movement""}]"
+1061,107,Technology Around Us,AI means Artificial Intelligence.,TRUE,FALSE,,,TRUE,MCQ,
+1062,107,Technology Around Us,AI helps machines make decisions.,TRUE,FALSE,,,TRUE,MCQ,
+1063,107,Technology Around Us,Can AI recognize pictures?,Yes,No,,,Yes,MCQ,
+1064,107,Technology Around Us,Which uses AI?,Pencil,Chair,Book,Voice assistant,Voice assistant,MCQ,
+1065,107,Technology Around Us,AI learns from?,Data,Food,Soil,Water,Data,MCQ,
+1066,107,Technology Around Us,Which can understand speech?,Paper,Rock,Tree,AI,AI,MCQ,
+1067,107,Technology Around Us,AI can help find information.,TRUE,FALSE,,,TRUE,MCQ,
+1068,107,Technology Around Us,Which device may use AI?,Cup,Stone,Smartphone,Leaf,Smartphone,MCQ,
+1069,107,Technology Around Us,Match the AI example.,,,,,,Match,"[{""left"":""Voice assistant"",""right"":""Speech""},{""left"":""Face unlock"",""right"":""Recognition""},{""left"":""Recommendation"",""right"":""Suggestions""},{""left"":""Robot"",""right"":""Machine""}]"
+1070,107,Technology Around Us,Match the AI idea.,,,,,,Match,"[{""left"":""AI"",""right"":""Smart system""},{""left"":""Data"",""right"":""Information""},{""left"":""Learning"",""right"":""Improving""},{""left"":""Computer"",""right"":""Technology""}]"
+1071,108,Technology Around Us,Internet safety keeps us protected.,TRUE,FALSE,,,TRUE,MCQ,
+1072,108,Technology Around Us,We should keep passwords private.,TRUE,FALSE,,,TRUE,MCQ,
+1073,108,Technology Around Us,Can we share passwords with strangers?,No,Yes,,,No,MCQ,
+1074,108,Technology Around Us,Which password is safer?,Short,Simple,Easy,Strong,Strong,MCQ,
+1075,108,Technology Around Us,Who can help with online problems?,Parents,Stranger,Robot,,Parents,MCQ,
+1076,108,Technology Around Us,Should we be kind online?,Yes,No,,,Yes,MCQ,
+1077,108,Technology Around Us,What should we protect online?,Gifts,Privacy,Food,Toys,Privacy,MCQ,
+1078,108,Technology Around Us,Should we click unknown links?,No,Yes,,,No,MCQ,
+1079,108,Technology Around Us,Match the safety rule.,,,,,,Match,"[{""left"":""Password"",""right"":""Keep secret""},{""left"":""Privacy"",""right"":""Protect""},{""left"":""Stranger"",""right"":""Avoid""},{""left"":""Adult"",""right"":""Ask help""}]"
+1080,108,Technology Around Us,Match the online habit.,,,,,,Match,"[{""left"":""Kind words"",""right"":""Respect""},{""left"":""Strong password"",""right"":""Safety""},{""left"":""Unknown link"",""right"":""Avoid""},{""left"":""Private data"",""right"":""Protect""}]"
+1081,109,Technology Around Us: Review,A computer is an electronic device.,TRUE,FALSE,,,TRUE,MCQ,
+1082,109,Technology Around Us: Review,Which part is used for typing?,Mouse,Speaker,Monitor,Keyboard,Keyboard,MCQ,
+1083,109,Technology Around Us: Review,Which device takes photos?,Cable,Camera,Speaker,Printer,Camera,MCQ,
+1084,109,Technology Around Us: Review,A robot can follow instructions.,TRUE,FALSE,,,TRUE,MCQ,
+1085,109,Technology Around Us: Review,What does AI use to learn?,Data,Water,Food,Soil,Data,MCQ,
+1086,109,Technology Around Us: Review,Should passwords be private?,Yes,No,,,Yes,MCQ,
+1087,109,Technology Around Us: Review,Which device shows images?,Mouse,Keyboard,Monitor,Printer,Monitor,MCQ,
+1088,109,Technology Around Us: Review,Which machine can clean floors?,Phone,Camera,Tablet,Robot vacuum,Robot vacuum,MCQ,
+1089,109,Technology Around Us: Review,Match the device.,,,,,,Match,"[{""left"":""Keyboard"",""right"":""Typing""},{""left"":""Mouse"",""right"":""Clicking""},{""left"":""Camera"",""right"":""Photos""},{""left"":""Speaker"",""right"":""Sound""}]"
+1090,109,Technology Around Us: Review,Match the safety rule.,,,,,,Match,"[{""left"":""Password"",""right"":""Secret""},{""left"":""Privacy"",""right"":""Protect""},{""left"":""Stranger"",""right"":""Avoid""},{""left"":""Adult"",""right"":""Help""}]"
+1091,110,Technology Around Us,Computers can store information.,TRUE,FALSE,,,TRUE,MCQ,
+1092,110,Technology Around Us,Which device can make calls?,Speaker,Mouse,Phone,Printer,Phone,MCQ,
+1093,110,Technology Around Us,Robots are machines.,TRUE,FALSE,,,TRUE,MCQ,
+1094,110,Technology Around Us,AI means Artificial Intelligence.,TRUE,FALSE,,,TRUE,MCQ,
+1095,110,Technology Around Us,Which helps online safety?,Waste,Litter,Privacy,Noise,Privacy,MCQ,
+1096,110,Technology Around Us,Can AI recognize images?,Yes,No,,,Yes,MCQ,
+1097,110,Technology Around Us,Which device measures time?,Smart watch,Keyboard,Printer,Monitor,Smart watch,MCQ,
+1098,110,Technology Around Us,Should we click unknown links?,No,Yes,,,No,MCQ,
+1099,110,Technology Around Us,Match the technology.,,,,,,Match,"[{""left"":""Robot"",""right"":""Machine""},{""left"":""AI"",""right"":""Smart system""},{""left"":""Computer"",""right"":""Processing""},{""left"":""Internet"",""right"":""Connection""}]"
+1100,110,Technology Around Us,Match the device use.,,,,,,Match,"[{""left"":""Phone"",""right"":""Calls""},{""left"":""Tablet"",""right"":""Videos""},{""left"":""Printer"",""right"":""Paper""},{""left"":""Camera"",""right"":""Photos""}]"
+1101,111,Technology Around Us,A keyboard is used for typing.,TRUE,FALSE,,,TRUE,MCQ,
+1102,111,Technology Around Us,Which device shows videos?,Printer,Cable,Tablet,Mouse,Tablet,MCQ,
+1103,111,Technology Around Us,Robots can help people.,TRUE,FALSE,,,TRUE,MCQ,
+1104,111,Technology Around Us,AI can learn from data.,TRUE,FALSE,,,TRUE,MCQ,
+1105,111,Technology Around Us,What should we keep private?,Ball,Toy,Book,Password,Password,MCQ,
+1106,111,Technology Around Us,Which uses clean technology?,Paper,Smart system,Stone,Rock,Smart system,MCQ,
+1107,111,Technology Around Us,What controls a computer pointer?,Printer,Mouse,Monitor,Speaker,Mouse,MCQ,
+1108,111,Technology Around Us,Who can help with online problems?,Parents,Stranger,,Robot,Parents,MCQ,
+1109,111,Technology Around Us,Match the computer part.,,,,,,Match,"[{""left"":""Monitor"",""right"":""Display""},{""left"":""Keyboard"",""right"":""Typing""},{""left"":""Mouse"",""right"":""Clicking""},{""left"":""Speaker"",""right"":""Sound""}]"
+1110,111,Technology Around Us,Match the technology idea.,,,,,,Match,"[{""left"":""AI"",""right"":""Smart learning""},{""left"":""Robot"",""right"":""Machine work""},{""left"":""Internet"",""right"":""Online connection""},{""left"":""Password"",""right"":""Safety""}]"
+1111,112,Science Experiments,Science helps us understand the world.,TRUE,FALSE,,,TRUE,MCQ,
+1112,112,Science Experiments,Scientists ask questions.,TRUE,FALSE,,,TRUE,MCQ,
+1113,112,Science Experiments,Can we test ideas with experiments?,Yes,No,,,Yes,MCQ,
+1114,112,Science Experiments,Who studies science?,Scientist,Artist,Driver,Singer,Scientist,MCQ,
+1115,112,Science Experiments,What comes before an experiment?,Tool,Result,Question,Answer,Question,MCQ,
+1116,112,Science Experiments,A prediction is a smart guess.,TRUE,FALSE,,,TRUE,MCQ,
+1117,112,Science Experiments,What do experiments help us learn?,Games,Songs,Answers,Stories,Answers,MCQ,
+1118,112,Science Experiments,Scientists use tests to learn.,TRUE,FALSE,,,TRUE,MCQ,
+1119,112,Science Experiments,Match the science step.,,,,,,Match,"[{""left"":""Question"",""right"":""Ask""},{""left"":""Prediction"",""right"":""Guess""},{""left"":""Experiment"",""right"":""Test""},{""left"":""Result"",""right"":""Find""}]"
+1120,112,Science Experiments,Match the scientist action.,,,,,,Match,"[{""left"":""Observe"",""right"":""Watch""},{""left"":""Measure"",""right"":""Check""},{""left"":""Test"",""right"":""Try""},{""left"":""Record"",""right"":""Write""}]"
+1121,113,Science Experiments,Scientists use observations.,TRUE,FALSE,,,TRUE,MCQ,
+1122,113,Science Experiments,We use senses to observe.,TRUE,FALSE,,,TRUE,MCQ,
+1123,113,Science Experiments,Which tool measures temperature?,Clock,Thermometer,Balance,Ruler,Thermometer,MCQ,
+1124,113,Science Experiments,Which tool measures length?,Microscope,Ruler,Cup,Thermometer,Ruler,MCQ,
+1125,113,Science Experiments,Which tool measures weight?,Ruler,Balance,Clock,Camera,Balance,MCQ,
+1126,113,Science Experiments,Why do we record results?,Stop,Hide,Remember,Forget,Remember,MCQ,
+1127,113,Science Experiments,Which sense helps us see?,Hands,Ears,Nose,Eyes,Eyes,MCQ,
+1128,113,Science Experiments,Can we compare objects?,Yes,No,,,Yes,MCQ,
+1129,113,Science Experiments,Match the tool.,,,,,,Match,"[{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Ruler"",""right"":""Length""},{""left"":""Balance"",""right"":""Weight""},{""left"":""Clock"",""right"":""Time""}]"
+1130,113,Science Experiments,Match the observation.,,,,,,Match,"[{""left"":""See"",""right"":""Eyes""},{""left"":""Hear"",""right"":""Ears""},{""left"":""Smell"",""right"":""Nose""},{""left"":""Touch"",""right"":""Hands""}]"
+1131,114,Science Experiments,Experiments test ideas.,TRUE,FALSE,,,TRUE,MCQ,
+1132,114,Science Experiments,Ice melts into water.,TRUE,FALSE,,,TRUE,MCQ,
+1133,114,Science Experiments,Can objects float or sink?,Yes,No,,,Yes,MCQ,
+1134,114,Science Experiments,Which floats on water?,Metal,Rock,Wood,Stone,Wood,MCQ,
+1135,114,Science Experiments,Which sinks in water?,Stone,Paper,Cork,Leaf,Stone,MCQ,
+1136,114,Science Experiments,Plants need water to grow.,TRUE,FALSE,,,TRUE,MCQ,
+1137,114,Science Experiments,What happens when sugar mixes with water?,Dissolves,Burns,Freezes,Explodes,Dissolves,MCQ,
+1138,114,Science Experiments,What helps scientists test causes?,Story,Guess,Dream,Experiment,Experiment,MCQ,
+1139,114,Science Experiments,Match the experiment.,,,,,,Match,"[{""left"":""Ice"",""right"":""Melting""},{""left"":""Seed"",""right"":""Growing""},{""left"":""Sugar"",""right"":""Dissolving""},{""left"":""Magnet"",""right"":""Attracting""}]"
+1140,114,Science Experiments,Match the result.,,,,,,Match,"[{""left"":""Heat ice"",""right"":""Water""},{""left"":""Add sugar"",""right"":""Solution""},{""left"":""Plant seed"",""right"":""Plant""},{""left"":""Drop stone"",""right"":""Sink""}]"
+1141,115,Science Experiments,Solid has a fixed shape.,TRUE,FALSE,,,TRUE,MCQ,
+1142,115,Science Experiments,Liquid can flow.,TRUE,FALSE,,,TRUE,MCQ,
+1143,115,Science Experiments,Gas fills available space.,TRUE,FALSE,,,TRUE,MCQ,
+1144,115,Science Experiments,Ice is a solid.,TRUE,FALSE,,,TRUE,MCQ,
+1145,115,Science Experiments,Water changes into ice by?,Boiling,Burning,Melting,Freezing,Freezing,MCQ,
+1146,115,Science Experiments,Ice changes into water by?,Drying,Breaking,Melting,Freezing,Melting,MCQ,
+1147,115,Science Experiments,Which dissolves in water?,Metal,Salt,Wood,Stone,Salt,MCQ,
+1148,115,Science Experiments,Can materials change form?,Yes,No,,,Yes,MCQ,
+1149,115,Science Experiments,Match the state of matter.,,,,,,Match,"[{""left"":""Ice"",""right"":""Solid""},{""left"":""Water"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""},{""left"":""Steam"",""right"":""Gas""}]"
+1150,115,Science Experiments,Match the change.,,,,,,Match,"[{""left"":""Ice to water"",""right"":""Melting""},{""left"":""Water to ice"",""right"":""Freezing""},{""left"":""Water to steam"",""right"":""Boiling""},{""left"":""Salt in water"",""right"":""Dissolve""}]"
+1151,116,Science Experiments,Safety is important during experiments.,TRUE,FALSE,,,TRUE,MCQ,
+1152,116,Science Experiments,We should follow instructions.,TRUE,FALSE,,,TRUE,MCQ,
+1153,116,Science Experiments,Should we taste experiment materials?,No,Yes,,,No,MCQ,
+1154,116,Science Experiments,What protects our eyes?,Gloves,Goggles,Paper,Book,Goggles,MCQ,
+1155,116,Science Experiments,What protects our hands?,Ruler,Clock,Gloves,Cup,Gloves,MCQ,
+1156,116,Science Experiments,Why work carefully?,Safety,Mess,Noise,Speed,Safety,MCQ,
+1157,116,Science Experiments,Scientists discover new things.,TRUE,FALSE,,,TRUE,MCQ,
+1158,116,Science Experiments,Should we clean tools after use?,Yes,No,,,Yes,MCQ,
+1159,116,Science Experiments,Match the safety item.,,,,,,Match,"[{""left"":""Goggles"",""right"":""Eyes""},{""left"":""Gloves"",""right"":""Hands""},{""left"":""Apron"",""right"":""Clothes""},{""left"":""Notebook"",""right"":""Records""}]"
+1160,116,Science Experiments,Match the science habit.,,,,,,Match,"[{""left"":""Follow rules"",""right"":""Safety""},{""left"":""Observe"",""right"":""Watch""},{""left"":""Record"",""right"":""Write""},{""left"":""Discover"",""right"":""Learn""}]"
+1161,117,Science Experiments: Review,Scientists ask questions.,TRUE,FALSE,,,TRUE,MCQ,
+1162,117,Science Experiments: Review,Which tool measures temperature?,Thermometer,Balance,Clock,Ruler,Thermometer,MCQ,
+1163,117,Science Experiments: Review,Experiments test ideas.,TRUE,FALSE,,,TRUE,MCQ,
+1164,117,Science Experiments: Review,Which object floats on water?,Metal,Stone,Wood,Rock,Wood,MCQ,
+1165,117,Science Experiments: Review,Ice changes into water by?,Melting,Freezing,Drying,Burning,Melting,MCQ,
+1166,117,Science Experiments: Review,Should we wear safety goggles?,Yes,No,,,Yes,MCQ,
+1167,117,Science Experiments: Review,What do scientists record?,Results,Stories,Songs,Games,Results,MCQ,
+1168,117,Science Experiments: Review,Which is a gas?,Stone,Air,Water,Ice,Air,MCQ,
+1169,117,Science Experiments: Review,Match the science tool.,,,,,,Match,"[{""left"":""Ruler"",""right"":""Length""},{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Balance"",""right"":""Weight""},{""left"":""Clock"",""right"":""Time""}]"
+1170,117,Science Experiments: Review,Match the experiment.,,,,,,Match,"[{""left"":""Seed"",""right"":""Growing""},{""left"":""Ice"",""right"":""Melting""},{""left"":""Salt"",""right"":""Dissolving""},{""left"":""Magnet"",""right"":""Attracting""}]"
+1171,118,Science Experiments: Review,A prediction is a smart guess.,TRUE,FALSE,,,TRUE,MCQ,
+1172,118,Science Experiments: Review,Which sense helps us hear?,Nose,Hands,Ears,Eyes,Ears,MCQ,
+1173,118,Science Experiments: Review,Plants need water to grow.,TRUE,FALSE,,,TRUE,MCQ,
+1174,118,Science Experiments: Review,Which material dissolves in water?,Wood,Salt,Metal,Stone,Salt,MCQ,
+1175,118,Science Experiments: Review,What protects eyes in experiments?,Paper,Cup,Goggles,Book,Goggles,MCQ,
+1176,118,Science Experiments: Review,Can scientists compare objects?,Yes,No,,,Yes,MCQ,
+1177,118,Science Experiments: Review,Water becomes ice by?,Burning,Melting,Freezing,Drying,Freezing,MCQ,
+1178,118,Science Experiments: Review,Should we follow safety rules?,Yes,No,,,Yes,MCQ,
+1179,118,Science Experiments: Review,Match the matter state.,,,,,,Match,"[{""left"":""Ice"",""right"":""Solid""},{""left"":""Water"",""right"":""Liquid""},{""left"":""Air"",""right"":""Gas""},{""left"":""Steam"",""right"":""Gas""}]"
+1180,118,Science Experiments: Review,Match the scientist action.,,,,,,Match,"[{""left"":""Observe"",""right"":""Watch""},{""left"":""Measure"",""right"":""Check""},{""left"":""Test"",""right"":""Try""},{""left"":""Record"",""right"":""Write""}]"
+1181,119,Science Experiments: Review,Science helps us learn about the world.,TRUE,FALSE,,,TRUE,MCQ,
+1182,119,Science Experiments: Review,Which tool measures length?,Ruler,Cup,Clock,Balance,Ruler,MCQ,
+1183,119,Science Experiments: Review,An experiment tests an idea.,TRUE,FALSE,,,TRUE,MCQ,
+1184,119,Science Experiments: Review,Which object sinks in water?,Wood,Cork,Leaf,Stone,Stone,MCQ,
+1185,119,Science Experiments: Review,Water changes to steam by?,Melting,Freezing,Breaking,Boiling,Boiling,MCQ,
+1186,119,Science Experiments: Review,Why record experiment results?,Forget,Remember,Stop,Hide,Remember,MCQ,
+1187,119,Science Experiments: Review,Which is safe during experiments?,Goggles,Run,Play,Taste,Goggles,MCQ,
+1188,119,Science Experiments: Review,Scientists discover new things.,TRUE,FALSE,,,TRUE,MCQ,
+1189,119,Science Experiments: Review,Match the observation tool.,,,,,,Match,"[{""left"":""Thermometer"",""right"":""Temperature""},{""left"":""Ruler"",""right"":""Length""},{""left"":""Balance"",""right"":""Weight""},{""left"":""Microscope"",""right"":""Small objects""}]"
+1190,119,Science Experiments: Review,Match the science process.,,,,,,Match,"[{""left"":""Question"",""right"":""Ask""},{""left"":""Prediction"",""right"":""Guess""},{""left"":""Experiment"",""right"":""Test""},{""left"":""Result"",""right"":""Find""}]"

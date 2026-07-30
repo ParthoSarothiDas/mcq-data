@@ -1,0 +1,58 @@
+﻿Id,Level,TopicHeading,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData
+11111,1,math,Number Patterns,"""Complete pattern: 2, 4, 6, _____""",,,,,8,Fillblank
+1,1,Prepositions,The cat is ____ the table.,on,in,beside,under,under,MCQ,cat.png
+2,1,Prepositions,The backpack is ____ the door.,under,on,behind,beside,on,MCQ,room_preposition.png
+3,1,Prepositions,The plant is ____ the window.,under,on,behind,beside,on,MCQ,room_preposition.png
+4,1,Prepositions,The robot is ____ the box.,on,under,in,beside,in,MCQ,robot.png
+5,1,Prepositions,The red toy car is ____ the rug.,on,in,under,beside,beside,MCQ,room_preposition.png
+6,1,Prepositions,The book is ____ the table.,under,on,in,behind,on,MCQ,cat.png
+7,1,Prepositions,The soccer ball is ____ the rug.,behind,under,on,in front of,in front of,MCQ,room_preposition.png
+8,1,Prepositions,The books are ____ the lamp.,under,next to,in,behind,next to,MCQ,room_preposition.png
+9,1,Prepositions,The green box is ____ the bed.,on,under,beside,in,under,MCQ,room_preposition.png
+10,1,Prepositions,The globe is ____ the shelf.,under,on,behind,in,on,MCQ,under.png
+11,1,Number Names,Who is it?,Kabboy,Abhik,Suman,Partho,Abhik,MCQ,abhik.png
+12,1,Addition,Who is it?,Kabboy,Abhik,Suman,Partho,Abhik,MCQ,eye_anatomy_2.png
+13,1,Subtraction,Match the subtraction sums with their answers,,,,,,Match,"[{""left"":""8 - 3"",""right"":""5""},{""left"":""9 - 4"",""right"":""5""},{""left"":""10 - 2"",""right"":""8""},{""left"":""7 - 3"",""right"":""4""}]"
+14,1,Shapes,Match the shapes with their number of sides,,,,,,Match,"[{""left"":""Triangle"",""right"":""3""},{""left"":""Square"",""right"":""4""},{""left"":""Pentagon"",""right"":""5""},{""left"":""Hexagon"",""right"":""6""}]"
+15,1,Comparison,Match the comparison with the correct sign,,,,,,Match,"[{""left"":""8 and 5"",""right"":"">""},{""left"":""3 and 7"",""right"":""<""},{""left"":""6 and 6"",""right"":""=""},{""left"":""9 and 2"",""right"":"">""}]"
+16,1,Multiplication,Match the multiplication sums with their answers,,,,,,Match,"[{""left"":""2 × 3"",""right"":""6""},{""left"":""4 × 2"",""right"":""8""},{""left"":""5 × 2"",""right"":""10""},{""left"":""3 × 3"",""right"":""9""}]"
+17,1,Division,Match the division sums with their answers,,,,,,Match,"[{""left"":""8 ÷ 2"",""right"":""4""},{""left"":""10 ÷ 2"",""right"":""5""},{""left"":""12 ÷ 3"",""right"":""4""},{""left"":""9 ÷ 3"",""right"":""3""}]"
+18,1,Measurement,Match the object with the suitable unit,,,,,,Match,"[{""left"":""Pencil"",""right"":""cm""},{""left"":""Road"",""right"":""m""},{""left"":""Rice"",""right"":""kg""},{""left"":""Milk"",""right"":""L""}]"
+19,1,Time,Match the time with the part of the day,,,,,,Match,"[{""left"":""7:00 AM"",""right"":""Morning""},{""left"":""1:00 PM"",""right"":""Afternoon""},{""left"":""6:00 PM"",""right"":""Evening""},{""left"":""9:00 PM"",""right"":""Night""}]"
+20,1,Ordinal Numbers,Match the ordinal numbers with their words,,,,,,Match,"[{""left"":""1st"",""right"":""First""},{""left"":""2nd"",""right"":""Second""},{""left"":""3rd"",""right"":""Third""},{""left"":""4th"",""right"":""Fourth""}]"
+21,1,Test,Match the animals with their homes,,,,,,Match,"[{""left"":""Dog"",""right"":""Kennel""},{""left"":""Bird"",""right"":""Nest""},{""left"":""Fish"",""right"":""Pond""}]"
+22,1,Test,2 + 3 = _____,,,,,5,FillBlank,
+23,1,Test,87|25|-,,,,,62,ColumnMath,
+24,1,Test,The match was cancelled because the field was wet. (Pick out the Conjunction),,,,,because,FillBlank,Part of Speech
+25,1,Test,"I knocked on the door, _____ nobody answered.",,,,,but,FillBlank,Part of Speech
+26,1,Test,What number comes after 37? Answer: _____,,,,,38,FillBlank,
+27,1,Mixed Measurement,Which unit is best to measure the length of a pencil?,Centimeter,Meter,Kilogram,Liter,Centimeter,MCQ,
+28,1,Mixed Measurement,Which unit is best to measure the height of a tree?,Centimeter,Meter,Gram,Milliliter,Meter,MCQ,
+29,1,Mixed Measurement,Which unit is best to measure the weight of an apple?,Gram,Kilogram,Centimeter,Liter,Gram,MCQ,
+30,1,Mixed Measurement,Which unit is best to measure the weight of an elephant?,Gram,Kilogram,Centimeter,Milliliter,Kilogram,MCQ,
+31,1,Mixed Measurement,Which unit is best to measure the amount of water in a bottle?,Milliliter,Liter,Centimeter,Kilogram,Milliliter,MCQ,
+32,1,Mixed Measurement,Which unit is best to measure the water in a swimming pool?,Milliliter,Liter,Gram,Centimeter,Liter,MCQ,
+33,1,Mixed Measurement,Which unit is best to measure the length of a classroom?,Centimeter,Meter,Gram,Liter,Meter,MCQ,
+34,2,Mixed Measurement,Which unit is best to measure the weight of a school bag?,Gram,Kilogram,Milliliter,Centimeter,Kilogram,MCQ,
+35,2,Mixed Measurement,Which unit is best to measure a spoonful of syrup?,Milliliter,Liter,Gram,Meter,Milliliter,MCQ,
+36,2,Mixed Measurement,Which unit is best to measure the length of an eraser?,Centimeter,Meter,Kilogram,Liter,Centimeter,MCQ,
+37,2,Mixed Measurement,Which unit is smaller?,Centimeter,Meter,Gram,Kilogram,Centimeter,MCQ,
+38,2,Mixed Measurement,Which unit is heavier?,Gram,Kilogram,Centimeter,Milliliter,Kilogram,MCQ,
+39,2,Mixed Measurement,Which unit holds more liquid?,Milliliter,Liter,Gram,Kilogram,Liter,MCQ,
+40,3,Mixed Measurement,Which unit is used to measure milk in a carton?,Liter,Kilogram,Centimeter,Gram,Liter,MCQ,
+41,3,Mixed Measurement,Which unit is best to measure the weight of a coin?,Gram,Kilogram,Milliliter,Liter,Gram,MCQ,
+42,3,Mixed Measurement,Which unit is best to measure the length of a road?,Centimeter,Meter,Gram,Milliliter,Meter,MCQ,
+43,3,Mixed Measurement,How many centimeters are in 1 meter?,10,100,1000,50,100,MCQ,
+44,3,Mixed Measurement,How many grams are in 1 kilogram?,100,1000,10,500,1000,MCQ,
+45,3,Mixed Measurement,How many milliliters are in 1 liter?,100,1000,10,500,1000,MCQ,
+46,4,Mixed Measurement,Which is longer?,1 meter,50 centimeters,25 centimeters,10 centimeters,1 meter,MCQ,
+47,4,Mixed Measurement,Which is heavier?,1 kilogram,500 grams,250 grams,100 grams,1 kilogram,MCQ,
+48,4,Mixed Measurement,Which holds more?,1 liter,500 milliliters,250 milliliters,100 milliliters,1 liter,MCQ,
+49,4,Mixed Measurement,Which object is best measured in centimeters?,Notebook,Football Field,Bus,Building,Notebook,MCQ,
+50,4,Mixed Measurement,Which object is best measured in meters?,Door Key,Paper Clip,Playground,Eraser,Playground,MCQ,
+51,4,Mixed Measurement,Which object is best measured in grams?,Chocolate Bar,Car,Elephant,School Bus,Chocolate Bar,MCQ,
+52,4,Mixed Measurement,Which object is best measured in kilograms?,Refrigerator,Paper Clip,Pencil,Leaf,Refrigerator,MCQ,
+53,5,Mixed Measurement,Which container is best measured in milliliters?,Medicine Bottle,Swimming Pool,Water Tank,Lake,Medicine Bottle,MCQ,
+54,5,Mixed Measurement,Which container is best measured in liters?,Bucket,Teaspoon,Eyedrop Bottle,Cupcake,Bucket,MCQ,
+55,5,Mixed Measurement,Which unit would you use to measure the height of a student?,Centimeter,Milliliter,Gram,Meter,Meter,MCQ,
+56,5,Mixed Measurement,Which unit would you use to measure the weight of a watermelon?,Gram,Kilogram,Centimeter,Liter,Kilogram,MCQ,

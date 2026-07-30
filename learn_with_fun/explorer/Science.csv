@@ -1,8 +1,0 @@
-﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType
-101,1,Animals,A whale is a mammal.,TRUE,FALSE,,,TRUE,MCQ
-102,1,Animals,A spider has six legs.,TRUE,FALSE,,,FALSE,MCQ
-103,1,Math,10 + 5 = 15.,Yes,No,,,Yes,MCQ
-104,1,Math,Which is grater,45,36,,,45,MCQ
-105,1,Astronomy,What shape is Earth?,Round,Square,Flat,,Round,MCQ
-106,1,Astronomy,What is Earth's natural satellite?,Moon,Sun,,,Moon,MCQ
-107,1,Astronomy,How long does Earth take to rotate once?,24 hrs,48 hrs,12 hrs,365 days,24 hrs,MCQ

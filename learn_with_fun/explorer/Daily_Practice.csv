@@ -1,0 +1,5 @@
+﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData
+1,1,Amazing Plants,A plant needs water to grow.,TRUE,FALSE,,,TRUE,MCQ,
+2,1,Amazing Plants,Roots grow above the ground.,TRUE,FALSE,,,FALSE,MCQ,
+3,1,Amazing Plants,Do leaves make food for the plant?,Yes,No,,,Yes,MCQ,
+4,1,Amazing Plants,Which part of a plant absorbs water from the soil?,Root,Leaf,Flower,,Root,MCQ,

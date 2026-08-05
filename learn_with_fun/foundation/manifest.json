@@ -1,10 +1,10 @@
 {
   "csv": {
-    "Bangladesh": 1,
-    "Brain_Boosting":1,
+    "Bangladesh": 2,
+    "Brain_Boosting":2,
     "English": 2,
     "Math": 2,
-    "Science": 10
+    "Science": 11
   },
   "images": {}
 }

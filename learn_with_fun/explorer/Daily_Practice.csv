@@ -1,0 +1,71 @@
+﻿id,Level,Topic,Question,Option1,Option2,Option3,Option4,Correct_Option,QuestionType,QuestionData
+FENG141,1,Action Words,What is the goalkeeper doing?,catch,drink,read,write,catch,MCQ,catch.png
+FENG142,1,Action Words,What is the woman doing?,drink,eat,push,swim,drink,MCQ,drink.png
+FENG143,1,Action Words,What is the girl doing?,eat,throw,read,slide,eat,MCQ,eat.png
+FENG144,1,Action Words,What is the girl doing?,push,catch,write,swim,push,MCQ,push.png
+FENG145,1,Action Words,What is the boy doing?,read,drink,throw,steep,read,MCQ,read.png
+FENG146,1,Action Words,What is the man doing?,sleep,slide,swim,write,sleep,MCQ,sleep.png
+FENG147,1,Action Words,What is the boy doing?,slide,catch,eat,push,slide,MCQ,slide.png
+FENG148,1,Action Words,What are the men doing?,swim,drink,throw,read,swim,MCQ,swim.png
+FENG149,1,Action Words,What is the player doing?,throw,push,eat,write,throw,MCQ,throw.png
+FENG150,1,Action Words,What is the girl doing?,write,read,catch,drink,write,MCQ,write.png
+ARG001,2,Argentina,Which country are we learning about?,Brazil,Argentina,Canada,Japan,Argentina,MCQ,
+ARG002,2,Argentina,On which continent is Argentina?,Asia,Europe,South America,Africa,South America,MCQ,
+ARG003,2,Argentina,What is the capital city of Argentina?,Lima,Buenos Aires,Santiago,Brasilia,Buenos Aires,MCQ,
+ARG004,2,Argentina,What language do most people speak in Argentina?,French,Spanish,English,German,Spanish,MCQ,
+ARG005,2,Argentina,What are the colors of the Argentina flag?,Red and White,Blue and Yellow,Light Blue White and Light Blue,Green and White,Light Blue White and Light Blue,MCQ,
+ARG006,2,Argentina,What is the currency of Argentina?,Peso,Dollar,Yen,Rupee,Peso,MCQ,
+ARG007,2,Argentina,Argentina is famous for which sport?,Cricket,Football,Tennis,Hockey,Football,MCQ,
+ARG008,2,Argentina,Which ocean is east of Argentina?,Indian Ocean,Pacific Ocean,Atlantic Ocean,Arctic Ocean,Atlantic Ocean,MCQ,
+ARG009,2,Argentina,Is Argentina a country?,Yes,No,Only a city,Only a river,Yes,MCQ,
+ARG010,2,Argentina,Which country is next to Argentina?,China,Chile,Egypt,India,Chile,MCQ,
+ARG011,3,Argentina,What is the name of Argentina's capital?,Cordoba,Rosario,Buenos Aires,Mendoza,Buenos Aires,MCQ,
+ARG012,3,Argentina,What is a famous waterfall shared by Argentina and Brazil?,Victoria Falls,Niagara Falls,Iguazu Falls,Angel Falls,Iguazu Falls,MCQ,
+ARG013,3,Argentina,Which long mountain range runs along western Argentina?,Alps,Andes,Himalayas,Rockies,Andes,MCQ,
+ARG014,3,Argentina,Argentina has many wide grassy lands called?,Deserts,Pampas,Jungles,Islands,Pampas,MCQ,
+ARG015,3,Argentina,Which bird is a national symbol of Argentina?,Penguin,Condor,Parrot,Owl,Condor,MCQ,
+ARG016,3,Argentina,Argentina is famous for eating a lot of?,Rice,Beef,Noodles,Fish,Beef,MCQ,
+ARG017,3,Argentina,What drink made from herbs is popular in Argentina?,Tea,Mate,Coffee,Juice,Mate,MCQ,
+ARG018,3,Argentina,Which sport do many children play in Argentina?,Football,Baseball,Rugby,Cricket,Football,MCQ,
+ARG019,3,Argentina,People from Argentina are called?,Argentians,Argentines,Argons,Argos,Argentines,MCQ,
+ARG020,3,Argentina,Which language is mainly spoken in Argentina?,Spanish,French,Portuguese,Italian,Spanish,MCQ,
+ARG021,4,Argentina,Which famous football player is from Argentina?,Cristiano Ronaldo,Lionel Messi,Neymar,Kylian Mbappe,Lionel Messi,MCQ,
+ARG022,4,Argentina,What sport does Lionel Messi play?,Basketball,Football,Tennis,Volleyball,Football,MCQ,
+ARG023,4,Argentina,Which famous dance began in Argentina?,Salsa,Tango,Hip Hop,Ballet,Tango,MCQ,
+ARG024,4,Argentina,Tango is a type of?,Dance,Food,Animal,Mountain,Dance,MCQ,
+ARG025,4,Argentina,Which large flightless bird lives in Argentina?,Ostrich,Rhea,Eagle,Penguin,Rhea,MCQ,
+ARG026,4,Argentina,Which black and white bird lives in southern Argentina?,Penguin,Parrot,Peacock,Flamingo,Penguin,MCQ,
+ARG027,4,Argentina,What is the name of the famous glacier in Argentina?,Perito Moreno,Great Glacier,Blue Ice,Crystal Glacier,Perito Moreno,MCQ,
+ARG028,4,Argentina,What is frozen in a glacier?,Sand,Ice,Lava,Grass,Ice,MCQ,
+ARG029,4,Argentina,Which season is Christmas in Argentina?,Winter,Summer,Spring,Autumn,Summer,MCQ,
+ARG030,4,Argentina,Why is Christmas warm in Argentina?,It is near the South Pole,It is in the Southern Hemisphere,It is always hot,There is no winter,It is in the Southern Hemisphere,MCQ,
+ARG031,5,Argentina,Which is the largest city in Argentina?,Rosario,Cordoba,Buenos Aires,Mendoza,Buenos Aires,MCQ,
+ARG032,5,Argentina,Which long river flows through Argentina?,Nile,Parana,Amazon,Yangtze,Parana,MCQ,
+ARG033,5,Argentina,What is the sun on Argentina's flag called?,Golden Sun,Sun of May,Morning Sun,Happy Sun,Sun of May,MCQ,
+ARG034,5,Argentina,What sweet milk spread is popular in Argentina?,Peanut Butter,Jam,Dulce de Leche,Honey,Dulce de Leche,MCQ,
+ARG035,5,Argentina,People in Argentina often cook meat on a?,Stove,Asado Grill,Microwave,Oven,Asado Grill,MCQ,
+ARG036,5,Argentina,Which mountains separate Argentina from Chile?,Rocky Mountains,Andes Mountains,Alps,Himalayas,Andes Mountains,MCQ,
+ARG037,5,Argentina,Which color and shape is used in football?,Square Blue Ball,Round Black and White Ball,Triangle Green Ball,Red Cube,Round Black and White Ball,MCQ,
+ARG038,5,Argentina,Argentina is best known around the world for?,Football,Ice Hockey,Cricket,Skiing,Football,MCQ,
+ARG039,5,Argentina,Which dance is famous in Argentina?,Tango,Salsa,Waltz,Bharatanatyam,Tango,MCQ,
+ARG040,5,Argentina,Which famous waterfall is partly in Argentina?,Victoria Falls,Niagara Falls,Iguazu Falls,Angel Falls,Iguazu Falls,MCQ,
+ARG041,6,Argentina,Which continent is Argentina in?,Europe,Asia,South America,Africa,South America,MCQ,
+ARG042,6,Argentina,What is the capital of Argentina?,Lima,Buenos Aires,Santiago,Montevideo,Buenos Aires,MCQ,
+ARG043,6,Argentina,Which language is mainly spoken in Argentina?,Portuguese,Spanish,English,French,Spanish,MCQ,
+ARG044,6,Argentina,Which mountain range is found in Argentina?,Rockies,Andes,Alps,Himalayas,Andes,MCQ,
+ARG045,6,Argentina,Which famous football player is from Argentina?,Lionel Messi,Diego Maradona,Cristiano Ronaldo,Both Lionel Messi and Diego Maradona,Both Lionel Messi and Diego Maradona,MCQ,
+ARG046,6,Argentina,What is the famous dance of Argentina?,Salsa,Tango,Waltz,Hip Hop,Tango,MCQ,
+ARG047,6,Argentina,Which drink is popular in Argentina?,Coffee,Mate,Milk,Orange Juice,Mate,MCQ,
+ARG048,6,Argentina,What is the currency of Argentina?,Peso,Dollar,Euro,Yen,Peso,MCQ,
+ARG049,6,Argentina,Which famous waterfall is shared by Argentina and Brazil?,Niagara Falls,Iguazu Falls,Victoria Falls,Angel Falls,Iguazu Falls,MCQ,
+ARG050,6,Argentina,Which ocean lies to the east of Argentina?,Pacific Ocean,Indian Ocean,Atlantic Ocean,Arctic Ocean,Atlantic Ocean,MCQ,
+ARG051,7,Argentina,Match the place with its description,,,,,,Match,"[{""left"":""Buenos Aires"",""right"":""Capital City""},{""left"":""Iguazu Falls"",""right"":""Waterfall""},{""left"":""Andes"",""right"":""Mountains""},{""left"":""Atlantic Ocean"",""right"":""East Coast""}]"
+ARG052,7,Argentina,Match the symbol with Argentina,,,,,,Match,"[{""left"":""Sun of May"",""right"":""Flag Symbol""},{""left"":""Tango"",""right"":""Dance""},{""left"":""Mate"",""right"":""Drink""},{""left"":""Peso"",""right"":""Currency""}]"
+ARG053,7,Argentina,Match the person with the sport,,,,,,Match,"[{""left"":""Lionel Messi"",""right"":""Football""},{""left"":""Diego Maradona"",""right"":""Football""},{""left"":""Argentina Team"",""right"":""Football""},{""left"":""Goalkeeper"",""right"":""Saves Goals""}]"
+ARG054,7,Argentina,Match the animal with its type,,,,,,Match,"[{""left"":""Penguin"",""right"":""Bird""},{""left"":""Rhea"",""right"":""Flightless Bird""},{""left"":""Condor"",""right"":""Large Bird""},{""left"":""Horse"",""right"":""Farm Animal""}]"
+ARG055,7,Argentina,Match the food with its description,,,,,,Match,"[{""left"":""Asado"",""right"":""Grilled Meat""},{""left"":""Mate"",""right"":""Herbal Drink""},{""left"":""Dulce de Leche"",""right"":""Sweet Spread""},{""left"":""Beef"",""right"":""Popular Meat""}]"
+ARG056,7,Argentina,Match the place with the country,,,,,,Match,"[{""left"":""Buenos Aires"",""right"":""Argentina""},{""left"":""Santiago"",""right"":""Chile""},{""left"":""Brasilia"",""right"":""Brazil""},{""left"":""Lima"",""right"":""Peru""}]"
+ARG057,7,Argentina,Match the word with its meaning,,,,,,Match,"[{""left"":""Capital"",""right"":""Main City""},{""left"":""Currency"",""right"":""Money""},{""left"":""Continent"",""right"":""Large Land Area""},{""left"":""Flag"",""right"":""National Symbol""}]"
+ARG058,7,Argentina,Match the place with what you find there,,,,,,Match,"[{""left"":""Andes"",""right"":""Mountains""},{""left"":""Perito Moreno"",""right"":""Glacier""},{""left"":""Pampas"",""right"":""Grassland""},{""left"":""Iguazu"",""right"":""Falls""}]"
+ARG059,7,Argentina,Match the season fact,,,,,,Match,"[{""left"":""December"",""right"":""Summer""},{""left"":""June"",""right"":""Winter""},{""left"":""Christmas"",""right"":""Warm Weather""},{""left"":""Southern Hemisphere"",""right"":""Opposite Seasons""}]"
+ARG060,7,Argentina,Match the country with the capital,,,,,,Match,"[{""left"":""Argentina"",""right"":""Buenos Aires""},{""left"":""Brazil"",""right"":""Brasilia""},{""left"":""Chile"",""right"":""Santiago""},{""left"":""Peru"",""right"":""Lima""}]"
